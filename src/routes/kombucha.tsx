@@ -18,8 +18,7 @@ function Kombucha() {
     <div className="min-h-screen bg-background">
       <SiteHeader />
       <section className="mx-auto max-w-3xl px-5 pt-16">
-        <Chip>A little side project</Chip>
-        <h1 className="mt-4 font-display text-5xl font-semibold tracking-tight">Wellnous Kombucha</h1>
+        <h1 className="font-display text-5xl font-semibold tracking-tight">Wellnous Kombucha</h1>
         <p className="mt-4 text-lg text-muted-foreground">Our small-batch kombucha puts the fermented-foods lessons from the hub into a bottle: real tea, live cultures and a gentle fizz.</p>
         <ArticleBody article={getArticle("wellnous-kombucha")!} />
         <Link to="/articles/$slug" params={{ slug: "cultured-foods" }} className="mt-10 inline-block text-sm font-medium text-primary hover:underline">← Read about gut health & fermented foods</Link>
