@@ -9,7 +9,7 @@ export const Route = createFileRoute("/")({
     { title: "Wellnous — Health & Wellness Knowledge Hub" },
     { name: "description", content: "Bridging health science and everyday life — practical, science-informed approaches to nutrition, movement and supplements." },
     { property: "og:title", content: "Wellnous — Health & Wellness Knowledge Hub" },
-    { property: "og:description", content: "Bridging health science and everyday life — practical, science-informed approaches to nutrition, movement and supplements." },
+    { property: "og:description", content: "Bridging the gap between health, science and everyday life — practical, science-informed approaches to nutrition, movement and supplements." },
   ]}),
   component: Index,
 });
@@ -23,12 +23,13 @@ function Index() {
       <section className="relative overflow-hidden">
         <div className="hero-glow absolute inset-0 -z-0" />
         <div className="relative mx-auto max-w-6xl px-5 pb-16 pt-20 sm:pt-28">
-          <p className="text-sm font-semibold uppercase tracking-widest text-amber-deep">Bridging health science and everyday life</p>
+          <p className="text-sm font-semibold uppercase tracking-widest text-amber-deep">A Holistic and Practical approach to Wellbeing </p>
           <h1 className="mt-4 max-w-3xl font-display text-5xl font-semibold leading-[1.05] tracking-tight sm:text-7xl">
             A holistic and practical approach to <em className="text-primary">wellbeing</em>.
           </h1>
           <img src={logo.url} alt="" aria-hidden className="pointer-events-none absolute right-5 top-16 hidden w-80 opacity-90 lg:block" />
-          <p className="mt-6 max-w-xl text-lg text-muted-foreground">Combining <span className="font-medium text-foreground">"Well"</span> for wellbeing and <span className="font-medium text-foreground">"Nous"</span> — ancient Greek for wisdom, understanding and insight. Practical, science-informed approaches to help you build resilience and take control of your health in achievable ways.</p>
+          <p className="mt-6 max-w-xl text-lg text-muted-foreground">Wellnous combines <span className="font-medium text-foreground">"Well"</span> for wellbeing and <span className="font-medium text-foreground">"Nous"</span> — an ancient Greek word associated with wisdom, understanding, and insight.</p> <p>
+          </p> Practical, science-informed approaches to help you build resilience and take control of your health in achievable ways.</p>
           <p className="mt-4 text-sm text-muted-foreground">Founded by <span className="font-medium text-foreground">Kristina Crimp</span>, Scientist and Cambridge Natural Sciences graduate.</p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link to="/nutrition" className="inline-flex items-center gap-2 rounded-full bg-primary px-6 py-3 text-sm font-medium text-primary-foreground hover:bg-primary/90">Start learning <ArrowRight className="h-4 w-4" /></Link>
