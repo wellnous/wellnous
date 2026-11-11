@@ -64,7 +64,7 @@ function Index() {
             </div>
             <Link to={`/${p.slug}`} className="text-sm font-medium text-primary hover:underline">See all →</Link>
           </div>
-          <TrayRow tray={p.trays[0]} />
+          {p.trays[0] && <TrayRow tray={p.trays[0]} />}
         </div>
       ))}
 
