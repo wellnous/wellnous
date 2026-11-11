@@ -1745,7 +1745,7 @@ The encouraging news is that polyphenols aren't hidden away in obscure superfood
 
 Many of the richest sources are foods that have been part of traditional diets for centuries.
 
-Berries provide colourful compounds known as anthocyanins. Coffee is one of the largest contributors of polyphenols in many Western diets. Extra virgin olive oil contains unique polyphenols often linked to the benefits of Mediterranean-style eating. Cocoa, tea, herbs, spices, legumes and deeply coloured vegetables all contribute their own collection of compounds.
+**Berries** provide colourful compounds known as anthocyanins. **Coffee** is one of the largest contributors of polyphenols in many Western diets. **Extra virgin olive oil** contains unique polyphenols often linked to the benefits of Mediterranean-style eating. **Cocoa, tea, herbs, spices, legumes and deeply coloured vegetables** all contribute their own collection of compounds.
 
 The foods richest in polyphenols tend to look remarkably similar to the foods your grandparents would recognise. Not powders. Just plants.
 
