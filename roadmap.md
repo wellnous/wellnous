@@ -6,3 +6,4 @@
 - [x] Targeted fixes: Omega-3 "Best Sources", Intermittent Fasting headings, Polyphenols citation, Ayurveda, Kettlebells, Kombucha page
 - [x] Split Traditions and Toxins into two categories
 - [x] Guard test: every hub card must point at a real article
+- [x] Blog section: /blog page with search and pillar filters, linked in header
