@@ -8,7 +8,7 @@ type Node =
   | { kind: "p"; text: string }
   | { kind: "list"; items: string[]; ordered?: boolean }
   | { kind: "quote"; text: string }
-  | { kind: "cards"; stacked?: boolean; cards: { title: string; body: Node[] }[] };
+  | { kind: "cards"; stacked?: boolean; numbered?: boolean; cards: { title: string; body: Node[] }[] };
 
 const anchor = (s: string) =>
   s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
@@ -21,7 +21,7 @@ const PERSONAL = /^(my |i |if you|if it|perhaps most|here'?s how|we |our )/i;
 
 /* ---------- structure ---------- */
 
-function toNodes(blocks: Block[], stackedSections = false): Node[] {
+function toNodes(blocks: Block[], stackedSections = false, numbered = true): Node[] {
   const flat: Node[] = [];
   for (const b of blocks) {
     if (b.type === "li" || b.type === "step") {
@@ -45,7 +45,7 @@ function toNodes(blocks: Block[], stackedSections = false): Node[] {
   const out: Node[] = [];
   let cards: { title: string; body: Node[] }[] = [];
   const flush = () => {
-    if (cards.length >= 2 || (stackedSections && cards.length > 0)) out.push({ kind: "cards", cards, stacked: stackedSections });
+    if (cards.length >= 2 || (stackedSections && cards.length > 0)) out.push({ kind: "cards", cards, stacked: stackedSections, numbered });
     else if (cards.length === 1) {
       const only = cards[0];
       if (only) out.push({ kind: "h", level: 3, text: only.title }, ...only.body);
@@ -143,11 +143,11 @@ function Note({ text }: { text: string }) {
   );
 }
 
-function Card({ title, body, index, roomy = false }: { title: string; body: Node[]; index: number; roomy?: boolean }) {
+function Card({ title, body, index, roomy = false, numbered = true }: { title: string; body: Node[]; index: number; roomy?: boolean; numbered?: boolean }) {
   return (
     <article id={anchor(title)} className={`flex scroll-mt-24 flex-col border bg-card shadow-soft ${roomy ? "rounded-lg p-5 sm:p-8" : "rounded-2xl p-6"}`}>
       <div className="mb-3 flex items-center gap-3">
-        <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-primary/12 font-display text-sm font-semibold text-primary">{index + 1}</span>
+        {numbered && <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-primary/12 font-display text-sm font-semibold text-primary">{index + 1}</span>}
         <h3 className="font-display text-xl font-semibold leading-snug text-foreground">{title}</h3>
       </div>
       <div className={`leading-relaxed text-foreground/85 ${roomy ? "space-y-4 text-base" : "space-y-3 text-[15px]"}`}>
@@ -181,7 +181,7 @@ function Render({ n, compact }: { n: Node; compact?: boolean }) {
   }
   return (
     <div className={`grid items-start py-1 ${n.stacked ? "gap-6" : "gap-4 md:grid-cols-2"}`}>
-      {n.cards.map((c, i) => <Card key={i} title={c.title} body={c.body} index={i} roomy={Boolean(n.stacked)} />)}
+      {n.cards.map((c, i) => <Card key={i} title={c.title} body={c.body} index={i} roomy={Boolean(n.stacked)} numbered={n.numbered !== false} />)}
     </div>
   );
 }
@@ -192,7 +192,7 @@ export function ArticleBody({ article }: { article: Article }) {
   if (editorialSlugs.includes(article.slug) || recipeSlugs.includes(article.slug) || article.slug.startsWith("blog-")) return <ArticleReading article={article} />;
   const blocks = article.blocks;
   const hasLead = Boolean(article.standfirst) && blocks[0]?.type === "h" && blocks[0]?.text === article.standfirst;
-  const nodes = toNodes(hasLead ? blocks.slice(1) : blocks, article.slug === "feeding-your-body");
+  const nodes = toNodes(hasLead ? blocks.slice(1) : blocks, article.slug === "feeding-your-body", article.slug !== "wellnous-kombucha");
   const sections = nodes.filter((n): n is Extract<Node, { kind: "h" }> => n.kind === "h" && n.level === 2);
   const cardTitles = nodes.flatMap((n) => (n.kind === "cards" ? n.cards.map((c) => c.title) : []));
   const navItems = sections.length > 2 ? sections.map((s) => s.text) : cardTitles.length > 2 ? cardTitles : [];
