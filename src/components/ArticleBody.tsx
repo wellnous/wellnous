@@ -71,7 +71,7 @@ function toNodes(blocks: Block[]): Node[] {
         body.push(m);
       }
       const words = body.reduce((a, x) => a + (x.kind === "list" ? x.items.join(" ") : x.kind === "p" ? x.text : "").split(/\s+/).length, 0);
-      if (words > 0 && words < 260) {
+      if (words > 0 && words < 130) {
         cards.push({ title: n.text, body });
         i = j - 1;
         continue;
@@ -96,13 +96,13 @@ const splitLabel = (s: string) => {
   return m ? { label: m[1] ?? "", text: m[2] ?? "" } : null;
 };
 
-function List({ items }: { items: string[] }) {
+function List({ items, compact }: { items: string[]; compact?: boolean }) {
   const labelled = items.map(splitLabel);
   const avg = items.join(" ").length / items.length;
 
   if (labelled.every(Boolean)) {
     return (
-      <div className="grid gap-3 sm:grid-cols-2">
+      <div className={`grid gap-3 ${compact ? "sm:grid-cols-2" : "sm:grid-cols-2"}`}>
         {labelled.map((l, i) => (
           <div key={i} className="rounded-xl border bg-card p-4">
             <div className="font-display text-[17px] font-semibold text-primary">{l!.label}</div>
@@ -115,7 +115,7 @@ function List({ items }: { items: string[] }) {
 
   if (items.length >= 3 && avg < 70) {
     return (
-      <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
+      <div className={`grid gap-2 ${compact ? "sm:grid-cols-2" : "sm:grid-cols-2 lg:grid-cols-3"}`}>
         {items.map((t, i) => (
           <div key={i} className="flex items-start gap-2.5 rounded-xl bg-secondary/70 px-3.5 py-2.5 text-[15px] text-secondary-foreground">
             <span className="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-amber" />
