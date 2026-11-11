@@ -6,6 +6,8 @@ import { SiteHeader, SiteFooter } from "@/components/HubUI";
 export const Route = createFileRoute("/kombucha")({
   head: () => ({ meta: [
     { title: "Wellnous Kombucha — Small-batch fermented tea" },
+    { property: "og:type", content: "website" },
+    { name: "twitter:card", content: "summary" },
     { name: "description", content: "Wellnous Kombucha: naturally fermented, small-batch tea with live cultures." },
     { property: "og:title", content: "Wellnous Kombucha" },
     { property: "og:description", content: "Naturally fermented, small-batch tea with live cultures." },

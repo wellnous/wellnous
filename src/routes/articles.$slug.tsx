@@ -17,6 +17,7 @@ export const Route = createFileRoute("/articles/$slug")({
     { property: "og:title", content: `${loaderData.title} — Wellnous` },
     { property: "og:description", content: loaderData.excerpt },
     { property: "og:type", content: "article" },
+    { name: "twitter:card", content: "summary" },
   ] : [{ title: "Article not found — Wellnous" }, { name: "robots", content: "noindex" }] }),
   component: ArticlePage,
 });
