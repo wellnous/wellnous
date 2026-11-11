@@ -13,7 +13,7 @@ export function parseArchive(md: string): Article[] {
   const sections = md.split(/^## /m).slice(1);
   return sections.map((sec) => {
     const lines = sec.split("\n");
-    const title = cleanTitle(lines[0].trim());
+    const title = cleanTitle((lines[0] ?? "").trim());
     const blocks: Block[] = lines.slice(1).map((l) => l.trim()).filter((l) => l && l !== "---")
       .map((l) => (isRef(l) ? { type: "ref", text: l } : isHeading(l) ? { type: "h", text: l } : { type: "p", text: l }) as Block);
     const words = blocks.reduce((a, b) => a + b.text.split(/\s+/).length, 0);
