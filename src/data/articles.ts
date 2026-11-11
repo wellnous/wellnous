@@ -51,7 +51,7 @@ function parseSection(title: string, lines: string[]): Article {
     if (!line || line === "---") continue;
     const h = HEADING.exec(line);
     if (h) {
-      const text = (h[2] ?? "").trim();
+      const text = (h[2] ?? "").trim().replace(/[:：]\s*$/, "");
       if (/^references$/i.test(text)) {
         inRefs = true;
         continue;

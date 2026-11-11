@@ -45,6 +45,12 @@ function toNodes(blocks: Block[]): Node[] {
     }
     if (b.type === "h") { flat.push({ kind: "h", level: b.level, text: b.text }); continue; }
     if (b.type === "quote") { flat.push({ kind: "quote", text: b.text }); continue; }
+    const boldOnly = /^\*\*(.+)\*\*$/.exec(b.text.trim());
+    const inner = boldOnly?.[1] ?? "";
+    if (inner && inner.length <= 70 && !/[.!?]$/.test(inner)) {
+      flat.push({ kind: "h", level: 4, text: inner });
+      continue;
+    }
     flat.push({ kind: "p", text: b.text });
   }
 
