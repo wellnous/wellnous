@@ -16,6 +16,7 @@ import { Route as KombuchaRouteImport } from './routes/kombucha'
 import { Route as NutritionRouteImport } from './routes/nutrition'
 import { Route as PhysicalRouteImport } from './routes/physical'
 import { Route as SupplementsRouteImport } from './routes/supplements'
+import { Route as TopicsRouteImport } from './routes/topics'
 import { Route as ArticlesSlugRouteImport } from './routes/articles.$slug'
 
 const IndexRoute = IndexRouteImport.update({
@@ -53,6 +54,11 @@ const SupplementsRoute = SupplementsRouteImport.update({
   path: '/supplements',
   getParentRoute: () => rootRouteImport,
 } as any)
+const TopicsRoute = TopicsRouteImport.update({
+  id: '/topics',
+  path: '/topics',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const ArticlesSlugRoute = ArticlesSlugRouteImport.update({
   id: '/articles/$slug',
   path: '/articles/$slug',
@@ -67,6 +73,7 @@ export interface FileRoutesByFullPath {
   '/nutrition': typeof NutritionRoute
   '/physical': typeof PhysicalRoute
   '/supplements': typeof SupplementsRoute
+  '/topics': typeof TopicsRoute
   '/articles/$slug': typeof ArticlesSlugRoute
 }
 export interface FileRoutesByTo {
@@ -77,6 +84,7 @@ export interface FileRoutesByTo {
   '/nutrition': typeof NutritionRoute
   '/physical': typeof PhysicalRoute
   '/supplements': typeof SupplementsRoute
+  '/topics': typeof TopicsRoute
   '/articles/$slug': typeof ArticlesSlugRoute
 }
 export interface FileRoutesById {
@@ -88,6 +96,7 @@ export interface FileRoutesById {
   '/nutrition': typeof NutritionRoute
   '/physical': typeof PhysicalRoute
   '/supplements': typeof SupplementsRoute
+  '/topics': typeof TopicsRoute
   '/articles/$slug': typeof ArticlesSlugRoute
 }
 export interface FileRouteTypes {
@@ -100,6 +109,7 @@ export interface FileRouteTypes {
     | '/nutrition'
     | '/physical'
     | '/supplements'
+    | '/topics'
     | '/articles/$slug'
   fileRoutesByTo: FileRoutesByTo
   to:
@@ -110,6 +120,7 @@ export interface FileRouteTypes {
     | '/nutrition'
     | '/physical'
     | '/supplements'
+    | '/topics'
     | '/articles/$slug'
   id:
     | '__root__'
@@ -120,6 +131,7 @@ export interface FileRouteTypes {
     | '/nutrition'
     | '/physical'
     | '/supplements'
+    | '/topics'
     | '/articles/$slug'
   fileRoutesById: FileRoutesById
 }
@@ -131,6 +143,7 @@ export interface RootRouteChildren {
   NutritionRoute: typeof NutritionRoute
   PhysicalRoute: typeof PhysicalRoute
   SupplementsRoute: typeof SupplementsRoute
+  TopicsRoute: typeof TopicsRoute
   ArticlesSlugRoute: typeof ArticlesSlugRoute
 }
 
@@ -185,6 +198,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof SupplementsRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/topics': {
+      id: '/topics'
+      path: '/topics'
+      fullPath: '/topics'
+      preLoaderRoute: typeof TopicsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/articles/$slug': {
       id: '/articles/$slug'
       path: '/articles/$slug'
@@ -203,6 +223,7 @@ const rootRouteChildren: RootRouteChildren = {
   NutritionRoute: NutritionRoute,
   PhysicalRoute: PhysicalRoute,
   SupplementsRoute: SupplementsRoute,
+  TopicsRoute: TopicsRoute,
   ArticlesSlugRoute: ArticlesSlugRoute,
 }
 export const routeTree = rootRouteImport
