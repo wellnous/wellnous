@@ -1,3 +1,3 @@
 # Roadmap
-- [ ] Full article reading pages from archive
-- [ ] Logo in header, footer, favicon; match palette to logo
+- [x] Full article reading pages from archive
+- [x] Logo in header, footer, favicon; match palette to logo
