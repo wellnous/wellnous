@@ -6,6 +6,8 @@ import { ArticleBody } from "@/components/ArticleBody";
 export const Route = createFileRoute("/about")({
   head: () => ({ meta: [
     { title: "Who We Are — Wellnous" },
+    { property: "og:type", content: "website" },
+    { name: "twitter:card", content: "summary" },
     { name: "description", content: "The story and people behind the Wellnous health and wellness knowledge hub." },
     { property: "og:title", content: "Who We Are — Wellnous" },
     { property: "og:description", content: "The story and people behind the Wellnous knowledge hub." },
