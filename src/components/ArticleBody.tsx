@@ -47,7 +47,7 @@ function toNodes(blocks: Block[]): Node[] {
     if (b.type === "quote") { flat.push({ kind: "quote", text: b.text }); continue; }
     const boldOnly = /^\*\*(.+)\*\*$/.exec(b.text.trim());
     const inner = boldOnly?.[1] ?? "";
-    if (inner && inner.length <= 70 && !/[.!?]$/.test(inner)) {
+    if (inner && inner.length <= 70 && !/[.!?;:]$/.test(inner)) {
       flat.push({ kind: "h", level: 4, text: inner });
       continue;
     }
