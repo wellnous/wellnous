@@ -175,7 +175,7 @@ function Render({ n, compact }: { n: Node; compact?: boolean }) {
     if (!compact && PERSONAL.test(n.text)) return <Note text={n.text} />;
     return <p className={compact ? "" : "leading-relaxed"}><Rich text={n.text} /></p>;
   }
-  if (n.kind === "list") return <List items={n.items} />;
+  if (n.kind === "list") return <List items={n.items} compact={compact} />;
   if (n.kind === "quote") {
     return (
       <blockquote className="rounded-2xl border-l-4 border-primary bg-secondary/50 p-5 font-display text-lg italic text-foreground/90">
