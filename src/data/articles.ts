@@ -51,18 +51,18 @@ function parseSection(title: string, lines: string[]): Article {
     if (!line || line === "---") continue;
     const h = HEADING.exec(line);
     if (h) {
-      const text = h[2].trim();
+      const text = (h[2] ?? "").trim();
       if (/^references$/i.test(text)) {
         inRefs = true;
         continue;
       }
       inRefs = false;
-      blocks.push({ type: "h", level: h[1].length as 2 | 3 | 4, text });
+      blocks.push({ type: "h", level: (h[1] ?? "").length as 2 | 3 | 4, text });
       continue;
     }
     if (inRefs) {
       const b = BULLET.exec(line);
-      refs.push((b ? b[1] : line).trim());
+      refs.push((b ? b[1] ?? "" : line).trim());
       continue;
     }
     if (line.startsWith(">")) {
@@ -71,7 +71,7 @@ function parseSection(title: string, lines: string[]): Article {
     }
     const b = BULLET.exec(line);
     if (b) {
-      blocks.push({ type: "li", text: b[1].trim() });
+      blocks.push({ type: "li", text: (b[1] ?? "").trim() });
       continue;
     }
     blocks.push({ type: "p", text: line });

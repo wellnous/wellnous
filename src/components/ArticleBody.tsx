@@ -54,7 +54,8 @@ function toNodes(blocks: Block[]): Node[] {
   const flush = () => {
     if (cards.length >= 2) out.push({ kind: "cards", cards });
     else if (cards.length === 1) {
-      out.push({ kind: "h", level: 3, text: cards[0].title }, ...cards[0].body);
+      const only = cards[0]!;
+      out.push({ kind: "h", level: 3, text: only.title }, ...only.body);
     }
     cards = [];
   };
@@ -92,7 +93,7 @@ function toNodes(blocks: Block[]): Node[] {
 
 const splitLabel = (s: string) => {
   const m = /^([A-Z][\w’' -/]{1,30}):\s+(.+)$/.exec(s);
-  return m ? { label: m[1], text: m[2] } : null;
+  return m ? { label: m[1] ?? "", text: m[2] ?? "" } : null;
 };
 
 function List({ items }: { items: string[] }) {
