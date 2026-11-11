@@ -23,12 +23,13 @@ function Index() {
       <section className="relative overflow-hidden">
         <div className="hero-glow absolute inset-0 -z-0" />
         <div className="relative mx-auto max-w-6xl px-5 pb-16 pt-20 sm:pt-28">
-          <p className="text-sm font-semibold uppercase tracking-widest text-amber-deep">The Wellnous knowledge hub</p>
+          <p className="text-sm font-semibold uppercase tracking-widest text-amber-deep">Bridging health science and everyday life</p>
           <h1 className="mt-4 max-w-3xl font-display text-5xl font-semibold leading-[1.05] tracking-tight sm:text-7xl">
-            Wellness, one <em className="text-primary">small card</em> at a time.
+            A holistic and practical approach to <em className="text-primary">wellbeing</em>.
           </h1>
           <img src={logo.url} alt="" aria-hidden className="pointer-events-none absolute right-5 top-16 hidden w-80 opacity-90 lg:block" />
-          <p className="mt-6 max-w-xl text-lg text-muted-foreground">Clear, practical lessons on what you eat, how you move and what you supplement — built to skim, save and actually use.</p>
+          <p className="mt-6 max-w-xl text-lg text-muted-foreground">Combining <span className="font-medium text-foreground">"Well"</span> for wellbeing and <span className="font-medium text-foreground">"Nous"</span> — ancient Greek for wisdom, understanding and insight. Practical, science-informed approaches to help you build resilience and take control of your health in achievable ways.</p>
+          <p className="mt-4 text-sm text-muted-foreground">Founded by <span className="font-medium text-foreground">Kristina Crimp</span>, Scientist and Cambridge Natural Sciences graduate.</p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link to="/nutrition" className="inline-flex items-center gap-2 rounded-full bg-primary px-6 py-3 text-sm font-medium text-primary-foreground hover:bg-primary/90">Start learning <ArrowRight className="h-4 w-4" /></Link>
             <a href="#quick-wins" className="rounded-full border bg-card px-6 py-3 text-sm font-medium hover:bg-secondary">Quick wins</a>
@@ -50,7 +51,7 @@ function Index() {
       <section id="quick-wins" className="mx-auto mt-16 max-w-6xl px-5">
         <div className="rounded-3xl bg-primary p-8 text-primary-foreground sm:p-10">
           <h2 className="font-display text-3xl font-semibold">Today's quick wins</h2>
-          <p className="mt-2 text-primary-foreground/80">Pick one. Do it today. That's the whole plan.</p>
+          <p className="mt-2 text-primary-foreground/80">Small, evidence-informed habits compound over time. Choose one and begin today.</p>
           <div className="mt-6 flex flex-wrap gap-2">
             {quickWins.map((q) => <span key={q} className="rounded-full bg-primary-foreground/15 px-4 py-2 text-sm">{q}</span>)}
           </div>
