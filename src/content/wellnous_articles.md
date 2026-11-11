@@ -371,19 +371,11 @@ Milk kefir is a traditional fermented food made by adding kefir grains, a living
 
 #### Kombucha
 
-Probiotics
-
-Water Kefir
-
 Kombucha is a lightly sparkling fermented tea that has been enjoyed for centuries and is one of the easiest fermented foods to make at home.
 
 Beyond its taste, kombucha offers a unique combination of probiotics, postbiotics and tea polyphenols. Fermentation not only introduces beneficial microbes but also creates a wide range of bioactive compounds that may help support gut health, microbial diversity and overall wellbeing. Kombucha is a simple and enjoyable way to incorporate more fermented foods into your diet, helping to reconnect your microbiome with the living foods that have become increasingly absent from modern lifestyles.
 
 #### Water Kefir
-
-Cultured Vegetables
-
-Water Kefir
 
 Water kefir is a refreshing, naturally fermented drink that offers many of the same microbiome-supporting benefits as milk kefir, but without the dairy. In fact, it was my latest fermentation obsession. I love kombucha, but I wanted a caffeine-free alternative for the evenings. Made using translucent water kefir grains, a living culture of bacteria and yeasts, water kefir transforms simple sugar water into a lightly sparkling drink containing a diverse range of beneficial microorganisms. Depending on the grains and fermentation conditions, water kefir can contain dozens of probiotic strains, making it a fantastic option for anyone looking to support their gut health, particularly those following a vegan or dairy-free lifestyle.
 
@@ -491,25 +483,17 @@ After all, an apple doesn't need a marketing campaign to convince you it's food.
 
 #### Feed Your Microbiome
 
-Ultra-Processed Foods UPFs
-
-Feed Your Microbiome
-
 For years, nutrition has focused almost exclusively on feeding the human body. We’ve counted calories, tracked protein, measured vitamins and debated fats and carbohydrates. But we're not the only organisms being fed when we eat. Trillions of bacteria, fungi and other microbes live within our digestive tract, forming a complex ecosystem known as the gut microbiome. Increasingly, scientists believe that many of the health benefits associated with fruits, vegetables, coffee, herbs, spices and other plant foods may come not only from the nutrients they provide us, but from the compounds they provide to the microbes living alongside us.
 
 This is where polyphenols become so fascinating. Found naturally in foods such as berries, cocoa, olive oil, tea, coffee and colourful vegetables, these plant compounds appear to help shape the microbial environment within the gut. Rather than being valued solely for their antioxidant properties, polyphenols are now being studied for their ability to influence microbial diversity, support beneficial bacteria and generate compounds that may impact inflammation, metabolism and overall health. In many ways, feeding your microbiome may be just as important as feeding yourself. The good news is that the foods your microbes seem to love are the same real, minimally processed foods that have formed the foundation of healthy diets for generations.
 
 #### Reduce Added Sugar
 
-Feed Your Microbiome
-
 Added sugar has become so normalised that we barely notice it anymore. It turns up in soft drinks, cereals, sauces, protein bars, flavoured yoghurts and even foods marketed as healthy. Yet the real concern isn't simply that added sugar provides calories. It's that half of the sugar we consume is fructose, a molecule that is processed predominantly by the liver and follows a very different metabolic path from glucose.
 
 When the liver is repeatedly flooded with fructose, particularly from sweetened drinks and ultra-processed foods, it can convert that surplus into fat through a process known as de novo lipogenesis. Over time, this may contribute to liver fat accumulation, insulin resistance and broader metabolic dysfunction. It's this unique relationship between fructose and the liver that has led researchers such as Robert Lustig to draw comparisons with alcohol metabolism and describe fructose as "alcohol without the buzz". While an apple is not a can of cola and sugar is not alcohol, understanding what happens to fructose once it reaches the liver sheds light on why added sugar deserves far more attention than its calorie count alone.
 
 #### Fibre Does More Than Keep You Regular
-
-Fibre Does More Than Keep You Regular
 
 Fibre has probably suffered from a marketing problem. It rarely receives the attention given to protein, yet it may be one of the most important components of a healthy diet.
 
@@ -522,8 +506,6 @@ Insoluble fibres found in vegetables, nuts and whole grains support digestive fu
 Prebiotic fibres found in foods such as onions, garlic, leeks and asparagus act as fuel for beneficial gut bacteria.
 
 #### Make Your Starches Work Harder
-
-Fibre Does More Than Keep You Regular
 
 Resistant starch is considered a type of dietary fiber because it resists digestion in the small intestine and is fermented by gut bacteria in the colon.
 
@@ -554,8 +536,6 @@ However, quality matters just as much as quantity. Eggs, fish, seafood, meat, Gr
 Rather than chasing ever-higher protein targets, a more balanced approach is to ensure each meal contains a meaningful source of protein while leaving plenty of room for vegetables, fibre-rich foods and plant diversity.
 
 #### Intermittent Fasting
-
-Intermittent Fasting
 
 Another area that has attracted increasing attention is time-restricted eating.
 
@@ -1237,10 +1217,6 @@ Mental resilience and clarity come from an intentional combination of breathwork
 
 #### The Art of Doing Nothing
 
-Probiotics & Fermented Foods
-
-The Art of Doing Nothing
-
 #### "Il dolce far niente"
 
 When was the last time you genuinely did nothing? Not watched something, listened to something, scrolled through your phone or filled the silence with some other form of stimulation, but simply sat and allowed your mind to wander. We have become so accustomed to constant entertainment and information that doing nothing can feel strangely uncomfortable. Yet those quiet moments give us something that constant stimulation cannot: space to think, reflect, daydream and simply be.
@@ -1248,10 +1224,6 @@ When was the last time you genuinely did nothing? Not watched something, listene
 Doing nothing isn't wasted time, nor does every moment need to be productive. Sometimes stepping away from the noise allows our minds to process what has happened, make connections and come up with ideas we didn't know we were looking for. So perhaps we should practise doing nothing a little more often. Sit with a cup of tea, look out of the window, take a walk without your phone or simply allow yourself to be bored. You might be surprised by what happens when you stop giving your mind something to do.
 
 #### Creatine & Omega-3
-
-Probiotics & Fermented Foods
-
-The Art of Doing Nothing
 
 **Fuel for Cognitive Function, Brain Health, and Mental Resilience**
 
@@ -1267,10 +1239,6 @@ Omega-3 fatty acids are critical for brain development, cognitive function, and 
 
 #### Probiotics & Fermented Foods
 
-Probiotics & Fermented Foods
-
-Probiotics & Fermented Foods
-
 #### Gut-Brain Connection and Emotional Well-being
 
 As you know, gut health plays a massive role in mental well-being, with the microbiome directly influencing neurotransmitter production, inflammation levels, and mood regulation.
@@ -1284,10 +1252,6 @@ By focusing on gut health, I create a solid foundation for emotional stability, 
 
 #### Cold Showers
 
-Cold Showers
-
-Probiotics & Fermented Foods
-
 **Harnessing Discomfort for Mental Resilience and Focus**
 
 Cold exposure isn't just beneficial for physical recovery—it’s an incredible tool for sharpening mental resilience.
@@ -1300,10 +1264,6 @@ Taking cold showers or immersing in cold water stimulates:
 By consistently exposing myself to cold, I train my nervous system to handle discomfort with greater ease. This daily practice fosters resilience, discipline, and a heightened mental edge.
 
 #### Sleep
-
-Cold Showers
-
-Breathing
 
 **Quality sleep is the cornerstone of mental well-being.**
 
@@ -1326,10 +1286,6 @@ Some strategies include:
 • Avoiding caffeine and alcohol near bedtime prevents sleep disturbances.
 
 #### Breathing
-
-Cold Showers
-
-Breathing
 
 **Physiological Sigh and Cyclic Hyperventilation for Nervous System**
 
@@ -1618,10 +1574,6 @@ Infrared light is a natural part of our environment, found in sunlight, fire and
 
 #### Backwards Walking
 
-Infra Red Exposure
-
-Backwards Walking
-
 Rewiring Movement for Improved Posture and Brain Function
 
 Walking backward is more than just an unconventional exercise—it's a powerful tool for strengthening neglected muscle groups, enhancing coordination, and improving cognitive function. This practice engages the posterior chain, supports joint health, and even sharpens spatial awareness, making it a valuable addition to my daily routine. I carry this out daily, either during my daily dog walk or in my living room. I try to do this barefoot to maximise my connection with the earth. Since doing this practice, I have found I have better spacial awareness and much better posture.
@@ -1629,10 +1581,6 @@ Walking backward is more than just an unconventional exercise—it's a powerful 
 [Dr Rangan Chatterjee and Lawrence van Lingen did a very informative podcasts on this topic.](https://drchatterjee.com/how-to-heal-your-body-and-mind-through-movement-the-surprising-benefits-of-walking-backwards-how-optimising-your-breath-can-transform-your-relationships-with-lawrence-van-lingen/)
 
 #### Flow Rope
-
-Controlled Breathwork
-
-Backwards Walking
 
 Enhancing Coordination, Rhythm, and Meditative Movement
 
@@ -2092,8 +2040,6 @@ Fish.
 
 Legumes.
 
-Lentils.
-
 Beans.
 
 Quality meat.
@@ -2370,10 +2316,6 @@ By aligning your daily habits with these natural principles, you can create a su
 
 #### Creatine Supplementation
 
-Collagen & Hyaluronic Acid
-
-Collagen & Hyaluronic Acid
-
 Fuelling Strength, Brain Function, and Energy
 
 Creatine is often associated with athletic performance, but its benefits extend far beyond muscle growth. It enhances cognitive function, supports ATP energy production, and aids in recovery, helping me stay sharp, energised, and strong throughout the day. There is also growing evidence of its protective effects of age-related cognitive decline.
@@ -2381,10 +2323,6 @@ Creatine is often associated with athletic performance, but its benefits extend 
 I take this daily and feel it makes me feel more energised.
 
 #### Collagen & Hyaluronic Acid
-
-Collagen & Hyaluronic Acid
-
-Collagen & Hyaluronic Acid
 
 Supporting Skin, Joint, and Connective Tissue Health
 
@@ -2398,10 +2336,6 @@ I obtain these compounds through bone broths, collagen and hyaluronic acid suppl
 
 #### NAC
 
-Collagen & Hyaluronic Acid
-
-Omega-3
-
 Strengthening Cellular Health with a Potent Antioxidant
 
 N-acetyl cysteine (NAC) plays a vital role in detoxification, respiratory health, and immune function.
@@ -2413,10 +2347,6 @@ I take these supplements during flu season and if I feel the start of a cold.
 It is also an effective mucolytic, so likely a far less harmful addition to your cold and flu cabinet than typical decongestants like Sudafed.
 
 #### Omega-3
-
-Medicinal Mushrooms
-
-Omega-3
 
 Essential Fatty Acids for Brain and Emotional Health
 
@@ -2445,10 +2375,6 @@ Medicinal mushrooms play a pivotal role in enhancing cognitive function, neuroge
 · **Chaga** – A powerful antioxidant that protects against oxidative stress, helping to reduce mental fatigue and support long-term brain health.
 
 #### Magnesium & L-Theanine
-
-Magnesium & L-Theanine
-
-Magnesium & L-Theanine
 
 Quality sleep is the cornerstone of mental well-being.
 
@@ -2747,10 +2673,6 @@ Salt can be used for almost all vegetables, in a similar way. Alter the ferment 
 
 #### FERMENTING USING WHEY
 
-FERMENTING WITH JUST SALT
-
-FERMENTING USING WHEY
-
 I'm hoping you've ventured onto my Kefir pages - one of my favourite fermented foods.
 
 The whey that is formed during the production of the kefir can be used to ferment.
@@ -2810,14 +2732,12 @@ For the creamiest results, I use organic full-fat UHT milk, organic double cream
 
 If it seems daunting, please drop me a message and we can arrange a call to go through it. If you live local, I can share my starters with you.
 
-What you'll need:
-
 - Yogurt Maker (with variable temperature option)
 - The specific probiotic strain (usually in tablet form or previous batch)
 - 1L Full fat, organic, UK milk
 - 1 small tub of organic double cream
 - 2 TBSP Organic Potato Starch
-What to do
+#### What to do
 
 - Wash everything thoroughly and disinfect with hot water.
 - Add your potato starch and probiotic strain along to the yogurt maker container
@@ -3003,7 +2923,7 @@ This tap will need to be food grade stainless steel. If you vessel does not come
 
 Let's assume you have received about 200ml of starter and a small pellicle. This can also apply for the store bought kombucha.
 
-Stage 1
+#### Stage 1
 
 - Make sure you sterilise everything. Ideally a hot dishwasher with just the kombucha utensils and small 1l vessel.
 - Mix around 2 teabags in around 300ml hot water in the glass jug
@@ -3012,7 +2932,7 @@ Stage 1
 - Add ~300ml of cool water (ideally filtered water, but I do use tap water)
 - Add the SCOBY to your small vessel and cover with your cloth.
 - Leave this for about 3-4 days.
-Stage 2
+#### Stage 2
 
 Basically repeating it all
 
@@ -3027,7 +2947,7 @@ Basically repeating it all
 - Leave this for about 3-4 days. You should get a super thin, white-ish pellicle forming on the top of this brew now.
 Check for no weird white or green circles on the top!
 
-Stage 3
+#### Stage 3
 
 Just adding more sweet tea.
 
