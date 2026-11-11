@@ -58,7 +58,7 @@ export function TrayRow({ tray }: { tray: Tray }) {
         <h2 className="font-display text-2xl font-semibold">{tray.name}</h2>
         <span className="text-xs text-muted-foreground">{tray.topics.length} cards · scroll →</span>
       </div>
-      <div className="tray mt-4 flex snap-x snap-mandatory gap-4 overflow-x-auto px-5 pb-4 xl:px-[max(1.25rem,calc((100vw-72rem)/2+1.25rem))]">
+      <div className="tray mt-4 flex snap-x snap-mandatory gap-4 overflow-x-auto pb-4" style={{ paddingInline: "max(1.25rem, calc((100vw - 72rem) / 2 + 1.25rem))" }}>
         {tray.topics.map((t, i) => <TopicCard key={t.title} topic={t} index={i} />)}
       </div>
     </section>
