@@ -28,3 +28,5 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+- Article content lives verbatim in src/content/wellnous_articles.md and is split into pages by src/data/articles.ts; pillar trays reference articles by slug in src/data/hub.ts — keeps the author's text as the single source of truth.
