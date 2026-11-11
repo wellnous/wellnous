@@ -35,8 +35,8 @@ describe("Hub content", () => {
     for (const article of articles) expect(relatedSlugs(article, []).filter((s) => !getArticle(s))).toEqual([]);
   });
 
-  it("retains the ten original blog posts separately from reference articles", () => {
-    expect(blogPosts).toHaveLength(10);
+  it("retains all 21 original blog posts separately from reference articles", () => {
+    expect(blogPosts).toHaveLength(21);
     expect(blogPosts.every((p) => p.article.blocks.length > 0 && p.sourceUrl.startsWith("https://wellnous.godaddysites.com/blog/f/"))).toBe(true);
   });
   it("resolves every tray slug to a real article", () => {
