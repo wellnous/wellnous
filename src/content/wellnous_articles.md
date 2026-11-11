@@ -2732,11 +2732,14 @@ For the creamiest results, I use organic full-fat UHT milk, organic double cream
 
 If it seems daunting, please drop me a message and we can arrange a call to go through it. If you live local, I can share my starters with you.
 
+#### What You’ll Need
+
 - Yogurt Maker (with variable temperature option)
 - The specific probiotic strain (usually in tablet form or previous batch)
 - 1L Full fat, organic, UK milk
 - 1 small tub of organic double cream
 - 2 TBSP Organic Potato Starch
+
 #### What to do
 
 - Wash everything thoroughly and disinfect with hot water.
