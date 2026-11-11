@@ -214,11 +214,11 @@ Perhaps that's why the most important question isn't whether added sugar is "goo
 
 It's whether we've normalised levels of sugar consumption that our metabolism was never designed to handle.
 
-- Robert Lustig. Fructose: It’s “Alcohol Without the Buzz”. [\[advances.n...rition.org\]](https://advances.nutrition.org/article/s2161-8313%2822%2901107-3/fulltext), [\[researchgate.net\]](https://www.researchgate.net/profile/Robert-Lustig-3/publication/236047994_Fructose_It%27s_Alcohol_Without_the_Buzz/links/5804089808ae1c5148d09d71/Fructose-Its-Alcohol-Without-the-Buzz.pdf)
-- Robert Lustig: Similar Pathways of Alcohol and Fructose in Fatty Liver Disease Development. [\[youtube.com\]](https://www.youtube.com/watch?v=Tci3Vd9-vOc)
-- Fructose and the Liver. [\[pmc.ncbi.nlm.nih.gov\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8267750/)
-- From fructose to steatosis, fructose-induced inflammation as a driver of hepatic injury and MAFLD progression. [\[nutrition.bmj.com\]](https://nutrition.bmj.com/content/early/2026/08/17/bmjnph-2025-001416)
-- Fructose and Alcohol Hepatotoxicity: Demographic Overlap and Mechanistic Interactions. [\[mdpi.com\]](https://www.mdpi.com/2673-4389/6/5/92)
+- Robert Lustig. Fructose: It’s “Alcohol Without the Buzz”. [advances.n...rition.org](https://advances.nutrition.org/article/s2161-8313%2822%2901107-3/fulltext), [researchgate.net](https://www.researchgate.net/profile/Robert-Lustig-3/publication/236047994_Fructose_It%27s_Alcohol_Without_the_Buzz/links/5804089808ae1c5148d09d71/Fructose-Its-Alcohol-Without-the-Buzz.pdf)
+- Robert Lustig: Similar Pathways of Alcohol and Fructose in Fatty Liver Disease Development. [youtube.com](https://www.youtube.com/watch?v=Tci3Vd9-vOc)
+- Fructose and the Liver. [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8267750/)
+- From fructose to steatosis, fructose-induced inflammation as a driver of hepatic injury and MAFLD progression. [nutrition.bmj.com](https://nutrition.bmj.com/content/early/2026/08/17/bmjnph-2025-001416)
+- Fructose and Alcohol Hepatotoxicity: Demographic Overlap and Mechanistic Interactions. [mdpi.com](https://www.mdpi.com/2673-4389/6/5/92)
 
 ## References
 
@@ -938,13 +938,13 @@ And increasingly, the science suggests that those tiny organisms may have more i
 
 ### Fibre Interventions & Beneficial Bacteria
 
-- Subir Das, CheKenna J. Fletcher and Ying Wu. _The Role of Different Dietary Fibers in Modulating Human Gut Microbiota_. Nutraceuticals (2026). Reviews different fibre types, fermentation characteristics and effects on microbial populations. [\[mdpi.com\]](https://www.mdpi.com/1661-3821/6/1/18)
+- Subir Das, CheKenna J. Fletcher and Ying Wu. _The Role of Different Dietary Fibers in Modulating Human Gut Microbiota_. Nutraceuticals (2026). Reviews different fibre types, fermentation characteristics and effects on microbial populations. [mdpi.com](https://www.mdpi.com/1661-3821/6/1/18)
 
 ### Fibre Types & Dietary Sources
 
-- Dietary fiber: Essential for a healthy diet, Mayo Clinic. Overview of soluble and insoluble fibre, dietary sources and health benefits. [\[mayoclinic.org\]](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fiber/art-20043983)
-- What’s the Difference Between Soluble and Insoluble Fiber?, Cleveland Clinic. Practical explanation of soluble and insoluble fibres and their physiological effects. [\[health.cle...clinic.org\]](https://health.clevelandclinic.org/whats-the-difference-between-soluble-and-insoluble-fiber)
-- Why Fiber Matters: Essential Foods for a Healthy Gut Microbiome, Mayo Clinic Press. Discusses fibre diversity, gut microbial health and recommended dietary sources. [\[mcpress.ma...clinic.org\]](https://mcpress.mayoclinic.org/healthygut/why-fiber-matters-essential-foods-for-a-healthy-gut-microbiome/)
+- Dietary fiber: Essential for a healthy diet, Mayo Clinic. Overview of soluble and insoluble fibre, dietary sources and health benefits. [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fiber/art-20043983)
+- What’s the Difference Between Soluble and Insoluble Fiber?, Cleveland Clinic. Practical explanation of soluble and insoluble fibres and their physiological effects. [health.cle...clinic.org](https://health.clevelandclinic.org/whats-the-difference-between-soluble-and-insoluble-fiber)
+- Why Fiber Matters: Essential Foods for a Healthy Gut Microbiome, Mayo Clinic Press. Discusses fibre diversity, gut microbial health and recommended dietary sources. [mcpress.ma...clinic.org](https://mcpress.mayoclinic.org/healthygut/why-fiber-matters-essential-foods-for-a-healthy-gut-microbiome/)
 
 ### Coffee & The Microbiome
 
@@ -977,10 +977,10 @@ _Disclaimer: This article is for educational purposes only and should not be con
 - What’s the Difference Between Soluble and Insoluble Fiber?, Cleveland Clinic. Practical explanation of soluble and insoluble fibres and their physiological effects.[health.cle...clinic.org]
 - Why Fiber Matters: Essential Foods for a Healthy Gut Microbiome, Mayo Clinic Press. Discusses fibre diversity, gut microbial health and recommended dietary sources.[mcpress.ma...clinic.org]
 - Bhumika Sharmaet al.Coffee Consumption is Associated with Intestinal Lawsonibacter asaccharolyticus Abundance and Prevalence Across Multiple Cohorts. Nature Microbiology (2024).
-- Mari C. W. Myhrstad et al. _Dietary Fiber, Gut Microbiota, and Metabolic Regulation—Current Status in Human Randomized Trials_. Nutrients (2020). Discusses fibre fermentation, SCFA production, metabolic regulation, inflammation and insulin sensitivity. [\[pmc.ncbi.nlm.nih.gov\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC7146107/)
-- Jiongxing Fu et al. _Dietary Fiber Intake and Gut Microbiota in Human Health_. Microorganisms (2022). Reviews how dietary fibre shapes the gut microbiome and the production of beneficial microbial metabolites. [\[pmc.ncbi.nlm.nih.gov\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC9787832/)
-- Kannadasan Charumathi et al. _Prebiotic dietary fibers, gut microbiota, and short-chain fatty acid production: from fermentation mechanisms to clinical translation_. Frontiers in Microbiology (2026). Comprehensive review of prebiotic fibres, microbial fermentation and SCFA generation. [\[frontiersin.org\]](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1927734/full)
-- Daniel So et al. _Dietary Fiber Intervention on Gut Microbiota Composition in Healthy Adults: A Systematic Review and Meta-Analysis_. American Journal of Clinical Nutrition (2018). Found increases in beneficial bacteria such as Bifidobacteria and Lactobacilli following specific fibre interventions. [\[ajcn.nutrition.org\]](https://ajcn.nutrition.org/article/S0002-9165%2822%2902872-6/fulltext)
+- Mari C. W. Myhrstad et al. _Dietary Fiber, Gut Microbiota, and Metabolic Regulation—Current Status in Human Randomized Trials_. Nutrients (2020). Discusses fibre fermentation, SCFA production, metabolic regulation, inflammation and insulin sensitivity. [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC7146107/)
+- Jiongxing Fu et al. _Dietary Fiber Intake and Gut Microbiota in Human Health_. Microorganisms (2022). Reviews how dietary fibre shapes the gut microbiome and the production of beneficial microbial metabolites. [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9787832/)
+- Kannadasan Charumathi et al. _Prebiotic dietary fibers, gut microbiota, and short-chain fatty acid production: from fermentation mechanisms to clinical translation_. Frontiers in Microbiology (2026). Comprehensive review of prebiotic fibres, microbial fermentation and SCFA generation. [frontiersin.org](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1927734/full)
+- Daniel So et al. _Dietary Fiber Intervention on Gut Microbiota Composition in Healthy Adults: A Systematic Review and Meta-Analysis_. American Journal of Clinical Nutrition (2018). Found increases in beneficial bacteria such as Bifidobacteria and Lactobacilli following specific fibre interventions. [ajcn.nutrition.org](https://ajcn.nutrition.org/article/S0002-9165%2822%2902872-6/fulltext)
 
 # Hidden Toxins
 
@@ -1687,7 +1687,7 @@ NAC is more than a conventional antioxidant supplement. By supplying cysteine fo
 
 The strongest evidence supports its established mucolytic use and its role in specific respiratory conditions. Its benefits for general health is best regarded as a potentially useful support rather than a cure-all. Used appropriately, NAC offers a practical example of supporting the body’s own protective systems instead of merely silencing symptoms.
 
-- Calverley P, Rogliani P, Papi A. _Safety of N-acetylcysteine at high doses in chronic respiratory diseases: a review._ Drug Safety. 2021;44:273–290. [\[pmc.ncbi.nlm.nih.gov\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC7892733/), [\[link.springer.com\]](https://link.springer.com/article/10.1007/s40264-020-01026-y)
+- Calverley P, Rogliani P, Papi A. _Safety of N-acetylcysteine at high doses in chronic respiratory diseases: a review._ Drug Safety. 2021;44:273–290. [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC7892733/), [link.springer.com](https://link.springer.com/article/10.1007/s40264-020-01026-y)
 
 ## References
 
@@ -1695,8 +1695,8 @@ The strongest evidence supports its established mucolytic use and its role in sp
 - Barne M, et al.N-acetylcysteine: evidence-based consensus document on the therapeutic advantages in respiratory diseases.Frontiers in Medicine. 2026;13:1810363.[frontiersin.org],[pmc.ncbi.nlm.nih.gov]
 - Mokra D, et al.Advances in the use of N-acetylcysteine in chronic respiratory diseases.Antioxidants. 2023;12(9):1713.[mdpi.com]
 - Calverley P, Rogliani P, Papi A.Safety of N-acetylcysteine at high doses in chronic respiratory diseases: a review.Drug Safety. 2021;44:273–290.[pmc.ncbi.nlm.nih.gov],[link.springer.com]
-- Barne M, et al. _N-acetylcysteine: evidence-based consensus document on the therapeutic advantages in respiratory diseases._ Frontiers in Medicine. 2026;13:1810363. [\[frontiersin.org\]](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1810363/full), [\[pmc.ncbi.nlm.nih.gov\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC13180745/)
-- Mokra D, et al. _Advances in the use of N-acetylcysteine in chronic respiratory diseases._ Antioxidants. 2023;12(9):1713. [\[mdpi.com\]](https://www.mdpi.com/2076-3921/12/9/1713)
+- Barne M, et al. _N-acetylcysteine: evidence-based consensus document on the therapeutic advantages in respiratory diseases._ Frontiers in Medicine. 2026;13:1810363. [frontiersin.org](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1810363/full), [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13180745/)
+- Mokra D, et al. _Advances in the use of N-acetylcysteine in chronic respiratory diseases._ Antioxidants. 2023;12(9):1713. [mdpi.com](https://www.mdpi.com/2076-3921/12/9/1713)
 
 # Omega 3
 
@@ -2071,17 +2071,17 @@ Sometimes progress isn't discovering something new.
 
 It's finally understanding why the old wisdom worked in the first place.
 
-- The interconnection between dietary fibre, gut microbiome and psychological well-being (2025). [\[cambridge.org\]](https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/interconnection-between-dietary-fibre-gut-microbiome-and-psychological-wellbeing/0AF780FE73DB2468D05415AFEF151C22)
-- Subir Das, CheKenna J. Fletcher and Ying Wu. _The Role of Different Dietary Fibers in Modulating Human Gut Microbiota_ (2026). [\[mdpi.com\]](https://www.mdpi.com/1661-3821/6/1/18)
+- The interconnection between dietary fibre, gut microbiome and psychological well-being (2025). [cambridge.org](https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/interconnection-between-dietary-fibre-gut-microbiome-and-psychological-wellbeing/0AF780FE73DB2468D05415AFEF151C22)
+- Subir Das, CheKenna J. Fletcher and Ying Wu. _The Role of Different Dietary Fibers in Modulating Human Gut Microbiota_ (2026). [mdpi.com](https://www.mdpi.com/1661-3821/6/1/18)
 - _Coffee Consumption is Associated with Intestinal Lawsonibacter asaccharolyticus Abundance and Prevalence Across Multiple Cohorts_. Nature Microbiology (2024). [https://www.nature.com/articles/s41564-024-01858-9](https://www.nature.com/articles/s41564-024-01858-9)
 
 ## References
 
-- Fu J et al. _Dietary Fiber Intake and Gut Microbiota in Human Health_ (2022). [\[pmc.ncbi.nlm.nih.gov\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC9787832/)
-- Charumathi K et al. _Prebiotic dietary fibers, gut microbiota, and short-chain fatty acid production: from fermentation mechanisms to clinical translation_ (2026). [\[frontiersin.org\]](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1927734/full)
-- _The interconnection between dietary fibre, gut microbiome and psychological well-being_ (2025). [\[cambridge.org\]](https://www.cambridge.org)
-- Das S, Fletcher KJ, Wu Y. _The Role of Different Dietary Fibers in Modulating Human Gut Microbiota_ (2026). [\[mdpi.com\]](https://www.mdpi.com)
-- _Coffee Consumption is Associated with Intestinal Lawsonibacter asaccharolyticus Abundance and Prevalence Across Multiple Cohorts._ Nature Microbiology (2024). [\[nature.com\]](https://www.nature.com/articles/s41564-024-01858-9)
+- Fu J et al. _Dietary Fiber Intake and Gut Microbiota in Human Health_ (2022). [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9787832/)
+- Charumathi K et al. _Prebiotic dietary fibers, gut microbiota, and short-chain fatty acid production: from fermentation mechanisms to clinical translation_ (2026). [frontiersin.org](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1927734/full)
+- _The interconnection between dietary fibre, gut microbiome and psychological well-being_ (2025). [cambridge.org](https://www.cambridge.org)
+- Das S, Fletcher KJ, Wu Y. _The Role of Different Dietary Fibers in Modulating Human Gut Microbiota_ (2026). [mdpi.com](https://www.mdpi.com)
+- _Coffee Consumption is Associated with Intestinal Lawsonibacter asaccharolyticus Abundance and Prevalence Across Multiple Cohorts._ Nature Microbiology (2024). [nature.com](https://www.nature.com/articles/s41564-024-01858-9)
 # Probiotics
 
 The beneficial bacteria that support our health are known as probiotics. These microscopic allies play a vital role in our well-being by:
@@ -2513,15 +2513,15 @@ Instead of being digested and absorbed as glucose in the small intestine, it rea
 
 Perhaps the most fascinating takeaway is that a potato doesn't need to become a different food to behave differently in the body. Simply allowing it to cool changes the physical arrangement of the starch molecules, altering how your digestive system and gut microbiome interact with it.
 
-- Resistant starch (classification, RS1-RS5, fermentation and butyrate production) [\[en.wikipedia.org\]](https://en.wikipedia.org/wiki/Resistant_starch)
-- Retrogradation (starch) (mechanisms of retrogradation and crystallisation) [\[en.wikipedia.org\]](https://en.wikipedia.org/wiki/Retrogradation_%28starch%29)
-- Starch Retrogradation: A Comprehensive Review (amylose, retrogradation and digestibility) [\[earthwormexpress.com\]](https://earthwormexpress.com/wp-content/uploads/2021/01/Starch-Retrogradation-A-Comprehensive-Review.pdf)
-- Harnessing the power of resistant starch: a narrative review of its health impact and processing challenges [\[pmc.ncbi.nlm.nih.gov\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC10987757/)
-- Starch Science: Gelatinization, Retrogradation, Resistant Starch Formation [\[borderless...vercel.app\]](https://borderlesskitchen.vercel.app/starch-gelatinization-retrogradation-resistant-starch-amylose-amylopectin-potato-rice-cooling-guide)
-- Turning Rice, Potatoes, and Other Starches Into Resistant Starch: A Science-Backed Guide [\[sherafy.com\]](https://sherafy.com/turning-rice-potatoes-and-other-starches-into-resistant-starch-a-science-backed-guide/)
-- Resistant Starch: RS1, RS2, RS3, RS4, And RS5 Are Not The Same [\[mybiohack.com\]](https://www.mybiohack.com/blog/resistant-starch-rs1-rs2-rs3-rs4-rs5)
-- Resistant Starch: Benefits, Dosage, RS Types & Safety [\[dietarysupplement.ai\]](https://dietarysupplement.ai/ingredients/resistant-starch/)
-- Starch Retrogradation: A Comprehensive Review [\[earthwormexpress.com\]](https://earthwormexpress.com/wp-content/uploads/2021/01/Starch-Retrogradation-A-Comprehensive-Review.pdf)
+- Resistant starch (classification, RS1-RS5, fermentation and butyrate production) [en.wikipedia.org](https://en.wikipedia.org/wiki/Resistant_starch)
+- Retrogradation (starch) (mechanisms of retrogradation and crystallisation) [en.wikipedia.org](https://en.wikipedia.org/wiki/Retrogradation_%28starch%29)
+- Starch Retrogradation: A Comprehensive Review (amylose, retrogradation and digestibility) [earthwormexpress.com](https://earthwormexpress.com/wp-content/uploads/2021/01/Starch-Retrogradation-A-Comprehensive-Review.pdf)
+- Harnessing the power of resistant starch: a narrative review of its health impact and processing challenges [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10987757/)
+- Starch Science: Gelatinization, Retrogradation, Resistant Starch Formation [borderless...vercel.app](https://borderlesskitchen.vercel.app/starch-gelatinization-retrogradation-resistant-starch-amylose-amylopectin-potato-rice-cooling-guide)
+- Turning Rice, Potatoes, and Other Starches Into Resistant Starch: A Science-Backed Guide [sherafy.com](https://sherafy.com/turning-rice-potatoes-and-other-starches-into-resistant-starch-a-science-backed-guide/)
+- Resistant Starch: RS1, RS2, RS3, RS4, And RS5 Are Not The Same [mybiohack.com](https://www.mybiohack.com/blog/resistant-starch-rs1-rs2-rs3-rs4-rs5)
+- Resistant Starch: Benefits, Dosage, RS Types & Safety [dietarysupplement.ai](https://dietarysupplement.ai/ingredients/resistant-starch/)
+- Starch Retrogradation: A Comprehensive Review [earthwormexpress.com](https://earthwormexpress.com/wp-content/uploads/2021/01/Starch-Retrogradation-A-Comprehensive-Review.pdf)
 
 ## References
 
