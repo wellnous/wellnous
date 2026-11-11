@@ -1,6 +1,5 @@
 # Adaptogens
 
-
 #### Ashwagandha and Medicinal Mushrooms for Stress, Energy, and Resilience
 
 In a world filled with constant stressors—whether from work, lifestyle, or environmental challenges—maintaining balance is more important than ever. This is where adaptogens come into play. These remarkable herbs and fungi help the body adapt to stress, regulate hormonal responses, and enhance overall resilience.
@@ -8,7 +7,6 @@ In a world filled with constant stressors—whether from work, lifestyle, or env
 Among the most powerful adaptogens, ashwagandha and medicinal mushrooms stand out for their ability to support mental clarity, immune function, and energy levels.
 
 Let's explore how adaptogens work, break down their physiological, physical, and mental benefits, and examine the scientific backing behind these ancient natural remedies.
-
 
 #### What Are Adaptogens?
 
@@ -18,13 +16,11 @@ Unlike stimulants that provide short-term boosts which can lead to crashes, adap
 
 Common adaptogens include herbs such as ashwagandha, rhodiola, as well as functional fungi like reishi, lion’s mane, and cordyceps.
 
-
 #### Ashwagandha:
 
 **The Ancient Stress-Reliever and Nervous System Supporter**
 
 Ashwagandha (Withania somnifera) is a powerful Ayurvedic herb known for its ability to reduce stress, enhance cognition, and support physical recovery. Used for thousands of years in Indian medicine, it is classified as a Rasayana, which means it rejuvenates and restores vitality.
-
 
 #### Physiological Benefits
 
@@ -63,21 +59,17 @@ Often called the "mushroom of immortality" because of its long history in tradit
 
 It contains compounds such as triterpenoids and polysaccharides that help modulate the immune system, reducing inflammation and promoting healthier sleep patterns. By influencing the body's stress response, reishi can help lower anxiety levels and foster a sense of calm, which contributes to better sleep quality and a more resilient immune system.
 
-
 #### Lion’s Mane
 
 Celebrated for its positive effects on brain health. This mushroom contains compounds like hericenones and erinacines, which encourage the synthesis of nerve growth factor (NGF). NGF is essential for the maintenance, growth, and repair of nerve cells, which in turn enhances focus, supports memory, and may even help slow down cognitive decline. Regular use of Lion’s Mane is associated with improved concentration and mental clarity, making it a popular choice among those looking to boost cognitive function naturally.
-
 
 #### Cordyceps
 
 Known for its ability to boost physical energy and endurance. It works by increasing the production of adenosine triphosphate (ATP), the primary energy carrier in cells, and enhancing oxygen uptake during exercise. This dual-action helps improve stamina and performance, making cordyceps a valuable supplement for athletes or anyone looking to increase their energy levels and support better recovery after physical exertion.
 
-
 #### Chaga
 
 Rich in antioxidants, including melanin, superoxide dismutase, and various polyphenols, which help protect cells from oxidative stress and damage caused by free radicals. This antioxidant powerhouse plays a significant role in reducing inflammation throughout the body and supporting overall cellular health. By mitigating oxidative stress, Chaga can contribute to a slower aging process and support the body's natural detoxification efforts.
-
 
 #### Turkey Tail
 
@@ -89,7 +81,6 @@ By integrating these adaptogens into your daily routine—whether through a morn
 
 # Added Sugar
 
-
 #### The Sweet Problem Hiding in Plain Sight
 
 We tend to think of added sugar as a weight issue. A few extra calories. A little indulgence. Something to be balanced out with a walk or a trip to the gym.
@@ -99,7 +90,6 @@ But what if the real concern isn't the calories at all?
 What if the bigger issue is what happens when one particular component of sugar, fructose, arrives in the liver?
 
 Understanding this changes the conversation. It takes us beyond calories and into metabolism.
-
 
 ## Not All Sugar Is Metabolised Equally
 
@@ -112,7 +102,6 @@ Fructose follows a very different path.
 While glucose can be used almost anywhere, fructose is handled predominantly by the liver. This means that every sweetened drink, dessert, syrup, confectionery product or sugar-laden snack delivers a fructose load that the liver must process.
 
 And this is where things become interesting.
-
 
 ## The Liver: Your Metabolic Processing Plant
 
@@ -128,7 +117,6 @@ Unlike glucose, fructose bypasses many of the body's normal regulatory controls.
 
 In other words, excess fructose can be converted directly into fat within the liver.
 
-
 ## When Sugar Becomes Liver Fat
 
 This isn't a problem because fat is inherently bad.
@@ -141,7 +129,6 @@ Researchers have shown that excess fructose intake can increase liver fat produc
 
 This is one reason rates of fatty liver disease have risen dramatically in populations where sugar-sweetened beverages and ultra-processed foods have become dietary staples.
 
-
 ## Why Scientists Compare Fructose to Alcohol
 
 This is where the comparison that captures so many people's attention comes from.
@@ -153,7 +140,6 @@ Of course, fructose is not alcohol.
 It won't impair judgment, affect coordination or leave you with a hangover.
 
 But from the liver's perspective, excessive fructose can create a surprisingly similar workload. This is why fructose has sometimes been described as "alcohol without the buzz."
-
 
 ## The Problem Isn't Just Sugar. It's Delivery.
 
@@ -180,7 +166,6 @@ Today's added sugars are often delivered in forms that are rapidly consumed and 
 - Desserts
 The result is a fructose load that can arrive in the liver far faster, and in far greater quantities, than would ever occur from eating whole fruit.
 
-
 ## This Is Not an Argument Against Fruit
 
 At this point it's important to separate added sugar from naturally occurring sugar.
@@ -196,7 +181,6 @@ You would struggle to eat six oranges in a few minutes.
 You could drink the sugar equivalent of those oranges in one glass of juice.
 
 The fructose molecule may be the same, but the metabolic experience is not.
-
 
 ## Looking Beyond Calories
 
@@ -231,18 +215,14 @@ It's whether we've normalised levels of sugar consumption that our metabolism wa
 
 # Ayurveda
 
-
 ## The Ayurvedic Western Approach
-
 
 #### A SIMPLE GUIDE TO BALANCE AND WELLNESS
 
 Ayurveda is an ancient system of healing from India that many in the West are finding useful today. It is all about bringing balance to your body, mind, and spirit. Here’s a straightforward look at how it can work in modern life. I believe in incorporating traditional methodologies into more modern, every day approaches.
 
-
 ### Know Your Doshas
 Ayurveda believes that everyone has a unique balance of three energies, called doshas:
-
 
 #### Vata
 - Linked with air and space.
@@ -260,10 +240,8 @@ Ayurveda believes that everyone has a unique balance of three energies, called d
 - Excess can make you feel sluggish or congested.
 Understanding your dosha can help shape your diet, exercise, and daily routines to keep you in balance. It's useful to reflect on which ones may be out of balance when you're not feeling quite right.
 
-
 ### My Favourite Herbs
 Ayurveda uses herbs to support your wellbeing:
-
 
 #### Ashwagandha
 - An adaptogen that helps you manage stress.
@@ -293,7 +271,6 @@ Ayurveda uses herbs to support your wellbeing:
 ### My favourite Breathing Exercises (Pranayama)
 Simple breathing practices are a big part of Ayurveda:
 
-
 #### Alternate Nostril Breathing
 - Balances the flow of energy in your body.
 - Helps you feel more calm and focused.
@@ -308,7 +285,6 @@ Simple breathing practices are a big part of Ayurveda:
 ### Daily Rituals: Dry Brushing and Tongue Scraping
 Small daily practices help remove toxins and support health:
 
-
 #### Dry Brushing
 - Use a natural-bristle brush on your skin before showering.
 - Boosts blood flow and helps remove dead skin cells.
@@ -319,7 +295,6 @@ Small daily practices help remove toxins and support health:
 
 ### Stretching and Yoga
 Moving your body is essential in Ayurveda:
-
 
 #### Stretching
 - Gentle stretches relieve muscle tension and improve flexibility.
@@ -332,7 +307,6 @@ Moving your body is essential in Ayurveda:
 - Whether it's a quick morning routine or an evening session to relax, yoga can improve strength, mobility, and mental clarity.
 
 # Barefoot Walking
-
 
 #### How Barefoot Walking Enhances Perception, Neuroplasticity, and Overall Wellbeing
 
@@ -360,11 +334,9 @@ Grounding—also known as earthing—is the practice of direct physical contact 
 
 # Creatine
 
-
 #### Enhancing Mental Clarity and Physical Performance Through ATP
 
 Creatine has long been celebrated in the world of strength training and athletic performance, but its benefits extend far beyond muscle building. Recent research highlights creatine's profound influence on both mental and physical health. At the heart of these benefits is its critical role in the production of adenosine triphosphate (ATP), the primary energy currency of our cells.
-
 
 #### Understanding ATP and Creatine's Role
 
@@ -382,12 +354,7 @@ Creatine’s dual impact on physical strength and mental clarity underscores its
 
 # Cultured Foods
 
-
 #### Probiotics
-
-Probiotics
-
-Probiotics
 
 The beneficial bacteria that support our health are known as probiotics. These microscopic allies play a vital role in our well-being by:
 
@@ -398,14 +365,9 @@ The beneficial bacteria that support our health are known as probiotics. These m
 
 #### Milk Kefir
 
-Probiotics
-
-Probiotics
-
 **Kefir is arguably the most powerful probiotic food you can make at home, and one of the simplest.**
 
 Milk kefir is a traditional fermented food made by adding kefir grains, a living community of beneficial bacteria and yeasts, to milk. Over 24 hours, these microorganisms consume much of the milk's lactose and transform it into a tangy, yoghurt-like drink packed with probiotics, organic acids, bioactive peptides and other health-promoting compounds.
-
 
 #### Kombucha
 
@@ -417,7 +379,6 @@ Kombucha is a lightly sparkling fermented tea that has been enjoyed for centurie
 
 Beyond its taste, kombucha offers a unique combination of probiotics, postbiotics and tea polyphenols. Fermentation not only introduces beneficial microbes but also creates a wide range of bioactive compounds that may help support gut health, microbial diversity and overall wellbeing. Kombucha is a simple and enjoyable way to incorporate more fermented foods into your diet, helping to reconnect your microbiome with the living foods that have become increasingly absent from modern lifestyles.
 
-
 #### Water Kefir
 
 Cultured Vegetables
@@ -426,23 +387,13 @@ Water Kefir
 
 Water kefir is a refreshing, naturally fermented drink that offers many of the same microbiome-supporting benefits as milk kefir, but without the dairy. In fact, it was my latest fermentation obsession. I love kombucha, but I wanted a caffeine-free alternative for the evenings. Made using translucent water kefir grains, a living culture of bacteria and yeasts, water kefir transforms simple sugar water into a lightly sparkling drink containing a diverse range of beneficial microorganisms. Depending on the grains and fermentation conditions, water kefir can contain dozens of probiotic strains, making it a fantastic option for anyone looking to support their gut health, particularly those following a vegan or dairy-free lifestyle.
 
-
 #### Pro-biotic Yogurts
-
-Cultured Vegetables
-
-Cultured Vegetables
 
 Traditional yogurt is one of the world's oldest fermented foods, transforming milk into a nutrient-rich food that's often easier to digest than milk itself. During fermentation, beneficial bacteria consume lactose, produce lactic acid and create compounds that contribute to yogurt's flavour, texture and health benefits. Alongside providing protein, calcium and other nutrients, yogurt can be a valuable source of live microbes that help support a healthy gut microbiome.
 
 Inspired by Dr. William Davis's _Super Gut_ and the work of Cultured Food Life, these probiotic "yogurts" take the concept a step further. Rather than relying solely on traditional yogurt cultures, they use specific probiotic strains such as **L. reuteri**, **L. casei** and **L. gasseri**, fermented for up to 36 hours to achieve exceptionally high concentrations of beneficial bacteria.
 
-
 #### Cultured Vegetables
-
-Cultured Vegetables
-
-Cultured Vegetables
 
 Traditional fermentation have unique flavours, textured and nutritional profiles.
 
@@ -452,39 +403,25 @@ This acid makes it too acidic for harmful bacteria to survive but allows the ben
 
 This also starts to break down the foods, making the vegetables easier to digest. This also releases and converts compounds into a whole host of beneficial vitamins, enzymes and bioactive chemicals such as vitamin C. Far more than the original starting vegetable.
 
-
 #### Kimchi
-
-What is a SCOBY
-
-What is a SCOBY
 
 Kimchi is well known for it's probiotic content. As indicated in previous sections, these probiotics have a range of health benefits including helping your immune system, improving your mental health as well as helping your digestion and reducing inflammation. It's various methods and ingredients as well as traditional methods of fermentation results in a very unami, spicy, weirdly addictive flavour and crunchy texture. As Kimchi usually includes far more vegetables than other fermented products, it should contain a wide range of vitamins, such as A, B, C, and K, and minerals like calcium, iron, phosphorus, and selenium. There is also a high amount of fibre in Kimchi which will support your microbiome. More importantly, is delicious!
 
-
 #### What is a SCOBY
-
-What is a SCOBY
-
-What is a SCOBY
-
 
 #### SCOBY stands for Symbiotic Culture of Bacteria and Yeast
 
 It basically means a wonderful collection of different probiotics and yeast that work together symbiotically.
 
-
 #### KEFIR
 
 The Water and Milk Kefir Grains are a **SCOBY** that reside in a polysaccharide and protein matrix together. They replicate in the water or milk and digest the food into beneficial chemicals.
-
 
 #### KOMBUCHA
 
 The Kombucha **SCOBY** is often mistaken. When you make Kombucha, you get a pellicle form, usually at the top of the fermentation liquid. This is a by-product of the fermentation and is a gelatinous disc of cellulose. The actual SCOBY is the bacteria and yeasts that live within the fluid. .
 
 The Pellicle can protect the fluid from contamination from the the surface, it does contain a large number of the probiotics, but is not essential for brewing. A new pellicle will form after each brew.
-
 
 #### So where can you get them?
 
@@ -528,15 +465,9 @@ For a decent overview, please listen to Andrew Huberman’s podcast on this topi
 
 # Feeding Your Body
 
-
 ## everyday nutrition
 
-
 #### Whole Foods First
-
-Ultra-Processed Foods UPFs
-
-Ultra-Processed Foods UPFs
 
 Before worrying about carbohydrates, fats or protein, it makes sense to start with the quality of the food itself.
 
@@ -548,12 +479,7 @@ A large umbrella review published in The BMJ linked higher intakes of ultra-proc
 
 That doesn't mean you need perfection. It simply means that if most of your diet is built around foods that still resemble their natural form, you're likely heading in the right direction.
 
-
 #### Ultra-Processed Foods UPFs
-
-Ultra-Processed Foods UPFs
-
-Ultra-Processed Foods UPFs
 
 Many UPFs are also built around commercial objectives rather than biological ones. Long shelf life, consistency, convenience and repeat purchases are all priorities for manufacturers.
 
@@ -562,7 +488,6 @@ The result is often products that are highly palatable, heavily marketed and rem
 Rather than obsessing over whether a food is technically a UPF, focus on what processing has changed. Foods that have lost their fibre, can be consumed rapidly, rely on health claims for credibility and contain long lists of unfamiliar ingredients deserve closer scrutiny.
 
 After all, an apple doesn't need a marketing campaign to convince you it's food.
-
 
 #### Feed Your Microbiome
 
@@ -574,7 +499,6 @@ For years, nutrition has focused almost exclusively on feeding the human body. W
 
 This is where polyphenols become so fascinating. Found naturally in foods such as berries, cocoa, olive oil, tea, coffee and colourful vegetables, these plant compounds appear to help shape the microbial environment within the gut. Rather than being valued solely for their antioxidant properties, polyphenols are now being studied for their ability to influence microbial diversity, support beneficial bacteria and generate compounds that may impact inflammation, metabolism and overall health. In many ways, feeding your microbiome may be just as important as feeding yourself. The good news is that the foods your microbes seem to love are the same real, minimally processed foods that have formed the foundation of healthy diets for generations.
 
-
 #### Reduce Added Sugar
 
 Feed Your Microbiome
@@ -582,7 +506,6 @@ Feed Your Microbiome
 Added sugar has become so normalised that we barely notice it anymore. It turns up in soft drinks, cereals, sauces, protein bars, flavoured yoghurts and even foods marketed as healthy. Yet the real concern isn't simply that added sugar provides calories. It's that half of the sugar we consume is fructose, a molecule that is processed predominantly by the liver and follows a very different metabolic path from glucose.
 
 When the liver is repeatedly flooded with fructose, particularly from sweetened drinks and ultra-processed foods, it can convert that surplus into fat through a process known as de novo lipogenesis. Over time, this may contribute to liver fat accumulation, insulin resistance and broader metabolic dysfunction. It's this unique relationship between fructose and the liver that has led researchers such as Robert Lustig to draw comparisons with alcohol metabolism and describe fructose as "alcohol without the buzz". While an apple is not a can of cola and sugar is not alcohol, understanding what happens to fructose once it reaches the liver sheds light on why added sugar deserves far more attention than its calorie count alone.
-
 
 #### Fibre Does More Than Keep You Regular
 
@@ -598,7 +521,6 @@ Insoluble fibres found in vegetables, nuts and whole grains support digestive fu
 
 Prebiotic fibres found in foods such as onions, garlic, leeks and asparagus act as fuel for beneficial gut bacteria.
 
-
 #### Make Your Starches Work Harder
 
 Fibre Does More Than Keep You Regular
@@ -613,7 +535,6 @@ Resistant starch escapes digestion in the small intestine and reaches the colon,
 
 Something as simple as cooled potatoes in a salad or leftover rice used the following day can provide benefits beyond basic nutrition.
 
-
 #### Fermented Foods Are Making a Comeback
 
 Long before probiotics became a billion-pound industry, humans were consuming fermented foods as a normal part of life.
@@ -624,7 +545,6 @@ Modern research has renewed interest in these traditional foods, with studies su
 
 The lesson here isn't that everyone needs another supplement. Sometimes the oldest approaches remain some of the most effective.
 
-
 #### Prioritise Protein Quality
 
 Protein remains important for maintaining muscle mass, supporting recovery and promoting satiety, particularly as we age.
@@ -632,7 +552,6 @@ Protein remains important for maintaining muscle mass, supporting recovery and p
 However, quality matters just as much as quantity. Eggs, fish, seafood, meat, Greek yoghurt, tofu, tempeh, beans and lentils all provide valuable sources of protein alongside other nutrients that support health.
 
 Rather than chasing ever-higher protein targets, a more balanced approach is to ensure each meal contains a meaningful source of protein while leaving plenty of room for vegetables, fibre-rich foods and plant diversity.
-
 
 #### Intermittent Fasting
 
@@ -646,7 +565,6 @@ Importantly, this isn't about starving yourself. A simple twelve-hour overnight 
 
 # Fibre
 
-
 #### The Nutrient Everyone Talks About, But Few Truly Understand
 
 Walk through any supermarket and you'll quickly find cereals, snack bars, yoghurts and even sweets proudly displaying "high fibre" claims. The implication is that fibre is something manufacturers add to foods to make them healthy.
@@ -656,7 +574,6 @@ The reality is almost the opposite.
 Fibre isn't something that belongs in a factory. It's something that naturally exists within the structure of whole plant foods. Fruits, vegetables, legumes, nuts, seeds and whole grains evolved with fibre built into them. When food processing strips away that structure, much of the fibre disappears, and what remains is often a nutritionally inferior version of the original food.
 
 In many ways, fibre is one of the clearest examples of why whole foods outperform heavily processed alternatives.
-
 
 ## What Actually Is Fibre?
 
@@ -668,11 +585,9 @@ Today we know it's far more than that.
 
 Fibre influences cholesterol levels, blood sugar control, satiety, immune function, inflammation, gut barrier integrity and the composition of the microbiome itself. Many researchers now consider fibre one of the most important determinants of long-term gut health.
 
-
 ## Not All Fibre Is The Same
 
 The word "fibre" is often used as if it's a single nutrient. In reality, fibre is a large family of compounds with very different functions.
-
 
 ### Soluble Fibre
 
@@ -686,7 +601,6 @@ Its benefits include:
 - Lowering LDL cholesterol
 - Feeding beneficial gut bacteria
 Common sources include oats, beans, lentils, apples, citrus fruits, avocados and carrots.
-
 
 ### Insoluble Fibre
 
@@ -718,7 +632,6 @@ Sources include:
 - Oats
 Resistant starch is particularly effective at increasing production of beneficial short-chain fatty acids such as butyrate.
 
-
 ### Prebiotic Fibres
 
 Some fibres act as highly selective fertiliser for beneficial bacteria.
@@ -737,7 +650,6 @@ These are found naturally in foods such as:
 - Jerusalem artichokes
 - Chicory root
 Studies consistently show these fibres increase populations of beneficial microbes, including Bifidobacteria and Lactobacilli.
-
 
 ## The Problem With "Added Fibre"
 
@@ -764,7 +676,6 @@ When foods are processed, fibre is often stripped away alongside many of these c
 
 In other words, a "high fibre" breakfast bar is often evidence that the food required fixing in the first place.
 
-
 ## The Hidden Cost Of Processing
 
 Consider the difference between an orange and orange juice.
@@ -776,7 +687,6 @@ Orange juice contains much of the sugar but very little of the original fibre st
 The same pattern occurs across countless processed foods. The closer food remains to its natural state, the more of its original fibre architecture is preserved.
 
 Nature packages nutrients together for a reason. Processing frequently separates them.
-
 
 ## What Happens When Fibre Reaches The Colon?
 
@@ -790,7 +700,6 @@ When beneficial microbes ferment fibre, they produce compounds known as **short-
 - Acetate
 - Propionate
 These compounds act as powerful signalling molecules throughout the body.
-
 
 ### Butyrate
 
@@ -819,7 +728,6 @@ The remarkable thing is that these beneficial compounds are not found in food it
 
 They are manufactured inside you by gut microbes when you feed them properly.
 
-
 ## Fibre Isn't The Whole Story
 
 While fibre is arguably the most important nutrient for feeding the microbiome, it isn't acting alone.
@@ -829,7 +737,6 @@ Many plant foods also contain polyphenols, naturally occurring compounds that in
 A study published in Nature Microbiology found one of the strongest diet-microbe associations reported to date, showing that regular coffee consumption was consistently linked with a greater abundance of the bacterium Lawsonibacter asaccharolyticus across multiple independent populations. This finding highlights an important principle: a healthy microbiome thrives not only on fibre but on a diverse intake of naturally occurring plant compounds.
 
 That doesn't mean coffee replaces vegetables or fibre-rich foods. Rather, it reinforces the idea that the healthiest diets provide a broad range of fibres, resistant starches and polyphenols that nourish different microbial species in different ways.
-
 
 ## Fibre And Akkermansia: A Key Gut Health Connection
 
@@ -849,7 +756,6 @@ While no single food magically increases Akkermansia, diets rich in:
 - Diverse fibre sources
 All appear to create the conditions in which this beneficial bacterium can thrive. Think of fibre less as feeding you and more as feeding your microbial workforce. Healthy microbes help create healthy humans.
 
-
 ## Surprising Foods Rich In Fibre
 
 When most people think fibre, they think bran cereals.
@@ -857,7 +763,6 @@ When most people think fibre, they think bran cereals.
 Some of the best sources may surprise you.
 
 **High-Fibre Foods That Often Fly Under The Radar**
-
 
 #### Avocado
 
@@ -907,14 +812,11 @@ This is why diets rich in varied fruits, vegetables, herbs, legumes, nuts and se
 
 The question shouldn't simply be:
 
-
 #### "How much fibre did I eat today?"
 
 It should also be:
 
-
 #### "How many different plants did I eat today?"
-
 
 ## Final Thoughts
 
@@ -932,9 +834,7 @@ You're feeding the trillions of microbes that manufacture beneficial compounds, 
 
 And increasingly, the science suggests that those tiny organisms may have more influence over our health than we ever imagined.
 
-
 ### Fibre, Gut Microbiome & Short-Chain Fatty Acids
-
 
 ### Fibre Interventions & Beneficial Bacteria
 
@@ -962,7 +862,6 @@ For readers interested in taking gut health beyond fibre alone, emerging areas o
 - Diet-microbiome interactions in healthy ageing
 _Disclaimer: This article is for educational purposes only and should not be considered medical advice. Individuals with gastrointestinal conditions, food intolerances or specific medical concerns should consult an appropriately qualified healthcare professional before making significant dietary changes._
 
-
 ## References
 
 - Mari C. W. Myhrstadet al.Dietary Fiber, Gut Microbiota, and Metabolic Regulation—Current Status in Human Randomized Trials. Nutrients (2020). Discusses fibre fermentation, SCFA production, metabolic regulation, inflammation and insulin sensitivity.[pmc.ncbi.nlm.nih.gov]Jiongxing Fuet al.Dietary Fiber Intake and Gut Microbiota in Human Health. Microorganisms (2022). Reviews how dietary fibre shapes the gut microbiome and the production of beneficial microbial metabolites.[pmc.ncbi.nlm.nih.gov]Kannadasan Charumathiet al.Prebiotic dietary fibers, gut microbiota, and short-chain fatty acid production: from fermentation mechanisms to clinical translation. Frontiers in Microbiology (2026). Comprehensive review of prebiotic fibres, microbial fermentation and SCFA generation.[frontiersin.org]
@@ -984,11 +883,9 @@ _Disclaimer: This article is for educational purposes only and should not be con
 
 # Hidden Toxins
 
-
 ## Creating a Healthier Environment for Wellbeing
 
 Our surroundings directly impact our health, influencing everything from toxin exposure to air quality. By making intentional changes to my environment, I reduce harmful pollutants, eliminate disruptive chemicals, and create a space that supports my physical and mental well-being.
-
 
 #### Removing Toxins: Eliminating Phthalates, BPA, and Microplastics
 
@@ -1031,7 +928,6 @@ Many processed foods contain additives that negatively impact the gut microbiome
 - **Chemical Flavour Enhancers**– MSG and other enhancers overstimulate neurotransmitters, affecting mood and cognition.
 Instead, I prioritise whole, unprocessed foods with clean ingredients, supporting optimal digestion and microbiome health.
 
-
 #### Air Quality: Reducing Pollution and Improving Indoor Air Stress Management
 
 Indoor air pollution can be just as concerning as outdoor smog, with toxins from furniture, cleaning products, and environmental pollutants lingering in the air. To maintain a clean breathing space, I incorporate:
@@ -1043,7 +939,6 @@ Indoor air pollution can be just as concerning as outdoor smog, with toxins from
 #### Skincare, Makeup & Sunscreen: Removing Toxic Ingredients from My Routine
 
 Many personal care products contain endocrine disruptors, allergens, and harmful additives that absorb into the skin and bloodstream. Here’s what I avoid:
-
 
 #### Harmful Chemicals in Skincare & Makeup
 
@@ -1066,7 +961,6 @@ Traditional sunscreens contain chemical UV filters that not only affect human he
 
 # Infra Red Exposure
 
-
 ## Infrared Light, Mitochondria and Metabolic Health
 
 I've become increasingly interested in something that is all around us but that we rarely think about — light.
@@ -1075,7 +969,6 @@ Light isn't simply something that allows us to see. Different wavelengths intera
 
 Infrared has always been part of our natural environment. It is abundant in sunlight and is also produced by fire and traditional incandescent bulbs. Our ancestors would have been exposed to it naturally throughout the day, particularly during the lower sun of morning and evening.
 
-
 ## **Why the mitochondria matter**
 
 Almost everything our bodies do ultimately depends on energy. Movement, brain function, hormone production, immune function, tissue repair, maintaining body temperature and even the basic processes that keep a cell alive all require energy. The mitochondria sit at the centre of this process. They convert the food we eat and oxygen we breathe into ATP, the energy currency used by our cells.
@@ -1083,7 +976,6 @@ Almost everything our bodies do ultimately depends on energy. Movement, brain fu
 They are also involved in controlling oxidative stress, cellular signalling, inflammation, calcium regulation and whether damaged cells survive or are removed. This means that healthy mitochondria are fundamental to metabolic health and to the normal function of almost every tissue in the body.
 
 When mitochondrial function is impaired, the consequences can extend far beyond energy levels. Mitochondrial dysfunction is associated with ageing and a wide range of metabolic and chronic diseases, ranging from diabetes to most cancers, which is why maintaining mitochondrial health has become such an important area of research.
-
 
 ## **Where infrared comes in**
 
@@ -1099,7 +991,6 @@ If the mitochondria are central to our metabolic health, and particular waveleng
 
 This is one of the reasons I find infrared so fascinating.
 
-
 ## **Infrared as part of our natural environment**
 
 There is also something particularly interesting about _when_ we are exposed to infrared naturally.
@@ -1112,7 +1003,6 @@ It raises an interesting possibility: perhaps the natural sequence of light thro
 
 Our biology evolved within this environment.
 
-
 ## **A very different modern light environment**
 
 Today, our relationship with light is very different.
@@ -1122,7 +1012,6 @@ We spend much of our lives indoors, surrounded by LEDs, screens and artificial l
 Modern artificial lighting can create a very different spectral environment from natural daylight, fire and incandescent light. Traditional incandescent bulbs, for example, produce a broad, warm spectrum with substantial infrared because the filament becomes extremely hot. Fire is another natural source of infrared.
 
 It is interesting that both of these familiar light sources are rich in the longer wavelengths that are largely absent from many modern artificial environments.
-
 
 ## **Why this could matter for metabolic health**
 
@@ -1140,7 +1029,6 @@ Infrared light can also pass through clothing., so one of the easiest ways to ge
 
 # Intermittent Fasting
 
-
 ## Giving Your Body Time To Catch Up
 
 Most conversations around nutrition focus on what we eat. Protein, fibre, vitamins, calories and supplements dominate health headlines and social media feeds.
@@ -1152,7 +1040,6 @@ For many people, the day begins with breakfast shortly after waking and ends wit
 The body is remarkably good at processing food, but it was never designed to be in a constant fed state.
 
 Intermittent fasting, particularly time-restricted eating, is built around a simple idea: spend less time eating and more time allowing the body to focus on everything else.
-
 
 ## The Modern Problem: We're Always Eating
 
@@ -1168,7 +1055,6 @@ Intermittent fasting creates that opportunity.
 
 Rather than continuously handling a fresh influx of nutrients, the body spends longer periods relying on stored energy and carrying out some of its housekeeping functions.
 
-
 ## What Happens During A Fast?
 
 A common misconception is that fasting means the body "shuts down".
@@ -1180,7 +1066,6 @@ As liver glycogen stores begin to fall, the body gradually becomes less reliant 
 Ketones are often discussed in the context of ketogenic diets, but they are also a natural consequence of fasting.
 
 What's particularly interesting is that ketones aren't simply an alternative fuel source. They also act as signalling molecules that may influence inflammation, cellular resilience and brain function. Researchers continue to investigate their potential role in metabolic and neurological health.
-
 
 ## Blood Sugar Benefits
 
@@ -1194,7 +1079,6 @@ Research suggests time-restricted eating may improve insulin sensitivity and var
 
 Importantly, that doesn't mean people should fear glucose or carbohydrates. Rather, it suggests that periods without food may be a normal and beneficial part of metabolic health.
 
-
 ## The Brain Appears To Benefit Too
 
 Many people who practice intermittent fasting report improvements in concentration, mental clarity and energy levels.
@@ -1202,7 +1086,6 @@ Many people who practice intermittent fasting report improvements in concentrati
 While subjective experiences should always be interpreted cautiously, there are plausible biological explanations for these observations.
 
 As ketone production rises, the brain gains access to an additional energy source. Fasting may also influence processes involved in neuronal maintenance and resilience. Researchers are increasingly interested in the relationship between fasting, brain health and healthy ageing, although many areas remain under investigation.
-
 
 ## Your Mitochondria Need Downtime Too
 
@@ -1218,7 +1101,6 @@ However, the concept itself is compelling.
 
 Sometimes doing less can give the body an opportunity to repair more.
 
-
 ## Don't Underestimate The Sleep Connection
 
 One of the simplest benefits of intermittent fasting may have nothing to do with fasting itself.
@@ -1229,7 +1111,6 @@ Many people finish their final meal or snack shortly before bed, leaving the dig
 
 Creating a larger gap between the last meal and sleep often leaves people feeling lighter, less bloated and more rested the following morning. Emerging research into chrononutrition also suggests that aligning eating patterns more closely with our circadian rhythms may provide metabolic advantages.
 
-
 ## The ZOE Big IF Study
 
 Perhaps the most encouraging evidence comes from the real world.
@@ -1239,7 +1120,6 @@ In the Big IF Study, conducted by ZOE, more than 140,000 people signed up to tes
 The significance wasn't that fasting produced miraculous results.
 
 It was that a relatively simple change appeared sustainable for many people.
-
 
 ## The Takeaway
 
@@ -1263,7 +1143,6 @@ In a world where food is available 24 hours a day, one of the simplest health in
 
 It might be giving our bodies a little longer between meals.
 
-
 If readers want to explore related topics, consider:
 
 - Circadian rhythms and health
@@ -1278,7 +1157,6 @@ If readers want to explore related topics, consider:
 ### Disclaimer
 
 This article is intended for educational purposes only and should not be considered medical advice. Intermittent fasting may not be appropriate for everyone, particularly those with a history of eating disorders, certain medical conditions, pregnancy, or those taking medications that affect blood sugar. Consult a qualified healthcare professional before making significant dietary changes.
-
 
 ## References
 
@@ -1299,9 +1177,7 @@ This article is intended for educational purposes only and should not be conside
 
 # Kettlebells
 
-
 ## The Power of Kettlebell Training
-
 
 #### MOVEMENTS, MUSCLE ACTIVATION, AND BENEFITS
 
@@ -1355,11 +1231,9 @@ What It Is: A variation of the kettlebell swing, challenging core stability and 
 - Engage the core to resist rotation, maintaining a strong hip drive.
 - Switch arms after a set.
 
-
 # Mental Wellbeing
 
 Mental resilience and clarity come from an intentional combination of breathwork, nutrition, and lifestyle habits that support the brain and nervous system. My daily practices help me cultivate focus, reduce stress, and maintain emotional balance. Here’s how I prioritise mental well-being every day.
-
 
 #### The Art of Doing Nothing
 
@@ -1367,13 +1241,11 @@ Probiotics & Fermented Foods
 
 The Art of Doing Nothing
 
-
 #### "Il dolce far niente"
 
 When was the last time you genuinely did nothing? Not watched something, listened to something, scrolled through your phone or filled the silence with some other form of stimulation, but simply sat and allowed your mind to wander. We have become so accustomed to constant entertainment and information that doing nothing can feel strangely uncomfortable. Yet those quiet moments give us something that constant stimulation cannot: space to think, reflect, daydream and simply be.
 
 Doing nothing isn't wasted time, nor does every moment need to be productive. Sometimes stepping away from the noise allows our minds to process what has happened, make connections and come up with ideas we didn't know we were looking for. So perhaps we should practise doing nothing a little more often. Sit with a cup of tea, look out of the window, take a walk without your phone or simply allow yourself to be bored. You might be surprised by what happens when you stop giving your mind something to do.
-
 
 #### Creatine & Omega-3
 
@@ -1385,7 +1257,6 @@ The Art of Doing Nothing
 
 Creatine and omega-3 fatty acids are two of the most overlooked yet essential nutrients for optimising brain function, memory, and emotional stability. Together, they form a powerful foundation for cognitive clarity, neurological protection, and long-term mental resilience.
 
-
 #### Creatine: More Than Just a Muscle Supplement
 
 Often associated with athletic performance, creatine plays a crucial role in brain energy metabolism. The brain requires vast amounts of ATP to function optimally, and creatine enhances ATP production, improving mental endurance and cognitive sharpness.
@@ -1394,13 +1265,11 @@ Often associated with athletic performance, creatine plays a crucial role in bra
 
 Omega-3 fatty acids are critical for brain development, cognitive function, and emotional regulation. Omega-3s combat inflammation, protecting neural pathways from oxidative stress as well as enhance the effectiveness of neurotransmitters like dopamine and serotonin, which are critical for focus, motivation, and emotional balance.
 
-
 #### Probiotics & Fermented Foods
 
 Probiotics & Fermented Foods
 
 Probiotics & Fermented Foods
-
 
 #### Gut-Brain Connection and Emotional Well-being
 
@@ -1412,7 +1281,6 @@ I supplement with probiotics and regularly consume fermented foods to nourish my
 - **Kefir & Yogurt** – Rich in probiotics and nutrients that improve gut integrity and reduce symptoms of anxiety or depression.
 - **Kombucha**– A fermented tea loaded with organic acids that help balance the gut and improve mental clarity.
 By focusing on gut health, I create a solid foundation for emotional stability, stress management, and overall cognitive sharpness.
-
 
 #### Cold Showers
 
@@ -1430,7 +1298,6 @@ Taking cold showers or immersing in cold water stimulates:
 - **Controlled Discomfort Training**– Strengthens my ability to remain calm under stress, making challenges in daily life feel more manageable.
 - **Improved Circulation** – Boosts oxygen delivery to the brain, supporting cognitive function and focus.
 By consistently exposing myself to cold, I train my nervous system to handle discomfort with greater ease. This daily practice fosters resilience, discipline, and a heightened mental edge.
-
 
 #### Sleep
 
@@ -1458,7 +1325,6 @@ Some strategies include:
 
 • Avoiding caffeine and alcohol near bedtime prevents sleep disturbances.
 
-
 #### Breathing
 
 Cold Showers
@@ -1473,24 +1339,13 @@ Breathwork is one of the most powerful ways to influence mental clarity, emotion
 - **Cyclic hyperventilation** – A series of rapid inhales followed by breath holds helps increase oxygenation, boost focus, and elevate energy levels.
 These techniques allow me to shift my mental state in moments, whether preparing for a deep work session or calming my mind before sleep.
 
-
 #### Walking Barefoot
-
-Walking Barefoot
-
-Walking Barefoot
 
 **Grounding for Stress Reduction and Mental Clarity**
 
 Barefoot walking isn’t just a physical practice—it’s a deeply grounding experience. Connecting with the earth reduces inflammation, enhances proprioception, and supports mood stability by reducing excess stress hormones. Whether I walk barefoot outdoors or stand on natural surfaces, this practice keeps me centered and connected.
 
-
 #### Adaptogens
-
-Walking Barefoot
-
-Walking Barefoot
-
 
 #### Stress Management and Mental Clarity
 
@@ -1502,7 +1357,6 @@ Incorporating these into my routine—whether through teas, extracts, or whole-f
 
 # Mitochondrial Health
 
-
 #### The Mitochondria Crisis
 
 I am passionate about Mitochondrial health and its pivotal role in health.
@@ -1511,28 +1365,23 @@ Every cell contains hundreds to thousands of mitochondria that convert food into
 
 Increasing evidence suggests mitochondrial dysfunction plays an important role in a large number of chronic diseases, including cardiovascular disease, diabetes, neurodegenerative disorders, and most cancers.
 
-
 #### How Mitochondria Work
 
 Inside mitochondria, the electron transport chain extracts energy from food molecules and uses it to pump protons across the inner membrane, creating an electrical gradient. This gradient powers ATP synthase, a molecular turbine that generates ATP.
 
 When functioning efficiently, this system produces remarkable amounts of energy with minimal waste. Healthy mitochondria not only provide ATP but also regulate cellular signaling, calcium balance, antioxidant defences, and programmed cell death.
 
-
 #### Two Types of Mitochondria
 
 Cells maintain two broad mitochondrial states, each optimised for different purposes.
-
 
 #### Energetic Mitochondria
 
 Energetic mitochondria prioritise ATP production and are dominant in tissues with high energy demands such as the heart, brain, muscles, and retina.
 
-
 #### Biosynthetic Mitochondria
 
 Biosynthetic mitochondria prioritise the production of cellular building blocks such as amino acids, nucleotides, and lipids required for growth and repair. They generate less ATP but support cell proliferation and tissue renewal. In healthy tissues, cells move fluidly between these states. When mitochondrial health deteriorates, however, this balance becomes disrupted and metabolic dysfunction can follow.
-
 
 #### The Mitochondrial Health Crisis
 
@@ -1541,7 +1390,6 @@ Modern lifestyles often place mitochondria under continuous stress. Excess calor
 Under normal circumstances, antioxidant systems neutralize these molecules. But chronic stress can overwhelm these defenses. The result is a vicious cycle: oxidative damage reduces ATP production, damaged mitochondria generate even more ROS, and inflammation increases throughout the body.
 
 Over time, cellular performance declines and susceptibility to chronic disease rises. Rather than emerging from a single cause, mitochondrial dysfunction is often the result of numerous small stressors accumulating over decades.
-
 
 #### Beyond Diet: Other Stressors on Mitochondria
 
@@ -1557,7 +1405,6 @@ Diet is only one factor affecting mitochondrial health. A range of environmental
 Individually, these stressors may have modest effects. Together, they can create a cumulative burden that gradually reduces mitochondrial efficiency and resilience.
 
 Please note, these have promising mechanisms, but some have yet to be confirmed in human studies.
-
 
 #### Cancer and Mitochondrial Dysfunction
 
@@ -1577,7 +1424,6 @@ Viewed through this lens, cancer can be seen partly as a disease of disrupted ce
 
 While genetics influence mitochondrial function, lifestyle choices largely determine how much stress mitochondria face throughout life. The goal is not perfection, but reducing the cumulative burden that gradually erodes cellular energy production. Here are some suggestions that are worth trying.
 
-
 #### Avoid Chronic Caloric Overload
 
 Mitochondria evolved to handle periods of abundance followed by periods of scarcity. Constant feeding, excessive calorie intake, and highly processed foods keep the electron transport chain continuously saturated.
@@ -1585,7 +1431,6 @@ Mitochondria evolved to handle periods of abundance followed by periods of scarc
 Reducing excess calorie intake, improving metabolic flexibility, and maintaining a healthy body composition can reduce mitochondrial stress, lower ROS production, and improve ATP generation efficiency.
 
 Time-restricted eating, reducing ultra-processed foods, and improving overall dietary quality can help restore metabolic balance.
-
 
 #### Prioritise Nutrient-Dense Foods
 
@@ -1629,7 +1474,6 @@ Urolithin A may further support this process by activating pathways involved in 
 
 The goal is not simply to preserve existing mitochondria, but to continuously renew the mitochondrial network so that older, inefficient organelles are replaced by more functional ones.
 
-
 #### The Unified Picture
 
 Mitochondria sit at the centre of cellular energy production, repair, adaptation, and survival. Modern life exposes them to a wide range of pressures: excess calories, sedentary behaviour, pollution, chronic stress, sleep disruption, environmental toxins, and potentially other emerging stressors.
@@ -1648,13 +1492,11 @@ Rather than searching for a single cure, the most powerful approach is often to 
 
 N-acetylcysteine, better known as NAC, is a form of the amino acid cysteine. It has been used in medicine for decades as a treatment for paracetamol overdose and as a mucolytic to help clear thick respiratory secretions. Increasingly, however, NAC is being recognised for its wider role in antioxidant defence, respiratory health and cellular resilience.
 
-
 ### Supporting the body’s master antioxidant
 
 One of NAC’s most important roles is supplying cysteine for the production of glutathione, one of the body’s principal intracellular antioxidants. Glutathione helps neutralise reactive oxygen species, protect cellular structures and maintain the delicate balance between oxidation and reduction within the body.
 
 NAC also possesses a sulphur-containing thiol group, written chemically as –SH. This allows it to participate directly in redox reactions and helps explain both its antioxidant and mucus-thinning properties. Rather than acting as a simple standalone antioxidant, NAC supports the body’s own antioxidant network by restoring the building blocks needed to make glutathione.
-
 
 ### Why NAC can help with thick mucus
 
@@ -1664,7 +1506,6 @@ The free thiol group in NAC can disrupt or rearrange these disulphide bonds. Thi
 
 It is important to clarify that disulphide bonds are not themselves antioxidants. NAC’s antioxidant action comes from its redox-active thiol group and its ability to replenish glutathione, while its interaction with disulphide bonds explains its mucolytic action.
 
-
 ### A different approach during cold and flu season
 
 NAC is not a cure for colds or influenza, and the evidence for routinely using it to prevent uncomplicated seasonal infections remains limited. Its potential value lies in supporting the environment in which recovery takes place.
@@ -1673,13 +1514,11 @@ Unlike medicines that simply lower temperature, reduce pain or constrict nasal b
 
 This does not make NAC a direct replacement for paracetamol or a decongestant. These medicines perform different jobs. NAC offers a more supportive role by working with mucus clearance rather than simply masking discomfort.
 
-
 ### Is NAC safe?
 
 Oral NAC generally has a favourable safety profile. Reviews of respiratory studies have found NAC to be well tolerated across a range of doses, although taking more does not necessarily produce a greater benefit.
 
 Anyone with asthma, a history of stomach ulcers or a bleeding disorder should seek individual advice before taking NAC. It may also interact with certain medicines, including nitrate treatments used for angina. Advice from a pharmacist or clinician is sensible during pregnancy or breastfeeding, before giving NAC to a child, or when taking regular medication.
-
 
 ### Conclusion
 
@@ -1699,7 +1538,6 @@ The strongest evidence supports its established mucolytic use and its role in sp
 - Mokra D, et al. _Advances in the use of N-acetylcysteine in chronic respiratory diseases._ Antioxidants. 2023;12(9):1713. [mdpi.com](https://www.mdpi.com/2076-3921/12/9/1713)
 
 # Omega 3
-
 
 #### Essential Fatty Acids for Brain and Emotional Health
 
@@ -1723,7 +1561,6 @@ Key Health Benefits:
 
 Every cell in the body relies on omega-3s for optimal function, particularly those within the nervous system. DHA, in particular, is highly concentrated in the brain and retina, influencing cellular signalling, nerve conduction, and synaptic plasticity.
 
-
 #### How Omega-3s Work at the Physiological Level:
 
 - **Cell Membrane Integrity**: Omega-3s integrate into cell membranes, improving fluidity and function, ensuring efficient communication between cells.
@@ -1733,7 +1570,6 @@ Every cell in the body relies on omega-3s for optimal function, particularly tho
 In essence, omega-3s help the brain stay young, sharp, and adaptable—a crucial factor in preventing cognitive decline and maintaining mental acuity throughout life.
 
 **Mental Health Benefits – Omega-3 as a Natural Antidepressant**
-
 
 #### Omega-3 vs. Prozac: A Fascinating Comparison
 
@@ -1763,12 +1599,7 @@ Always consult a healthcare professional before making significant dietary chang
 
 Balancing physical health requires a blend of mindful movement, nourishment, and recovery. My daily routine combines ancient wisdom with modern science to cultivate strength, resilience, and longevity. Here’s a closer look at the practices I incorporate each day to support my well-being.
 
-
 #### Cold Exposure
-
-Infra Red Exposure
-
-Infra Red Exposure
 
 Harnessing the Benefits of Temperature Stress for Recovery and Resilience
 
@@ -1781,15 +1612,9 @@ Taking cold showers or immersing in cold water stimulates:
 - **Improved Circulation**– Boosts nutrient delivery to the brain, supporting cognitive function and focus.
 By consistently exposing myself to cold, I train my nervous system to handle discomfort with greater ease. This daily practice fosters resilience, discipline, and a heightened mental edge.
 
-
 #### Infra Red Exposure
 
-Infra Red Exposure
-
-Infra Red Exposure
-
 Infrared light is a natural part of our environment, found in sunlight, fire and incandescent light bulbs. Far from simply producing warmth, red and near-infrared wavelengths can interact with our cells, particularly the mitochondria. Healthy mitochondrial function is fundamental to metabolic health, energy production, cellular repair and overall resilience, and research suggests that infrared exposure can influence mitochondrial activity, ATP production and important cellular signalling pathways.
-
 
 #### Backwards Walking
 
@@ -1803,7 +1628,6 @@ Walking backward is more than just an unconventional exercise—it's a powerful 
 
 [Dr Rangan Chatterjee and Lawrence van Lingen did a very informative podcasts on this topic.](https://drchatterjee.com/how-to-heal-your-body-and-mind-through-movement-the-surprising-benefits-of-walking-backwards-how-optimising-your-breath-can-transform-your-relationships-with-lawrence-van-lingen/)
 
-
 #### Flow Rope
 
 Controlled Breathwork
@@ -1816,12 +1640,7 @@ Flow rope training brings fluid, dynamic motion into my exercise routine. By inc
 
 By moving the flow rope in an upward motion in the figure of 8, it encourages a more relaxed state. It takes a while to neuroadapt to the motion but once you do, its such an easy practice. It’s a beautiful way of untangling and decompressing your nervous system and embracing a more fluid motion and relaxed core.
 
-
 #### Controlled Breathwork
-
-Controlled Breathwork
-
-Controlled Breathwork
 
 Unlocking the Power of Controlled Breath for Energy and Relaxation
 
@@ -1835,23 +1654,13 @@ I use two specific techniques:
 
 These techniques allow me to shift my mental state in moments, whether preparing for a deep work session or calming my mind before sleep.
 
-
 #### Kettlebell Training
-
-Controlled Breathwork
-
-Controlled Breathwork
 
 Building Strength, Power, and Functional Fitness
 
 Kettlebells provide a dynamic, full-body workout that combines strength training with endurance. I focus on explosive movements like swings to enhance cardiovascular health, presses to build upper-body strength, and squats for lower-body stability. This type of training fosters mobility, muscular endurance, and overall athletic performance.
 
-
 #### Ayurveda
-
-Sitting on the Floor
-
-Sitting on the Floor
 
 Honouring Ancient Healing Traditions for Holistic Health
 
@@ -1863,19 +1672,13 @@ I start the day with dry brushing to help drain my lymphatic system and focus on
 
 These small, intentional habits help harmonize my internal systems.
 
-
 #### Sitting on the Floor
-
-Sitting on the Floor
-
-Sitting on the Floor
 
 Encouraging Natural Mobility and Postural Awareness
 
 Sitting on the floor instead of chairs promotes better flexibility, joint health, and posture. Regularly changing my seated position—from cross-legged to a deep squat—keeps my body engaged, prevents stiffness, and reinforces natural movement patterns that have been lost in modern sedentary lifestyles.
 
 # Polyphenols
-
 
 #### The Colourful Side of Nutrition
 
@@ -1889,7 +1692,6 @@ Scientists have spent the last few decades trying to understand why.
 
 Increasingly, the answer appears to involve a vast family of plant compounds known as polyphenols.
 
-
 ## So What Exactly Are Polyphenols?
 
 If you've never heard of polyphenols, you're not alone.
@@ -1901,7 +1703,6 @@ That should make us pause for a moment.
 Because if foods with vastly different nutrient profiles are producing broadly similar health outcomes, perhaps we're looking beyond traditional nutrition labels for answers.
 
 In many ways, polyphenols remind us that food is far more complicated, and far more interesting, than the numbers printed on the back of a packet.
-
 
 ## Polyphenols Are Not Just Antioxidants
 
@@ -1927,7 +1728,6 @@ Polyphenols appear to interact with cellular signalling pathways, inflammation, 
 
 And that conversation becomes even more interesting when we start looking at the gut microbiome.
 
-
 ## The Part Of The Story Most People Never Hear
 
 For many years, nutrition science focused on absorption.
@@ -1946,7 +1746,6 @@ Some microbes break polyphenols down into smaller compounds that can then be abs
 
 This represents quite a shift in how we think about nutrition. Perhaps the question isn't simply what a food does for us. Perhaps it's also what that food does for the trillions of organisms living alongside us.
 
-
 ## Sometimes The Benefit Isn't What Gets Absorbed
 
 Turmeric offers a fascinating example of this idea. Most discussions around turmeric quickly turn into discussions about curcumin, the bright yellow polyphenol that gives the spice its characteristic colour. The conversation usually centres around absorption. How much gets into the bloodstream? How can absorption be increased? Should it be taken with black pepper?
@@ -1956,7 +1755,6 @@ These are interesting questions, but they may not tell the whole story.
 A significant proportion of curcumin isn't absorbed in the small intestine at all. Instead, it continues into the colon where it encounters the trillions of microbes that make up the gut microbiome. There, gut bacteria begin transforming curcumin into a range of smaller compounds that may themselves contribute to its biological effects. Researchers increasingly believe that part of turmeric's value may come from this interaction with the microbiome rather than absorption alone.
 
 In other words, we've become conditioned to think that if a compound isn't absorbed, it's somehow wasted. But many fibres and polyphenols seem to exert some of their most interesting effects precisely because they reach the colon. Rather than feeding us directly, they feed the ecosystem living within us.
-
 
 ## What Coffee Taught Us About The Microbiome
 
@@ -1976,7 +1774,6 @@ Food isn't simply delivering calories, protein, vitamins and minerals. It's inte
 
 Coffee simply provided one of the clearest examples.
 
-
 ## Polyphenols And Beneficial Gut Bacteria
 
 Much of the current excitement around polyphenols comes from their ability to shape the microbial environment within the gut.
@@ -1987,7 +1784,6 @@ One bacterium attracting particular attention is **Akkermansia muciniphila**.
 
 Although research is still evolving, higher levels of Akkermansia have been associated with favourable metabolic health and a healthier gut environment in numerous studies. Interestingly, there doesn't appear to be a single food responsible for increasing it. Instead, Akkermansia seems to thrive in the context of diverse, plant-rich diets containing a wide variety of fibres and polyphenol-rich foods. That idea comes up repeatedly in microbiome research. The gut rarely responds to a single miracle ingredient. It responds to variety.
 
-
 ## The Richest Sources Of Polyphenols
 
 The encouraging news is that polyphenols aren't hidden away in obscure superfoods costing a fortune online.
@@ -1997,7 +1793,6 @@ Many of the richest sources are foods that have been part of traditional diets f
 Berries provide colourful compounds known as anthocyanins. Coffee is one of the largest contributors of polyphenols in many Western diets. Extra virgin olive oil contains unique polyphenols often linked to the benefits of Mediterranean-style eating. Cocoa, tea, herbs, spices, legumes and deeply coloured vegetables all contribute their own collection of compounds.
 
 The foods richest in polyphenols tend to look remarkably similar to the foods your grandparents would recognise. Not powders. Just plants.
-
 
 ## How To Eat More Polyphenols Without Thinking About It
 
@@ -2031,7 +1826,6 @@ A polyphenol-rich day doesn't need to look unusual. It could be coffee and yoghu
 
 Yet across the course of a day you've exposed your body and your microbiome to hundreds of different plant compounds that would never appear on a nutrition label.
 
-
 ## Why "Eat The Rainbow" Is Better Advice Than It Sounds
 
 Health messages like "eat the rainbow" can sound simplistic.
@@ -2043,7 +1837,6 @@ Yet the science behind it is surprisingly compelling.
 The deep blue pigments in berries, the reds in cherries, the purples in red cabbage and the vibrant colours of herbs and vegetables often reflect entirely different groups of plant compounds. Different colours frequently mean different polyphenols, and different polyphenols interact with different microbial species. Viewed through that lens, colour becomes about more than appearance. Colour becomes diversity.
 
 And diversity appears to be one of the defining characteristics of a healthy microbiome.
-
 
 ## The Supplement Trap
 
@@ -2092,7 +1885,6 @@ The beneficial bacteria that support our health are known as probiotics. These m
 - Powering up our immune system—70% of which resides in the gut
 Unfortunately, modern lifestyles have disrupted the delicate balance of our gut microbiome. Poor diets, overuse of antibiotics, pesticides, and an obsession with sterility have reduced our probiotic populations and allowed harmful microbes to thrive. This imbalance has been linked to a wide range of health issues—from obesity and inflammation to dementia and mental health disorders.
 
-
 ### Why Probiotics Matter
 
 I’ve touched on probiotics throughout this website and in various blog posts, and I hope by now it’s clear: probiotics are essential for your health.
@@ -2102,7 +1894,6 @@ These beneficial microbes primarily live in our digestive tract, where they feed
 Some strains are so effective, they act like natural antibiotics, producing substances that kill harmful bacteria. Others strengthen the gut lining or even produce compounds similar to oxytocin, helping us feel calm and relaxed.
 
 We live in a symbiotic relationship with these tiny organisms. Together, we’ve evolved over millennia. The microbiome—the vast community of microbes living inside us—is crucial to nearly every aspect of our health.
-
 
 ### The Modern Threat to Our Microbiome
 
@@ -2116,7 +1907,6 @@ With refrigeration, we’ve lost touch with traditional food preservation method
 
 Ironically, in trying to avoid harmful bacteria, we’ve created the perfect environment for them to flourish inside us.
 
-
 ### Rebuilding the Balance
 
 While we can’t undo the past, we can take steps to restore and support our gut health. One of the most powerful ways to do this is by reintroducing cultured and fermented foods into our diets.
@@ -2124,7 +1914,6 @@ While we can’t undo the past, we can take steps to restore and support our gut
 By re-learning the art of fermentation, we can begin to repopulate our gut with the probiotics we’ve lost—and reclaim our health in the process.
 
 # Protein
-
 
 #### Feed Your Muscles, Not The Marketing
 
@@ -2142,7 +1931,6 @@ Protein matters.
 
 But not always for the reasons social media would have you believe.
 
-
 ## What Is Protein, Actually?
 
 Protein is one of the three major macronutrients, alongside carbohydrate and fat.
@@ -2156,7 +1944,6 @@ At its simplest level, protein is built from smaller molecules called amino acid
 These amino acids are often described as the body's building blocks, and for good reason. Everything from repairing a muscle after exercise to producing neurotransmitters in the brain depends upon them.
 
 But not all amino acids are equal.
-
 
 ## Essential, Non-Essential And Everything In Between
 
@@ -2175,7 +1962,6 @@ One amino acid deserves particular attention.
 Leucine acts almost like a biological switch for muscle protein synthesis. When sufficient leucine is present, it helps signal the body to repair and build muscle tissue. This is one reason why not all protein sources have the same effect on muscle growth and maintenance.
 
 This is also why protein quality matters.
-
 
 ## Not All Protein Is Created Equal
 
@@ -2197,7 +1983,6 @@ It simply means diversity matters.
 
 Much like the fibre and polyphenol story, the answer is rarely found in a single food.
 
-
 ## The Protein Question Most People Are Asking Wrong
 
 When people ask how much protein they need, they're usually expecting a single number.
@@ -2215,7 +2000,6 @@ Researchers and practitioners such as Andy Galpin, Andrew Huberman and Stacy Sim
 That doesn't mean everybody needs bodybuilder levels of protein.
 
 It does mean that the minimum requirement and the optimal requirement may not be the same thing.
-
 
 ## The Real Concern Isn't Protein Deficiency
 
@@ -2249,7 +2033,6 @@ Not because you're chasing visible abs.
 
 But because you're planning for your future self.
 
-
 ## Why Protein Becomes More Important As We Age
 
 One fascinating concept that keeps appearing in the research is something known as **anabolic resistance**.
@@ -2261,7 +2044,6 @@ This is one reason Stacy Sims places so much emphasis on protein intake during p
 A theme you'll hear repeated across the work of Sims, Galpin and Huberman is remarkably consistent:
 
 **Build muscle while you can. Preserve it for as long as possible.**
-
 
 ## What The Experts Actually Agree On
 
@@ -2275,7 +2057,6 @@ Protein is one area where there is actually a surprising amount of agreement.
 - Maintaining muscle becomes increasingly important with age.
 - Quality matters, particularly proteins rich in essential amino acids and leucine.
 What's interesting is that very little of this requires protein-enriched ice cream.
-
 
 ## The Protein Marketing Problem
 
@@ -2297,11 +2078,9 @@ That doesn't mean protein-added ultra-processed foods automatically become healt
 
 The question shouldn't be:
 
-
 #### "How much protein can I add?"
 
 It should be:
-
 
 #### "Where is my protein coming from?"
 
@@ -2324,7 +2103,6 @@ Tofu.
 Tempeh.
 
 These foods bring considerably more to the table than protein alone.
-
 
 ## The Takeaway...
 
@@ -2350,7 +2128,6 @@ It's how much you can keep at 80.
 
 # Resistant Starch
 
-
 #### Why a Cold Potato Isn't the Same as a Hot Potato
 
 Most people think of starch as a straightforward source of carbohydrate. But starch is surprisingly dynamic. How it's prepared can dramatically alter the way your body digests it.
@@ -2361,22 +2138,17 @@ As the food cools, some of these starch molecules begin to realign. The relative
 
 In simple terms:
 
-
 #### Cook → starch becomes highly digestible
 
-
 #### Cool → starch recrystallises
-
 
 #### Recrystallised starch → resistant starch
 
 This explains why cooled potatoes, rice and pasta often produce a lower blood glucose response than their freshly cooked equivalents.
 
-
 ## The Five Types of Resistant Starch
 
 Resistant starch isn't a single substance. It's a group of starches that resist digestion for different reasons.
-
 
 ### RS1: Physically Protected Starch
 
@@ -2390,7 +2162,6 @@ Examples include:
 - Coarsely milled cereals
 Grinding, blending and extensive processing can reduce RS1 because the starch becomes more accessible.
 
-
 ### RS2: Native Resistant Starch
 
 RS2 occurs naturally when starch granules have a tightly packed crystalline structure that human digestive enzymes struggle to break down.
@@ -2402,7 +2173,6 @@ Examples include:
 - Some legumes
 - High-amylose maize
 As bananas ripen, much of this resistant starch is converted into sugar. This is why a green banana behaves very differently metabolically from a ripe one.
-
 
 ### RS3: Retrograded Resistant Starch
 
@@ -2420,7 +2190,6 @@ Examples include:
 - Overnight oats
 This is arguably the easiest form of resistant starch to increase in an everyday diet.
 
-
 ### RS4: Chemically Modified Resistant Starch
 
 RS4 is created through industrial food processing. Manufacturers chemically modify starch molecules to make them less digestible.
@@ -2433,7 +2202,6 @@ These starches are commonly used in:
 - Low-carbohydrate manufactured foods
 Although technically a resistant starch, it differs substantially from the naturally occurring forms found in whole foods.
 
-
 ### RS5: Amylose-Lipid Complexes
 
 RS5 forms when amylose binds to fats and creates a structure that digestive enzymes struggle to access.
@@ -2445,7 +2213,6 @@ This can occur when starches are cooked in the presence of fats such as:
 - Coconut oil
 This is a relatively newer classification but is becoming an area of increasing research interest because it appears to combine some of the benefits of resistant starch formation with everyday cooking practices.
 
-
 ## Which Types Should We Be Eating?
 
 From a health perspective, the most practical sources are generally:
@@ -2456,7 +2223,6 @@ From a health perspective, the most practical sources are generally:
 These forms occur naturally and have been consumed throughout human history. They also appear to be readily fermented by gut microbes, producing beneficial compounds such as butyrate.
 
 While resistant starch is often discussed as a single nutrient, the reality is that a green banana, a lentil and a cold potato all contain resistant starch for completely different structural reasons. Understanding those differences helps explain why food preparation can be just as important as food choice itself.
-
 
 ### Which Foods Form The Most?
 
@@ -2471,13 +2237,11 @@ Good examples include:
 - Oats
 Interestingly, repeated heating and cooling cycles may increase resistant starch formation even further, as each cycle provides another opportunity for starch molecules to reorganise into stable crystalline structures.
 
-
 ### What Happens When You Reheat It?
 
 Contrary to popular belief, resistant starch isn't completely destroyed by reheating.
 
 Once RS3 has formed, a significant proportion remains intact during gentle reheating. This means reheated leftover potatoes, rice or pasta typically still contain more resistant starch than when they were first cooked and eaten hot.
-
 
 ### So Would Eating A Raw Potato Have The Same Effect?
 
@@ -2495,7 +2259,6 @@ Cooking destroys most RS2 but greatly improves digestibility and nutrient availa
 
 Interestingly, green bananas are one of the richest natural sources of resistant starch available. As they ripen, much of that resistant starch is converted into sugar.
 
-
 ### What About Uncooked Pasta?
 
 Not really.
@@ -2503,7 +2266,6 @@ Not really.
 Uncooked pasta is certainly harder to digest because the starch granules remain largely ungelatinised, but it doesn't provide the same benefits as retrograded resistant starch formed after cooking and cooling.
 
 The starch is physically inaccessible rather than intentionally transformed into a beneficial fermentable substrate. Eating dry pasta is also unlikely to be particularly enjoyable and may cause digestive discomfort.
-
 
 ### Why Does Any Of This Matter?
 
@@ -2538,9 +2300,7 @@ Perhaps the most fascinating takeaway is that a potato doesn't need to become a 
 
 # Sleep Strategies
 
-
 ## Optimizing Sleep
-
 
 #### The Power of Sunlight, Herbs, and Smart Lifestyle Choices
 
@@ -2550,9 +2310,7 @@ In today’s fast-paced world, quality sleep is more essential than ever for mai
 
 Morning sunlight is one of the most effective tools for synchronizing your body’s internal clock. Stepping outside shortly after waking exposes your eyes and skin to low-angle sunlight, which plays a crucial role in regulating the circadian rhythm. This early light suppresses melatonin—the hormone responsible for sleep—helping you feel alert during the day. Additionally, it interacts with the adenosine system, which builds up over the day and signals sleepiness around 16 hours later. By setting this physiological timer early in the morning, your body is naturally primed for high-quality sleep later in the evening.
 
-
 #### The Benefits of Sunset Exposure
-
 
 #### Limiting Evening Light Exposure
 
@@ -2567,7 +2325,6 @@ Herbal solutions have been used for centuries to enhance relaxation and sleep.
 • **Valerian Root**: Known for its sedative effects, valerian relaxes the nervous system and reduces the time needed to fall asleep.
 
 • **Passionflower**: Supports GABA activity in the brain, helping quiet mental chatter and encourage a restful state.
-
 
 #### The Role of Magnesium and L-Theanine
 
@@ -2603,16 +2360,13 @@ By incorporating these practices into your daily routine, you can significantly 
 
 By aligning your daily habits with these natural principles, you can create a sustainable and effective strategy for better sleep. Whether you’re seeking deeper rest, improved mood, or better cognitive function, these adjustments can help you thrive in a fast-paced world while ensuring you wake up refreshed and ready to take on the day.
 
-
 ## References
 
 - Just as morning sunlight kickstarts your daily rhythm, viewing low-angle sunlight at sunset helps reinforce this cycle. The shifting wavelengths of light signal to your brain that the day is winding down, supporting the gradual onset of melatonin production. Spending time outside during sunset also fosters relaxation and mental clarity, promoting a smoother transition into nighttime rest.
 
 # Supplements %26 Adaptogens
 
-
 ## My favourite supplements and adaptogens
-
 
 #### Creatine Supplementation
 
@@ -2625,7 +2379,6 @@ Fuelling Strength, Brain Function, and Energy
 Creatine is often associated with athletic performance, but its benefits extend far beyond muscle growth. It enhances cognitive function, supports ATP energy production, and aids in recovery, helping me stay sharp, energised, and strong throughout the day. There is also growing evidence of its protective effects of age-related cognitive decline.
 
 I take this daily and feel it makes me feel more energised.
-
 
 #### Collagen & Hyaluronic Acid
 
@@ -2643,7 +2396,6 @@ We can’t make the components of collagen or hyaloronic acid, so consuming them
 
 I obtain these compounds through bone broths, collagen and hyaluronic acid supplements, and foods rich in amino acids that support natural collagen production.
 
-
 #### NAC
 
 Collagen & Hyaluronic Acid
@@ -2660,7 +2412,6 @@ I take these supplements during flu season and if I feel the start of a cold.
 
 It is also an effective mucolytic, so likely a far less harmful addition to your cold and flu cabinet than typical decongestants like Sudafed.
 
-
 #### Omega-3
 
 Medicinal Mushrooms
@@ -2671,12 +2422,7 @@ Essential Fatty Acids for Brain and Emotional Health
 
 Omega-3 fatty acids are critical for brain development, cognitive function, and emotional regulation.
 
-
 #### Ashwagandha
-
-Medicinal Mushrooms
-
-Medicinal Mushrooms
 
 Ashwagandha (\*Withania somnifera\*) is one of the most researched adaptogens, meaning it helps the body manage stress by regulating cortisol, the primary stress hormone.
 
@@ -2686,12 +2432,7 @@ Ashwagandha (\*Withania somnifera\*) is one of the most researched adaptogens, m
 
 \- Protects against chronic stress and fatigue, boosting resilience.
 
-
 #### Medicinal Mushrooms
-
-Medicinal Mushrooms
-
-Medicinal Mushrooms
 
 Medicinal mushrooms play a pivotal role in enhancing cognitive function, neurogenesis, and emotional stability. Each type offers unique benefits:
 
@@ -2702,7 +2443,6 @@ Medicinal mushrooms play a pivotal role in enhancing cognitive function, neuroge
 · **Cordyceps** – Increases energy production and oxygen utilization, making it beneficial for mental endurance and stress resilience.
 
 · **Chaga** – A powerful antioxidant that protects against oxidative stress, helping to reduce mental fatigue and support long-term brain health.
-
 
 #### Magnesium & L-Theanine
 
@@ -2718,16 +2458,13 @@ By prioritising sleep hygiene and supporting relaxation, I ensure my brain gets 
 
 # Wellnous Kombucha
 
-
 ## Traditionally Brewed. Unpasteurised. Full of Life.
 
 Most kombucha on supermarket shelves looks similar. Many even sit in the chilled section. But not all kombucha is made the same way.
 
 At Wellnous, every bottle is naturally fermented in small batches using traditional brewing methods, just as kombucha has been made for generations. The result is a refreshing, lightly sparkling drink with a depth of flavour and complexity that mass-produced products often struggle to match.
 
-
 ### What Makes Wellnous Kombucha Different?
-
 
 #### Truly Unpasteurised
 
@@ -2735,13 +2472,11 @@ Many commercial kombuchas are pasteurised or heat-treated at some stage of produ
 
 Wellnous Kombucha is never pasteurised. It remains a living fermented drink.
 
-
 #### Small Batch Brewing
 
 Large-scale production often prioritises consistency and speed. We prioritise quality.
 
 Each batch is carefully monitored and fermented slowly, allowing the culture sufficient time to develop the complex flavours, organic acids and fermentation compounds that make kombucha unique.
-
 
 #### Less About Sweetness, More About Fermentation
 
@@ -2755,7 +2490,6 @@ We start with quality tea, filtered water, sugar and an active SCOBY culture. Na
 No artificial colours. No artificial sweeteners. No unnecessary additives.
 
 Just real fermentation and real ingredients.
-
 
 ## More Than Just a Soft Drink
 
@@ -2780,7 +2514,6 @@ You're not paying for a national marketing campaign or a multinational beverage 
 
 You're buying from someone who brews every batch with the same care and attention that started as a passion for fermentation at home.
 
-
 ## Available Flavours
 
 Our flavours change throughout the year, but favourites often include:
@@ -2799,7 +2532,6 @@ As an unpasteurised fermented product, every bottle contains a living culture. Y
 
 Store refrigerated and enjoy chilled.
 
-
 ### Why Choose Wellnous Kombucha?
 
 - Traditionally fermented
@@ -2810,7 +2542,6 @@ Store refrigerated and enjoy chilled.
 - Authentic living kombucha
 - Crafted by people passionate about fermentation, not mass production
 **Experience kombucha as it was intended to be. Naturally fermented, full of character, and genuinely refreshing.**
-
 
 > The information provided on this website is for general educational purposes only and should not be considered medical advice. Wellnous Kombucha is a food product and is not intended to diagnose, treat, cure or prevent any disease. Individual experiences may vary. Always seek advice from a qualified healthcare professional regarding medical conditions or dietary concerns.
 
@@ -2852,9 +2583,7 @@ Perhaps most importantly, kefir is more than just a source of probiotics. It is 
 
 (2) [https://www.nature.com/articles/s41598-020-73651-7](https://www.nature.com/articles/s41598-020-73651-7)
 
-
 ## How to make Milk Kefir
-
 
 #### MILK KEFIR GRAINS
 
@@ -2863,7 +2592,6 @@ For more information on the grains, [click here](https://wellnous.godaddysites.c
 Once you have sourced your Kefir Grains, they can sometimes take a little while to get used to their new environment. I think of them as a pet! If you're a fish keeper, you'll also know what I mean!
 
 But these little grains sometimes need to "wake up" if they've been refrigerated or frozen or transported.
-
 
 #### WHAT YOU'LL NEED
 
@@ -2884,11 +2612,9 @@ But these little grains sometimes need to "wake up" if they've been refrigerated
 - Wash the glass and add the grains back to more milk.
 I would recommend using less milk for the first week to give the grains chance to wake up and multiply. Otherwise they may not be strong enough to ward off other microbes in the milk.
 
-
 #### SECOND FERMENTATION
 
 If you fancy a different flavour or fizziness, then you can add some lemon peel or other fruit and leave sealed for 24hours.
-
 
 #### GROWING GRAINS
 
@@ -2914,9 +2640,7 @@ Water kefir grains are added to sugar water and left to ferment for 24-72 hours.
 
 Refreshing, inexpensive, endlessly customisable and packed with microbial goodness, water kefir is one of the easiest ways to bring more fermented foods into your diet and support your microbiome one glass at a time.
 
-
 ## HOW TO MAKE WATER KEFIR
-
 
 #### GET SOME GOOD QUALITY ORGANIC GRAINS
 
@@ -2929,7 +2653,6 @@ I bought my organic water kefir grains from a lovely seller on ETSY called Kefir
 Otherwise, you may be lucky on the the Fermenting Friends group or local marketplace.
 
 If it seems daunting, please drop me a message and we can arrange a call to go through it. If you live local, I can share my starter grains with you!!
-
 
 #### WHAT YOU'LL NEED
 
@@ -2961,7 +2684,6 @@ If it seems daunting, please drop me a message and we can arrange a call to go t
 
 # Fermented Vegetables
 
-
 #### PICKLES ANYONE?
 
 You can basically ferment anything!
@@ -2980,22 +2702,15 @@ This acid makes it too acidic for harmful bacteria to survive but allows the ben
 
 This also starts to break down the foods, making the vegetables easier to digest. This also releases and converts compounds into a whole host of beneficial vitamins, enzymes and bioactive chemicals such as vitamin C. Far more than the original starting vegetable.
 
-
 ## How to ferment your veggies
 
-
 #### GARLIC HONEY
-
-FERMENTING WITH JUST SALT
-
-FERMENTING WITH JUST SALT
 
 This is based off the recipe from [https://www.growforagecookferment.com/fermented-honey-garlic/](https://www.growforagecookferment.com/fermented-honey-garlic/%C2%A0)
 
 Both Honey and Garlic are powerhouses for immune system boosting. Garlic and Honey are full of prebiotics and polyphenols that are hugely beneficial to your gut microbiome and therefore your overall immunity.
 
 Fermenting them both together is a wonderful way to give yourself a boost when you're feeling poorly.
-
 
 #### WHAT TO DO
 
@@ -3009,10 +2724,6 @@ Fermenting them both together is a wonderful way to give yourself a boost when y
 
 #### FERMENTING WITH JUST SALT
 
-FERMENTING WITH JUST SALT
-
-FERMENTING WITH JUST SALT
-
 Using just salt. The salt keeps the harmful pathogens at bay while allowing the probiotics to do their thing.
 
 There are many recipes out there for common fermenting foods.
@@ -3020,7 +2731,6 @@ There are many recipes out there for common fermenting foods.
 I love Fermented Cabbage a.k.a. **Saurkraut**
 
 I find the BBC recipe to be just great. [https://www.bbcgoodfood.com/recipes/simple-sauerkraut](https://www.bbcgoodfood.com/recipes/simple-sauerkraut)
-
 
 #### WHAT TO DO
 
@@ -3034,7 +2744,6 @@ I find the BBC recipe to be just great. [https://www.bbcgoodfood.com/recipes/sim
 - Leave to ferment for around 2-6 weeks.
 - Keep an eye on the ferment and remove any scum build up.
 Salt can be used for almost all vegetables, in a similar way. Alter the ferment time depending on how soft the veggies are.
-
 
 #### FERMENTING USING WHEY
 
@@ -3053,7 +2762,6 @@ This is probably my favourite option for softer vegetables such as tomatoes. Eve
 Add around 2Tbsp of Whey to a 1L jar of vegetables and add the rest as filtered water to submerge.
 
 You can add a little salt to keep the vegetables crunchy.
-
 
 #### WHAT YOU'LL NEED:
 
@@ -3080,7 +2788,6 @@ I use this method for my mixed vegetable ferments.
 
 # Probiotic Yogurts
 
-
 #### Taking Fermented Foods to the Next Level
 
 Traditional yogurt is one of the world's oldest fermented foods, transforming milk into a nutrient-rich food that's often easier to digest than milk itself. During fermentation, beneficial bacteria consume lactose, produce lactic acid and create compounds that contribute to yogurt's flavour, texture and health benefits. Alongside providing protein, calcium and other nutrients, yogurt can be a valuable source of live microbes that help support a healthy gut microbiome.
@@ -3097,9 +2804,7 @@ The key is sourcing the correct probiotic strain and using a yogurt maker capabl
 
 For the creamiest results, I use organic full-fat UHT milk, organic double cream and potato starch as a fermentation substrate. The result is a thick, tangy, delicious fermented food that delivers far more than taste alone. For anyone interested in supporting their microbiome, it's a fascinating experiment and a natural progression from making traditional homemade yogurt.
 
-
 ## How to make the yogurt
-
 
 #### My Method and Basic Overview
 
@@ -3123,7 +2828,6 @@ What to do
 
 ## More on the specific strains...
 
-
 #### L. reuteri
 
 The strain most people use for yogurt making is L. reuteri DSM 17938, often alongside L. reuteri ATCC PTA 6475, which are found in BioGaia Gastrus tablets. These are the strains Dr. Davis discusses in Super Gut. BioGaia's L. reuteri strains are among the most extensively studied probiotic strains available.
@@ -3138,7 +2842,6 @@ Gut barrier integrity
 
 Gut-brain axis interactions
 
-
 #### L. casei
 
 When people refer to L. casei, the best-known researched strain is Lacticaseibacillus paracasei Shirota (formerly Lactobacillus casei Shirota), the probiotic found in Yakult. It is one of the most researched probiotic strains worldwide.
@@ -3152,7 +2855,6 @@ Immune support
 Reduced risk of antibiotic-associated diarrhoea
 
 Improved bowel regularity
-
 
 #### L. gasseri
 
@@ -3170,13 +2872,11 @@ Blood sugar regulation support
 
 # Kimchi
 
-
 #### This Korean dish is a powerhouse of probiotics
 
 Kimchi is well known for it's probiotic content. As indicated in previous sections, these probiotics have a range of health benefits including helping your immune system, improving your mental health as well as helping your digestion and reducing inflammation. It's various methods and ingredients as well as traditional methods of fermentation results in a very unami, spicy, weirdly addictive flavour and crunchy texture. As Kimchi usually includes far more vegetables than other fermented products, it should contain a wide range of vitamins, such as A, B, C, and K, and minerals like calcium, iron, phosphorus, and selenium. There is also a high amount of fibre in Kimchi which will support your microbiome. More importantly, is delicious!
 
 If it seems daunting, please drop me a message and we can arrange a call to go through it :)
-
 
 #### WHAT YOU'LL NEED
 
@@ -3210,7 +2910,6 @@ Food processor
 
 1 teaspoon of **Oyster/Noyster sauce**
 
-
 #### STAGE 1
 
 Salt the cabbage:
@@ -3221,25 +2920,21 @@ Toss with the salt and about 230ml water in a large bowl.
 
 Let stand for 2 hours, tossing the cabbage every 30 minutes to salt evenly.
 
-
 #### STAGE 2
 
 Make the kimchi sauce:
 
 Add the Sugar, Garlic cloves, Ginger, White parts of the onions, Gochu-garu, Fish Sauce, Soy sauce and Oyster/Noyster sauce
 
-
 #### STAGE 3
 
 Wash the salted cabbage: Rinse the cabbage a number of times with cold running water to remove any dirt and excess salt and let drain
-
 
 #### STAGE 4
 
 Add the cabbage, radish matchsticks, spring onion, and carrot to your large bowl and add the kimchi paste and mix all together by hand.
 
 Transfer to your airtight jar. Press down the on the kimchi so it’s well packed and no air can get inside, then put the lid.
-
 
 #### STAGE 5
 
@@ -3281,9 +2976,7 @@ Once you've made your first batch, you'll wonder why it ever seemed complicated.
 
 (1) [https://www.sciencedirect.com/science/article/abs/pii/S0308814622006811](https://www.sciencedirect.com/science/article/abs/pii/S0308814622006811)
 
-
 ## Steps for continuous brewing
-
 
 #### NOURISH THE STARTER
 
@@ -3292,7 +2985,6 @@ Once you have your starter SCOBY (and/or pellicle) you want to get it super stro
 DO NOT MISS THIS STEP!!!
 
 The most common reason for contamination is the kombucha not being strong and acidic enough to ward off any yeast or contaminants from the air/surfaces.
-
 
 #### WHAT YOU'LL NEED
 
@@ -3351,7 +3043,6 @@ You should have about 2L of Kombucha now.
 
 Depending on the size of your vessel, this will determine how much you add.
 
-
 #### LETS MAKE KOMBUCHA
 
 For every 1L I usually add around 90g of Cane Sugar and 4Tea Bags
@@ -3379,7 +3070,6 @@ So if you want to get your brew to 4 liters, let's do the following
 - For every 1L I usually add around 90g of Cane Sugar and 4Tea Bags
 - Make sure the water you add has been cooled down with cold water.
 If your Kombucha gets very acidic, draw off most of it, leaving around 10%, then fill that back up - its probably just too strong/active.
-
 
 #### FLAVOURS
 
