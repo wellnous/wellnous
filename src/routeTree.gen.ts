@@ -10,33 +10,74 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as KombuchaRouteImport } from './routes/kombucha'
+import { Route as NutritionRouteImport } from './routes/nutrition'
+import { Route as PhysicalRouteImport } from './routes/physical'
+import { Route as SupplementsRouteImport } from './routes/supplements'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const KombuchaRoute = KombuchaRouteImport.update({
+  id: '/kombucha',
+  path: '/kombucha',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const NutritionRoute = NutritionRouteImport.update({
+  id: '/nutrition',
+  path: '/nutrition',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PhysicalRoute = PhysicalRouteImport.update({
+  id: '/physical',
+  path: '/physical',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const SupplementsRoute = SupplementsRouteImport.update({
+  id: '/supplements',
+  path: '/supplements',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/kombucha': typeof KombuchaRoute
+  '/nutrition': typeof NutritionRoute
+  '/physical': typeof PhysicalRoute
+  '/supplements': typeof SupplementsRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/kombucha': typeof KombuchaRoute
+  '/nutrition': typeof NutritionRoute
+  '/physical': typeof PhysicalRoute
+  '/supplements': typeof SupplementsRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/kombucha': typeof KombuchaRoute
+  '/nutrition': typeof NutritionRoute
+  '/physical': typeof PhysicalRoute
+  '/supplements': typeof SupplementsRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths: '/' | '/kombucha' | '/nutrition' | '/physical' | '/supplements'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to: '/' | '/kombucha' | '/nutrition' | '/physical' | '/supplements'
+  id:
+    '__root__' | '/' | '/kombucha' | '/nutrition' | '/physical' | '/supplements'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  KombuchaRoute: typeof KombuchaRoute
+  NutritionRoute: typeof NutritionRoute
+  PhysicalRoute: typeof PhysicalRoute
+  SupplementsRoute: typeof SupplementsRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -48,11 +89,43 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/kombucha': {
+      id: '/kombucha'
+      path: '/kombucha'
+      fullPath: '/kombucha'
+      preLoaderRoute: typeof KombuchaRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/nutrition': {
+      id: '/nutrition'
+      path: '/nutrition'
+      fullPath: '/nutrition'
+      preLoaderRoute: typeof NutritionRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/physical': {
+      id: '/physical'
+      path: '/physical'
+      fullPath: '/physical'
+      preLoaderRoute: typeof PhysicalRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/supplements': {
+      id: '/supplements'
+      path: '/supplements'
+      fullPath: '/supplements'
+      preLoaderRoute: typeof SupplementsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  KombuchaRoute: KombuchaRoute,
+  NutritionRoute: NutritionRoute,
+  PhysicalRoute: PhysicalRoute,
+  SupplementsRoute: SupplementsRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
