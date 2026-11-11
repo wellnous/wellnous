@@ -190,7 +190,7 @@ function Render({ n, compact }: { n: Node; compact?: boolean }) {
     );
   }
   return (
-    <div className="grid gap-4 py-1 md:grid-cols-2">
+    <div className="grid items-start gap-4 py-1 md:grid-cols-2">
       {n.cards.map((c, i) => <Card key={i} title={c.title} body={c.body} index={i} />)}
     </div>
   );
