@@ -234,8 +234,6 @@ export function ArticleBody({ article }: { article: Article }) {
           </ol>
         </section>
       )}
-
-      <Link to="/articles/$slug" params={{ slug: "cultured-foods" }} className="hidden" />
     </>
   );
 }
