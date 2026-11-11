@@ -7,9 +7,9 @@ import { Leaf, Activity, Pill, ArrowRight } from "lucide-react";
 export const Route = createFileRoute("/")({
   head: () => ({ meta: [
     { title: "Wellnous — Health & Wellness Knowledge Hub" },
-    { name: "description", content: "Digestible, card-based guides to everyday nutrition, physical protocols and supplements." },
+    { name: "description", content: "Bridging health science and everyday life — practical, science-informed approaches to nutrition, movement and supplements." },
     { property: "og:title", content: "Wellnous — Health & Wellness Knowledge Hub" },
-    { property: "og:description", content: "Digestible, card-based guides to everyday nutrition, physical protocols and supplements." },
+    { property: "og:description", content: "Bridging health science and everyday life — practical, science-informed approaches to nutrition, movement and supplements." },
   ]}),
   component: Index,
 });
