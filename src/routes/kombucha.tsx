@@ -1,4 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
+import { getArticle } from "@/data/articles";
+import { ArticleBody } from "@/components/ArticleBody";
 import { SiteHeader, SiteFooter, Chip } from "@/components/HubUI";
 
 export const Route = createFileRoute("/kombucha")({
@@ -19,12 +21,8 @@ function Kombucha() {
         <Chip>A little side project</Chip>
         <h1 className="mt-4 font-display text-5xl font-semibold tracking-tight">Wellnous Kombucha</h1>
         <p className="mt-4 text-lg text-muted-foreground">Our small-batch kombucha puts the fermented-foods lessons from the hub into a bottle: real tea, live cultures and a gentle fizz.</p>
-        <div className="mt-8 grid gap-4 sm:grid-cols-3">
-          {[["Live cultures", "Unpasteurised and naturally fermented."], ["Low sugar", "Most sugar is eaten by the culture."], ["Small batch", "Brewed slowly, by hand."]].map(([t, d]) => (
-            <div key={t} className="rounded-2xl border bg-card p-5"><p className="font-display text-lg font-semibold">{t}</p><p className="mt-1 text-sm text-muted-foreground">{d}</p></div>
-          ))}
-        </div>
-        <Link to="/nutrition" className="mt-10 inline-block text-sm font-medium text-primary hover:underline">← Read about gut health & fermented foods</Link>
+        <ArticleBody article={getArticle("wellnous-kombucha")!} />
+        <Link to="/articles/$slug" params={{ slug: "cultured-foods" }} className="mt-10 inline-block text-sm font-medium text-primary hover:underline">← Read about gut health & fermented foods</Link>
       </section>
       <SiteFooter />
     </div>

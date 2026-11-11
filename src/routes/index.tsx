@@ -1,6 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { pillars, quickWins } from "@/data/hub";
 import { SiteHeader, SiteFooter, TrayRow, Chip } from "@/components/HubUI";
+import logo from "@/assets/wellnous_logo.png.asset.json";
 import { Leaf, Activity, Pill, ArrowRight } from "lucide-react";
 
 export const Route = createFileRoute("/")({
@@ -26,6 +27,7 @@ function Index() {
           <h1 className="mt-4 max-w-3xl font-display text-5xl font-semibold leading-[1.05] tracking-tight sm:text-7xl">
             Wellness, one <em className="text-primary">small card</em> at a time.
           </h1>
+          <img src={logo.url} alt="" aria-hidden className="pointer-events-none absolute right-5 top-16 hidden w-80 opacity-90 lg:block" />
           <p className="mt-6 max-w-xl text-lg text-muted-foreground">Clear, practical lessons on what you eat, how you move and what you supplement — built to skim, save and actually use.</p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link to="/nutrition" className="inline-flex items-center gap-2 rounded-full bg-primary px-6 py-3 text-sm font-medium text-primary-foreground hover:bg-primary/90">Start learning <ArrowRight className="h-4 w-4" /></Link>
@@ -35,12 +37,12 @@ function Index() {
       </section>
 
       <section className="mx-auto grid max-w-6xl gap-4 px-5 md:grid-cols-3">
-        {pillars.map((p) => { const I = icons[p.slug]; const n = p.trays.reduce((a, t) => a + t.topics.length, 0); return (
+        {pillars.map((p) => { const I = icons[p.slug]; const n = p.trays.reduce((a, t) => a + t.slugs.length, 0); return (
           <Link key={p.slug} to={`/${p.slug}`} className="group rounded-3xl border bg-card p-6 shadow-soft transition-transform hover:-translate-y-1">
             <span className="inline-flex h-11 w-11 items-center justify-center rounded-2xl bg-secondary text-primary"><I className="h-5 w-5" /></span>
             <h2 className="mt-5 font-display text-2xl font-semibold">{p.title}</h2>
             <p className="mt-2 text-sm text-muted-foreground">{p.intro}</p>
-            <p className="mt-5 flex items-center justify-between text-sm font-medium text-primary">{n} topic cards <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" /></p>
+            <p className="mt-5 flex items-center justify-between text-sm font-medium text-primary">{n} articles <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" /></p>
           </Link>
         ); })}
       </section>
