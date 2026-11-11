@@ -3,7 +3,7 @@ import { getBlogPost, blogPosts } from "@/data/blog";
 import { SiteHeader, SiteFooter } from "@/components/HubUI";
 import { ArticleBody } from "@/components/ArticleBody";
 
-export const Route = createFileRoute("/blog_/$slug")({
+export const Route = createFileRoute("/blog/$slug")({
   loader: ({ params }) => {
     const post = getBlogPost(params.slug);
     if (!post) throw notFound();
