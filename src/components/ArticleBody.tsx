@@ -1,12 +1,11 @@
 import type { Article, Block } from "@/data/articles";
-import { Link } from "@tanstack/react-router";
 
 type Node =
   | { kind: "h"; level: number; text: string }
   | { kind: "p"; text: string }
   | { kind: "list"; items: string[] }
   | { kind: "quote"; text: string }
-  | { kind: "cards"; cards: { title: string; body: Node[] }[] };
+  | { kind: "cards"; stacked?: boolean; cards: { title: string; body: Node[] }[] };
 
 const anchor = (s: string) =>
   s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
@@ -34,7 +33,7 @@ function Rich({ text }: { text: string }) {
 
 /* ---------- structure ---------- */
 
-function toNodes(blocks: Block[]): Node[] {
+function toNodes(blocks: Block[], stackedSections = false): Node[] {
   const flat: Node[] = [];
   for (const b of blocks) {
     if (b.type === "li") {
@@ -58,26 +57,28 @@ function toNodes(blocks: Block[]): Node[] {
   const out: Node[] = [];
   let cards: { title: string; body: Node[] }[] = [];
   const flush = () => {
-    if (cards.length >= 2) out.push({ kind: "cards", cards });
+    if (cards.length >= 2 || (stackedSections && cards.length > 0)) out.push({ kind: "cards", cards, stacked: stackedSections });
     else if (cards.length === 1) {
-      const only = cards[0]!;
-      out.push({ kind: "h", level: 3, text: only.title }, ...only.body);
+      const only = cards[0];
+      if (only) out.push({ kind: "h", level: 3, text: only.title }, ...only.body);
     }
     cards = [];
   };
 
   for (let i = 0; i < flat.length; i++) {
-    const n = flat[i]!;
+    const n = flat[i];
+    if (!n) continue;
     if (n.kind === "h" && n.level >= 3) {
       const body: Node[] = [];
       let j = i + 1;
       for (; j < flat.length; j++) {
-        const m = flat[j]!;
+        const m = flat[j];
+        if (!m) continue;
         if (m.kind === "h" && m.level <= n.level) break;
         body.push(m);
       }
       const words = body.reduce((a, x) => a + (x.kind === "list" ? x.items.join(" ") : x.kind === "p" ? x.text : "").split(/\s+/).length, 0);
-      if (words > 0 && words < 130) {
+      if (words > 0 && (stackedSections || words < 130)) {
         cards.push({ title: n.text, body });
         i = j - 1;
         continue;
@@ -87,7 +88,8 @@ function toNodes(blocks: Block[]): Node[] {
       continue;
     }
     if (n.kind === "h" && n.level === 2) { flush(); out.push(n); continue; }
-    if (cards.length && n.kind !== "h") { cards[cards.length - 1]!.body.push(n); continue; }
+    const lastCard = cards[cards.length - 1];
+    if (lastCard && n.kind !== "h") { lastCard.body.push(n); continue; }
     flush();
     out.push(n);
   }
@@ -153,14 +155,14 @@ function Note({ text }: { text: string }) {
   );
 }
 
-function Card({ title, body, index }: { title: string; body: Node[]; index: number }) {
+function Card({ title, body, index, roomy = false }: { title: string; body: Node[]; index: number; roomy?: boolean }) {
   return (
-    <article id={anchor(title)} className="flex scroll-mt-24 flex-col rounded-2xl border bg-card p-6 shadow-soft">
+    <article id={anchor(title)} className={`flex scroll-mt-24 flex-col border bg-card shadow-soft ${roomy ? "rounded-lg p-5 sm:p-8" : "rounded-2xl p-6"}`}>
       <div className="mb-3 flex items-center gap-3">
         <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-primary/12 font-display text-sm font-semibold text-primary">{index + 1}</span>
         <h3 className="font-display text-xl font-semibold leading-snug text-foreground">{title}</h3>
       </div>
-      <div className="space-y-3 text-[15px] leading-relaxed text-foreground/85">
+      <div className={`leading-relaxed text-foreground/85 ${roomy ? "space-y-4 text-base" : "space-y-3 text-[15px]"}`}>
         {body.map((b, j) => <Render key={j} n={b} compact />)}
       </div>
     </article>
@@ -190,8 +192,8 @@ function Render({ n, compact }: { n: Node; compact?: boolean }) {
     );
   }
   return (
-    <div className="grid items-start gap-4 py-1 md:grid-cols-2">
-      {n.cards.map((c, i) => <Card key={i} title={c.title} body={c.body} index={i} />)}
+    <div className={`grid items-start py-1 ${n.stacked ? "gap-6" : "gap-4 md:grid-cols-2"}`}>
+      {n.cards.map((c, i) => <Card key={i} title={c.title} body={c.body} index={i} roomy={Boolean(n.stacked)} />)}
     </div>
   );
 }
@@ -201,7 +203,7 @@ function Render({ n, compact }: { n: Node; compact?: boolean }) {
 export function ArticleBody({ article }: { article: Article }) {
   const blocks = article.blocks.filter((b) => !(b.type === "li" && isRef(b.text)));
   const hasLead = Boolean(article.standfirst) && blocks[0]?.type === "h" && blocks[0]?.text === article.standfirst;
-  const nodes = toNodes(hasLead ? blocks.slice(1) : blocks);
+  const nodes = toNodes(hasLead ? blocks.slice(1) : blocks, article.slug === "feeding-your-body");
   const sections = nodes.filter((n): n is Extract<Node, { kind: "h" }> => n.kind === "h" && n.level === 2);
   const cardTitles = nodes.flatMap((n) => (n.kind === "cards" ? n.cards.map((c) => c.title) : []));
   const navItems = sections.length > 2 ? sections.map((s) => s.text) : cardTitles.length > 2 ? cardTitles : [];
