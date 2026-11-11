@@ -1,7 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { getArticle } from "@/data/articles";
 import { ArticleBody } from "@/components/ArticleBody";
-import { SiteHeader, SiteFooter, Chip } from "@/components/HubUI";
+import { SiteHeader, SiteFooter } from "@/components/HubUI";
 
 export const Route = createFileRoute("/kombucha")({
   head: () => ({ meta: [
