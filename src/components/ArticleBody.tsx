@@ -155,7 +155,7 @@ function Note({ text }: { text: string }) {
 
 function Card({ title, body, index }: { title: string; body: Node[]; index: number }) {
   return (
-    <article className="flex flex-col rounded-2xl border bg-card p-6 shadow-soft">
+    <article id={anchor(title)} className="flex scroll-mt-24 flex-col rounded-2xl border bg-card p-6 shadow-soft">
       <div className="mb-3 flex items-center gap-3">
         <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-primary/12 font-display text-sm font-semibold text-primary">{index + 1}</span>
         <h3 className="font-display text-xl font-semibold leading-snug text-foreground">{title}</h3>
@@ -199,18 +199,28 @@ function Render({ n, compact }: { n: Node; compact?: boolean }) {
 /* ---------- article ---------- */
 
 export function ArticleBody({ article }: { article: Article }) {
-  const nodes = toNodes(article.blocks.filter((b) => !(b.type === "li" && isRef(b.text))));
+  const blocks = article.blocks.filter((b) => !(b.type === "li" && isRef(b.text)));
+  const hasLead = Boolean(article.standfirst) && blocks[0]?.type === "h" && blocks[0]?.text === article.standfirst;
+  const nodes = toNodes(hasLead ? blocks.slice(1) : blocks);
   const sections = nodes.filter((n): n is Extract<Node, { kind: "h" }> => n.kind === "h" && n.level === 2);
+  const cardTitles = nodes.flatMap((n) => (n.kind === "cards" ? n.cards.map((c) => c.title) : []));
+  const navItems = sections.length > 2 ? sections.map((s) => s.text) : cardTitles.length > 2 ? cardTitles : [];
 
   return (
     <>
-      {sections.length > 2 && (
+      {hasLead && (
+        <p className="mt-6 border-l-4 border-amber pl-5 font-display text-xl leading-relaxed text-foreground/80">
+          <Rich text={article.standfirst} />
+        </p>
+      )}
+
+      {navItems.length > 2 && (
         <nav className="mt-8 rounded-2xl border bg-secondary/40 p-4">
           <p className="text-[11px] font-semibold uppercase tracking-widest text-amber-deep">In this article</p>
           <div className="mt-2.5 flex flex-wrap gap-2">
-            {sections.map((s) => (
-              <a key={s.text} href={`#${anchor(s.text)}`} className="rounded-full bg-card px-3 py-1.5 text-[13px] font-medium text-foreground/80 transition-colors hover:bg-primary hover:text-primary-foreground">
-                {s.text}
+            {navItems.map((t) => (
+              <a key={t} href={`#${anchor(t)}`} className="rounded-full bg-card px-3 py-1.5 text-[13px] font-medium text-foreground/80 transition-colors hover:bg-primary hover:text-primary-foreground">
+                {t}
               </a>
             ))}
           </div>
