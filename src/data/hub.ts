@@ -5,9 +5,10 @@ export const pillars: Pillar[] = [
   { slug: "nutrition", title: "Everyday Nutrition", tagline: "Feed your body, simply.",
     intro: "Explore the science on sugar, fibre, protein, the gut and the hidden toxins in everyday life.",
     trays: [
-      { name: "Foundations", slugs: ["feeding-your-body", "reconsider-sugar", "protein", "intermittent-fasting"] },
+      { name: "Foundations", slugs: ["feeding-your-body", "added-sugar", "protein", "intermittent-fasting"] },
       { name: "Fibre & Plant Power", slugs: ["fibre", "resistant-starch", "polyphenols"] },
-      { name: "Gut & Cultured Foods", slugs: ["cultured-foods", "probiotics"] },
+      { name: "Gut & Cultured Foods", slugs: ["cultured-foods", "milk-kefir", "water-kefir", "fermented-vegetables", "probiotic-yogurts", "kimchi", "kombucha", "probiotics"] },
+      { name: "Traditions", slugs: ["ayurveda"] },
       { name: "Toxins", slugs: ["hidden-toxins"] },
     ] },
   { slug: "physical", title: "Physical Protocols", tagline: "Move, recover, recharge.",
