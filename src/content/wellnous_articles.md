@@ -232,7 +232,7 @@ It's whether we've normalised levels of sugar consumption that our metabolism wa
 # Ayurveda
 
 
-## the Ayurvedic Western Approach
+## The Ayurvedic Western Approach
 
 
 #### A SIMPLE GUIDE TO BALANCE AND WELLNESS
@@ -240,43 +240,36 @@ It's whether we've normalised levels of sugar consumption that our metabolism wa
 Ayurveda is an ancient system of healing from India that many in the West are finding useful today. It is all about bringing balance to your body, mind, and spirit. Here’s a straightforward look at how it can work in modern life. I believe in incorporating traditional methodologies into more modern, every day approaches.
 
 
-### **Know Your Doshas**
-
+### Know Your Doshas
 Ayurveda believes that everyone has a unique balance of three energies, called doshas:
 
 
-#### Vata:
-
+#### Vata
 - Linked with air and space.
 - Governs movement and creativity.
 - Can cause anxiety or dryness when out of balance.
 
-#### Pitta:
-
+#### Pitta
 - Connected to fire and water.
 - Helps with digestion and transformation.
 - When imbalanced, it may lead to irritation or inflammation.
 
-#### Kapha:
-
+#### Kapha
 - Combines earth and water.
 - Provides stability and structure.
 - Excess can make you feel sluggish or congested.
 Understanding your dosha can help shape your diet, exercise, and daily routines to keep you in balance. It's useful to reflect on which ones may be out of balance when you're not feeling quite right.
 
 
-### **My favourite herbs (there are many others)**
-
+### My Favourite Herbs
 Ayurveda uses herbs to support your wellbeing:
 
 
-#### Ashwagandha:
-
+#### Ashwagandha
 - An adaptogen that helps you manage stress.
 - Boosts mental resilience and calms the mind.
 
-#### Turmeric:
-
+#### Turmeric
 - Known for its anti-inflammatory and antioxidant properties.
 - Supports joint health and overall body function.
 
@@ -297,46 +290,38 @@ Ayurveda uses herbs to support your wellbeing:
 
 - Mint may help relieve joint pain and indigestion as well as coughs and lover your body temperature during fever.
 
-### **My favourite Breathing Exercises (Pranayama)**
-
+### My favourite Breathing Exercises (Pranayama)
 Simple breathing practices are a big part of Ayurveda:
 
 
-#### Alternate Nostril Breathing:
-
+#### Alternate Nostril Breathing
 - Balances the flow of energy in your body.
 - Helps you feel more calm and focused.
 
-#### Deep Diaphragmatic Breathing:
-
+#### Deep Diaphragmatic Breathing
 - Increases oxygen flow, improving clarity and relaxation.
 
 #### Physiological Sigh
 
 - Not an official Pranayama but scientifically proven to reduce feelings of anxiety and calm the body.
 
-### **Daily Rituals: Dry Brushing and Tongue Scraping**
-
+### Daily Rituals: Dry Brushing and Tongue Scraping
 Small daily practices help remove toxins and support health:
 
 
-#### Dry Brushing:
-
+#### Dry Brushing
 - Use a natural-bristle brush on your skin before showering.
 - Boosts blood flow and helps remove dead skin cells.
 
-#### Tongue Scraping:
-
+#### Tongue Scraping
 - Cleans the build-up on your tongue, improving oral health.
 - Enhances taste and may aid digestion by removing toxins.
 
-### **Stretching and Yoga**
-
+### Stretching and Yoga
 Moving your body is essential in Ayurveda:
 
 
-#### Stretching:
-
+#### Stretching
 - Gentle stretches relieve muscle tension and improve flexibility.
 - A good way to start or end your day.
 
@@ -1279,70 +1264,6 @@ In a world where food is available 24 hours a day, one of the simplest health in
 It might be giving our bodies a little longer between meals.
 
 
-### The ZOE Big IF Study
-
-**Bermingham KM, Pushilal A, Polidori L, Wolf J, Bulsiewicz W, Spector TD, Berry SE.**
-
-_Ten Hour Time-Restricted Eating (TRE) Is Associated with Improvements in Energy, Mood, Hunger and Weight in Free-Living Settings: The ZOE BIG IF Study_ (2024).
-
-A large-scale real-world study involving more than 148,000 participants examining the effects of a 10-hour eating window on mood, energy, hunger and weight. [\[mdpi.com\]](https://www.mdpi.com/2504-3900/91/1/120), [\[zoe.com\]](https://zoe.com/learn/the-big-if-study-what-did-we-find)
-
-**ZOE.**
-
-_The Big IF Study: What Did We Find?_
-
-Summary of the study findings, including improved mood, increased energy, reduced hunger and strong long-term adherence among participants. [\[zoe.com\]](https://zoe.com/learn/the-big-if-study-what-did-we-find)
-
-
-### Time-Restricted Eating & Metabolic Health
-
-_Time-Restricted Eating and Its Metabolic Benefits_ (2023).
-
-An excellent overview of the science behind time-restricted eating, including insulin sensitivity, fat metabolism, autophagy and circadian rhythms. [\[mdpi.com\]](https://www.mdpi.com/2077-0383/12/22/7007)
-
-_Time-Restricted Eating and Metabolic Health: Implications for Nutritional Strategies and Weight Loss_ (2026).
-
-Reviews the evidence surrounding eating windows, metabolic health, weight management and circadian alignment. [\[frontiersin.org\]](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1872454/full)
-
-**Vasim I, Majeed CN, DeBoer MD.**
-
-_Intermittent Fasting and Metabolic Health_ (2022).
-
-A comprehensive review covering intermittent fasting, insulin sensitivity, ketone production, blood pressure and metabolic health. [\[pmc.ncbi.nlm.nih.gov\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8839325/)
-
-
-### Intermittent Fasting & Long-Term Health Outcomes
-
-_Effects of Different Types of Intermittent Fasting on Metabolic Outcomes: An Umbrella Review and Network Meta-Analysis_ (2024).
-
-Examines multiple fasting strategies and their effects on body weight, blood glucose, insulin and cardiometabolic health. [\[pmc.ncbi.nlm.nih.gov\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11559166/)
-
-**The Lancet EClinicalMedicine.**
-
-_Intermittent Fasting and Health Outcomes: An Umbrella Review of Meta-Analyses_ (2024).
-
-One of the most comprehensive reviews of the current evidence base, summarising effects on body composition, insulin levels, cholesterol and metabolic risk markers. [\[thelancet.com\]](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370%2824%2900098-1/fulltext)
-
-
-### Ketones, Cellular Repair & Mitochondrial Health
-
-_Intermittent Fasting: A Metabolically Focused Therapeutic Strategy for Obesity_ (Referenced within Mayo Clinic review).
-
-Discusses metabolic switching, fat oxidation and ketone production during fasting. [\[mdpi.com\]](https://www.mdpi.com/2077-0383/12/22/7007)
-
-**Intermittent Fasting: A Comprehensive Review of Cellular Mechanisms and Health Effects** (2025).
-
-Explores the cellular biology of fasting, including mitochondrial adaptation, autophagy, inflammation and metabolic flexibility. [\[link.springer.com\]](https://link.springer.com/article/10.1007/s44361-025-00007-z)
-
-
-### Chrononutrition & Meal Timing
-
-**King's College London & ZOE.**
-
-_The Intermittent Fasting Study Protocol_
-
-Provides background on chrononutrition and the role of meal timing in metabolic health and circadian rhythms. [\[ctv.veeva.com\]](https://ctv.veeva.com/study/zoe-health-study-the-intermittent-fasting-study), [\[ichgcp.net\]](https://ichgcp.net/clinical-trials-registry/NCT05558423)
-
 If readers want to explore related topics, consider:
 
 - Circadian rhythms and health
@@ -1394,55 +1315,46 @@ I am all for maximising benefit vs effort and time. I have found I get the best 
 
 Find a weight that you can push to around 5 reps maximum..This will help you gain valuable muscle as efficiently as possible.
 
-**1.** **The Kettlebell Halo – Shoulder Mobility & Core Engagement**
-
+#### 1. The Kettlebell Halo – Shoulder Mobility & Core Engagement
 What It Is: A controlled circular movement around the head, strengthening shoulder mobility, postural control, and core stability.
 
-How to Perform:
-
+**How to Perform:**
 - Hold the kettlebell by the sides of the handles close to the chest.
 - Slowly rotate the kettlebell around the head, keeping the elbows bent.
 - Maintain neutral spine and engaged core to avoid excessive arching.
 - Reverse direction and repeat.
-**2.** **Hang High Pull – Explosive Power & Upper Body Strength**
-
+#### 2. Hang High Pull – Explosive Power & Upper Body Strength
 What It Is: A dynamic pull from a hanging position, developing strength and speed for Olympic-style lifts.
 
-How to Perform:
-
+**How to Perform:**
 - Start with the kettlebell in a hang position (arms extended).
 - Explode upwards, using hip drive, pulling the kettlebell toward the chest.
 - Keep the elbows high and outside, controlling the movement.
 - Lower with control and repeat.
-**3.** **Kettlebell Swing – Full-Body Power & Conditioning**
-
+#### 3. Kettlebell Swing – Full-Body Power & Conditioning
 What It Is: A ballistic hip-driven movement, perfect for building explosive strength and endurance.
 
-How to Perform:
-
+**How to Perform:**
 - Start with feet hip-width apart, kettlebell on the floor.
 - Hinge at the hips, grabbing the kettlebell with both hands.
 - Explosively drive the hips forward, swinging the kettlebell to chest height.
 - Let the kettlebell swing back down under control, keeping a neutral spine.
-**4.** **Kettlebell Squats – Lower Body Strength & Stability**
-
+#### 4. Kettlebell Squats – Lower Body Strength & Stability
 What It Is: A fundamental strength movement that enhances leg power, core engagement, and mobility.
 
-How to Perform:
-
+**How to Perform:**
 - Hold the kettlebell at chest level (goblet position).
 - Engage your core, lower into a deep squat while keeping your spine neutral.
 - Push through the heels, returning to standing position.
-**5.** **Single Arm Swing – Unilateral Power & Grip Strength**
-
+#### 5. Single Arm Swing – Unilateral Power & Grip Strength
 What It Is: A variation of the kettlebell swing, challenging core stability and grip endurance.
 
-How to Perform:
-
+**How to Perform:**
 - Start in the same stance as a two-handed kettlebell swing.
 - Swing the kettlebell with one arm, keeping the opposite arm extended for balance.
 - Engage the core to resist rotation, maintaining a strong hip drive.
 - Switch arms after a set.
+
 
 # Mental Wellbeing
 
@@ -1840,8 +1752,7 @@ The findings were striking:
 - Reducing Anxiety Symptoms: EPA supplementation decreases stress hormone levels, promoting emotional balance.
 While more research is needed, these findings suggest that omega-3 supplementation could serve as a natural, complementary treatment for mood disorders, offering relief without the side effects of pharmaceutical interventions.
 
-Best Sources
-
+### Best Sources
 - Fatty fish (salmon, mackerel, sardines)
 - Chia seeds and flaxseeds (ALA, which can convert to EPA/DHA in small amounts)
 - Algae-based supplements (ideal for plant-based diets)
@@ -2166,15 +2077,11 @@ It's finally understanding why the old wisdom worked in the first place.
 
 ## References
 
-- What's particularly interesting is how different they are from one another. Researchers have identified thousands of individual polyphenols, each with unique structures and potentially unique biological effects. The compounds found in blueberries bear little resemblance to those found in coffee beans or extra virgin olive oil, yet all three foods repeatedly appear in discussions around healthy dietary patterns.
-- Jiongxing Fuet al.Dietary Fiber Intake and Gut Microbiota in Human Health(2022).[pmc.ncbi.nlm.nih.gov]Kannadasan Charumathiet al.Prebiotic dietary fibers, gut microbiota, and short-chain fatty acid production: from fermentation mechanisms to clinical translation(2026).[frontiersin.org]The interconnection between dietary fibre, gut microbiome and psychological well-being (2025).[cambridge.org]Subir Das,CheKenna J. FletcherandYing Wu.The Role of Different Dietary Fibers in Modulating Human Gut Microbiota(2026).[mdpi.com]Coffee Consumption is Associated with Intestinal Lawsonibacter asaccharolyticus Abundance and Prevalence Across Multiple Cohorts. Nature Microbiology (2024).https://www.nature.com/articles/s41564-024-01858-9
-- Jiongxing Fuet al.Dietary Fiber Intake and Gut Microbiota in Human Health(2022).[pmc.ncbi.nlm.nih.gov]
-- Kannadasan Charumathiet al.Prebiotic dietary fibers, gut microbiota, and short-chain fatty acid production: from fermentation mechanisms to clinical translation(2026).[frontiersin.org]
-- The interconnection between dietary fibre, gut microbiome and psychological well-being (2025).[cambridge.org]
-- Subir Das,CheKenna J. FletcherandYing Wu.The Role of Different Dietary Fibers in Modulating Human Gut Microbiota(2026).[mdpi.com]
-- Jiongxing Fu et al. _Dietary Fiber Intake and Gut Microbiota in Human Health_ (2022). [\[pmc.ncbi.nlm.nih.gov\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC9787832/)
-- Kannadasan Charumathi et al. _Prebiotic dietary fibers, gut microbiota, and short-chain fatty acid production: from fermentation mechanisms to clinical translation_ (2026). [\[frontiersin.org\]](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1927734/full)
-
+- Fu J et al. _Dietary Fiber Intake and Gut Microbiota in Human Health_ (2022). [\[pmc.ncbi.nlm.nih.gov\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC9787832/)
+- Charumathi K et al. _Prebiotic dietary fibers, gut microbiota, and short-chain fatty acid production: from fermentation mechanisms to clinical translation_ (2026). [\[frontiersin.org\]](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1927734/full)
+- _The interconnection between dietary fibre, gut microbiome and psychological well-being_ (2025). [\[cambridge.org\]](https://www.cambridge.org)
+- Das S, Fletcher KJ, Wu Y. _The Role of Different Dietary Fibers in Modulating Human Gut Microbiota_ (2026). [\[mdpi.com\]](https://www.mdpi.com)
+- _Coffee Consumption is Associated with Intestinal Lawsonibacter asaccharolyticus Abundance and Prevalence Across Multiple Cohorts._ Nature Microbiology (2024). [\[nature.com\]](https://www.nature.com/articles/s41564-024-01858-9)
 # Probiotics
 
 The beneficial bacteria that support our health are known as probiotics. These microscopic allies play a vital role in our well-being by:
@@ -2842,8 +2749,7 @@ Unlike many soft drinks, flavoured waters and some commercial kombuchas, traditi
 
 The result is a balanced sweet-and-tart flavour profile with refreshing acidity and natural complexity that develops through fermentation rather than relying solely on added flavourings.
 
-Real Ingredients
-
+#### Real Ingredients
 We start with quality tea, filtered water, sugar and an active SCOBY culture. Natural ingredients such as fruits, herbs and spices are then used to create unique flavour combinations.
 
 No artificial colours. No artificial sweeteners. No unnecessary additives.
@@ -2889,27 +2795,20 @@ Our flavours change throughout the year, but favourites often include:
 
 ## A Living Drink
 
-As an unpasteurised fermented product, every bottle contains a living culture. You may notice natural sediment, scoby strands or small pieces of culture developing over time. This is completely normal and is a sign of authentic fermentation.
+As an unpasteurised fermented product, every bottle contains a living culture. You may notice natural sediment, SCOBY strands or small pieces of culture developing over time. This is completely normal and is a sign of authentic fermentation.
 
 Store refrigerated and enjoy chilled.
 
 
 ### Why Choose Wellnous Kombucha?
 
-✓ Traditionally fermented
-
-✓ Unpasteurised and refrigerated
-
-✓ Small-batch brewed in South Wales
-
-✓ Naturally flavoured
-
-✓ No artificial sweeteners or colours
-
-✓ Authentic living kombucha
-
-✓ Crafted by people passionate about fermentation, not mass production
-
+- Traditionally fermented
+- Unpasteurised and refrigerated
+- Small-batch brewed in South Wales
+- Naturally flavoured
+- No artificial sweeteners or colours
+- Authentic living kombucha
+- Crafted by people passionate about fermentation, not mass production
 **Experience kombucha as it was intended to be. Naturally fermented, full of character, and genuinely refreshing.**
 
 
