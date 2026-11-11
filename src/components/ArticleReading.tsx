@@ -46,7 +46,7 @@ export function ArticleReading({ article }: { article: Article }) {
           {section.title && <h2 className={`mb-4 font-display font-semibold leading-snug text-foreground ${section.title === "It's Muscle Loss." ? "text-3xl" : takeaway ? "text-3xl text-primary" : "text-xl"}`}>{section.title}</h2>}
           <div className="space-y-4">
             {ingredients ? <ul className="grid list-disc gap-x-8 gap-y-2 pl-5 marker:text-primary sm:grid-cols-2">{section.blocks.map((b, j) => <li key={j}><Rich text={b.text} /></li>)}</ul>
-              : steps ? <ol className="recipe-steps">{section.blocks.map((b, j) => <li key={j}><Rich text={b.text} /></li>)}</ol>
+              : steps ? <Paragraphs blocks={section.blocks} />
                 : <Paragraphs blocks={section.blocks} />}
           </div>
           {link && <Link to="/articles/$slug" params={{ slug: link }} className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-primary">Keep reading: {section.title} <span aria-hidden="true">→</span></Link>}

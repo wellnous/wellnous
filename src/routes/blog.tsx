@@ -1,6 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { SiteHeader, SiteFooter } from "@/components/HubUI";
 import { blogPosts } from "@/data/blog";
+import { Rich } from "@/components/RichText";
 
 export const Route = createFileRoute("/blog")({
   head: () => ({ meta: [
@@ -24,7 +25,7 @@ function BlogPage() {
             {"image" in post && typeof post.image === "string" && <img src={post.image} alt={post.title} className="mb-5 aspect-[16/9] w-full rounded-lg object-cover" loading="lazy" />}
             <p className="text-xs text-amber-deep">{post.date}</p>
             <h2 className="mt-2 font-display text-2xl font-semibold leading-snug group-hover:text-primary">{post.title}</h2>
-            <p className="mt-3 text-sm leading-relaxed text-muted-foreground">{post.article.excerpt}</p>
+            <p className="mt-3 text-sm leading-relaxed text-muted-foreground"><Rich text={post.article.excerpt} /></p>
             <p className="mt-4 text-sm font-semibold text-primary">Read post <span aria-hidden="true">→</span></p>
           </Link>
         </article>)}
