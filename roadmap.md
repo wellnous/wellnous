@@ -7,3 +7,8 @@
 - [x] Split Traditions and Toxins into two categories
 - [x] Guard test: every hub card must point at a real article
 - [x] Blog section: /blog page with search and pillar filters, linked in header
+- [x] Revise protein, fibre, fasting and polyphenol emphasis
+- [x] Recipe-style cultured foods with numbered methods, SCOBY grouping and relevant reading links
+- [x] Revise Ayurveda, toxins, cold exposure and mental wellbeing; restore sunset and expose backward walking in section navigation
+- [x] Separate topic library from the ten retrieved original blog posts
+- [x] Verify corrected articles, links and mobile layouts

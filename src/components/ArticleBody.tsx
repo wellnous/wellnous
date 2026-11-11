@@ -1,9 +1,12 @@
 import type { Article, Block } from "@/data/articles";
+import { Rich } from "@/components/RichText";
+import { ArticleReading } from "@/components/ArticleReading";
+import { editorialSlugs, recipeSlugs } from "@/data/article-presentation";
 
 type Node =
   | { kind: "h"; level: number; text: string }
   | { kind: "p"; text: string }
-  | { kind: "list"; items: string[] }
+  | { kind: "list"; items: string[]; ordered?: boolean }
   | { kind: "quote"; text: string }
   | { kind: "cards"; stacked?: boolean; cards: { title: string; body: Node[] }[] };
 
@@ -16,30 +19,15 @@ const PERSONAL = /^(my |i |if you|if it|perhaps most|here'?s how|we |our )/i;
 
 /* ---------- inline text: **bold** and [links](url) ---------- */
 
-function Rich({ text }: { text: string }) {
-  const bits = text.split(/(\*\*[^*]+\*\*|\[[^\]]+\]\([^)]+\))/g).filter(Boolean);
-  return (
-    <>
-      {bits.map((b, i) => {
-        const bold = /^\*\*([^*]+)\*\*$/.exec(b);
-        if (bold) return <strong key={i} className="font-semibold text-foreground">{bold[1] ?? ""}</strong>;
-        const link = /^\[([^\]]+)\]\(([^)]+)\)$/.exec(b);
-        if (link) return <a key={i} href={link[2] ?? ""} target="_blank" rel="noopener noreferrer" className="text-primary underline underline-offset-4">{link[1] ?? ""}</a>;
-        return <span key={i}>{b}</span>;
-      })}
-    </>
-  );
-}
-
 /* ---------- structure ---------- */
 
 function toNodes(blocks: Block[], stackedSections = false): Node[] {
   const flat: Node[] = [];
   for (const b of blocks) {
-    if (b.type === "li") {
+    if (b.type === "li" || b.type === "step") {
       const last = flat[flat.length - 1];
-      if (last && last.kind === "list") last.items.push(b.text);
-      else flat.push({ kind: "list", items: [b.text] });
+      if (last && last.kind === "list" && Boolean(last.ordered) === (b.type === "step")) last.items.push(b.text);
+      else flat.push({ kind: "list", items: [b.text], ordered: b.type === "step" });
       continue;
     }
     if (b.type === "h") { flat.push({ kind: "h", level: b.level, text: b.text }); continue; }
@@ -112,9 +100,9 @@ function List({ items, compact }: { items: string[]; compact?: boolean }) {
     return (
       <div className={`grid gap-3 ${compact ? "sm:grid-cols-2" : "sm:grid-cols-2"}`}>
         {labelled.map((l, i) => (
-          <div key={i} className="rounded-xl border bg-card p-4">
-            <div className="font-display text-[17px] font-semibold text-primary">{l!.label}</div>
-            <p className="mt-1 text-[15px] leading-relaxed text-foreground/85"><Rich text={l!.text} /></p>
+          l && <div key={i} className="rounded-xl border bg-card p-4">
+            <div className="font-display text-[17px] font-semibold text-primary">{l.label}</div>
+            <p className="mt-1 text-[15px] leading-relaxed text-foreground/85"><Rich text={l.text} /></p>
           </div>
         ))}
       </div>
@@ -183,7 +171,7 @@ function Render({ n, compact }: { n: Node; compact?: boolean }) {
     if (!compact && PERSONAL.test(n.text)) return <Note text={n.text} />;
     return <p className={compact ? "" : "leading-relaxed"}><Rich text={n.text} /></p>;
   }
-  if (n.kind === "list") return <List items={n.items} compact={Boolean(compact)} />;
+  if (n.kind === "list") return n.ordered ? <ol className="recipe-steps">{n.items.map((t, i) => <li key={i}><Rich text={t} /></li>)}</ol> : <List items={n.items} compact={Boolean(compact)} />;
   if (n.kind === "quote") {
     return (
       <blockquote className="rounded-2xl border-l-4 border-primary bg-secondary/50 p-5 font-display text-lg italic text-foreground/90">
@@ -201,7 +189,8 @@ function Render({ n, compact }: { n: Node; compact?: boolean }) {
 /* ---------- article ---------- */
 
 export function ArticleBody({ article }: { article: Article }) {
-  const blocks = article.blocks.filter((b) => !(b.type === "li" && isRef(b.text)));
+  if (editorialSlugs.includes(article.slug) || recipeSlugs.includes(article.slug) || article.slug.startsWith("blog-")) return <ArticleReading article={article} />;
+  const blocks = article.blocks;
   const hasLead = Boolean(article.standfirst) && blocks[0]?.type === "h" && blocks[0]?.text === article.standfirst;
   const nodes = toNodes(hasLead ? blocks.slice(1) : blocks, article.slug === "feeding-your-body");
   const sections = nodes.filter((n): n is Extract<Node, { kind: "h" }> => n.kind === "h" && n.level === 2);

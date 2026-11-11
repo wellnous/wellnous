@@ -4,6 +4,7 @@ export type Block =
   | { type: "h"; level: 2 | 3 | 4; text: string }
   | { type: "p"; text: string }
   | { type: "li"; text: string }
+  | { type: "step"; text: string }
   | { type: "quote"; text: string };
 
 export type Article = {
@@ -75,12 +76,18 @@ function parseSection(title: string, lines: string[]): Article {
       blocks.push({ type: "li", text: (b[1] ?? "").trim() });
       continue;
     }
+    const step = /^\d+(?:\\)?[.)]\s+(.*)$/.exec(line);
+    if (step) {
+      blocks.push({ type: "step", text: step[1] ?? "" });
+      continue;
+    }
     blocks.push({ type: "p", text: line });
   }
 
   const words = blocks.reduce((a, b) => a + b.text.split(/\s+/).length, 0);
   const firstP = blocks.find((b) => b.type === "p")?.text ?? "";
   const firstH4 = blocks.find((b) => b.type === "h" && b.level === 4)?.text ?? "";
+  const firstHeadingIndex = blocks.findIndex((b) => b.type === "h" && b.level === 4);
   const excerpt = firstP.length > 170 ? firstP.slice(0, 167).replace(/\s+\S*$/, "") + "…" : firstP;
   const chips = blocks
     .filter((b) => b.type === "h" && b.text.length < 48 && !b.text.endsWith("?"))
@@ -92,7 +99,7 @@ function parseSection(title: string, lines: string[]): Article {
     title: cleanTitle(title),
     blocks,
     refs,
-    standfirst: firstH4 && blocks.indexOf(blocks.find((b) => b.type === "h" && b.level === 4)!) < 3 ? firstH4 : "",
+    standfirst: firstH4 && firstHeadingIndex < 3 ? firstH4 : "",
     excerpt,
     minutes: Math.max(1, Math.round(words / 220)),
     chips,

@@ -31,3 +31,5 @@ use the editor.
 
 - Article content lives verbatim in src/content/wellnous_articles.md and is split into pages by src/data/articles.ts; pillar trays reference articles by slug in src/data/hub.ts — keeps the author's text as the single source of truth.
 - Feeding Your Body uses stacked full-width section cards in ArticleBody rather than length-based card grouping, so long and short topics share one readable layout without changing the archive text.
+- Article presentation policies select editorial sections or recipe methods explicitly; numbered source blocks retain their sequence so instructions do not become decorative cards.
+- Original blog posts have their own content collection and reading routes; the topic directory is separate so author posts are not confused with reference articles.

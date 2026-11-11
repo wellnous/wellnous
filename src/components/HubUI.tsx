@@ -25,6 +25,7 @@ export function SiteHeader() {
           <Link to="/physical" className={cls} activeProps={act}>Physical</Link>
           <Link to="/supplements" className={cls} activeProps={act}>Supplements</Link>
           <Link to="/blog" className={cls} activeProps={act}>Blog</Link>
+          <Link to="/topics" className={cls} activeProps={act}>Topic Library</Link>
           <Link to="/about" className={cls} activeProps={act}>About</Link>
           <Link to="/kombucha" className="rounded-full bg-amber px-3 py-1 text-xs font-medium text-amber-foreground">Kombucha</Link>
         </nav>

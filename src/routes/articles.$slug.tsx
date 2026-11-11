@@ -4,6 +4,7 @@ import { pillars } from "@/data/hub";
 import { SiteHeader, SiteFooter, Chip } from "@/components/HubUI";
 import { ArticleBody } from "@/components/ArticleBody";
 import { Clock, BookOpen } from "lucide-react";
+import { relatedSlugs } from "@/data/article-presentation";
 
 export const Route = createFileRoute("/articles/$slug")({
   loader: ({ params }) => {
@@ -24,10 +25,11 @@ export const Route = createFileRoute("/articles/$slug")({
 
 function ArticlePage() {
   const { slug } = Route.useLoaderData();
-  const a = getArticle(slug)!;
+  const a = getArticle(slug);
+  if (!a) throw notFound();
   const pillar = pillars.find((p) => p.trays.some((t) => t.slugs.includes(slug)));
   const tray = pillar?.trays.find((t) => t.slugs.includes(slug));
-  const related = pillar?.trays.flatMap((t) => t.slugs).filter((s) => s !== slug).map(getArticle).filter(Boolean).slice(0, 4) ?? [];
+  const related = relatedSlugs(a, tray?.slugs ?? pillar?.trays.flatMap((t) => t.slugs) ?? []).map(getArticle).filter(Boolean);
   return (
     <div className="min-h-screen bg-background">
       <SiteHeader />

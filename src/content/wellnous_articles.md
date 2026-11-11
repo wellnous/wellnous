@@ -399,23 +399,23 @@ This also starts to break down the foods, making the vegetables easier to digest
 
 Kimchi is well known for it's probiotic content. As indicated in previous sections, these probiotics have a range of health benefits including helping your immune system, improving your mental health as well as helping your digestion and reducing inflammation. It's various methods and ingredients as well as traditional methods of fermentation results in a very unami, spicy, weirdly addictive flavour and crunchy texture. As Kimchi usually includes far more vegetables than other fermented products, it should contain a wide range of vitamins, such as A, B, C, and K, and minerals like calcium, iron, phosphorus, and selenium. There is also a high amount of fibre in Kimchi which will support your microbiome. More importantly, is delicious!
 
-#### What is a SCOBY
+## What is a SCOBY
 
-#### SCOBY stands for Symbiotic Culture of Bacteria and Yeast
+**SCOBY stands for Symbiotic Culture of Bacteria and Yeast**
 
 It basically means a wonderful collection of different probiotics and yeast that work together symbiotically.
 
-#### KEFIR
+**KEFIR**
 
 The Water and Milk Kefir Grains are a **SCOBY** that reside in a polysaccharide and protein matrix together. They replicate in the water or milk and digest the food into beneficial chemicals.
 
-#### KOMBUCHA
+**KOMBUCHA**
 
 The Kombucha **SCOBY** is often mistaken. When you make Kombucha, you get a pellicle form, usually at the top of the fermentation liquid. This is a by-product of the fermentation and is a gelatinous disc of cellulose. The actual SCOBY is the bacteria and yeasts that live within the fluid. .
 
 The Pellicle can protect the fluid from contamination from the the surface, it does contain a large number of the probiotics, but is not essential for brewing. A new pellicle will form after each brew.
 
-#### So where can you get them?
+**So where can you get them?**
 
 There are a number of groups on social media where individuals offer these Grains and SCOBYs for free. It's a beautiful community of fermenting lovers. I regularly use "Fermenting Friends UK" on Facebook.
 
@@ -431,23 +431,33 @@ I love deliberate cold exposure, particularly through cold showers. I find it, o
 
 Taking cold showers or immersing in cold water stimulates:
 
-· **Dopamine & Norepinephrine Release** – Elevates mood, improves alertness, and builds stress tolerance.
+- **Dopamine & Norepinephrine Release** – Elevates mood, improves alertness, and builds stress tolerance.
 
-· **Controlled Discomfort** **Training** – Strengthens my ability to remain calm under stress, making challenges in daily life feel more manageable.
+- **Controlled Discomfort** **Training** – Strengthens my ability to remain calm under stress, making challenges in daily life feel more manageable.
 
-· **Improved Circulation** – Boosts oxygen delivery to the brain, supporting cognitive function and focus.
+- **Improved Circulation** – Boosts oxygen delivery to the brain, supporting cognitive function and focus.
 
 Here is more detail:
 
-**Physiological Responses to Cold Exposure** When cold water hits your skin, it immediately activates the sympathetic nervous system. This response leads to the rapid release of hormones like adrenaline (epinephrine) and norepinephrine. These hormones make you feel more alert and focused, as they increase blood flow to critical organs and enhance overall metabolic activity. Unlike many stressors that trigger a rise in cortisol—the hormone often associated with chronic stress—cold exposure appears uniquely to stimulate adrenaline without a significant cortisol response. This distinct hormonal profile may help reduce the negative impacts of stress while simultaneously boosting mental clarity.
+#### Physiological Responses to Cold Exposure
 
-**Impact on Brown Fat and Metabolic Function** Cold exposure also plays a key role in brown adipose tissue (BAT) activation. Brown fat is a special type of fat that burns calories to generate heat, unlike white fat, which stores energy. When exposed to cold, the body releases a protein called uncoupling protein-1 (UCP-1) in brown fat cells. This protein helps convert energy into heat, thereby elevating your metabolism. Over time, repeated cold exposure can even promote the "browning" of white fat, meaning parts of it become more metabolically active, supporting overall energy balance and potentially aiding in weight management.
+When cold water hits your skin, it immediately activates the sympathetic nervous system. This response leads to the rapid release of hormones like adrenaline (epinephrine) and norepinephrine. These hormones make you feel more alert and focused, as they increase blood flow to critical organs and enhance overall metabolic activity. Unlike many stressors that trigger a rise in cortisol—the hormone often associated with chronic stress—cold exposure appears uniquely to stimulate adrenaline without a significant cortisol response. This distinct hormonal profile may help reduce the negative impacts of stress while simultaneously boosting mental clarity.
 
-**Cellular Energy and Mitochondrial Adaptations** At the cellular level, cold exposure acts as a hormetic stressor—meaning a small, controlled amount of stress that encourages the body to adapt beneficially. The increased adrenaline promotes ATP regeneration, ensuring your cells have a ready supply of energy for repair and regeneration. This process not only facilitates rapid muscle contractions during physical performance but also supports the maintenance of brain cell function. Additionally, there is evidence that regular cold exposure can encourage mitochondrial biogenesis—the process of creating new mitochondria in cells—which further enhances energy production and overall cellular resilience.
+#### Impact on Brown Fat and Metabolic Function
 
-**Improving Circulation and Reducing Inflammation** The immediate effect of cold water on your blood vessels is vasoconstriction, where the small vessels near your skin narrow. This helps to conserve heat and redirect blood flow to vital organs. Once you warm up again, your body experiences reactive hyperemia—a boost in blood flow that can help clear out metabolic waste and improve nutrient delivery. This improved circulation may contribute to reduced inflammation at a systemic level. The controlled nature of cold exposure means it serves as a stressor that builds resilience without triggering the inflammatory, cortisol-driven responses typical of other stressors.
+Cold exposure also plays a key role in brown adipose tissue (BAT) activation. Brown fat is a special type of fat that burns calories to generate heat, unlike white fat, which stores energy. When exposed to cold, the body releases a protein called uncoupling protein-1 (UCP-1) in brown fat cells. This protein helps convert energy into heat, thereby elevating your metabolism. Over time, repeated cold exposure can even promote the "browning" of white fat, meaning parts of it become more metabolically active, supporting overall energy balance and potentially aiding in weight management.
 
-**Recommended Exposure and Practical Application** Experts often recommend that the cumulative duration of cold exposure be around 13 minutes per week to experience these physiological benefits. Whether you choose to spread these minutes across daily quick cold showers or opt for one or two longer sessions, the goal is to maintain a consistent, gradual approach. Starting with shorter durations allows your body to adapt slowly, minimizing any initial shock and maximizing long-term adaptation.
+#### Cellular Energy and Mitochondrial Adaptations
+
+At the cellular level, cold exposure acts as a hormetic stressor—meaning a small, controlled amount of stress that encourages the body to adapt beneficially. The increased adrenaline promotes ATP regeneration, ensuring your cells have a ready supply of energy for repair and regeneration. This process not only facilitates rapid muscle contractions during physical performance but also supports the maintenance of brain cell function. Additionally, there is evidence that regular cold exposure can encourage mitochondrial biogenesis—the process of creating new mitochondria in cells—which further enhances energy production and overall cellular resilience.
+
+#### Improving Circulation and Reducing Inflammation
+
+The immediate effect of cold water on your blood vessels is vasoconstriction, where the small vessels near your skin narrow. This helps to conserve heat and redirect blood flow to vital organs. Once you warm up again, your body experiences reactive hyperemia—a boost in blood flow that can help clear out metabolic waste and improve nutrient delivery. This improved circulation may contribute to reduced inflammation at a systemic level. The controlled nature of cold exposure means it serves as a stressor that builds resilience without triggering the inflammatory, cortisol-driven responses typical of other stressors.
+
+#### Recommended Exposure and Practical Application
+
+Experts often recommend that the cumulative duration of cold exposure be around 13 minutes per week to experience these physiological benefits. Whether you choose to spread these minutes across daily quick cold showers or opt for one or two longer sessions, the goal is to maintain a consistent, gradual approach. Starting with shorter durations allows your body to adapt slowly, minimizing any initial shock and maximizing long-term adaptation.
 
 By consistently exposing myself to cold, I train my nervous system to handle discomfort with greater ease. This daily practice fosters resilience, discipline, and a heightened mental edge.
 
@@ -814,13 +824,10 @@ You're feeding the trillions of microbes that manufacture beneficial compounds, 
 
 And increasingly, the science suggests that those tiny organisms may have more influence over our health than we ever imagined.
 
-### Fibre, Gut Microbiome & Short-Chain Fatty Acids
 
-### Fibre Interventions & Beneficial Bacteria
 
 - Subir Das, CheKenna J. Fletcher and Ying Wu. _The Role of Different Dietary Fibers in Modulating Human Gut Microbiota_. Nutraceuticals (2026). Reviews different fibre types, fermentation characteristics and effects on microbial populations. [mdpi.com](https://www.mdpi.com/1661-3821/6/1/18)
 
-### Fibre Types & Dietary Sources
 
 - Dietary fiber: Essential for a healthy diet, Mayo Clinic. Overview of soluble and insoluble fibre, dietary sources and health benefits. [mayoclinic.org](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fiber/art-20043983)
 - What’s the Difference Between Soluble and Insoluble Fiber?, Cleveland Clinic. Practical explanation of soluble and insoluble fibres and their physiological effects. [health.cle...clinic.org](https://health.clevelandclinic.org/whats-the-difference-between-soluble-and-insoluble-fiber)
@@ -949,7 +956,7 @@ Light isn't simply something that allows us to see. Different wavelengths intera
 
 Infrared has always been part of our natural environment. It is abundant in sunlight and is also produced by fire and traditional incandescent bulbs. Our ancestors would have been exposed to it naturally throughout the day, particularly during the lower sun of morning and evening.
 
-## **Why the mitochondria matter**
+## Why the mitochondria matter
 
 Almost everything our bodies do ultimately depends on energy. Movement, brain function, hormone production, immune function, tissue repair, maintaining body temperature and even the basic processes that keep a cell alive all require energy. The mitochondria sit at the centre of this process. They convert the food we eat and oxygen we breathe into ATP, the energy currency used by our cells.
 
@@ -957,7 +964,7 @@ They are also involved in controlling oxidative stress, cellular signalling, inf
 
 When mitochondrial function is impaired, the consequences can extend far beyond energy levels. Mitochondrial dysfunction is associated with ageing and a wide range of metabolic and chronic diseases, ranging from diabetes to most cancers, which is why maintaining mitochondrial health has become such an important area of research.
 
-## **Where infrared comes in**
+## Where infrared comes in
 
 This is where infrared becomes particularly interesting.
 
@@ -971,7 +978,7 @@ If the mitochondria are central to our metabolic health, and particular waveleng
 
 This is one of the reasons I find infrared so fascinating.
 
-## **Infrared as part of our natural environment**
+## Infrared as part of our natural environment
 
 There is also something particularly interesting about _when_ we are exposed to infrared naturally.
 
@@ -983,7 +990,7 @@ It raises an interesting possibility: perhaps the natural sequence of light thro
 
 Our biology evolved within this environment.
 
-## **A very different modern light environment**
+## A very different modern light environment
 
 Today, our relationship with light is very different.
 
@@ -993,7 +1000,7 @@ Modern artificial lighting can create a very different spectral environment from
 
 It is interesting that both of these familiar light sources are rich in the longer wavelengths that are largely absent from many modern artificial environments.
 
-## **Why this could matter for metabolic health**
+## Why this could matter for metabolic health
 
 If mitochondria are fundamental to how our cells produce energy and regulate themselves, then anything capable of positively influencing mitochondrial function becomes interesting from a metabolic perspective.
 
@@ -1217,7 +1224,7 @@ Mental resilience and clarity come from an intentional combination of breathwork
 
 #### The Art of Doing Nothing
 
-#### "Il dolce far niente"
+> "Il dolce far niente"
 
 When was the last time you genuinely did nothing? Not watched something, listened to something, scrolled through your phone or filled the silence with some other form of stimulation, but simply sat and allowed your mind to wander. We have become so accustomed to constant entertainment and information that doing nothing can feel strangely uncomfortable. Yet those quiet moments give us something that constant stimulation cannot: space to think, reflect, daydream and simply be.
 
@@ -1233,13 +1240,13 @@ Creatine and omega-3 fatty acids are two of the most overlooked yet essential nu
 
 Often associated with athletic performance, creatine plays a crucial role in brain energy metabolism. The brain requires vast amounts of ATP to function optimally, and creatine enhances ATP production, improving mental endurance and cognitive sharpness.
 
-**Omega-3: Essential Fatty Acids for Brain and Emotional Healt** h
+#### Omega-3: Essential Fatty Acids for Brain and Emotional Health
 
 Omega-3 fatty acids are critical for brain development, cognitive function, and emotional regulation. Omega-3s combat inflammation, protecting neural pathways from oxidative stress as well as enhance the effectiveness of neurotransmitters like dopamine and serotonin, which are critical for focus, motivation, and emotional balance.
 
 #### Probiotics & Fermented Foods
 
-#### Gut-Brain Connection and Emotional Well-being
+**Gut-Brain Connection and Emotional Well-being**
 
 As you know, gut health plays a massive role in mental well-being, with the microbiome directly influencing neurotransmitter production, inflammation levels, and mood regulation.
 
@@ -1303,7 +1310,7 @@ Barefoot walking isn’t just a physical practice—it’s a deeply grounding ex
 
 #### Adaptogens
 
-#### Stress Management and Mental Clarity
+**Stress Management and Mental Clarity**
 
 Ashwagandha is my go-to adaptogen for stress regulation and hormonal balance. It supports cortisol management, helping me stay calm under pressure.
 
@@ -1738,7 +1745,7 @@ The encouraging news is that polyphenols aren't hidden away in obscure superfood
 
 Many of the richest sources are foods that have been part of traditional diets for centuries.
 
-Berries provide colourful compounds known as anthocyanins. Coffee is one of the largest contributors of polyphenols in many Western diets. Extra virgin olive oil contains unique polyphenols often linked to the benefits of Mediterranean-style eating. Cocoa, tea, herbs, spices, legumes and deeply coloured vegetables all contribute their own collection of compounds.
+**Berries** provide colourful compounds known as anthocyanins. **Coffee** is one of the largest contributors of polyphenols in many Western diets. **Extra virgin olive oil** contains unique polyphenols often linked to the benefits of Mediterranean-style eating. **Cocoa, tea, herbs, spices, legumes and deeply coloured vegetables** all contribute their own collection of compounds.
 
 The foods richest in polyphenols tend to look remarkably similar to the foods your grandparents would recognise. Not powders. Just plants.
 
@@ -1752,21 +1759,21 @@ The biggest missed opportunity often isn't fruit or vegetables. It's the spice c
 
 Herbs and spices are among the most concentrated sources of polyphenols in the human diet. They contribute very few calories, yet deliver an impressive diversity of plant compounds. Small habits can make a surprisingly big difference.
 
-Add cinnamon to your morning coffee.
+- Add cinnamon to your morning coffee.
 
-Stir cocoa powder into Greek yoghurt or kefir.
+- Stir cocoa powder into Greek yoghurt or kefir.
 
-Use sumac on salads, eggs, roasted vegetables, hummus or grilled meat.
+- Use sumac on salads, eggs, roasted vegetables, hummus or grilled meat.
 
-Add paprika to tomato-based sauces, soups and stews.
+- Add paprika to tomato-based sauces, soups and stews.
 
-Cook with turmeric, cumin and coriander more often.
+- Cook with turmeric, cumin and coriander more often.
 
-Be generous with rosemary, oregano, thyme and fresh herbs.
+- Be generous with rosemary, oregano, thyme and fresh herbs.
 
-Scatter fresh parsley over dishes rather than using it as decoration.
+- Scatter fresh parsley over dishes rather than using it as decoration.
 
-Swap bland meals for colourful, aromatic ones.
+- Swap bland meals for colourful, aromatic ones.
 
 Without really trying, you've increased both the flavour and the diversity of compounds reaching your gut.
 
@@ -1951,7 +1958,7 @@ It does mean that the minimum requirement and the optimal requirement may not be
 
 ## The Real Concern Isn't Protein Deficiency
 
-It's Muscle Loss.
+### It's Muscle Loss.
 
 When most people think about protein, they think about building muscle.
 
@@ -1961,17 +1968,14 @@ From around our fourth decade of life, we gradually begin losing skeletal muscle
 
 Sarcopenia isn't just about looking less muscular.
 
-It affects mobility.
+It affects:
 
-Balance.
-
-Independence.
-
-Metabolic health.
-
-Risk of falls.
-
-Quality of life.
+- Mobility.
+- Balance.
+- Independence.
+- Metabolic health.
+- Risk of falls.
+- Quality of life.
 
 In many ways, ageing successfully is less about preventing wrinkles and more about preserving muscle.
 
@@ -2026,27 +2030,27 @@ That doesn't mean protein-added ultra-processed foods automatically become healt
 
 The question shouldn't be:
 
-#### "How much protein can I add?"
+> "How much protein can I add?"
 
 It should be:
 
-#### "Where is my protein coming from?"
+> "Where is my protein coming from?"
 
-Eggs.
+- Eggs.
 
-Greek yoghurt.
+- Greek yoghurt.
 
-Fish.
+- Fish.
 
-Legumes.
+- Legumes.
 
-Beans.
+- Beans.
 
-Quality meat.
+- Quality meat.
 
-Tofu.
+- Tofu.
 
-Tempeh.
+- Tempeh.
 
 These foods bring considerably more to the table than protein alone.
 
@@ -2068,9 +2072,7 @@ The goal isn't to obsess over grams.
 
 The goal is to regularly eat good-quality protein, stay physically active and, perhaps most importantly, continue challenging your muscles throughout life.
 
-Because when it comes to longevity, the question isn't how much muscle you can build at 30.
-
-It's how much you can keep at 80.
+Because when it comes to longevity, the question isn't how much muscle you can build at 30, it's how much you can keep at 80.
 
 # Resistant Starch
 
@@ -2252,17 +2254,19 @@ Perhaps the most fascinating takeaway is that a potato doesn't need to become a 
 
 In today’s fast-paced world, quality sleep is more essential than ever for maintaining overall health and well-being. Modern lifestyles often disrupt natural sleep patterns, but adopting simple, science-backed habits can help restore balance. By harnessing morning and evening sun exposure, using sleep-promoting herbs and nutrients, and making mindful lifestyle adjustments, you can create a routine that supports deep, restorative sleep.
 
-**Morning Sun Exposure: Resetting Your Circadian Rhythm**
+#### Morning Sun Exposure: Resetting Your Circadian Rhythm
 
 Morning sunlight is one of the most effective tools for synchronizing your body’s internal clock. Stepping outside shortly after waking exposes your eyes and skin to low-angle sunlight, which plays a crucial role in regulating the circadian rhythm. This early light suppresses melatonin—the hormone responsible for sleep—helping you feel alert during the day. Additionally, it interacts with the adenosine system, which builds up over the day and signals sleepiness around 16 hours later. By setting this physiological timer early in the morning, your body is naturally primed for high-quality sleep later in the evening.
 
 #### The Benefits of Sunset Exposure
 
+Just as morning sunlight kickstarts your daily rhythm, viewing low-angle sunlight at sunset helps reinforce this cycle. The shifting wavelengths of light signal to your brain that the day is winding down, supporting the gradual onset of melatonin production. Spending time outside during sunset also fosters relaxation and mental clarity, promoting a smoother transition into nighttime rest.
+
 #### Limiting Evening Light Exposure
 
 While morning and sunset light are beneficial, bright artificial lighting in the evening can disrupt the circadian rhythm. Blue light from screens, LED bulbs, and even overhead lighting suppresses melatonin production, delaying sleep onset and reducing sleep quality. Dimming lights and minimizing screen time in the hour before bed allows melatonin to rise naturally, helping you fall asleep more easily and experience deeper sleep cycles.
 
-Herbal Remedies: Nature’s Sleep Aids
+#### Herbal Remedies: Nature’s Sleep Aids
 
 Herbal solutions have been used for centuries to enhance relaxation and sleep.
 
@@ -2280,13 +2284,13 @@ Both magnesium and L-theanine contribute to a relaxed nervous system, making the
 
 • **L-Theanine**: Found naturally in tea leaves, L-theanine promotes relaxation without causing drowsiness. It increases alpha brain waves, fostering a state of calm while modulating neurotransmitter levels like GABA, serotonin, and dopamine. This makes it a valuable addition to any evening routine.
 
-**The Importance of Routine and Avoiding Sleep Disruptors**
+#### The Importance of Routine and Avoiding Sleep Disruptors
 
 Consistency in your sleep schedule helps regulate your circadian rhythm and improve overall sleep quality. Going to bed and waking up at the same time every day strengthens the body’s internal clock, allowing for more predictable and restorative sleep cycles.
 
 Additionally, limiting **caffeine** and **alcohol** intake before bedtime plays a vital role in sleep health. Caffeine blocks adenosine, the sleep-promoting neurotransmitter, keeping the brain stimulated when it should be winding down. Alcohol, though often mistaken as a sedative, disrupts deep sleep stages and impairs overall rest. Ideally, caffeine should be avoided in the late afternoon, and alcohol consumption should be minimized a few hours before bed to ensure uninterrupted, high-quality sleep.
 
-**Bringing It All Together: A Science-Backed Sleep Strategy**
+#### Bringing It All Together: A Science-Backed Sleep Strategy
 
 By incorporating these practices into your daily routine, you can significantly improve sleep quality:
 
@@ -2306,9 +2310,6 @@ By incorporating these practices into your daily routine, you can significantly 
 
 By aligning your daily habits with these natural principles, you can create a sustainable and effective strategy for better sleep. Whether you’re seeking deeper rest, improved mood, or better cognitive function, these adjustments can help you thrive in a fast-paced world while ensuring you wake up refreshed and ready to take on the day.
 
-## References
-
-- Just as morning sunlight kickstarts your daily rhythm, viewing low-angle sunlight at sunset helps reinforce this cycle. The shifting wavelengths of light signal to your brain that the day is winding down, supporting the gradual onset of melatonin production. Spending time outside during sunset also fosters relaxation and mental clarity, promoting a smoother transition into nighttime rest.
 
 # Supplements %26 Adaptogens
 
@@ -2531,11 +2532,11 @@ But these little grains sometimes need to "wake up" if they've been refrigerated
 
 #### HOW TO MAKE KEFIR
 
-- Sieve off the liquid of the kefir grains and add to about 200ml-500ml of fresh milk
-- Leave at room temperature
-- Wait about 24hours or until you see some separation or thickening
-- Sieve off the liquid - this is your kefir
-- Wash the glass and add the grains back to more milk.
+1. Sieve off the liquid of the kefir grains and add to about 200ml-500ml of fresh milk
+2. Leave at room temperature
+3. Wait about 24hours or until you see some separation or thickening
+4. Sieve off the liquid - this is your kefir
+5. Wash the glass and add the grains back to more milk.
 I would recommend using less milk for the first week to give the grains chance to wake up and multiply. Otherwise they may not be strong enough to ward off other microbes in the milk.
 
 #### SECOND FERMENTATION
@@ -2596,17 +2597,17 @@ If it seems daunting, please drop me a message and we can arrange a call to go t
 
 #### WHAT TO DO
 
-- Sterilise all your equipment, ideally in the dishwaster and hot water.
-- Weigh your grains if you can - you'll want about 20% Cane Sugar. (e.g. if you have 40g grains, you'll need 10g sugar)
-- I usually use 80g grains, 20g sugar and 1L water.
-- Add the grains into your brewing vessel - probably easier through the funnel as the grains are quite small.
-- Mix the sugar into the filtered water. (if you only have 40g grains, perhaps start off with 500ml water)
-- Pour into the vessel
-- Cover with a the cloth and band
-- Leave for around 24-36hours at room temperature.
-- Pour out the liquid through the sieve (and funnel) into the second bottle. Keep the grains safe.
-- Flavour the liquid and seal shut for around another 24hours then move to the fridge
-- Repeat steps for more water kefir.
+1. Sterilise all your equipment, ideally in the dishwaster and hot water.
+2. Weigh your grains if you can - you'll want about 20% Cane Sugar. (e.g. if you have 40g grains, you'll need 10g sugar)
+3. I usually use 80g grains, 20g sugar and 1L water.
+4. Add the grains into your brewing vessel - probably easier through the funnel as the grains are quite small.
+5. Mix the sugar into the filtered water. (if you only have 40g grains, perhaps start off with 500ml water)
+6. Pour into the vessel
+7. Cover with a the cloth and band
+8. Leave for around 24-36hours at room temperature.
+9. Pour out the liquid through the sieve (and funnel) into the second bottle. Keep the grains safe.
+10. Flavour the liquid and seal shut for around another 24hours then move to the fridge
+11. Repeat steps for more water kefir.
 
 # Fermented Vegetables
 
@@ -2640,13 +2641,13 @@ Fermenting them both together is a wonderful way to give yourself a boost when y
 
 #### WHAT TO DO
 
-- Peel about 120g of garlic cloves
-- Add to about 200ml of raw (ideally locally sourced) honey
-- Make sure the Garlic is covered.
-- Loosely fit the lid of the jar
-- Keep in a dark place for about 1m
-- Every few days tighten the lid and turn the jar, coating the garlic in honey, as the garlic will tend to float
-- Store in a cool place
+1. Peel about 120g of garlic cloves
+2. Add to about 200ml of raw (ideally locally sourced) honey
+3. Make sure the Garlic is covered.
+4. Loosely fit the lid of the jar
+5. Keep in a dark place for about 1m
+6. Every few days tighten the lid and turn the jar, coating the garlic in honey, as the garlic will tend to float
+7. Store in a cool place
 
 #### FERMENTING WITH JUST SALT
 
@@ -2660,15 +2661,15 @@ I find the BBC recipe to be just great. [https://www.bbcgoodfood.com/recipes/sim
 
 #### WHAT TO DO
 
-- Sterilise your 1L bowl or jar
-- Shred around 2Kg Cabbage
-- Rub 6tbsp of fine sea salt into the leaves to cause them to wilt.
-- Add to your bowl/jar
-- Add filtered water to submerge.
-- Add a weight on top to keep the cabbage down
-- Cover the bowl/jar
-- Leave to ferment for around 2-6 weeks.
-- Keep an eye on the ferment and remove any scum build up.
+1. Sterilise your 1L bowl or jar
+2. Shred around 2Kg Cabbage
+3. Rub 6tbsp of fine sea salt into the leaves to cause them to wilt.
+4. Add to your bowl/jar
+5. Add filtered water to submerge.
+6. Add a weight on top to keep the cabbage down
+7. Cover the bowl/jar
+8. Leave to ferment for around 2-6 weeks.
+9. Keep an eye on the ferment and remove any scum build up.
 Salt can be used for almost all vegetables, in a similar way. Alter the ferment time depending on how soft the veggies are.
 
 #### FERMENTING USING WHEY
@@ -2703,10 +2704,10 @@ I use this method for my mixed vegetable ferments.
 
 #### WHAT TO DO
 
-- Sterilise your jar
-- Add all your ingredients
-- Cover with filtered water
-4\. Leave for 1 week at room temperature then move to the refrigerator.
+1. Sterilise your jar
+2. Add all your ingredients
+3. Cover with filtered water
+4. Leave for 1 week at room temperature then move to the refrigerator.
 
 # Probiotic Yogurts
 
@@ -2742,12 +2743,12 @@ If it seems daunting, please drop me a message and we can arrange a call to go t
 
 #### What to do
 
-- Wash everything thoroughly and disinfect with hot water.
-- Add your potato starch and probiotic strain along to the yogurt maker container
-- Add some of your UHT milk and swish around to mix it all together.
-- Add the rest of the milk and cream
-- Set the yogurt maker for the set time and temperature
-- Your yogurt is ready to consume as soon as its finished; I prefer cooling it down first in the refrigerator.
+1. Wash everything thoroughly and disinfect with hot water.
+2. Add your potato starch and probiotic strain along to the yogurt maker container
+3. Add some of your UHT milk and swish around to mix it all together.
+4. Add the rest of the milk and cream
+5. Set the yogurt maker for the set time and temperature
+6. Your yogurt is ready to consume as soon as its finished; I prefer cooling it down first in the refrigerator.
 
 ## More on the specific strains...
 
@@ -2803,67 +2804,67 @@ If it seems daunting, please drop me a message and we can arrange a call to go t
 
 #### WHAT YOU'LL NEED
 
-2 large bowls
+- 2 large bowls
 
-1-1.5L airtight storage jar
+- 1-1.5L airtight storage jar
 
-Food processor
+- Food processor
 
-1 large **Chinese Leaf Cabbage** cut into small strips/slices
+- 1 large **Chinese Leaf Cabbage** cut into small strips/slices
 
-2 medium **Carrots** cut into match sticks
+- 2 medium **Carrots** cut into match sticks
 
-1/2 **Mooli (Daikon Radish)** cut into matchsticks
+- 1/2 **Mooli (Daikon Radish)** cut into matchsticks
 
-4 tablespoons **Himalayan Salt**
+- 4 tablespoons **Himalayan Salt**
 
-1 tablespoon **Sugar**
+- 1 tablespoon **Sugar**
 
-6 **Garlic cloves**
+- 6 **Garlic cloves**
 
-1 teaspoon peeled **Ginger**
+- 1 teaspoon peeled **Ginger**
 
-6 **Spring Onions**. Green parts sliced diagonally. Keep white part aside, cutting off the roots.
+- 6 **Spring Onions**. Green parts sliced diagonally. Keep white part aside, cutting off the roots.
 
-~3-5 Tablespoons **Gochu-garu (Korean hot pepper flakes)**\- I got these from ebay (I only use 3, super spicy)
+- ~3-5 Tablespoons **Gochu-garu (Korean hot pepper flakes)**\- I got these from ebay (I only use 3, super spicy)
 
-1 tablespoon **Fish Sauce**(try to look for ones with no additives)
+- 1 tablespoon **Fish Sauce**(try to look for ones with no additives)
 
-2 teaspoons **Soy sauce**
+- 2 teaspoons **Soy sauce**
 
-1 teaspoon of **Oyster/Noyster sauce**
+- 1 teaspoon of **Oyster/Noyster sauce**
 
 #### STAGE 1
 
-Salt the cabbage:
+1. Salt the cabbage:
 
-Cut the cabbage leaves crosswise into 3-4cm pieces.
+2. Cut the cabbage leaves crosswise into 3-4cm pieces.
 
-Toss with the salt and about 230ml water in a large bowl.
+3. Toss with the salt and about 230ml water in a large bowl.
 
-Let stand for 2 hours, tossing the cabbage every 30 minutes to salt evenly.
+4. Let stand for 2 hours, tossing the cabbage every 30 minutes to salt evenly.
 
 #### STAGE 2
 
-Make the kimchi sauce:
+1. Make the kimchi sauce:
 
-Add the Sugar, Garlic cloves, Ginger, White parts of the onions, Gochu-garu, Fish Sauce, Soy sauce and Oyster/Noyster sauce
+2. Add the Sugar, Garlic cloves, Ginger, White parts of the onions, Gochu-garu, Fish Sauce, Soy sauce and Oyster/Noyster sauce
 
 #### STAGE 3
 
-Wash the salted cabbage: Rinse the cabbage a number of times with cold running water to remove any dirt and excess salt and let drain
+1. Wash the salted cabbage: Rinse the cabbage a number of times with cold running water to remove any dirt and excess salt and let drain
 
 #### STAGE 4
 
-Add the cabbage, radish matchsticks, spring onion, and carrot to your large bowl and add the kimchi paste and mix all together by hand.
+1. Add the cabbage, radish matchsticks, spring onion, and carrot to your large bowl and add the kimchi paste and mix all together by hand.
 
-Transfer to your airtight jar. Press down the on the kimchi so it’s well packed and no air can get inside, then put the lid.
+2. Transfer to your airtight jar. Press down the on the kimchi so it’s well packed and no air can get inside, then put the lid.
 
 #### STAGE 5
 
-Ferment the kimchi or eat it straight away!
+1. Ferment the kimchi or eat it straight away!
 
-It takes about 2 weeks to ferment in the refrigerator or at room temperature for 2-3 days then transfer to the refrigerator.
+2. It takes about 2 weeks to ferment in the refrigerator or at room temperature for 2-3 days then transfer to the refrigerator.
 
 # Kombucha
 
@@ -2928,38 +2929,38 @@ Let's assume you have received about 200ml of starter and a small pellicle. This
 
 #### Stage 1
 
-- Make sure you sterilise everything. Ideally a hot dishwasher with just the kombucha utensils and small 1l vessel.
-- Mix around 2 teabags in around 300ml hot water in the glass jug
-- Add ~50g sugar and dissolve
-- Let the tea brew for a few minutes and remove the tea bags
-- Add ~300ml of cool water (ideally filtered water, but I do use tap water)
-- Add the SCOBY to your small vessel and cover with your cloth.
-- Leave this for about 3-4 days.
+1. Make sure you sterilise everything. Ideally a hot dishwasher with just the kombucha utensils and small 1l vessel.
+2. Mix around 2 teabags in around 300ml hot water in the glass jug
+3. Add ~50g sugar and dissolve
+4. Let the tea brew for a few minutes and remove the tea bags
+5. Add ~300ml of cool water (ideally filtered water, but I do use tap water)
+6. Add the SCOBY to your small vessel and cover with your cloth.
+7. Leave this for about 3-4 days.
 #### Stage 2
 
 Basically repeating it all
 
-- Make sure you sterilise everything. This time, the large vessel you will be using for your continuous brew.
-- Mix around 2 teabags in around 300ml hot water in the glass jug
-- Add ~50g sugar and dissolve
-- Let the tea brew for a few minutes and remove the tea bags
-- Add ~300ml of cool water (ideally filtered water, but I do use tap water)
-- Add the previous brewing Kombucha including the scoby to your large vessel
-- Add the new sugar tea
-- Cover with your cloth.
-- Leave this for about 3-4 days. You should get a super thin, white-ish pellicle forming on the top of this brew now.
+1. Make sure you sterilise everything. This time, the large vessel you will be using for your continuous brew.
+2. Mix around 2 teabags in around 300ml hot water in the glass jug
+3. Add ~50g sugar and dissolve
+4. Let the tea brew for a few minutes and remove the tea bags
+5. Add ~300ml of cool water (ideally filtered water, but I do use tap water)
+6. Add the previous brewing Kombucha including the scoby to your large vessel
+7. Add the new sugar tea
+8. Cover with your cloth.
+9. Leave this for about 3-4 days. You should get a super thin, white-ish pellicle forming on the top of this brew now.
 Check for no weird white or green circles on the top!
 
 #### Stage 3
 
 Just adding more sweet tea.
 
-- Mix around 2 teabags in around 300ml hot water in the glass jug
-- Add ~50g sugar and dissolve
-- Let the tea brew for a few minutes and remove the tea bags
-- Add ~300ml of cool water (ideally filtered water, but I do use tap water)
-- Add to the continuous brewing Kombucha
-- Leave for another 3-4 days. You should get a thicker, pellicle forming on the top of this brew now.
+1. Mix around 2 teabags in around 300ml hot water in the glass jug
+2. Add ~50g sugar and dissolve
+3. Let the tea brew for a few minutes and remove the tea bags
+4. Add ~300ml of cool water (ideally filtered water, but I do use tap water)
+5. Add to the continuous brewing Kombucha
+6. Leave for another 3-4 days. You should get a thicker, pellicle forming on the top of this brew now.
 Now you have a lovely strong starter!
 
 You should have about 2L of Kombucha now.
@@ -2972,26 +2973,26 @@ For every 1L I usually add around 90g of Cane Sugar and 4Tea Bags
 
 So if you want to get your brew to 4 liters, let's do the following
 
-- Use your existing ~2L of Kombucha as your super strong starter. Keep it in the brewing vessel.
-- Mix around 8 teabags in around 500ml hot water in the glass jug
-- Add ~180g sugar and dissolve
-- Let the tea brew for a few minutes and remove the tea bags
-- Add ~500ml of cool water (ideally filtered water, but I do use tap water)
-- Add to the continuous brewing Kombucha
-- Add another 1l of water (ideally filtered water, but I do use tap water)
-- Leave for around 7-10 days.
-- You should get a lovely thick, pellicle forming on the top of this brew now.
-- After around 7 days, draw some fluid off into a glass to taste. It should be slightly sweet but tangy.
+1. Use your existing ~2L of Kombucha as your super strong starter. Keep it in the brewing vessel.
+2. Mix around 8 teabags in around 500ml hot water in the glass jug
+3. Add ~180g sugar and dissolve
+4. Let the tea brew for a few minutes and remove the tea bags
+5. Add ~500ml of cool water (ideally filtered water, but I do use tap water)
+6. Add to the continuous brewing Kombucha
+7. Add another 1l of water (ideally filtered water, but I do use tap water)
+8. Leave for around 7-10 days.
+9. You should get a lovely thick, pellicle forming on the top of this brew now.
+10. After around 7 days, draw some fluid off into a glass to taste. It should be slightly sweet but tangy.
 
 #### FIRST OR SECOND BREW
 
-- Once the kombucha is to your taste, you can draw off the 1L into your bottle and drink away.
-- If you wanted to flavour it, add the flavour to the 1l close top bottle, then draw off the 1L of Kombucha into the bottle.
-- Leave this for a few days to ferment further, then put in the fridge to enjoy!
-- I wouldn't recommend more than 2L at a time
-- After you have drawn off the fluid, replace the fluid you have drawn off, with the methods above.
-- For every 1L I usually add around 90g of Cane Sugar and 4Tea Bags
-- Make sure the water you add has been cooled down with cold water.
+1. Once the kombucha is to your taste, you can draw off the 1L into your bottle and drink away.
+2. If you wanted to flavour it, add the flavour to the 1l close top bottle, then draw off the 1L of Kombucha into the bottle.
+3. Leave this for a few days to ferment further, then put in the fridge to enjoy!
+4. I wouldn't recommend more than 2L at a time
+5. After you have drawn off the fluid, replace the fluid you have drawn off, with the methods above.
+6. For every 1L I usually add around 90g of Cane Sugar and 4Tea Bags
+7. Make sure the water you add has been cooled down with cold water.
 If your Kombucha gets very acidic, draw off most of it, leaving around 10%, then fill that back up - its probably just too strong/active.
 
 #### FLAVOURS
