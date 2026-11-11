@@ -13,12 +13,12 @@ const norm = (s: string) => s.replace(/\s+/g, "");
 function dedupe(blocks: Block[]): Node[] {
   const out: Node[] = [];
   for (let i = 0; i < blocks.length; i++) {
-    const b = blocks[i];
+    const b = blocks[i]!;
     if (b.type === "p") {
       let acc = "", j = i + 1;
       const target = norm(b.text);
-      while (j < blocks.length && blocks[j].type !== "ref" && acc.length < target.length) {
-        acc += norm(blocks[j].text); j++;
+      while (j < blocks.length && blocks[j]!.type !== "ref" && acc.length < target.length) {
+        acc += norm(blocks[j]!.text); j++;
         if (acc === target && j - i - 1 >= 2) break;
       }
       if (acc === target && j - i - 1 >= 2) {
@@ -33,21 +33,21 @@ function dedupe(blocks: Block[]): Node[] {
   return out;
 }
 
-const firstText = (n: Node) => (n.kind === "list" ? n.items[0] : n.kind === "p" ? n.text : "");
+const firstText = (n: Node): string => (n.kind === "list" ? (n.items[0] ?? "") : n.kind === "p" ? n.text : "");
 
 function structure(nodes: Node[], slug: string): Node[] {
   const markers = layouts[slug] ?? [];
   const out: Node[] = [];
   let group: Extract<Node, { kind: "cards" }> | null = null;
   for (const n of nodes) {
-    const m = n.kind !== "h" ? markers.find((x) => firstText(n).startsWith(x.start)) : undefined;
+    const m = n.kind !== "h" ? markers.find((x) => (firstText(n) ?? "").startsWith(x.start)) : undefined;
     if (n.kind === "h" || m?.end) group = null;
     if (m && !m.end) {
       if (!group) { group = { kind: "cards", cards: [] }; out.push(group); }
       group.cards.push({ title: m.title!, body: [n] });
       continue;
     }
-    if (group) { group.cards[group.cards.length - 1].body.push(n); continue; }
+    if (group) { group.cards[group.cards.length - 1]!.body.push(n); continue; }
     out.push(n);
   }
   return out;
