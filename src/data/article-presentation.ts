@@ -1,0 +1,42 @@
+import type { Article, Block } from "@/data/articles";
+
+export const recipeSlugs = ["milk-kefir", "water-kefir", "fermented-vegetables", "probiotic-yogurts", "kimchi", "kombucha"];
+export const editorialSlugs = ["ayurveda", "hidden-toxins", "mental-wellbeing", "sleep-strategies", "physical-wellbeing", "deliberate-cold-exposure", "intermittent-fasting", "polyphenols", "protein", "cultured-foods"];
+
+const recommendations: Record<string, string[]> = {
+  "cultured-foods": ["probiotics", "milk-kefir", "water-kefir", "fermented-vegetables"],
+  "probiotics": ["cultured-foods", "fibre", "probiotic-yogurts", "milk-kefir"],
+  "milk-kefir": ["water-kefir", "probiotic-yogurts", "fermented-vegetables", "cultured-foods"],
+  "water-kefir": ["milk-kefir", "kombucha", "probiotics", "cultured-foods"],
+  "fermented-vegetables": ["kimchi", "milk-kefir", "probiotics", "cultured-foods"],
+  "probiotic-yogurts": ["probiotics", "milk-kefir", "water-kefir", "cultured-foods"],
+  "kimchi": ["fermented-vegetables", "probiotic-yogurts", "probiotics", "cultured-foods"],
+  "kombucha": ["water-kefir", "polyphenols", "probiotics", "cultured-foods"],
+  "protein": ["kettlebells", "creatine", "feeding-your-body", "intermittent-fasting"],
+  "polyphenols": ["fibre", "resistant-starch", "probiotics", "feeding-your-body"],
+  "intermittent-fasting": ["protein", "sleep-strategies", "feeding-your-body", "mitochondrial-health"],
+  "mental-wellbeing": ["sleep-strategies", "adaptogens", "barefoot-walking", "deliberate-cold-exposure"],
+  "sleep-strategies": ["mental-wellbeing", "infra-red-exposure", "mitochondrial-health", "physical-wellbeing"],
+};
+
+export function relatedSlugs(article: Article, fallback: string[]): string[] {
+  return (recommendations[article.slug] ?? fallback).filter((slug) => slug !== article.slug).slice(0, 4);
+}
+
+export type ReadingSection = { title: string; level: number; blocks: Block[]; mode: "prose" | "ingredients" | "steps" };
+
+export function readingSections(blocks: Block[]): ReadingSection[] {
+  const sections: ReadingSection[] = [];
+  let current: ReadingSection = { title: "", level: 2, blocks: [], mode: "prose" };
+  for (const block of blocks) {
+    if (block.type === "h") {
+      if (current.title || current.blocks.length) sections.push(current);
+      current = {
+        title: block.text, level: block.level, blocks: [],
+        mode: /what you[’']ll need/i.test(block.text) ? "ingredients" : /what to do|how to make kefir|^stage \d|lets make kombucha|first or second brew/i.test(block.text) ? "steps" : "prose",
+      };
+    } else current.blocks.push(block);
+  }
+  if (current.title || current.blocks.length) sections.push(current);
+  return sections;
+}
