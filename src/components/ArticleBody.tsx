@@ -169,7 +169,7 @@ function Card({ title, body, index }: { title: string; body: Node[]; index: numb
 
 function Render({ n, compact }: { n: Node; compact?: boolean }) {
   if (n.kind === "h") {
-    const size = n.level === 3 ? "text-2xl" : "text-lg";
+    const size = "text-xl";
     return (
       <h3 className={`${size} pt-4 font-display font-semibold text-foreground`}>
         <span className="mr-2 inline-block h-[1.05em] w-1 translate-y-[3px] rounded-full bg-amber align-baseline" />
