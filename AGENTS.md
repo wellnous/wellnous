@@ -33,3 +33,4 @@ use the editor.
 - Feeding Your Body uses stacked full-width section cards in ArticleBody rather than length-based card grouping, so long and short topics share one readable layout without changing the archive text.
 - Article presentation policies select editorial sections or recipe methods explicitly; numbered source blocks retain their sequence so instructions do not become decorative cards.
 - Original blog posts have their own content collection and reading routes; the topic directory is separate so author posts are not confused with reference articles.
+- Blog reading pages use the non-nested `blog_.$slug` route convention so the directory cannot hide the selected post.
