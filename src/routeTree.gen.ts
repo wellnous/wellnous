@@ -18,6 +18,7 @@ import { Route as PhysicalRouteImport } from './routes/physical'
 import { Route as SupplementsRouteImport } from './routes/supplements'
 import { Route as TopicsRouteImport } from './routes/topics'
 import { Route as ArticlesSlugRouteImport } from './routes/articles.$slug'
+import { Route as BlogSlugRouteImport } from './routes/blog.$slug'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
@@ -64,40 +65,48 @@ const ArticlesSlugRoute = ArticlesSlugRouteImport.update({
   path: '/articles/$slug',
   getParentRoute: () => rootRouteImport,
 } as any)
+const BlogSlugRoute = BlogSlugRouteImport.update({
+  id: '/$slug',
+  path: '/$slug',
+  getParentRoute: () => BlogRoute,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
-  '/blog': typeof BlogRoute
+  '/blog': typeof BlogRouteWithChildren
   '/kombucha': typeof KombuchaRoute
   '/nutrition': typeof NutritionRoute
   '/physical': typeof PhysicalRoute
   '/supplements': typeof SupplementsRoute
   '/topics': typeof TopicsRoute
   '/articles/$slug': typeof ArticlesSlugRoute
+  '/blog/$slug': typeof BlogSlugRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
-  '/blog': typeof BlogRoute
+  '/blog': typeof BlogRouteWithChildren
   '/kombucha': typeof KombuchaRoute
   '/nutrition': typeof NutritionRoute
   '/physical': typeof PhysicalRoute
   '/supplements': typeof SupplementsRoute
   '/topics': typeof TopicsRoute
   '/articles/$slug': typeof ArticlesSlugRoute
+  '/blog/$slug': typeof BlogSlugRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
-  '/blog': typeof BlogRoute
+  '/blog': typeof BlogRouteWithChildren
   '/kombucha': typeof KombuchaRoute
   '/nutrition': typeof NutritionRoute
   '/physical': typeof PhysicalRoute
   '/supplements': typeof SupplementsRoute
   '/topics': typeof TopicsRoute
   '/articles/$slug': typeof ArticlesSlugRoute
+  '/blog/$slug': typeof BlogSlugRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
@@ -111,6 +120,7 @@ export interface FileRouteTypes {
     | '/supplements'
     | '/topics'
     | '/articles/$slug'
+    | '/blog/$slug'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
@@ -122,6 +132,7 @@ export interface FileRouteTypes {
     | '/supplements'
     | '/topics'
     | '/articles/$slug'
+    | '/blog/$slug'
   id:
     | '__root__'
     | '/'
@@ -133,12 +144,13 @@ export interface FileRouteTypes {
     | '/supplements'
     | '/topics'
     | '/articles/$slug'
+    | '/blog/$slug'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AboutRoute: typeof AboutRoute
-  BlogRoute: typeof BlogRoute
+  BlogRoute: typeof BlogRouteWithChildren
   KombuchaRoute: typeof KombuchaRoute
   NutritionRoute: typeof NutritionRoute
   PhysicalRoute: typeof PhysicalRoute
@@ -212,13 +224,30 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ArticlesSlugRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/blog/$slug': {
+      id: '/blog/$slug'
+      path: '/$slug'
+      fullPath: '/blog/$slug'
+      preLoaderRoute: typeof BlogSlugRouteImport
+      parentRoute: typeof BlogRoute
+    }
   }
 }
+
+interface BlogRouteChildren {
+  BlogSlugRoute: typeof BlogSlugRoute
+}
+
+const BlogRouteChildren: BlogRouteChildren = {
+  BlogSlugRoute: BlogSlugRoute,
+}
+
+const BlogRouteWithChildren = BlogRoute._addFileChildren(BlogRouteChildren)
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AboutRoute: AboutRoute,
-  BlogRoute: BlogRoute,
+  BlogRoute: BlogRouteWithChildren,
   KombuchaRoute: KombuchaRoute,
   NutritionRoute: NutritionRoute,
   PhysicalRoute: PhysicalRoute,
