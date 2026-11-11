@@ -23,9 +23,9 @@ function Rich({ text }: { text: string }) {
     <>
       {bits.map((b, i) => {
         const bold = /^\*\*([^*]+)\*\*$/.exec(b);
-        if (bold) return <strong key={i} className="font-semibold text-foreground">{bold[1]}</strong>;
+        if (bold) return <strong key={i} className="font-semibold text-foreground">{bold[1] ?? ""}</strong>;
         const link = /^\[([^\]]+)\]\(([^)]+)\)$/.exec(b);
-        if (link) return <a key={i} href={link[2]} target="_blank" rel="noopener noreferrer" className="text-primary underline underline-offset-4">{link[1]}</a>;
+        if (link) return <a key={i} href={link[2] ?? ""} target="_blank" rel="noopener noreferrer" className="text-primary underline underline-offset-4">{link[1] ?? ""}</a>;
         return <span key={i}>{b}</span>;
       })}
     </>
