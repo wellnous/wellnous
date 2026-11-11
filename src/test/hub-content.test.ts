@@ -13,6 +13,11 @@ describe("Hub content", () => {
     expect(tray?.slugs[0]).toBe("probiotics");
   });
 
+  it("orders the fermented foods as milk kefir, kombucha, kimchi, vegetables, water kefir and yogurts", () => {
+    const tray = pillars.find((p) => p.slug === "nutrition")?.trays.find((t) => t.name === "Gut & Cultured Foods");
+    expect(tray?.slugs.slice(2)).toEqual(["milk-kefir", "kombucha", "kimchi", "fermented-vegetables", "water-kefir", "probiotic-yogurts"]);
+  });
+
   it("keeps each recipe method as ordered source steps", () => {
     for (const slug of recipeSlugs) {
       const article = getArticle(slug);

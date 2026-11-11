@@ -7,7 +7,7 @@ export const pillars: Pillar[] = [
     trays: [
       { name: "Foundations", slugs: ["feeding-your-body", "added-sugar", "protein", "intermittent-fasting"] },
       { name: "Fibre & Plant Power", slugs: ["fibre", "resistant-starch", "polyphenols"] },
-      { name: "Gut & Cultured Foods", slugs: ["probiotics", "cultured-foods", "milk-kefir", "water-kefir", "fermented-vegetables", "probiotic-yogurts", "kimchi", "kombucha"] },
+      { name: "Gut & Cultured Foods", slugs: ["probiotics", "cultured-foods", "milk-kefir", "kombucha", "kimchi", "fermented-vegetables", "water-kefir", "probiotic-yogurts"] },
       { name: "Traditions", slugs: ["ayurveda"] },
       { name: "Toxins", slugs: ["hidden-toxins"] },
     ] },

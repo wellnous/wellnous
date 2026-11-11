@@ -12,3 +12,5 @@
 - [x] Revise Ayurveda, toxins, cold exposure and mental wellbeing; restore sunset and expose backward walking in section navigation
 - [x] Separate topic library from the ten retrieved original blog posts
 - [x] Verify corrected articles, links and mobile layouts
+- [ ] Order fermented-food cards as milk kefir, kombucha, kimchi, fermented vegetables, water kefir, yogurts
+- [ ] Repair and verify original blog post links
