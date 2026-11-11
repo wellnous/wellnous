@@ -28,8 +28,8 @@ function Index() {
             A holistic and practical approach to <em className="text-primary">wellbeing</em>.
           </h1>
           <img src={logo.url} alt="" aria-hidden className="pointer-events-none absolute right-5 top-16 hidden w-80 opacity-90 lg:block" />
-          <p className="mt-6 max-w-xl text-lg text-muted-foreground">Wellnous combines <span className="font-medium text-foreground">"Well"</span> for wellbeing and <span className="font-medium text-foreground">"Nous"</span> — an ancient Greek word associated with wisdom, understanding, and insight.</p> <p>
-          </p> Practical, science-informed approaches to help you build resilience and take control of your health in achievable ways.</p>
+          <p className="mt-6 max-w-xl text-lg text-muted-foreground">Wellnous combines <span className="font-medium text-foreground">"Well"</span> for wellbeing and <span className="font-medium text-foreground">"Nous"</span> — an ancient Greek word associated with wisdom, understanding, and insight.</p>
+          <p className="mt-4 max-w-xl text-lg text-muted-foreground">Practical, science-informed approaches to help you build resilience and take control of your health in achievable ways.</p>
           <p className="mt-4 text-sm text-muted-foreground">Founded by <span className="font-medium text-foreground">Kristina Crimp</span>, Scientist and Cambridge Natural Sciences graduate.</p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link to="/nutrition" className="inline-flex items-center gap-2 rounded-full bg-primary px-6 py-3 text-sm font-medium text-primary-foreground hover:bg-primary/90">Start learning <ArrowRight className="h-4 w-4" /></Link>
