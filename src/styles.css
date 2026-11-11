@@ -171,6 +171,9 @@
 @layer base { body { font-family: var(--font-sans); } }
 @utility shadow-soft { box-shadow: var(--shadow-soft); }
 @utility tray { scrollbar-width: thin; scroll-padding-inline: 1.25rem; }
+.recipe-steps { counter-reset: recipe-step; list-style: none; padding: 0; }
+.recipe-steps > li { counter-increment: recipe-step; position: relative; min-height: 2rem; padding-left: 3rem; margin-block: 1rem; }
+.recipe-steps > li::before { content: counter(recipe-step); position: absolute; left: 0; top: 0; width: 2rem; height: 2rem; display: grid; place-items: center; border-radius: 50%; background: var(--secondary); color: var(--primary); font-weight: 700; font-family: var(--font-display); }
 @utility hero-glow {
   background: radial-gradient(60% 60% at 85% 10%, color-mix(in oklab, var(--amber) 28%, transparent), transparent 70%),
     radial-gradient(50% 60% at 0% 100%, color-mix(in oklab, var(--primary) 18%, transparent), transparent 70%);
