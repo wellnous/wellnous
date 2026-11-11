@@ -457,7 +457,7 @@ For a decent overview, please listen to Andrew Huberman’s podcast on this topi
 
 # Feeding Your Body
 
-## everyday nutrition
+## Everyday Nutrition
 
 #### Whole Foods First
 
