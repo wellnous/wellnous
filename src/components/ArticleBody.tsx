@@ -218,8 +218,8 @@ export function ArticleBody({ article }: { article: Article }) {
         <nav className="mt-8 rounded-2xl border bg-secondary/40 p-4">
           <p className="text-[11px] font-semibold uppercase tracking-widest text-amber-deep">In this article</p>
           <div className="mt-2.5 flex flex-wrap gap-2">
-            {navItems.map((t) => (
-              <a key={t} href={`#${anchor(t)}`} className="rounded-full bg-card px-3 py-1.5 text-[13px] font-medium text-foreground/80 transition-colors hover:bg-primary hover:text-primary-foreground">
+            {navItems.map((t, i) => (
+              <a key={`${t}-${i}`} href={`#${anchor(t)}`} className="rounded-full bg-card px-3 py-1.5 text-[13px] font-medium text-foreground/80 transition-colors hover:bg-primary hover:text-primary-foreground">
                 {t}
               </a>
             ))}
