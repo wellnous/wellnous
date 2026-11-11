@@ -14,3 +14,4 @@
 - [x] Verify corrected articles, links and mobile layouts
 - [x] Order fermented-food cards as milk kefir, kombucha, kimchi, fermented vegetables, water kefir, yogurts
 - [x] Repair and verify original blog post links
+- [x] Kombucha sales page cards unnumbered; homemade brewing steps keep their numbers

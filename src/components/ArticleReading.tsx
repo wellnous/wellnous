@@ -6,7 +6,7 @@ import { Rich } from "@/components/RichText";
 const anchor = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
 const foodLinks: Record<string, string> = { "Probiotics": "probiotics", "Milk Kefir": "milk-kefir", "Kombucha": "kombucha", "Water Kefir": "water-kefir", "Pro-biotic Yogurts": "probiotic-yogurts", "Cultured Vegetables": "fermented-vegetables", "Kimchi": "kimchi" };
 
-function Paragraphs({ blocks, numberSteps = true }: { blocks: Block[]; numberSteps?: boolean }) {
+function Paragraphs({ blocks }: { blocks: Block[] }) {
   const groups: { type: "p" | "quote" | "list" | "steps"; items: string[] }[] = [];
   for (const block of blocks) {
     const type = block.type === "li" ? "list" : block.type === "step" ? "steps" : block.type === "quote" ? "quote" : "p";
@@ -16,9 +16,7 @@ function Paragraphs({ blocks, numberSteps = true }: { blocks: Block[]; numberSte
   }
   return <>{groups.map((g, i) => {
     if (g.type === "list") return <ul key={i} className="list-disc space-y-2 pl-5 marker:text-primary">{g.items.map((text, j) => <li key={j}><Rich text={text} /></li>)}</ul>;
-    if (g.type === "steps") return numberSteps
-      ? <ol key={i} className="recipe-steps">{g.items.map((text, j) => <li key={j}><Rich text={text} /></li>)}</ol>
-      : <div key={i} className="space-y-4">{g.items.map((text, j) => <p key={j}><Rich text={text} /></p>)}</div>;
+    if (g.type === "steps") return <ol key={i} className="recipe-steps">{g.items.map((text, j) => <li key={j}><Rich text={text} /></li>)}</ol>;
     if (g.type === "quote") return <blockquote key={i} className="border-l-4 border-amber py-2 pl-5 font-display text-2xl font-semibold text-primary"><Rich text={g.items[0] ?? ""} /></blockquote>;
     return <p key={i}><Rich text={g.items[0] ?? ""} /></p>;
   })}</>;
@@ -47,7 +45,7 @@ export function ArticleReading({ article }: { article: Article }) {
           {section.title && <h2 className={`mb-4 font-display font-semibold leading-snug text-foreground ${section.title === "It's Muscle Loss." ? "text-3xl" : takeaway ? "text-3xl text-primary" : "text-xl"}`}>{section.title}</h2>}
           <div className="space-y-4">
             {ingredients ? <ul className="grid list-disc gap-x-8 gap-y-2 pl-5 marker:text-primary sm:grid-cols-2">{section.blocks.map((b, j) => <li key={j}><Rich text={b.text} /></li>)}</ul>
-              : <Paragraphs blocks={section.blocks} numberSteps={article.slug !== "kombucha"} />}
+              : <Paragraphs blocks={section.blocks} />}
           </div>
           {link && <Link to="/articles/$slug" params={{ slug: link }} className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-primary">Keep reading: {section.title} <span aria-hidden="true">→</span></Link>}
         </section>;
