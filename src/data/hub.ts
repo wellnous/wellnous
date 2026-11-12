@@ -3,7 +3,7 @@ export type Pillar = { slug: "nutrition" | "physical" | "mind" | "supplements"; 
 
 export const pillars: Pillar[] = [
   { slug: "nutrition", title: "Everyday Nutrition", tagline: "Feed your body, simply.",
-    intro: "Explore the science on sugar, fibre, protein, the gut and the hidden toxins in everyday life.",
+    intro: "Explore the science on sugar, fibre, protein, the gut and everyday chemical exposures.",
     trays: [
       { name: "Foundations", slugs: ["feeding-your-body", "added-sugar", "protein", "intermittent-fasting"] },
       { name: "Fibre & Plant Power", slugs: ["fibre", "resistant-starch", "polyphenols"] },
@@ -39,9 +39,9 @@ export const quickWins: QuickWin[] = [
   { label: "Eat real foods", slug: "feeding-your-body" },
   { label: "Move more", slug: "physical-wellbeing" },
   { label: "Walk after meals", slug: "added-sugar" },
-  { label: "Protein at breakfast", slug: "protein" },
-  { label: "Stop eating well before bedtime", slug: "intermittent-fasting" },
+  { label: "Protein at breakfast to stay fuller for longer", slug: "protein" },
+  { label: "Finish eating 2–3 hours before bed to aid sleep", slug: "intermittent-fasting" },
   { label: "Consume a fermented food", slug: "cultured-foods" },
   { label: "Breathe deeply for 2 min", slug: "breathwork" },
-  { label: "Ditch plastic food containers", slug: "reducing-our-toxic-burden" },
+  { label: "Don't heat food in plastic containers", slug: "reducing-our-toxic-burden" },
 ];
