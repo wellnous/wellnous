@@ -2,6 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { getArticle } from "@/data/articles";
 import { SiteHeader, SiteFooter } from "@/components/HubUI";
 import { ArticleBody } from "@/components/ArticleBody";
+import founderPhoto from "@/assets/kristina-crimp-portrait.jpg.asset.json";
 
 export const Route = createFileRoute("/about")({
   head: () => ({ meta: [
@@ -19,6 +20,17 @@ export const Route = createFileRoute("/about")({
         <SiteHeader />
         <article className="mx-auto max-w-3xl px-5 pt-14">
           <h1 className="font-display text-5xl font-semibold tracking-tight">Who We Are</h1>
+          <div className="mt-8 flex items-center gap-5">
+            <img
+              src={founderPhoto.url}
+              alt="Kristina Crimp, founder of Wellnous"
+              className="h-24 w-24 shrink-0 rounded-full border-2 border-primary/30 object-cover object-top shadow-md sm:h-32 sm:w-32"
+            />
+            <div>
+              <p className="font-display text-2xl font-semibold">Kristina Crimp</p>
+              <p className="mt-1 text-muted-foreground">Founder of Wellnous — Scientist and Cambridge Natural Sciences graduate.</p>
+            </div>
+          </div>
           <ArticleBody article={a} />
         </article>
         <SiteFooter />
