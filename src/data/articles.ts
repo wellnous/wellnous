@@ -38,6 +38,10 @@ const cleanTitle = (s: string) =>
     .replace(/^Milk Kefir$/, "Milk Kefir")
     .replace(/^Water Kefir$/, "Water Kefir")
     .replace(/^Kombucha$/, "Kombucha");
+// Retain the existing URL so saved links and every movement card stay valid.
+const displayTitle = (title: string) => title === "Physical Wellbeing"
+  ? "The Foundations of Physical Movement: Muscle, Metabolism and Healthspan"
+  : cleanTitle(title);
 
 const BULLET = /^[-*•]\s+(.*)$/;
 const HEADING = /^(#{2,4})\s+(.*)$/;
@@ -97,7 +101,7 @@ function parseSection(title: string, lines: string[]): Article {
 
   return {
     slug: slugify(title),
-    title: cleanTitle(title),
+    title: displayTitle(title),
     blocks,
     refs,
     standfirst: firstH4 && firstHeadingIndex < 3 ? firstH4 : "",

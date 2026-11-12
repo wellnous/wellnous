@@ -34,3 +34,5 @@ use the editor.
 - Article presentation policies select editorial sections or recipe methods explicitly; numbered source blocks retain their sequence so instructions do not become decorative cards.
 - Original blog posts have their own content collection and reading routes; the topic directory is separate so author posts are not confused with reference articles.
 - Blog reading pages use the non-nested `blog_.$slug` route convention so the directory cannot hide the selected post.
+- Physical Protocols disclaimer coverage derives from pillar membership in a shared ArticleBody wrapper; replace source disclaimers only during rendering to avoid duplicates without altering the archive.
+- Preserve established article slugs when retitling foundation content so saved links and pillar navigation remain valid.
