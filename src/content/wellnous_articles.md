@@ -3390,11 +3390,27 @@ These techniques allow me to shift my mental state in moments, whether preparing
 
 # Flow Rope
 
-#### Enhancing Coordination, Rhythm, and Meditative Movement
+#### Enhancing Coordination, Rhythm and Meditative Movement
 
-Flow rope training brings fluid, dynamic motion into my exercise routine. By incorporating rotational movements, I improve joint mobility, hand-eye coordination, and cardiovascular endurance. The rhythmic nature of flow rope exercises also fosters a meditative state, helping me tap into mindfulness while moving.
+Flow rope training brings fluid, dynamic movement into my exercise routine. By incorporating rotational movements, I encourage greater mobility through my shoulders, spine and rib cage, while developing hand-eye coordination, timing and whole-body awareness. Depending on the intensity, it can also provide a gentle cardiovascular workout.
 
-By moving the flow rope in an upward motion in the figure of 8, it encourages a more relaxed state. It takes a while to neuroadapt to the motion but once you do, its such an easy practice. It’s a beautiful way of untangling and decompressing your nervous system and embracing a more fluid motion and relaxed core.
+One of the things I particularly enjoy is the rhythmic nature of the practice. Once you find your rhythm, the movement becomes almost meditative, helping you become more present and mindful while moving.
+
+By swinging the rope in an upward, backwards figure-of-eight pattern, I find it encourages a much more relaxed and fluid movement. Initially, it takes a little time for the brain and body to neuroadapt to the coordination required. But once the pattern becomes familiar, it feels surprisingly effortless.
+
+This approach reflects the movement philosophy of **[Lawrence van Lingen](https://lawrencevanlingen.com/pages/flow-rope)**, a movement specialist who emphasises natural rotation, rhythm and movement originating from the body's centre. Rather than relying on isolated movements, he encourages us to reconnect the hips, pelvis, spine and arms into one coordinated system.
+
+In his conversation with Dr Rangan Chatterjee on the *[Feel Better, Live More podcast – From Stiffness to Stillness](https://pod.wave.co/podcast/feel-better-live-more-with-dr-rangan-chatterjee/from-stiffness-to-stillness-how-to-reset-your-body-soothe-your-mind-and-reclaim--a6c72ce7)*, Van Lingen discusses the importance of learning the backward, underhand figure-of-eight movement. He explains how developing this pattern encourages a different relationship with movement, particularly through the spine and upper body.
+
+An important part of his philosophy is allowing movement to become less forced and more fluid. The combination of rhythmic rope movement, gentle rotation and relaxed breathing can create a calming, almost meditative experience.
+
+I find it a beautiful way of releasing unnecessary tension, encouraging a more relaxed core and rediscovering the rotational movements that are often lost through modern sedentary lifestyles.
+
+Van Lingen also explores the idea of **moving from the centre out**, connecting the body's different movement patterns rather than treating individual muscles and joints in isolation. This is discussed further in his [conversation on the Relaxed Running podcast](https://podcasts.apple.com/us/podcast/236-lawrence-van-lingen-creating-movement-patterns/id1481743845?i=1000660386989).
+
+It is also wonderfully playful. There is something about finding the rhythm and allowing the rope to flow that takes you away from thinking about exercise and brings you back to simply enjoying movement.
+
+**A little practice goes a long way.** Start slowly, focus on the backward figure of eight, keep your breathing relaxed and allow coordination to develop naturally. The aim isn't to force the movement, but to find ease, rhythm and flow.
 
 # Sitting on the Floor
 
