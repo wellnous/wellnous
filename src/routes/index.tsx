@@ -26,7 +26,7 @@ function Index() {
         <div className="hero-glow absolute inset-0 -z-0" />
         <div className="relative mx-auto max-w-6xl px-5 pb-16 pt-20 sm:pt-28">
           <p className="text-sm font-semibold uppercase tracking-widest text-amber-deep">A Holistic and Practical approach to Wellbeing </p>
-          <h1 className="mt-2 font-display text-7xl font-semibold uppercase leading-[0.85] tracking-tight text-primary sm:text-8xl lg:text-9xl">
+          <h1 className="mt-2 font-display text-[clamp(2.5rem,12vw,8rem)] font-semibold uppercase leading-[0.85] tracking-tight text-primary">
             Wellnous
           </h1>
           <img src={logo.url} alt="" aria-hidden className="pointer-events-none absolute right-5 top-16 hidden w-80 opacity-90 lg:block" />
