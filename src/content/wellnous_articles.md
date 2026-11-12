@@ -2263,78 +2263,80 @@ Always consult a healthcare professional before making significant dietary chang
 
 # Physical Wellbeing
 
-Balancing physical health requires a blend of mindful movement, nourishment, and recovery. My daily routine combines ancient wisdom with modern science to cultivate strength, resilience, and longevity. Here’s a closer look at the practices I incorporate each day to support my well-being.
+#### How regular movement and muscular strength can support healthy ageing, everyday independence and metabolic health.
 
-#### Cold Exposure
+## Healthspan Over Lifespan
 
-Harnessing the Benefits of Temperature Stress for Recovery and Resilience
+Living longer matters, but so does how we live those years. **Healthspan** describes the years spent in good health, with the capacity to do the things that matter to us. Maintaining strength, balance and mobility can help support everyday independence as we grow older, although no routine can guarantee freedom from illness or disability.
 
-Cold showers (or for some, ice baths) are part of my personal recovery and resilience routine. Cold exposure can increase alertness and activate brown fat, which uses energy to produce heat, although long-term metabolic benefits remain uncertain and claims about lasting immune or circulation benefits are not established.
+Movement is not a punishment or a test of how hard we can push ourselves. It is one way of caring for our bodies over time. Regular activity is associated with healthier ageing, and well-designed exercise programmes can improve strength and physical function. Benefits depend on the activity, the person and their circumstances; movement is one part of health alongside nutrition, rest, relationships and appropriate healthcare.
 
-Taking cold showers or immersing in cold water stimulates:
+## Understanding Sarcopenia
 
-- **Noradrenaline Release** – Cold exposure can raise noradrenaline, which may contribute to the alertness many people report; responses vary and longer-term effects are still being studied.
-- **Controlled Discomfort Training** – Strengthens my ability to remain calm under stress, making challenges in daily life feel more manageable.
-- **Circulation Response** – Cold exposure temporarily changes blood flow, heart rate and blood pressure; this does not establish lasting improvements in circulation or cognitive function.
-By consistently exposing myself to cold, I train my nervous system to handle discomfort with greater ease. This daily practice fosters resilience, discipline, and a heightened mental edge.
+Muscle mass and strength often decline with age, with considerable variation between people. **Sarcopenia** is a clinical condition involving low muscle strength, with reduced muscle quantity or quality used to confirm the diagnosis; it is not simply another name for every age-related change in muscle.
 
-#### Infra Red Exposure
+Its causes are multifactorial. Ageing biology, reduced activity, illness and inadequate nutrition can all contribute. It is not solely a consequence of inactivity, and developing it is not a personal failure.
 
-Infrared light is a natural part of our environment, found in sunlight, fire and incandescent light bulbs. Far from simply producing warmth, red and near-infrared wavelengths can interact with our cells, particularly the mitochondria. Healthy mitochondrial function is fundamental to metabolic health, energy production, cellular repair and overall resilience, and research suggests that infrared exposure can influence mitochondrial activity, ATP production and important cellular signalling pathways.
+Muscular strength helps us rise from a chair, carry everyday items and move with greater control. Resistance training, adapted to the individual, can improve strength and function in older adults and is an important part of sarcopenia management. Muscles can remain responsive to training later in life, but the amount of improvement and the safest starting point differ from person to person.
 
-#### Backwards Walking
+## Muscle Is More Than Movement
 
-Rewiring Movement for Improved Posture and Brain Function
+Skeletal muscle is an active **metabolic and signalling organ**, not just tissue that moves our joints. It uses and stores fuel and communicates with other tissues through signalling molecules, including myokines.
 
-Walking backward is more than just an unconventional exercise—it's a powerful tool for strengthening neglected muscle groups, enhancing coordination, and improving cognitive function. This practice engages the posterior chain, supports joint health, and even sharpens spatial awareness, making it a valuable addition to my daily routine. I carry this out daily, either during my daily dog walk or in my living room. I try to do this barefoot to maximise my connection with the earth. Since doing this practice, I have found I have better spacial awareness and much better posture.
+- **Everyday capability:** Maintaining strength supports practical tasks and can contribute to balance and mobility. Fall prevention generally benefits from a combination of balance, functional and strength work tailored to the person.
+- **Metabolic health:** Active muscle uses glucose and other fuels. Regular physical activity can improve insulin sensitivity, although responses vary and exercise does not replace medical treatment.
+- **Communication between tissues:** Muscle-derived signals are being studied for their roles in metabolism and inflammatory regulation. Much of the detail comes from laboratory and mechanistic research; it should not be translated into promises about immunity or brain health.
 
-[Dr Rangan Chatterjee and Lawrence van Lingen did a very informative podcasts on this topic.](https://drchatterjee.com/how-to-heal-your-body-and-mind-through-movement-the-surprising-benefits-of-walking-backwards-how-optimising-your-breath-can-transform-your-relationships-with-lawrence-van-lingen/)
+## Muscle, Mitochondria and ATP
 
-#### Flow Rope
+Muscle contraction requires **ATP**, the molecule cells use to transfer energy. Muscles do not simply hold a large permanent store of ATP: stored ATP is limited and must be continually replenished as energy demand changes.
 
-Enhancing Coordination, Rhythm, and Meditative Movement
+Mitochondria help regenerate ATP using fuels such as fats and carbohydrates. Other energy pathways also contribute, particularly during brief or demanding activity. Muscle mitochondrial content varies with muscle fibre type, training and health; skeletal muscle is not uniquely the body's most mitochondria-rich tissue.
 
-Flow rope training brings fluid, dynamic motion into my exercise routine. By incorporating rotational movements, I improve joint mobility, hand-eye coordination, and cardiovascular endurance. The rhythmic nature of flow rope exercises also fosters a meditative state, helping me tap into mindfulness while moving.
+Regular training can improve the ability of muscle to produce and use energy. Endurance and resistance training have different, sometimes overlapping adaptations. This helps explain why varied, appropriate movement can be useful, rather than making one type of exercise a universal answer to fatigue.
 
-The repeated figure of 8 pattern gives me a rhythmic movement to focus on. It takes a while to get used to, but once you do, it’s an easy practice. I find it helps me feel more relaxed — a personal experience rather than a proven nervous-system treatment.
+## Building Up Safely from Where You Are
 
-#### Controlled Breathwork
+There is no single starting point that suits everyone. Someone returning after illness or living with pain may need a very different approach from someone already active. Progress should fit your current capacity rather than a fixed target or someone else's routine.
 
-Unlocking the Power of Controlled Breath for Energy and Relaxation
+> **Before beginning:** Consult an appropriately qualified healthcare or exercise professional to choose activity that suits your health and abilities. Seek hands-on guidance before starting resistance or unfamiliar exercise. Begin at a manageable level and increase gradually; stop and seek advice for pain, dizziness, unusual breathlessness or other concerning symptoms.
 
-Breathwork is one practical way to influence mental clarity, emotional balance, and stress resilience.
+- **Start with what is manageable:** For some people, this may mean a brief, comfortable walk or breaking up long periods of sitting. Others may need supported or seated movement chosen with professional guidance. These are possibilities, not requirements.
+- **Build strength with support:** Bodyweight, resistance bands, machines, dumbbells and kettlebells are possible tools. Compound movements involve several joints and muscle groups together, but no tool or movement is essential. Both compound and more targeted exercises can have a place in an individual programme.
+- **Change gradually:** Increase duration, frequency or resistance in small, manageable steps, with time to assess how you feel and recover. There is no need to rush into heavier loads or dynamic movements.
+- **Allow for recovery:** Rest, sleep and adequate nutrition matter. Persistent pain, excessive fatigue or worsening symptoms are reasons to pause and seek advice, not signs that you need to push harder.
 
-I use two specific techniques:
+Consistency at an appropriate level matters more than proving intensity. The aim is to preserve and develop capacity for daily life, safely and sustainably.
 
-**Physiological sigh** – A double inhale followed by a longer exhale. Slow, controlled breathing can influence arousal and may help some people feel calmer, although responses vary.
+## Deep Dive: Muscle as a Glucose Sink
 
-**Cyclic hyperventilation** – Rounds of faster breathing followed by breath holds. This changes carbon dioxide levels rather than improving oxygen delivery, and can cause dizziness or fainting, so never practise it in water, while driving or anywhere losing consciousness would be dangerous.
+Skeletal muscle is a major site of glucose uptake and storage, which is why it is sometimes described as a **glucose sink**. Glucose can be used to generate energy or stored as glycogen for later use.
 
-These techniques allow me to shift my mental state in moments, whether preparing for a deep work session or calming my mind before sleep.
+Muscle accounts for a large share of insulin-stimulated glucose disposal in research settings. Frequently quoted figures of around 70–80% refer to particular experimental conditions, not a fixed percentage of every meal's glucose in every person. The liver and other tissues also play important roles in blood glucose regulation.
 
-#### Kettlebell Training
+**At rest**, insulin signalling helps move GLUT4 glucose transporters towards the muscle-cell surface, allowing more glucose to enter the cell. This is a regulated process, not an all-or-nothing lock.
 
-Building Strength, Power, and Functional Fitness
+**During contraction**, muscle also activates signalling pathways that can increase GLUT4 transport to the cell surface independently of insulin signalling. Changes in calcium and energy-sensing pathways, including AMPK, contribute; the mechanisms are complex and not explained by one switch alone.
 
-Kettlebells provide a dynamic, full-body workout that combines strength training with endurance. I focus on explosive movements like swings to enhance cardiovascular health, presses to build upper-body strength, and squats for lower-body stability. This type of training fosters mobility, muscular endurance, and overall athletic performance.
+> Muscle contraction can increase glucose uptake through pathways that do not require insulin signalling. This does not mean insulin becomes unnecessary, nor that muscle is the only tissue capable of taking up glucose without insulin: the brain and red blood cells, among others, also use insulin-independent transport mechanisms.
 
-#### Ayurveda
+Studies suggest that breaking up prolonged sitting or doing light activity after meals can reduce post-meal glucose rises in some people. Effects depend on the person, timing and activity. This is not a guaranteed blood-sugar treatment, and it does not replace prescribed medicines.
 
-Honouring Ancient Healing Traditions for Holistic Health
+If you use insulin or medicines that can cause low blood glucose, activity can change your glucose levels and treatment needs. Discuss changes in activity with your healthcare team rather than adjusting medicines yourself.
 
-Ayurveda, the 5,000-year-old Indian system of medicine, emphasises balance between body, mind, and spirit.
+## Further Reading
 
-I follow Ayurvedic principles by aligning my diet with my dosha, incorporating powerful herbs like ginger, ashwagandha and turmeric.
+- [WHO guidelines on physical activity and sedentary behaviour](https://www.who.int/publications/i/item/9789240015128) — population-level guidance, to be adapted to individual abilities and circumstances.
+- *Enter the Kettlebell* by Pavel Tsatsouline — a further-reading resource on kettlebell training, not a substitute for qualified instruction or an individual assessment.
+- *ROAR* by Dr. Stacy Sims — perspectives on training and female physiology; individual advice should still come from an appropriately qualified professional.
 
-I start the day with dry brushing for gentle exfoliation and the feeling of stimulation, alongside gratitude and breathing exercises. There isn’t good evidence that dry brushing meaningfully improves lymphatic drainage.
+## References
 
-These small, intentional habits help harmonize my internal systems.
-
-#### Sitting on the Floor
-
-Encouraging Natural Mobility and Postural Awareness
-
-Sitting on the floor in different positions gives the hips, knees and ankles a chance to move through varied ranges, and getting down and back up is useful functional movement to practise where comfortable. Regularly changing my seated position—from cross-legged to a deep squat—keeps my movement varied; it’s one option rather than a requirement for healthy joints or posture.
+- Cruz-Jentoft AJ et al. (2019). Sarcopenia: revised European consensus on definition and diagnosis. *Age and Ageing*, 48(1), 16–31. [European consensus](https://doi.org/10.1093/ageing/afy169).
+- Fragala MS et al. (2019). Resistance Training for Older Adults: Position Statement From the National Strength and Conditioning Association. *Journal of Strength and Conditioning Research*, 33(8), 2019–2052. [Position statement](https://doi.org/10.1519/JSC.0000000000003230).
+- Richter EA and Hargreaves M (2013). Exercise, GLUT4, and skeletal muscle glucose uptake. *Physiological Reviews*, 93(3), 993–1017. [Physiology review](https://doi.org/10.1152/physrev.00038.2012).
+- Pedersen BK and Febbraio MA (2012). Muscles, exercise and obesity: skeletal muscle as a secretory organ. *Nature Reviews Endocrinology*, 8, 457–465. [Myokine review](https://doi.org/10.1038/nrendo.2012.49).
+- Dunstan DW et al. (2012). Breaking up prolonged sitting reduces postprandial glucose and insulin responses. *Diabetes Care*, 35(5), 976–983. [Controlled study](https://doi.org/10.2337/dc11-1931).
 
 # Polyphenols
 
