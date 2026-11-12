@@ -18,3 +18,4 @@
 - [x] Mental Health section; move Ayurveda and toxins out of Nutrition
 - [x] Add Art of Doing Nothing, Breathwork, Flow Rope; Grounding groups in Mental Health and Physical
 - [x] Kombucha sales page cards unnumbered; homemade brewing steps keep their numbers
+- [ ] Supplements page: first Start Here card worded as just "Supplements"

@@ -76,6 +76,12 @@ describe("Hub content", () => {
     expect(text).not.toMatch(/\*\*[^*]+\*\*\s*\*\*/);
   });
 
+  it("words the first Start Here supplement card as just Supplements", () => {
+    const tray = pillars.find((p) => p.slug === "supplements")?.trays.find((t) => t.name === "Start Here");
+    expect(tray?.slugs[0]).toBe("supplements-and-adaptogens");
+    expect(getArticle("supplements-and-adaptogens")?.title).toBe("Supplements");
+  });
+
   it("resolves every tray slug to a real article", () => {
     const slugs = pillars.flatMap((p) => p.trays.flatMap((t) => t.slugs));
     expect(slugs.length).toBeGreaterThan(0);
