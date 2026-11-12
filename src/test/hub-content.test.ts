@@ -108,6 +108,7 @@ describe("Hub content", () => {
       "Stop eating well before bedtime",
       "Consume a fermented food",
       "Breathe deeply for 2 min",
+      "Ditch plastic food containers",
     ]);
     expect(quickWins.filter((q) => !getArticle(q.slug)).map((q) => q.label)).toEqual([]);
   });

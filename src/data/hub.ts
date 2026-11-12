@@ -43,4 +43,5 @@ export const quickWins: QuickWin[] = [
   { label: "Stop eating well before bedtime", slug: "intermittent-fasting" },
   { label: "Consume a fermented food", slug: "cultured-foods" },
   { label: "Breathe deeply for 2 min", slug: "breathwork" },
+  { label: "Ditch plastic food containers", slug: "reducing-our-toxic-burden" },
 ];
