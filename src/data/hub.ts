@@ -15,7 +15,7 @@ export const pillars: Pillar[] = [
       { name: "Movement", slugs: ["physical-wellbeing", "kettlebells", "flow-rope", "sitting-on-the-floor"] },
       { name: "Energy & Recovery", slugs: ["mitochondrial-health", "deliberate-cold-exposure", "infra-red-exposure"] },
       { name: "Grounding", slugs: ["barefoot-walking", "ayurveda", "breathwork", "sleep-strategies"] },
-      { name: "Environment & Toxins", slugs: ["hidden-toxins"] },
+      { name: "Environment & Toxins", slugs: ["reducing-our-toxic-burden", "food-additives-and-gut-health", "the-air-we-breathe", "skincare-cosmetics-and-sunscreen"] },
     ] },
   { slug: "mind", title: "Mental Health", tagline: "Calm, clarity, resilience.",
     intro: "Practices for a steadier mind — mental wellbeing, attention, breathwork, restorative sleep and grounding practices such as Ayurveda, barefoot walking and morning light.",
