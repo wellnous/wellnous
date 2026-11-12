@@ -1715,7 +1715,9 @@ Often associated with athletic performance, creatine also plays a role in brain 
 
 #### Omega-3: Essential Fatty Acids for Brain and Emotional Health
 
-Omega-3 fatty acids are critical for brain development, cognitive function, and emotional regulation. Omega-3s combat inflammation, protecting neural pathways from oxidative stress as well as enhance the effectiveness of neurotransmitters like dopamine and serotonin, which are critical for focus, motivation, and emotional balance.
+Evidence: good for heart health markers such as triglycerides; mixed for mood and cognition in healthy adults.
+
+Omega-3 fatty acids are important for brain development, cognitive function, and emotional regulation. Omega-3s combat inflammation, protecting neural pathways from oxidative stress as well as enhance the effectiveness of neurotransmitters like dopamine and serotonin, which are critical for focus, motivation, and emotional balance.
 
 #### Probiotics & Fermented Foods
 
@@ -3100,29 +3102,35 @@ I obtain these compounds through bone broths, collagen and hyaluronic acid suppl
 
 Strengthening Cellular Health with a Potent Antioxidant
 
-N-acetyl cysteine (NAC) plays a vital role in detoxification, respiratory health, and immune function.
+Evidence: well established as a medicine (mucolytic and for paracetamol overdose); evidence as an everyday wellness supplement is limited.
 
-This powerful antioxidant supports glutathione production, combats oxidative stress, and enhances overall cellular protection, making it an essential part of my wellness routine when I am feeling rundown.
+N-acetyl cysteine (NAC) plays a role in detoxification, respiratory health, and immune function.
+
+This powerful antioxidant supports glutathione production, combats oxidative stress, and enhances overall cellular protection, making it part of my wellness routine when I am feeling rundown.
 
 I take these supplements during flu season and if I feel the start of a cold.
 
-It is also an effective mucolytic, so likely a far less harmful addition to your cold and flu cabinet than typical decongestants like Sudafed.
+It is also an effective mucolytic, so possibly a gentler addition to your cold and flu cabinet than typical decongestants like Sudafed.
 
 #### Omega-3
 
 Essential Fatty Acids for Brain and Emotional Health
 
-Omega-3 fatty acids are critical for brain development, cognitive function, and emotional regulation.
+Evidence: good for heart health markers such as triglycerides; mixed for mood and cognition in healthy adults.
+
+Omega-3 fatty acids are important for brain development, cognitive function, and emotional regulation.
 
 #### Ashwagandha
 
-Ashwagandha (\*Withania somnifera\*) is one of the most researched adaptogens, meaning it helps the body manage stress by regulating cortisol, the primary stress hormone.
+Evidence: small, short trials with mixed results, most promising for stress and sleep.
+
+Ashwagandha (\*Withania somnifera\*) is one of the most researched adaptogens, thought to help the body manage stress by regulating cortisol, the primary stress hormone.
 
 \- Modulates the hypothalamic-pituitary-adrenal (HPA) axis, supporting balanced cortisol levels.
 
 \- Enhances GABAergic activity, helping calm the nervous system.
 
-\- Protects against chronic stress and fatigue, boosting resilience.
+\- May help with chronic stress and fatigue in some people.
 
 #### Medicinal Mushrooms
 

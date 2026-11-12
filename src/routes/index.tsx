@@ -56,8 +56,8 @@ function Index() {
           <span className="inline-flex h-14 w-14 items-center justify-center rounded-2xl bg-amber/20 text-amber-deep"><Zap className="h-7 w-7" /></span>
           <div>
             <p className="text-xs font-semibold uppercase tracking-widest text-amber-deep">Featured deep dive</p>
-            <h2 className="mt-1 font-display text-3xl font-semibold">The Mitochondria Crisis</h2>
-            <p className="mt-2 max-w-2xl text-muted-foreground">Why cellular energy matters more than we think — the threats, nine simple actions to protect it, and the science inside the cell.</p>
+            <h2 className="mt-1 font-display text-3xl font-semibold">How Mitochondrial Health Affects Energy</h2>
+            <p className="mt-2 max-w-2xl text-muted-foreground">What strains our cells' energy systems, nine everyday habits that may support them, and the science inside the cell.</p>
           </div>
           <span className="inline-flex items-center gap-2 text-sm font-medium text-primary">Read the guide <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" /></span>
         </Link>

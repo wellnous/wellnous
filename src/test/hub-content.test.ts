@@ -104,11 +104,11 @@ describe("Hub content", () => {
       "Eat real foods",
       "Move more",
       "Walk after meals",
-      "Protein at breakfast",
-      "Stop eating well before bedtime",
+      "Protein at breakfast to stay fuller for longer",
+      "Finish eating 2–3 hours before bed to aid sleep",
       "Consume a fermented food",
       "Breathe deeply for 2 min",
-      "Ditch plastic food containers",
+      "Don't heat food in plastic containers",
     ]);
     expect(quickWins.filter((q) => !getArticle(q.slug)).map((q) => q.label)).toEqual([]);
   });
