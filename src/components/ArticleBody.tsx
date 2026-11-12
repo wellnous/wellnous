@@ -3,6 +3,8 @@ import { Rich } from "@/components/RichText";
 import { ArticleReading } from "@/components/ArticleReading";
 import { MitochondriaReading } from "@/components/MitochondriaReading";
 import { editorialSlugs, recipeSlugs } from "@/data/article-presentation";
+import { needsPhysicalDisclaimer, withoutSourceDisclaimer } from "@/data/physical-safety";
+import { PhysicalDisclaimer } from "@/components/PhysicalDisclaimer";
 
 type Node =
   | { kind: "h"; level: number; text: string }
@@ -190,6 +192,14 @@ function Render({ n, compact }: { n: Node; compact?: boolean }) {
 /* ---------- article ---------- */
 
 export function ArticleBody({ article }: { article: Article }) {
+  const physical = needsPhysicalDisclaimer(article.slug);
+  return <>
+    <ArticleContent article={physical ? withoutSourceDisclaimer(article) : article} />
+    {physical && <PhysicalDisclaimer />}
+  </>;
+}
+
+function ArticleContent({ article }: { article: Article }) {
   if (article.slug === "mitochondrial-health") return <MitochondriaReading article={article} />;
   if (editorialSlugs.includes(article.slug) || recipeSlugs.includes(article.slug) || article.slug.startsWith("blog-")) return <ArticleReading article={article} />;
   const blocks = article.blocks;

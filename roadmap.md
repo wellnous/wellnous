@@ -19,3 +19,6 @@
 - [x] Add Art of Doing Nothing, Breathwork, Flow Rope; Grounding groups in Mental Health and Physical
 - [x] Kombucha sales page cards unnumbered; homemade brewing steps keep their numbers
 - [x] Supplements page: first Start Here card worded as just "Supplements"
+- [ ] Replace Physical Wellbeing with a cautious movement, muscle and healthspan foundation article
+- [ ] Add consistent closing safety disclaimers across Physical Protocols articles
+- [ ] Verify reading, navigation and mobile layout without publishing

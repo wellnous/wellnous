@@ -41,7 +41,8 @@ export function ArticleReading({ article }: { article: Article }) {
         const practical = article.slug === "deliberate-cold-exposure" && /recommended exposure/i.test(section.title);
         const link = article.slug === "cultured-foods" ? foodLinks[section.title] : undefined;
         const ingredients = recipe && section.mode === "ingredients";
-        return <section key={i} id={anchor(section.title)} className={`scroll-mt-28 ${scoby ? "rounded-lg border bg-secondary/35 p-5 sm:p-8" : takeaway ? "border-y-2 border-primary bg-secondary/30 py-8" : sources ? "border-l-4 border-amber pl-5 sm:pl-7" : practical ? "rounded-lg border bg-secondary/40 p-6" : ingredients ? "border-y border-primary/30 bg-secondary/25 py-6" : section.title ? "border-t pt-7" : ""}`}>
+        const deepDive = article.slug === "physical-wellbeing" && /deep dive/i.test(section.title);
+        return <section key={i} id={anchor(section.title)} className={`scroll-mt-28 ${deepDive ? "border-y-2 border-primary bg-secondary/30 py-7 px-5 sm:px-7" : scoby ? "rounded-lg border bg-secondary/35 p-5 sm:p-8" : takeaway ? "border-y-2 border-primary bg-secondary/30 py-8" : sources ? "border-l-4 border-amber pl-5 sm:pl-7" : practical ? "rounded-lg border bg-secondary/40 p-6" : ingredients ? "border-y border-primary/30 bg-secondary/25 py-6" : section.title ? "border-t pt-7" : ""}`}>
           {section.title && <h2 className={`mb-4 font-display font-semibold leading-snug text-foreground ${section.title === "It's Muscle Loss." ? "text-3xl" : takeaway ? "text-3xl text-primary" : "text-xl"}`}>{section.title}</h2>}
           <div className="space-y-4">
             {ingredients ? <ul className="grid list-disc gap-x-8 gap-y-2 pl-5 marker:text-primary sm:grid-cols-2">{section.blocks.map((b, j) => <li key={j}><Rich text={b.text} /></li>)}</ul>
