@@ -12,7 +12,7 @@ export const pillars: Pillar[] = [
   { slug: "physical", title: "Physical Protocols", tagline: "Move, recover, recharge.",
     intro: "Movement, light, temperature and sleep — the protocols behind energy, resilience and a calm mind.",
     trays: [
-      { name: "Movement", slugs: ["physical-wellbeing", "kettlebells", "flow-rope", "sitting-on-the-floor"] },
+      { name: "Movement", slugs: ["physical-wellbeing", "flow-rope", "sitting-on-the-floor"] },
       { name: "Energy & Recovery", slugs: ["mitochondrial-health", "deliberate-cold-exposure", "infra-red-exposure"] },
       { name: "Grounding", slugs: ["barefoot-walking", "ayurveda", "breathwork", "sleep-strategies"] },
       { name: "Environment & Toxins", slugs: ["reducing-our-toxic-burden", "food-additives-and-gut-health", "the-air-we-breathe", "skincare-cosmetics-and-sunscreen"] },
