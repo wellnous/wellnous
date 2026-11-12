@@ -1,7 +1,7 @@
 import type { Article, Block } from "@/data/articles";
 
 export const recipeSlugs = ["milk-kefir", "water-kefir", "fermented-vegetables", "probiotic-yogurts", "kimchi", "kombucha"];
-export const editorialSlugs = ["ayurveda", "hidden-toxins", "mental-wellbeing", "sleep-strategies", "physical-wellbeing", "deliberate-cold-exposure", "intermittent-fasting", "polyphenols", "protein", "cultured-foods", "the-art-of-doing-nothing", "breathwork", "flow-rope"];
+export const editorialSlugs = ["ayurveda", "hidden-toxins", "mental-wellbeing", "sleep-strategies", "physical-wellbeing", "deliberate-cold-exposure", "intermittent-fasting", "polyphenols", "protein", "cultured-foods", "the-art-of-doing-nothing", "breathwork", "flow-rope", "sitting-on-the-floor"];
 
 const recommendations: Record<string, string[]> = {
   "cultured-foods": ["probiotics", "milk-kefir", "water-kefir", "fermented-vegetables"],
@@ -19,6 +19,7 @@ const recommendations: Record<string, string[]> = {
   "sleep-strategies": ["mental-wellbeing", "infra-red-exposure", "mitochondrial-health", "physical-wellbeing"],
   "the-art-of-doing-nothing": ["mental-wellbeing", "breathwork", "sleep-strategies", "barefoot-walking"],
   "breathwork": ["mental-wellbeing", "the-art-of-doing-nothing", "deliberate-cold-exposure", "sleep-strategies"],
+  "sitting-on-the-floor": ["physical-wellbeing", "barefoot-walking", "kettlebells", "flow-rope"],
 };
 
 export function relatedSlugs(article: Article, fallback: string[]): string[] {

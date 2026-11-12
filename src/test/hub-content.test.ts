@@ -47,6 +47,19 @@ describe("Hub content", () => {
     expect(slugsOf("physical")).toContain("ayurveda");
   });
 
+  it("files Sitting on the Floor under Movement with its own readable article", () => {
+    const tray = pillars.find((p) => p.slug === "physical")?.trays.find((t) => t.name === "Movement");
+    expect(tray?.slugs).toContain("sitting-on-the-floor");
+    const article = getArticle("sitting-on-the-floor");
+    expect(article?.title).toBe("Sitting on the Floor");
+    expect(article?.standfirst).toBe("Encouraging Natural Mobility, Strength and Postural Awareness");
+    expect(article?.blocks.filter((b) => b.type === "h" && b.level === 2).map((b) => b.text)).toEqual([
+      "The Importance of Getting Down – and Getting Back Up",
+      "A Simple Habit Worth Developing",
+    ]);
+    expect(relatedSlugs(article!, [])).toEqual(["physical-wellbeing", "barefoot-walking", "kettlebells", "flow-rope"]);
+  });
+
   it("resolves every tray slug to a real article", () => {
     const slugs = pillars.flatMap((p) => p.trays.flatMap((t) => t.slugs));
     expect(slugs.length).toBeGreaterThan(0);

@@ -3395,3 +3395,33 @@ These techniques allow me to shift my mental state in moments, whether preparing
 Flow rope training brings fluid, dynamic motion into my exercise routine. By incorporating rotational movements, I improve joint mobility, hand-eye coordination, and cardiovascular endurance. The rhythmic nature of flow rope exercises also fosters a meditative state, helping me tap into mindfulness while moving.
 
 By moving the flow rope in an upward motion in the figure of 8, it encourages a more relaxed state. It takes a while to neuroadapt to the motion but once you do, its such an easy practice. It’s a beautiful way of untangling and decompressing your nervous system and embracing a more fluid motion and relaxed core.
+
+# Sitting on the Floor
+
+#### Encouraging Natural Mobility, Strength and Postural Awareness
+
+Sitting on the floor instead of relying exclusively on chairs encourages greater flexibility, joint mobility and postural awareness. Regularly changing my seated position – from cross-legged to kneeling or a deep squat – keeps my body engaged, encourages movement through different ranges of motion and helps prevent stiffness.
+
+Unlike sitting in a chair, floor sitting requires us to continually make small adjustments to maintain balance and comfort. This naturally engages the muscles around the hips, pelvis and trunk, helping to develop core stability and improve postural control.
+
+## The Importance of Getting Down – and Getting Back Up
+
+One of the most overlooked benefits of regularly sitting on the floor is maintaining the ability to get down to ground level and, importantly, get back up again without assistance.
+
+As we age, muscle mass and strength naturally decline, a process known as sarcopenia. This can affect our balance, mobility and ability to perform everyday activities. Maintaining lower-body strength, particularly in the hips, thighs and legs, becomes increasingly important for preserving independence.
+
+Getting up from the floor requires a combination of leg strength, core stability, balance, coordination and joint mobility. Regularly practising this movement helps us maintain these abilities and provides a useful way of assessing our functional fitness.
+
+The core muscles also play an important role. They help stabilise the spine and pelvis while we shift our weight, rotate, push through our limbs and transition between sitting, kneeling, squatting and standing.
+
+Being able to get up from the floor may seem like a simple thing, but it represents something much bigger: the ability to remain physically capable and independent as we get older.
+
+## A Simple Habit Worth Developing
+
+Try incorporating some floor sitting into your daily routine – perhaps while reading, relaxing or spending time with family. Explore different positions, including cross-legged sitting, kneeling and squatting, and occasionally practise getting down and back up again.
+
+Start with positions and movements that feel comfortable, using a stable support if needed, and gradually build confidence and ability.
+
+The key is variety rather than holding one position for too long. Alternating between sitting, squatting, kneeling, standing and walking helps prevent prolonged periods of inactivity while keeping the body accustomed to moving naturally.
+
+Sometimes, improving our movement doesn't require more complicated exercise. It simply means rediscovering the natural movements our bodies were designed to perform – and maintaining the strength and mobility to keep doing them throughout life.
