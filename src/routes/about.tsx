@@ -24,7 +24,7 @@ export const Route = createFileRoute("/about")({
             <img
               src={founderPhoto.url}
               alt="Kristina Crimp, founder of Wellnous"
-              className="h-24 w-24 shrink-0 rounded-full border-2 border-primary/30 object-cover object-top shadow-md sm:h-32 sm:w-32"
+              className="h-28 w-28 shrink-0 rounded-2xl border-2 border-primary/30 object-cover shadow-md sm:h-36 sm:w-36"
             />
             <div>
               <p className="font-display text-2xl font-semibold">Kristina Crimp</p>
