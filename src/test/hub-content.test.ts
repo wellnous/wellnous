@@ -39,6 +39,13 @@ describe("Hub content", () => {
     expect(blogPosts).toHaveLength(21);
     expect(blogPosts.every((p) => p.article.blocks.length > 0 && p.sourceUrl.startsWith("https://wellnous.godaddysites.com/blog/f/"))).toBe(true);
   });
+  it("files Ayurveda under Mental Health and keeps Ayurveda and toxins out of Nutrition", () => {
+    const slugsOf = (k: string) => pillars.find((p) => p.slug === k)?.trays.flatMap((t) => t.slugs) ?? [];
+    expect(slugsOf("nutrition")).not.toContain("ayurveda");
+    expect(slugsOf("nutrition")).not.toContain("hidden-toxins");
+    expect(slugsOf("mind")).toEqual(expect.arrayContaining(["mental-wellbeing", "ayurveda"]));
+  });
+
   it("resolves every tray slug to a real article", () => {
     const slugs = pillars.flatMap((p) => p.trays.flatMap((t) => t.slugs));
     expect(slugs.length).toBeGreaterThan(0);
