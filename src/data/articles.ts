@@ -32,6 +32,7 @@ const cleanTitle = (s: string) =>
     .replace(/%26/g, "&")
     .replace(/^Nac$/, "NAC")
     .replace(/^Omega 3$/, "Omega-3")
+    .replace(/^Supplements & Adaptogens$/, "Supplements")
     .replace(/^Fermented Vegetables$/, "Fermented Vegetables")
     .replace(/^Probiotic Yogurts$/, "Probiotic Yogurts")
     .replace(/^Milk Kefir$/, "Milk Kefir")
