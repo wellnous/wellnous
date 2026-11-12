@@ -43,8 +43,24 @@ describe("Hub content", () => {
     const slugsOf = (k: string) => pillars.find((p) => p.slug === k)?.trays.flatMap((t) => t.slugs) ?? [];
     expect(slugsOf("nutrition")).not.toContain("ayurveda");
     expect(slugsOf("nutrition")).not.toContain("hidden-toxins");
+    expect(slugsOf("nutrition")).not.toContain("reducing-our-toxic-burden");
     expect(slugsOf("mind")).toEqual(expect.arrayContaining(["mental-wellbeing", "ayurveda", "the-art-of-doing-nothing", "breathwork", "barefoot-walking"]));
     expect(slugsOf("physical")).toContain("ayurveda");
+  });
+
+  it("splits Hidden Toxins into four Environment & Toxins articles", () => {
+    const tray = pillars.find((p) => p.slug === "physical")?.trays.find((t) => t.name === "Environment & Toxins");
+    expect(tray?.slugs).toEqual(["reducing-our-toxic-burden", "food-additives-and-gut-health", "the-air-we-breathe", "skincare-cosmetics-and-sunscreen"]);
+    expect(getArticle("hidden-toxins")).toBeUndefined();
+    expect(getArticle("reducing-our-toxic-burden")?.title).toBe("Reducing Our Toxic Burden");
+    expect(getArticle("food-additives-and-gut-health")?.title).toBe("Food Additives and Gut Health");
+    expect(getArticle("the-air-we-breathe")?.title).toBe("The Air We Breathe");
+    expect(getArticle("skincare-cosmetics-and-sunscreen")?.title).toBe("Skincare, Cosmetics and Sunscreen");
+    for (const slug of tray!.slugs) {
+      const a = getArticle(slug)!;
+      expect(a.blocks.length).toBeGreaterThan(10);
+      expect(a.standfirst.length).toBeGreaterThan(0);
+    }
   });
 
   it("files Sitting on the Floor under Movement with its own readable article", () => {
