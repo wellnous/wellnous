@@ -2,7 +2,7 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { pillars, quickWins } from "@/data/hub";
 import { SiteHeader, SiteFooter, TrayRow, Chip } from "@/components/HubUI";
 import logo from "@/assets/wellnous_logo.png.asset.json";
-import { Leaf, Activity, Pill, ArrowRight } from "lucide-react";
+import { Leaf, Activity, Pill, Brain, Zap, ArrowRight } from "lucide-react";
 
 export const Route = createFileRoute("/")({
   head: () => ({ meta: [
@@ -16,7 +16,7 @@ export const Route = createFileRoute("/")({
   component: Index,
 });
 
-const icons = { nutrition: Leaf, physical: Activity, supplements: Pill };
+const icons = { nutrition: Leaf, physical: Activity, mind: Brain, supplements: Pill };
 
 function Index() {
   return (
@@ -40,7 +40,7 @@ function Index() {
         </div>
       </section>
 
-      <section className="mx-auto grid max-w-6xl gap-4 px-5 md:grid-cols-3">
+      <section className="mx-auto grid max-w-6xl gap-4 px-5 sm:grid-cols-2 lg:grid-cols-4">
         {pillars.map((p) => { const I = icons[p.slug]; const n = p.trays.reduce((a, t) => a + t.slugs.length, 0); return (
           <Link key={p.slug} to={`/${p.slug}`} className="group rounded-3xl border bg-card p-6 shadow-soft transition-transform hover:-translate-y-1">
             <span className="inline-flex h-11 w-11 items-center justify-center rounded-2xl bg-secondary text-primary"><I className="h-5 w-5" /></span>
@@ -49,6 +49,18 @@ function Index() {
             <p className="mt-5 flex items-center justify-between text-sm font-medium text-primary">{n} articles <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" /></p>
           </Link>
         ); })}
+      </section>
+
+      <section className="mx-auto mt-16 max-w-6xl px-5">
+        <Link to="/articles/$slug" params={{ slug: "mitochondrial-health" }} className="group grid gap-6 rounded-3xl border bg-card p-8 shadow-soft transition-transform hover:-translate-y-1 sm:p-10 md:grid-cols-[auto_1fr_auto] md:items-center">
+          <span className="inline-flex h-14 w-14 items-center justify-center rounded-2xl bg-amber/20 text-amber-deep"><Zap className="h-7 w-7" /></span>
+          <div>
+            <p className="text-xs font-semibold uppercase tracking-widest text-amber-deep">Featured deep dive</p>
+            <h2 className="mt-1 font-display text-3xl font-semibold">The Mitochondria Crisis</h2>
+            <p className="mt-2 max-w-2xl text-muted-foreground">Why cellular energy matters more than we think — the threats, nine simple actions to protect it, and the science inside the cell.</p>
+          </div>
+          <span className="inline-flex items-center gap-2 text-sm font-medium text-primary">Read the guide <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" /></span>
+        </Link>
       </section>
 
       <section id="quick-wins" className="mx-auto mt-16 max-w-6xl px-5">

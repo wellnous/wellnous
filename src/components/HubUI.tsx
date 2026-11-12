@@ -23,6 +23,7 @@ export function SiteHeader() {
         <nav className="flex flex-wrap items-center gap-x-5 gap-y-1">
           <Link to="/nutrition" className={cls} activeProps={act}>Nutrition</Link>
           <Link to="/physical" className={cls} activeProps={act}>Physical</Link>
+          <Link to="/mind" className={cls} activeProps={act}>Mental Health</Link>
           <Link to="/supplements" className={cls} activeProps={act}>Supplements</Link>
           <Link to="/blog" className={cls} activeProps={act}>Blog</Link>
           <Link to="/topics" className={cls} activeProps={act}>Topic Library</Link>

@@ -14,4 +14,6 @@
 - [x] Verify corrected articles, links and mobile layouts
 - [x] Order fermented-food cards as milk kefir, kombucha, kimchi, fermented vegetables, water kefir, yogurts
 - [x] Repair and verify original blog post links
+- [x] Rebuild mitochondria article with new text, feature it on homepage
+- [x] Mental Health section; move Ayurveda and toxins out of Nutrition
 - [x] Kombucha sales page cards unnumbered; homemade brewing steps keep their numbers
