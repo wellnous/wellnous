@@ -20,6 +20,7 @@ const recommendations: Record<string, string[]> = {
   "the-art-of-doing-nothing": ["mental-wellbeing", "breathwork", "sleep-strategies", "barefoot-walking"],
   "breathwork": ["mental-wellbeing", "the-art-of-doing-nothing", "deliberate-cold-exposure", "sleep-strategies"],
   "sitting-on-the-floor": ["physical-wellbeing", "barefoot-walking", "flow-rope"],
+  "the-power-of-compound-movement": ["physical-wellbeing", "sitting-on-the-floor", "flow-rope"],
 };
 
 export function relatedSlugs(article: Article, fallback: string[]): string[] {
