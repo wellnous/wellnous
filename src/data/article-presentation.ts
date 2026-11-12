@@ -12,14 +12,14 @@ const recommendations: Record<string, string[]> = {
   "probiotic-yogurts": ["probiotics", "milk-kefir", "water-kefir", "cultured-foods"],
   "kimchi": ["fermented-vegetables", "probiotic-yogurts", "probiotics", "cultured-foods"],
   "kombucha": ["water-kefir", "polyphenols", "probiotics", "cultured-foods"],
-  "protein": ["kettlebells", "creatine", "feeding-your-body", "intermittent-fasting"],
+  "protein": ["creatine", "feeding-your-body", "intermittent-fasting"],
   "polyphenols": ["fibre", "resistant-starch", "probiotics", "feeding-your-body"],
   "intermittent-fasting": ["protein", "sleep-strategies", "feeding-your-body", "mitochondrial-health"],
   "mental-wellbeing": ["sleep-strategies", "adaptogens", "barefoot-walking", "deliberate-cold-exposure"],
   "sleep-strategies": ["mental-wellbeing", "infra-red-exposure", "mitochondrial-health", "physical-wellbeing"],
   "the-art-of-doing-nothing": ["mental-wellbeing", "breathwork", "sleep-strategies", "barefoot-walking"],
   "breathwork": ["mental-wellbeing", "the-art-of-doing-nothing", "deliberate-cold-exposure", "sleep-strategies"],
-  "sitting-on-the-floor": ["physical-wellbeing", "barefoot-walking", "kettlebells", "flow-rope"],
+  "sitting-on-the-floor": ["physical-wellbeing", "barefoot-walking", "flow-rope"],
 };
 
 export function relatedSlugs(article: Article, fallback: string[]): string[] {

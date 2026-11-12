@@ -73,7 +73,7 @@ describe("Hub content", () => {
       "The Importance of Getting Down – and Getting Back Up",
       "A Simple Habit Worth Developing",
     ]);
-    expect(relatedSlugs(article!, [])).toEqual(["physical-wellbeing", "barefoot-walking", "kettlebells", "flow-rope"]);
+    expect(relatedSlugs(article!, [])).toEqual(["physical-wellbeing", "barefoot-walking", "flow-rope"]);
   });
 
   it("keeps the Flow Rope article's supplied text and its three source links", () => {
