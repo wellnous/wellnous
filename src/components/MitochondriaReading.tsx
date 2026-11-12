@@ -21,10 +21,10 @@ function group(blocks: Block[]) {
   return { intro, parts };
 }
 
-function Flow({ blocks }: { blocks: Block[] }) {
+function Flow({ blocks, compact }: { blocks: Block[]; compact?: boolean }) {
   const out: React.ReactNode[] = [];
   let list: string[] = [];
-  const flush = () => { if (list.length) out.push(<ul key={out.length} className="grid gap-2 sm:grid-cols-2">{list.map((t, i) => <li key={i} className="rounded-md bg-secondary/50 px-4 py-2.5 text-sm"><Rich text={t} /></li>)}</ul>); list = []; };
+  const flush = () => { if (list.length) out.push(<ul key={out.length} className={`grid gap-2 ${compact ? "" : "sm:grid-cols-2"}`}>{list.map((t, i) => <li key={i} className="rounded-md bg-secondary/50 px-4 py-2.5 text-sm"><Rich text={t} /></li>)}</ul>); list = []; };
   for (const b of blocks) {
     if (b.type === "li" || b.type === "step") { list.push(b.text); continue; }
     flush();
@@ -56,13 +56,13 @@ export function MitochondriaReading({ article }: { article: Article }) {
         <p className={`text-xs font-semibold uppercase tracking-widest ${closing ? "text-primary-foreground/70" : "text-amber-deep"}`}>{p.title.split("–")[0]}</p>
         <h2 className={`mt-2 font-display text-3xl font-semibold leading-tight ${closing ? "" : "text-foreground"}`}>{p.heading || p.title}</h2>
         {p.intro.length > 0 && <div className="mt-5"><Flow blocks={p.intro} /></div>}
-        {p.subs.length > 0 && <div className={`mt-8 grid gap-4 ${actions ? "sm:grid-cols-2 lg:grid-cols-3" : ""}`}>
+        {p.subs.length > 0 && <div className={`mt-8 grid gap-4 ${actions ? "md:grid-cols-2" : ""}`}>
           {p.subs.map((s, i) => <article key={s.title} className={actions ? "rounded-2xl border bg-card p-5 shadow-soft" : "rounded-2xl border bg-card p-6"}>
             <div className="flex items-start gap-3">
               {(actions || deep) && <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-primary font-display text-sm text-primary-foreground">{i + 1}</span>}
               <h3 className="font-display text-xl font-semibold leading-snug text-foreground">{s.title}</h3>
             </div>
-            <div className={`mt-3 ${actions ? "text-sm" : ""}`}><Flow blocks={s.blocks} /></div>
+            <div className={`mt-3 ${actions ? "text-sm" : ""}`}><Flow blocks={s.blocks} compact /></div>
           </article>)}
         </div>}
       </section>;
