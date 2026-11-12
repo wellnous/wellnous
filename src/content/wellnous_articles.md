@@ -3303,11 +3303,15 @@ Our attention is valuable, and there are huge companies whose business models de
 
 This doesn't necessarily require some sinister conspiracy. It is simply how many of these businesses make money. Our attention has value, and these companies have become extremely good at capturing it.
 
+## Why we can't sit still
+
 Think about how social media works. There is rarely a natural end point. You don't reach the bottom of Instagram or TikTok and get told that you have finished. There is always another video, another post, another headline, another notification and something else being recommended specifically for you.
 
 You are constantly being offered something new.
 
 And this is where I think we need to start thinking about dopamine.
+
+## You don't need a dopamine detox
 
 But let's get one thing straight. You don't need a “dopamine detox”. Dopamine isn't a toxin that you use up by looking at Instagram and then replenish by sitting in a dark room for 24 hours. It is a normal and important neurotransmitter involved in motivation, learning, movement, reward and many other functions.
 
@@ -3323,6 +3327,8 @@ If we repeatedly give our brains tiny bursts of novelty and stimulation, ordinar
 
 So we reach for the phone again, and the cycle continues.
 
+## Being comfortable doing nothing
+
 I think this is one of the things we have lost: being comfortable doing nothing.
 
 I'm not talking about another productivity technique or telling you that you need to meditate for an hour every day. I mean simply sitting outside with a cup of tea, going for a walk without your headphones, driving without a podcast, standing in a queue without getting your phone out or looking out of a window and letting your mind wander.
@@ -3335,6 +3341,8 @@ So try reducing the stimulation.
 
 You don't have to throw your phone away. Technology is incredibly useful and, like most people, I use it every day. The point isn't to become anti-technology. The point is to make sure that **you are using your technology rather than your technology using you.**
 
+## Start small
+
 Start small.
 
 Turn off unnecessary notifications. Your phone doesn't need to tell you every time someone posts something or that something new has happened somewhere in the world. Move social media apps away from your home screen so that accessing them requires a little more intention. If there is an app you don't actually need, consider deleting it.
@@ -3345,6 +3353,8 @@ Go for a walk without a podcast or music and just walk. See what you notice. Lis
 
 Try eating a meal without watching television or scrolling. Have a conversation without putting your phone on the table. Create a period in the evening where your phone is simply somewhere else.
 
+## Learn to be bored again
+
 And perhaps most importantly, learn to tolerate being bored again.
 
 Try sitting for ten minutes without doing anything. No phone, no television, no music and no podcast. Just sit and see what happens.
@@ -3354,6 +3364,8 @@ You might be surprised how quickly your brain starts asking for stimulation. Tha
 Over time, you may find that you become more comfortable with periods of quiet and that you don't automatically need to fill every spare moment with something.
 
 This isn't about becoming perfectly productive or removing all entertainment from your life. It is about creating some balance and remembering that your attention is yours.
+
+## Your attention is yours
 
 Your attention is one of the most valuable things you have. Where your attention goes, your time follows, and where your time goes, much of your life follows.
 
