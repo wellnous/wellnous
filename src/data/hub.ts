@@ -12,7 +12,7 @@ export const pillars: Pillar[] = [
   { slug: "physical", title: "Physical Protocols", tagline: "Move, recover, recharge.",
     intro: "Movement, light, temperature and sleep — the protocols behind energy, resilience and a calm mind.",
     trays: [
-      { name: "Movement", slugs: ["physical-wellbeing", "kettlebells"] },
+      { name: "Movement", slugs: ["physical-wellbeing", "kettlebells", "flow-rope"] },
       { name: "Energy & Recovery", slugs: ["mitochondrial-health", "deliberate-cold-exposure", "infra-red-exposure"] },
       { name: "Grounding", slugs: ["barefoot-walking", "ayurveda", "breathwork", "sleep-strategies"] },
       { name: "Environment & Toxins", slugs: ["hidden-toxins"] },
@@ -22,7 +22,7 @@ export const pillars: Pillar[] = [
     trays: [
       { name: "Mind & Attention", slugs: ["mental-wellbeing", "the-art-of-doing-nothing", "breathwork"] },
       { name: "Rest & Resilience", slugs: ["sleep-strategies", "deliberate-cold-exposure"] },
-      { name: "Grounding", slugs: ["breathwork", "ayurveda", "barefoot-walking", "sleep-strategies"] },
+      { name: "Grounding", slugs: ["breathwork", "ayurveda", "barefoot-walking", "flow-rope", "sleep-strategies"] },
     ] },
   { slug: "supplements", title: "Supplements", tagline: "Fill gaps, not cabinets.",
     intro: "Deep dive into the supplements and adaptogens worth knowing about.",

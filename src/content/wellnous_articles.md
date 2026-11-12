@@ -3375,3 +3375,11 @@ Breathwork is one of the most powerful ways to influence mental clarity, emotion
 - **Cyclic hyperventilation** – A series of rapid inhales followed by breath holds helps increase oxygenation, boost focus, and elevate energy levels.
 
 These techniques allow me to shift my mental state in moments, whether preparing for a deep work session or calming my mind before sleep.
+
+# Flow Rope
+
+#### Enhancing Coordination, Rhythm, and Meditative Movement
+
+Flow rope training brings fluid, dynamic motion into my exercise routine. By incorporating rotational movements, I improve joint mobility, hand-eye coordination, and cardiovascular endurance. The rhythmic nature of flow rope exercises also fosters a meditative state, helping me tap into mindfulness while moving.
+
+By moving the flow rope in an upward motion in the figure of 8, it encourages a more relaxed state. It takes a while to neuroadapt to the motion but once you do, its such an easy practice. It’s a beautiful way of untangling and decompressing your nervous system and embracing a more fluid motion and relaxed core.
