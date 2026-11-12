@@ -1087,7 +1087,7 @@ Different plant foods provide different fibres and polyphenols, supporting a wid
 
 Kefir, live yoghurt, sauerkraut and kimchi can introduce beneficial microorganisms and add variety to the diet.
 
-[Explore my article on cultured and fermented foods](/articles/cultured-foods).
+[Explore my article on cultured and fermented foods](https://wellnous.godaddysites.com/cultured-foods).
 
 **Read ingredient labels**
 
@@ -1977,7 +1977,7 @@ Consider:
 - Avoiding tobacco smoke.
 - Improving indoor air quality through ventilation and filtration.
 
-[Learn more about hidden environmental toxins](https://wellnous.godaddysites.com/hidden-toxins)
+[Learn more about reducing our toxic burden](https://wellnous.godaddysites.com/reducing-our-toxic-burden)
 
 #### Manage chronic stress
 
