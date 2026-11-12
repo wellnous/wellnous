@@ -43,7 +43,8 @@ describe("Hub content", () => {
     const slugsOf = (k: string) => pillars.find((p) => p.slug === k)?.trays.flatMap((t) => t.slugs) ?? [];
     expect(slugsOf("nutrition")).not.toContain("ayurveda");
     expect(slugsOf("nutrition")).not.toContain("hidden-toxins");
-    expect(slugsOf("mind")).toEqual(expect.arrayContaining(["mental-wellbeing", "ayurveda"]));
+    expect(slugsOf("mind")).toEqual(expect.arrayContaining(["mental-wellbeing", "ayurveda", "the-art-of-doing-nothing", "breathwork", "barefoot-walking"]));
+    expect(slugsOf("physical")).toContain("ayurveda");
   });
 
   it("resolves every tray slug to a real article", () => {

@@ -3288,3 +3288,98 @@ My favorites are:
 - Lime juice and mint leaves. Blended with a little bit of sugar.
 - Blended strawberries and lime
 - Real ginger, blended with some lemon and a little bit of sugar.
+
+# The Art of Doing Nothing
+
+#### Take back your attention…
+
+We are living in a world of constant stimulation. Your phone is always there, notifications, emails, WhatsApp, Instagram, TikTok, YouTube, news, podcasts, music and television. There is always something to look at, something to listen to, something new to consume and something demanding our attention.
+
+How often do you find yourself reaching for your phone without even really knowing why? Waiting in a queue, waiting for the kettle to boil, sitting on the toilet, having your morning coffee or simply having a few minutes to yourself. It has become almost automatic to fill those little gaps in our day with something.
+
+But perhaps those gaps are actually quite important.
+
+Our attention is valuable, and there are huge companies whose business models depend on keeping us looking at a screen for as long as possible. The longer we stay scrolling, watching and interacting, the more opportunities there are to show us advertising, recommend content and learn about our behaviour.
+
+This doesn't necessarily require some sinister conspiracy. It is simply how many of these businesses make money. Our attention has value, and these companies have become extremely good at capturing it.
+
+Think about how social media works. There is rarely a natural end point. You don't reach the bottom of Instagram or TikTok and get told that you have finished. There is always another video, another post, another headline, another notification and something else being recommended specifically for you.
+
+You are constantly being offered something new.
+
+And this is where I think we need to start thinking about dopamine.
+
+But let's get one thing straight. You don't need a “dopamine detox”. Dopamine isn't a toxin that you use up by looking at Instagram and then replenish by sitting in a dark room for 24 hours. It is a normal and important neurotransmitter involved in motivation, learning, movement, reward and many other functions.
+
+The more interesting question is what we are repeatedly training our brains to do.
+
+Our brains are remarkably adaptable and change in response to what we repeatedly practise. This is part of what we mean when we talk about neuroplasticity. If you spend your day constantly switching between different things, your brain becomes very practised at switching. A notification arrives, you look at a message, have a quick look at social media, return to work, see another headline, watch a short video and then try to return to what you were doing.
+
+We are constantly interrupting ourselves, and then we wonder why sitting down and concentrating on one thing for an extended period can sometimes feel difficult.
+
+What we practise matters.
+
+If we repeatedly give our brains tiny bursts of novelty and stimulation, ordinary life can start to feel comparatively slow. A ten-minute wait can feel unbearable, a walk without a podcast can feel boring, eating dinner without watching something can feel strangely quiet and sitting with our own thoughts can become uncomfortable.
+
+So we reach for the phone again, and the cycle continues.
+
+I think this is one of the things we have lost: being comfortable doing nothing.
+
+I'm not talking about another productivity technique or telling you that you need to meditate for an hour every day. I mean simply sitting outside with a cup of tea, going for a walk without your headphones, driving without a podcast, standing in a queue without getting your phone out or looking out of a window and letting your mind wander.
+
+Sometimes our best thoughts come when we aren't actively trying to think.
+
+When we give ourselves some space, our minds can wander, make connections, process things and reflect on what is happening in our lives. We don't necessarily need to fill every quiet moment with information or entertainment. In fact, perhaps we need more of those quiet moments.
+
+So try reducing the stimulation.
+
+You don't have to throw your phone away. Technology is incredibly useful and, like most people, I use it every day. The point isn't to become anti-technology. The point is to make sure that **you are using your technology rather than your technology using you.**
+
+Start small.
+
+Turn off unnecessary notifications. Your phone doesn't need to tell you every time someone posts something or that something new has happened somewhere in the world. Move social media apps away from your home screen so that accessing them requires a little more intention. If there is an app you don't actually need, consider deleting it.
+
+Try having your morning coffee without your phone. Don't automatically reach for it when you wake up. Get outside instead. Give yourself some time before you allow the outside world to start demanding your attention.
+
+Go for a walk without a podcast or music and just walk. See what you notice. Listen to what is happening around you. Allow your mind to wander.
+
+Try eating a meal without watching television or scrolling. Have a conversation without putting your phone on the table. Create a period in the evening where your phone is simply somewhere else.
+
+And perhaps most importantly, learn to tolerate being bored again.
+
+Try sitting for ten minutes without doing anything. No phone, no television, no music and no podcast. Just sit and see what happens.
+
+You might be surprised how quickly your brain starts asking for stimulation. That is okay. You don't have to respond to it. Let the thought come and go. See where your mind wanders.
+
+Over time, you may find that you become more comfortable with periods of quiet and that you don't automatically need to fill every spare moment with something.
+
+This isn't about becoming perfectly productive or removing all entertainment from your life. It is about creating some balance and remembering that your attention is yours.
+
+Your attention is one of the most valuable things you have. Where your attention goes, your time follows, and where your time goes, much of your life follows.
+
+There will always be another notification, another video, another headline, another argument and another thing that apparently needs your immediate attention.
+
+It doesn't.
+
+You are allowed to be unavailable. You are allowed to be bored. You are allowed to sit with your thoughts. You are allowed to do nothing.
+
+You don't need to detox from dopamine. Perhaps you simply need to give your brain a little less to process and a little more time to think.
+
+# Breathwork
+
+#### Physiological Sigh and Cyclic Hyperventilation for Nervous System
+
+Breathwork is one of the most powerful ways to influence mental clarity, emotional balance, and stress resilience. I use two specific techniques:
+
+- **Physiological sigh** – A double inhale followed by an extended exhale helps reduce stress instantly by resetting CO₂ levels and calming the autonomic nervous system.
+- **Cyclic hyperventilation** – A series of rapid inhales followed by breath holds helps increase oxygenation, boost focus, and elevate energy levels.
+
+These techniques allow me to shift my mental state in moments, whether preparing for a deep work session or calming my mind before sleep.
+
+# Flow Rope
+
+#### Enhancing Coordination, Rhythm, and Meditative Movement
+
+Flow rope training brings fluid, dynamic motion into my exercise routine. By incorporating rotational movements, I improve joint mobility, hand-eye coordination, and cardiovascular endurance. The rhythmic nature of flow rope exercises also fosters a meditative state, helping me tap into mindfulness while moving.
+
+By moving the flow rope in an upward motion in the figure of 8, it encourages a more relaxed state. It takes a while to neuroadapt to the motion but once you do, its such an easy practice. It’s a beautiful way of untangling and decompressing your nervous system and embracing a more fluid motion and relaxed core.
