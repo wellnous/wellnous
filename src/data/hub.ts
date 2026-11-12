@@ -32,4 +32,15 @@ export const pillars: Pillar[] = [
     ] },
 ];
 
-export const quickWins = ["Morning sun exposure", "Eat real foods", "Move more", "Walk after meals", "Protein at breakfast", "Stop eating well before bedtime", "Consume a fermented food", "Breathe deeply for 2 min"];
+export type QuickWin = { label: string; slug: string };
+
+export const quickWins: QuickWin[] = [
+  { label: "Morning sun exposure", slug: "sleep-strategies" },
+  { label: "Eat real foods", slug: "feeding-your-body" },
+  { label: "Move more", slug: "physical-wellbeing" },
+  { label: "Walk after meals", slug: "added-sugar" },
+  { label: "Protein at breakfast", slug: "protein" },
+  { label: "Stop eating well before bedtime", slug: "intermittent-fasting" },
+  { label: "Consume a fermented food", slug: "cultured-foods" },
+  { label: "Breathe deeply for 2 min", slug: "breathwork" },
+];

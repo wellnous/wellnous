@@ -26,8 +26,8 @@ function Index() {
         <div className="hero-glow absolute inset-0 -z-0" />
         <div className="relative mx-auto max-w-6xl px-5 pb-16 pt-20 sm:pt-28">
           <p className="text-sm font-semibold uppercase tracking-widest text-amber-deep">A Holistic and Practical approach to Wellbeing </p>
-          <h1 className="mt-4 max-w-3xl font-display text-5xl font-semibold leading-[1.05] tracking-tight sm:text-7xl">
-            A holistic and practical approach to <em className="text-primary">wellbeing</em>.
+          <h1 className="mt-2 font-display text-7xl font-semibold uppercase leading-[0.85] tracking-tight text-primary sm:text-8xl lg:text-9xl">
+            Wellnous
           </h1>
           <img src={logo.url} alt="" aria-hidden className="pointer-events-none absolute right-5 top-16 hidden w-80 opacity-90 lg:block" />
           <p className="mt-6 max-w-xl text-lg text-muted-foreground">Wellnous combines <span className="font-medium text-foreground">"Well"</span> for wellbeing and <span className="font-medium text-foreground">"Nous"</span> — an ancient Greek word associated with wisdom, understanding, and insight.</p>
@@ -68,7 +68,16 @@ function Index() {
           <h2 className="font-display text-3xl font-semibold">Today's quick wins</h2>
           <p className="mt-2 text-primary-foreground/80">Small, evidence-informed habits compound over time. Choose one and begin today.</p>
           <div className="mt-6 flex flex-wrap gap-2">
-            {quickWins.map((q) => <span key={q} className="rounded-full bg-primary-foreground/15 px-4 py-2 text-sm">{q}</span>)}
+            {quickWins.map((q) => (
+              <Link
+                key={q.label}
+                to="/articles/$slug"
+                params={{ slug: q.slug }}
+                className="rounded-full bg-primary-foreground/15 px-4 py-2 text-sm transition-colors hover:bg-primary-foreground/30 hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-foreground/70"
+              >
+                {q.label}
+              </Link>
+            ))}
           </div>
         </div>
       </section>
