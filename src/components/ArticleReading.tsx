@@ -33,7 +33,7 @@ export function ArticleReading({ article }: { article: Article }) {
       <p className="text-xs font-semibold uppercase tracking-widest text-amber-deep">In this article</p>
       <div className="mt-3 flex flex-wrap gap-x-5 gap-y-2">{headings.map((s, i) => <a key={i} href={`#${anchor(s.title)}`} className="text-sm text-primary underline decoration-primary/25 underline-offset-4 hover:decoration-primary">{s.title}</a>)}</div>
     </nav>}
-    <div className="mt-8 space-y-8 text-base leading-relaxed text-foreground/85">
+    <div className={`mt-8 space-y-8 text-base leading-relaxed text-foreground/85 ${article.slug.startsWith("blog-") ? "blog-reading" : ""}`}>
       {sections.map((section, i) => {
         const scoby = article.slug === "cultured-foods" && /what is a scoby/i.test(section.title);
         const takeaway = /takeaway|bringing it all together/i.test(section.title);
