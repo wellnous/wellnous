@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 
 import { articles, getArticle } from "@/data/articles";
-import { pillars } from "@/data/hub";
+import { pillars, quickWins } from "@/data/hub";
 import { relatedSlugs, readingSections, recipeSlugs } from "@/data/article-presentation";
 import { blogPosts } from "@/data/blog";
 
@@ -80,6 +80,20 @@ describe("Hub content", () => {
     const tray = pillars.find((p) => p.slug === "supplements")?.trays.find((t) => t.name === "Start Here");
     expect(tray?.slugs[0]).toBe("supplements-and-adaptogens");
     expect(getArticle("supplements-and-adaptogens")?.title).toBe("Supplements");
+  });
+
+  it("links every quick win to a real article", () => {
+    expect(quickWins.map((q) => q.label)).toEqual([
+      "Morning sun exposure",
+      "Eat real foods",
+      "Move more",
+      "Walk after meals",
+      "Protein at breakfast",
+      "Stop eating well before bedtime",
+      "Consume a fermented food",
+      "Breathe deeply for 2 min",
+    ]);
+    expect(quickWins.filter((q) => !getArticle(q.slug)).map((q) => q.label)).toEqual([]);
   });
 
   it("resolves every tray slug to a real article", () => {
