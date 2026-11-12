@@ -443,11 +443,11 @@ I love deliberate cold exposure, particularly through cold showers. I find it of
 
 Taking cold showers or immersing in cold water may stimulate:
 
-- **Dopamine & Norepinephrine Release** – Elevates mood, improves alertness, and builds stress tolerance.
+- **Noradrenaline Release** – Cold exposure can raise noradrenaline, which may contribute to the alertness many people report; responses vary and longer-term effects are still being studied.
 
 - **Controlled Discomfort** **Training** – Strengthens my ability to remain calm under stress, making challenges in daily life feel more manageable.
 
-- **Improved Circulation** – Boosts oxygen delivery to the brain, supporting cognitive function and focus.
+- **Circulation Response** – Cold exposure temporarily changes blood flow, heart rate and blood pressure; this does not establish lasting improvements in circulation or cognitive function.
 
 Here is more detail:
 
@@ -485,11 +485,11 @@ For a decent overview, please listen to Andrew Huberman’s podcast on this topi
 
 Before worrying about carbohydrates, fats or protein, it makes sense to start with the quality of the food itself.
 
-Whole foods come packaged with fibre, vitamins, minerals, antioxidants and thousands of naturally occurring compounds that work together in ways we still don't fully understand. An apple is far more than the vitamin C it contains. Beans are far more than a source of carbohydrate. Food is often much more complex than the sum of its nutrients.
+Whole foods provide combinations of fibre, vitamins, minerals and naturally occurring plant compounds, and researchers are still learning how these interact within the body. An apple is far more than the vitamin C it contains.
 
 This is one reason concerns around ultra-processed foods have grown so rapidly.
 
-A large umbrella review published in The BMJ linked higher intakes of ultra-processed foods with poorer health outcomes, including cardiovascular disease, type 2 diabetes and increased mortality risk.
+A large umbrella review published in The BMJ found associations between higher intakes of ultra-processed foods and poorer health outcomes, including cardiovascular disease, type 2 diabetes and increased mortality risk. These are mostly observational findings, so they cannot show that processing itself is the cause, and foods within the category vary widely.
 
 That doesn't mean you need perfection. It simply means that if most of your diet is built around foods that still resemble their natural form, you're likely heading in the right direction.
 
@@ -736,7 +736,7 @@ While fibre is arguably the most important nutrient for feeding the microbiome, 
 
 Many plant foods also contain polyphenols, naturally occurring compounds that interact closely with gut microbes. Coffee is a fascinating example. Despite containing relatively little fibre compared with vegetables, legumes or berries, coffee appears to exert meaningful effects on the microbiome through its rich polyphenol content.
 
-A study published in Nature Microbiology found one of the strongest diet-microbe associations reported to date, showing that regular coffee consumption was consistently linked with a greater abundance of the bacterium Lawsonibacter asaccharolyticus across multiple independent populations. This finding highlights an important principle: a healthy microbiome thrives not only on fibre but on a diverse intake of naturally occurring plant compounds.
+A study published in Nature Microbiology reported an association between regular coffee consumption and a greater abundance of the bacterium Lawsonibacter asaccharolyticus across several populations. This does not establish that the bacterium is responsible for a health benefit.
 
 That doesn't mean coffee replaces vegetables or fibre-rich foods. Rather, it reinforces the idea that the healthiest diets provide a broad range of fibres, resistant starches and polyphenols that nourish different microbial species in different ways.
 
@@ -744,7 +744,7 @@ That doesn't mean coffee replaces vegetables or fibre-rich foods. Rather, it rei
 
 One bacterial species generating enormous scientific interest is **Akkermansia muciniphila**.
 
-Higher levels of Akkermansia have been associated with favourable metabolic health, improved gut barrier function and a healthier gut environment in numerous studies.
+Akkermansia muciniphila has attracted research interest because of associations with metabolic health and gut barrier function. Higher abundance is not universally better; its role depends on context.
 
 Akkermansia appears to flourish in individuals consuming diverse, plant-rich diets containing a variety of fibres and bioactive compounds.
 
@@ -849,7 +849,7 @@ And increasingly, the science suggests that those tiny organisms may have more i
 
 [https://www.nature.com/articles/s41564-024-01858-9](https://www.nature.com/articles/s41564-024-01858-9)
 
-This large multi-cohort analysis identified one of the strongest diet-microbe associations reported to date, linking regular coffee consumption with higher abundance of _Lawsonibacter asaccharolyticus_ across diverse populations.
+This large multi-cohort analysis reported an association between regular coffee consumption and higher abundance of _Lawsonibacter asaccharolyticus_ across diverse populations.
 
 For readers interested in taking gut health beyond fibre alone, emerging areas of research include:
 
@@ -921,7 +921,7 @@ It has been found in products such as some food and drink containers, the lining
 
 BPA has attracted considerable attention because it can interact with hormone receptors and influence endocrine signalling.
 
-It is sometimes described as a xenoestrogen because it can mimic some of the effects of oestrogen.
+It has attracted attention because it can interact with hormone-related pathways, and scientists and regulators continue to assess its potential health effects, particularly during sensitive stages of development.
 
 Areas of research include:
 
@@ -1709,7 +1709,7 @@ Doing nothing isn't wasted time, nor does every moment need to be productive. So
 
 **Fuel for Cognitive Function, Brain Health, and Mental Resilience**
 
-Creatine and omega-3 fatty acids are two of the most overlooked yet essential nutrients for optimising brain function, memory, and emotional stability. Together, they form a powerful foundation for cognitive clarity, neurological protection, and long-term mental resilience.
+Creatine and omega-3 fatty acids are involved in processes relevant to brain and cellular function. Researchers are investigating whether supplementation may benefit certain groups, but evidence for routine cognitive or mood benefits in healthy adults is mixed. A balanced diet remains the foundation.
 
 #### Creatine and the Brain
 
@@ -1719,20 +1719,20 @@ Often associated with athletic performance, creatine also plays a role in brain 
 
 Evidence: good for heart health markers such as triglycerides; mixed for mood and cognition in healthy adults.
 
-Omega-3 fatty acids are important for brain development, cognitive function, and emotional regulation. Omega-3s combat inflammation, protecting neural pathways from oxidative stress as well as enhance the effectiveness of neurotransmitters like dopamine and serotonin, which are critical for focus, motivation, and emotional balance.
+Omega-3 fatty acids are important components of cell membranes, including in the brain, and are involved in signalling pathways related to inflammation. Research has explored possible links with mood and cognitive health, but supplementation has not been shown to reliably improve neurotransmitter function or treat mood disorders.
 
 #### Probiotics & Fermented Foods
 
 **Gut-Brain Connection and Emotional Well-being**
 
-As you know, gut health plays a massive role in mental well-being, with the microbiome directly influencing neurotransmitter production, inflammation levels, and mood regulation.
+The gut and brain communicate through neural, immune, hormonal and metabolic pathways. Gut microbes can produce or modify compounds involved in these processes, although their precise role in human mental wellbeing is still being established.
 
 I supplement with probiotics and regularly consume fermented foods to nourish my gut microbiome. Here are some key staples:
 
-- **Kimchi & Sauerkraut** – Packed with beneficial bacteria that support digestion and strengthen gut-brain communication.
-- **Kefir & Yogurt** – Rich in probiotics and nutrients that improve gut integrity and reduce symptoms of anxiety or depression.
-- **Kombucha**– A fermented tea loaded with organic acids that help balance the gut and improve mental clarity.
-By focusing on gut health, I create a solid foundation for emotional stability, stress management, and overall cognitive sharpness.
+- **Kimchi & Sauerkraut** – Fermented vegetables that add variety to the diet; their effects on mental wellbeing are still being investigated.
+- **Kefir & Yogurt** – Live-culture foods that add variety to the diet, although eating them has not been shown to reduce anxiety or depression.
+- **Kombucha** – A fermented tea I enjoy; its composition varies between products and there is not enough evidence to say it improves mental clarity.
+I enjoy including these foods as part of a varied diet, without treating them as a proven route to emotional stability or sharper thinking.
 
 #### Cold Showers
 
@@ -1742,9 +1742,9 @@ Cold exposure isn't just beneficial for physical recovery—it’s an incredible
 
 Taking cold showers or immersing in cold water stimulates:
 
-- **Dopamine & Norepinephrine Release** – Elevates mood, improves alertness, and builds stress tolerance.
+- **Noradrenaline Release** – Cold exposure can raise noradrenaline, which may contribute to the alertness many people report; responses vary and longer-term effects are still being studied.
 - **Controlled Discomfort Training**– Strengthens my ability to remain calm under stress, making challenges in daily life feel more manageable.
-- **Improved Circulation** – Boosts oxygen delivery to the brain, supporting cognitive function and focus.
+- **Circulation Response** – Cold exposure temporarily changes blood flow, heart rate and blood pressure; this does not establish lasting improvements in circulation or cognitive function.
 By consistently exposing myself to cold, I train my nervous system to handle discomfort with greater ease. This daily practice fosters resilience, discipline, and a heightened mental edge.
 
 #### Sleep
@@ -1775,25 +1775,25 @@ Some strategies include:
 
 Breathwork is one practical way to influence mental clarity, emotional balance, and stress resilience. I use two specific techniques:
 
-- **Physiological sigh** – A double inhale followed by an extended exhale helps reduce stress instantly by resetting CO₂ levels and calming the autonomic nervous system.
-- **Cyclic hyperventilation** – A series of rapid inhales followed by breath holds helps increase oxygenation, boost focus, and elevate energy levels.
+- **Physiological sigh** – A double inhale followed by a longer exhale. Slow, controlled breathing can influence arousal and may help some people feel calmer, although responses vary.
+- **Cyclic hyperventilation** – Rounds of faster breathing followed by breath holds. This changes carbon dioxide levels rather than improving oxygen delivery, and can cause dizziness or fainting, so never practise it in water, while driving or anywhere losing consciousness would be dangerous.
 These techniques allow me to shift my mental state in moments, whether preparing for a deep work session or calming my mind before sleep.
 
 #### Walking Barefoot
 
 **Grounding for Stress Reduction and Mental Clarity**
 
-Barefoot walking isn’t just a physical practice—it’s a deeply grounding experience. Connecting with the earth reduces inflammation, enhances proprioception, and supports mood stability by reducing excess stress hormones. Whether I walk barefoot outdoors or stand on natural surfaces, this practice keeps me centered and connected.
+Barefoot walking isn’t just a physical practice—I find it a deeply grounding experience. Walking on safe natural surfaces gives rich sensory feedback and gentle movement; I enjoy it, but claims that contact with the earth reduces inflammation or stress hormones need stronger clinical evidence. Whether I walk barefoot outdoors or stand on natural surfaces, this practice keeps me centred and connected.
 
 #### Adaptogens
 
 **Stress Management and Mental Clarity**
 
-Ashwagandha is my go-to adaptogen for stress regulation and hormonal balance. It supports cortisol management, helping me stay calm under pressure.
+Ashwagandha is one of the herbs marketed as an adaptogen and studied for possible effects on stress. Small studies suggest it may help perceived stress in some people, but evidence varies by preparation and it has not been shown to balance hormones. Supplements can also interact with medicines.
 
-Meanwhile, medicinal mushrooms play a pivotal role in enhancing cognitive function, neurogenesis, and emotional stability.
+Meanwhile, certain mushroom compounds are being investigated for possible effects on inflammation and nerve signalling. Much of this research is preliminary, and it is not yet possible to say that mushroom supplements improve neurogenesis or emotional stability in people.
 
-Incorporating these into my routine—whether through teas, extracts, or whole-food supplements—supports optimal brain function and emotional stability.
+Incorporating these into my routine—whether through teas, extracts, or whole-food supplements—is a personal choice rather than an established foundation for brain function or emotional stability.
 
 # Mitochondrial Health
 
@@ -1803,11 +1803,11 @@ Mitochondria are often described as the powerhouses of our cells. But their role
 
 I am passionate about mitochondrial health because I believe it is one of the most important, yet often overlooked, foundations of long-term health.
 
-Every cell in the body contains hundreds, sometimes thousands, of mitochondria. These tiny structures convert energy from the food we eat into ATP – the energy currency that powers almost every cellular function.
+Most human cells contain mitochondria, although their number varies with the cell’s energy needs (mature red blood cells are an exception). These tiny structures convert energy from the food we eat into ATP – the energy currency that powers almost every cellular function.
 
 When mitochondria work efficiently, our cells have the energy they need to function, repair and adapt. When their performance deteriorates, energy production can decline, oxidative stress and inflammation can increase, and cellular repair becomes less efficient.
 
-Increasing evidence suggests that mitochondrial dysfunction plays an important role in many chronic diseases, including cardiovascular disease, diabetes, neurodegenerative disorders and cancer.
+Changes in mitochondrial function have been observed in many chronic conditions, including cardiovascular disease, diabetes, neurodegenerative disorders and cancer. They may contribute to disease, result from it, or be part of the body’s response to stress.
 
 The encouraging news is that mitochondria are not static. They constantly adapt, repair, divide and renew themselves. This means our everyday lifestyle choices can influence how well they function throughout life.
 
@@ -2054,7 +2054,7 @@ ATP synthase works much like a tiny molecular turbine. As protons flow back acro
 
 This is how mitochondria generate the energy that powers almost every function in our bodies.
 
-When this system works efficiently, it produces remarkable amounts of ATP with relatively little waste.
+This system produces ATP and naturally generates reactive oxygen species, which also have normal signalling roles; problems arise when oxidative stress outpaces the body’s ability to regulate it.
 
 However, when the electron transport chain becomes impaired, energy production can become less efficient and the generation of reactive oxygen species can increase.
 
@@ -2325,13 +2325,13 @@ Balancing physical health requires a blend of mindful movement, nourishment, and
 
 Harnessing the Benefits of Temperature Stress for Recovery and Resilience
 
-Cold showers (or for some; ice baths) are integral to my recovery and resilience training. Exposure to cold activates brown fat, boosts circulation, enhances immune function and is an incredible tool for sharpening mental resilience.
+Cold showers (or for some, ice baths) are part of my personal recovery and resilience routine. Cold exposure can increase alertness and activate brown fat, which uses energy to produce heat, although long-term metabolic benefits remain uncertain and claims about lasting immune or circulation benefits are not established.
 
 Taking cold showers or immersing in cold water stimulates:
 
-- **Dopamine & Norepinephrine Release** – Elevates mood, improves alertness, and builds stress tolerance.
+- **Noradrenaline Release** – Cold exposure can raise noradrenaline, which may contribute to the alertness many people report; responses vary and longer-term effects are still being studied.
 - **Controlled Discomfort Training** – Strengthens my ability to remain calm under stress, making challenges in daily life feel more manageable.
-- **Improved Circulation**– Boosts nutrient delivery to the brain, supporting cognitive function and focus.
+- **Circulation Response** – Cold exposure temporarily changes blood flow, heart rate and blood pressure; this does not establish lasting improvements in circulation or cognitive function.
 By consistently exposing myself to cold, I train my nervous system to handle discomfort with greater ease. This daily practice fosters resilience, discipline, and a heightened mental edge.
 
 #### Infra Red Exposure
@@ -2352,7 +2352,7 @@ Enhancing Coordination, Rhythm, and Meditative Movement
 
 Flow rope training brings fluid, dynamic motion into my exercise routine. By incorporating rotational movements, I improve joint mobility, hand-eye coordination, and cardiovascular endurance. The rhythmic nature of flow rope exercises also fosters a meditative state, helping me tap into mindfulness while moving.
 
-By moving the flow rope in an upward motion in the figure of 8, it encourages a more relaxed state. It takes a while to neuroadapt to the motion but once you do, its such an easy practice. It’s a beautiful way of untangling and decompressing your nervous system and embracing a more fluid motion and relaxed core.
+The repeated figure of 8 pattern gives me a rhythmic movement to focus on. It takes a while to get used to, but once you do, it’s an easy practice. I find it helps me feel more relaxed — a personal experience rather than a proven nervous-system treatment.
 
 #### Controlled Breathwork
 
@@ -2362,9 +2362,9 @@ Breathwork is one practical way to influence mental clarity, emotional balance, 
 
 I use two specific techniques:
 
-**Physiological sigh** – A double inhale followed by an extended exhale helps reduce stress instantly by resetting CO₂ levels and calming the autonomic nervous system.
+**Physiological sigh** – A double inhale followed by a longer exhale. Slow, controlled breathing can influence arousal and may help some people feel calmer, although responses vary.
 
-**Cyclic hyperventilation** – A series of rapid inhales followed by breath holds helps increase oxygenation, boost focus, and elevate energy levels.
+**Cyclic hyperventilation** – Rounds of faster breathing followed by breath holds. This changes carbon dioxide levels rather than improving oxygen delivery, and can cause dizziness or fainting, so never practise it in water, while driving or anywhere losing consciousness would be dangerous.
 
 These techniques allow me to shift my mental state in moments, whether preparing for a deep work session or calming my mind before sleep.
 
@@ -2382,7 +2382,7 @@ Ayurveda, the 5,000-year-old Indian system of medicine, emphasises balance betwe
 
 I follow Ayurvedic principles by aligning my diet with my dosha, incorporating powerful herbs like ginger, ashwagandha and turmeric.
 
-I start the day with dry brushing to help drain my lymphatic system and focus on gratitude and breathing exercises.
+I start the day with dry brushing for gentle exfoliation and the feeling of stimulation, alongside gratitude and breathing exercises. There isn’t good evidence that dry brushing meaningfully improves lymphatic drainage.
 
 These small, intentional habits help harmonize my internal systems.
 
@@ -2390,7 +2390,7 @@ These small, intentional habits help harmonize my internal systems.
 
 Encouraging Natural Mobility and Postural Awareness
 
-Sitting on the floor instead of chairs promotes better flexibility, joint health, and posture. Regularly changing my seated position—from cross-legged to a deep squat—keeps my body engaged, prevents stiffness, and reinforces natural movement patterns that have been lost in modern sedentary lifestyles.
+Sitting on the floor in different positions gives the hips, knees and ankles a chance to move through varied ranges, and getting down and back up is useful functional movement to practise where comfortable. Regularly changing my seated position—from cross-legged to a deep squat—keeps my movement varied; it’s one option rather than a requirement for healthy joints or posture.
 
 # Polyphenols
 
@@ -2404,7 +2404,7 @@ Many of the foods most consistently associated with long-term health benefits co
 
 Scientists have spent the last few decades trying to understand why.
 
-Increasingly, the answer appears to involve a vast family of plant compounds known as polyphenols.
+Polyphenols, a vast family of plant compounds, may contribute to these associations, alongside fibre, vitamins, minerals, fats and other bioactive compounds.
 
 ## So What Exactly Are Polyphenols?
 
@@ -2438,7 +2438,7 @@ If polyphenols were simply acting as little chemical shields against oxidation, 
 
 Instead, scientists began to suspect that something more sophisticated was happening.
 
-Polyphenols appear to interact with cellular signalling pathways, inflammation, immune responses and metabolism in ways that extend well beyond traditional antioxidant activity. Rather than simply protecting the body from damage, they seem to participate in an ongoing conversation between our diet, our cells and our environment.
+Laboratory and human studies have investigated how different polyphenols interact with pathways involved in inflammation, immune signalling and metabolism. Effects vary between compounds, and how much these mechanisms explain particular foods’ health associations remains uncertain.
 
 And that conversation becomes even more interesting when we start looking at the gut microbiome.
 
@@ -2456,7 +2456,7 @@ Instead, it turns out their journey may only just be beginning.
 
 Further down the digestive tract lies the colon, home to trillions of microorganisms collectively known as the gut microbiome. Rather than disappearing unused, many polyphenols arrive there largely intact, where they interact with an incredibly diverse ecosystem of bacteria.
 
-Some microbes break polyphenols down into smaller compounds that can then be absorbed and utilised by the body. At the same time, the polyphenols themselves help determine which microbial species thrive and which struggle. The relationship goes both ways. The food influences the microbes, and the microbes influence what happens to the food.
+Some polyphenols reach the large intestine, where gut microbes can transform them into smaller metabolites. These interactions may also influence which microbes thrive, although responses vary considerably between individuals.
 
 This represents quite a shift in how we think about nutrition. Perhaps the question isn't simply what a food does for us. Perhaps it's also what that food does for the trillions of organisms living alongside us.
 
@@ -2478,7 +2478,7 @@ Depending on the decade, it has been labelled harmful, beneficial or somewhere i
 
 Yet when researchers began examining the microbiome in greater detail, coffee revealed something rather unexpected.
 
-A study published in Nature Microbiology identified one of the strongest dietary associations with a specific gut bacterium seen to date. Across multiple independent populations, people who regularly consumed coffee consistently showed a greater abundance of _Lawsonibacter asaccharolyticus_ than those who did not. The finding was observed repeatedly across different cohorts, making it one of the most compelling examples of a food influencing the composition of the microbiome.
+A study published in Nature Microbiology reported an association between regular coffee consumption and a greater abundance of the gut bacterium Lawsonibacter asaccharolyticus across several populations. This is an association and does not show that the bacterium is responsible for coffee’s health links.
 
 The study wasn't important because it proved coffee was a superfood.
 
@@ -3136,7 +3136,7 @@ Ashwagandha (\*Withania somnifera\*) is one of the most researched adaptogens, t
 
 #### Medicinal Mushrooms
 
-Medicinal mushrooms play a pivotal role in enhancing cognitive function, neurogenesis, and emotional stability. Each type offers unique benefits:
+Certain mushroom compounds are being investigated for possible effects on inflammation and nerve signalling. Much of this research is preliminary, mainly from laboratory and animal studies:
 
 · **Lion’s Mane** – Stimulates nerve growth factor (NGF), promoting cognitive clarity, memory retention, and overall brain health.
 
@@ -3872,8 +3872,8 @@ You don't need to detox from dopamine. Perhaps you simply need to give your brai
 
 Breathwork is one practical way to influence mental clarity, emotional balance, and stress resilience. I use two specific techniques:
 
-- **Physiological sigh** – A double inhale followed by an extended exhale helps reduce stress instantly by resetting CO₂ levels and calming the autonomic nervous system.
-- **Cyclic hyperventilation** – A series of rapid inhales followed by breath holds helps increase oxygenation, boost focus, and elevate energy levels.
+- **Physiological sigh** – A double inhale followed by a longer exhale. Slow, controlled breathing can influence arousal and may help some people feel calmer, although responses vary.
+- **Cyclic hyperventilation** – Rounds of faster breathing followed by breath holds. This changes carbon dioxide levels rather than improving oxygen delivery, and can cause dizziness or fainting, so never practise it in water, while driving or anywhere losing consciousness would be dangerous.
 
 These techniques allow me to shift my mental state in moments, whether preparing for a deep work session or calming my mind before sleep.
 
