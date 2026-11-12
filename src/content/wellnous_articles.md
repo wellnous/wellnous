@@ -882,7 +882,7 @@ _Disclaimer: This article is for educational purposes only and should not be con
 
 # Reducing Our Toxic Burden
 
-#### Understanding the hidden chemicals in everyday life
+#### Understanding everyday chemical exposures
 
 > Evidence note: the main concern is chemicals such as BPA and phthalates migrating from plastic into food, which increases with heat, fatty foods and scratched or old containers. Regulators set limits on these chemicals; the strongest evidence of harm comes from animal and population studies, and the long-term effects at everyday levels in people are still being researched. Simple steps such as not microwaving food in plastic reduce exposure at little cost.
 
