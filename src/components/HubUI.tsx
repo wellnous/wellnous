@@ -8,7 +8,7 @@ function Brand({ size = "h-9" }: { size?: string }) {
   return (
     <Link to="/" className="flex items-center gap-2.5">
       <img src={logo.url} alt="Wellnous logo" className={`${size} w-auto`} />
-      <span className="font-display text-2xl font-semibold tracking-tight text-primary">Wellnous</span>
+      <span className="font-wordmark text-2xl font-bold tracking-tight text-primary">Wellnous</span>
     </Link>
   );
 }
