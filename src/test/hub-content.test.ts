@@ -60,6 +60,22 @@ describe("Hub content", () => {
     expect(relatedSlugs(article!, [])).toEqual(["physical-wellbeing", "barefoot-walking", "kettlebells", "flow-rope"]);
   });
 
+  it("keeps the Flow Rope article's supplied text and its three source links", () => {
+    const article = getArticle("flow-rope");
+    if (!article) throw new Error("Flow rope is missing");
+    expect(article.standfirst).toBe("Enhancing Coordination, Rhythm and Meditative Movement");
+    const text = article.blocks.map((b) => b.text).join(" ");
+    expect(text).toContain("figure-of-eight");
+    expect(text).toContain("moving from the centre out");
+    const urls = [...text.matchAll(/\]\(([^)]+)\)/g)].map((m) => m[1]);
+    expect(urls).toEqual([
+      "https://lawrencevanlingen.com/pages/flow-rope",
+      "https://pod.wave.co/podcast/feel-better-live-more-with-dr-rangan-chatterjee/from-stiffness-to-stillness-how-to-reset-your-body-soothe-your-mind-and-reclaim--a6c72ce7",
+      "https://podcasts.apple.com/us/podcast/236-lawrence-van-lingen-creating-movement-patterns/id1481743845?i=1000660386989",
+    ]);
+    expect(text).not.toMatch(/\*\*[^*]+\*\*\s*\*\*/);
+  });
+
   it("resolves every tray slug to a real article", () => {
     const slugs = pillars.flatMap((p) => p.trays.flatMap((t) => t.slugs));
     expect(slugs.length).toBeGreaterThan(0);
