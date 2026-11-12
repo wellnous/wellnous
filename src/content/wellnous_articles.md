@@ -1651,7 +1651,18 @@ Kettlebells are one of the most versatile and effective training tools for stren
 
 I am all for maximising benefit vs effort and time. I have found I get the best results from kettlebells... and .... they can be done at home!!!
 
-Find a weight that you can push to around 5 reps maximum..This will help you gain valuable muscle as efficiently as possible.
+The real value of kettlebells is in compound movements – exercises that work many muscles and joints together, such as the swing and the goblet squat. Rather than isolating one muscle, they build strength you actually use in everyday life: lifting, carrying, bending and getting up from the floor.
+
+#### Train safely
+
+Compound and explosive movements are very effective, but they also ask a lot of your back, shoulders and grip. Technique matters more than weight.
+
+- **Start light.** Choose a weight you can control comfortably for 8–10 good-quality repetitions, and only increase it once your form is consistent.
+- **Learn the hip hinge first.** Swings and high pulls are driven by the hips, not the lower back or arms. If you are new, ideally learn them from a qualified kettlebell coach.
+- **Stop when form slips.** End the set as soon as your back rounds, the bell feels out of control or you feel pain – not when you are exhausted.
+- **Clear your space.** Keep the area around you free of people, pets and furniture, and never let go of a swinging kettlebell.
+- **Build up gradually.** Master the halo and goblet squat before progressing to swings and the explosive hang high pull.
+- **Check first if needed.** If you are pregnant, have back, shoulder or joint problems, high blood pressure or any health condition, speak to a doctor or physiotherapist before starting.
 
 #### 1. The Kettlebell Halo – Shoulder Mobility & Core Engagement
 What It Is: A controlled circular movement around the head, strengthening shoulder mobility, postural control, and core stability.
