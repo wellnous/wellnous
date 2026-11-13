@@ -1,86 +1,3 @@
-# Adaptogens
-
-#### Ashwagandha and Medicinal Mushrooms for Stress, Energy, and Resilience
-
-In a world filled with constant stressors—whether from work, lifestyle, or environmental challenges—maintaining balance is more important than ever. This is where adaptogens come into play. These remarkable herbs and fungi help the body adapt to stress, regulate hormonal responses, and enhance overall resilience.
-
-Among the best-studied adaptogens, ashwagandha and medicinal mushrooms stand out for their ability to support mental clarity, immune function, and energy levels.
-
-Let's explore how adaptogens are thought to work, what studies have explored, and how strong the scientific backing behind these ancient natural remedies.
-
-#### What Are Adaptogens?
-
-Adaptogens are natural substances that help the body adapt to physical, mental, or environmental stress. Their key functions include balancing cortisol levels to prevent excessive stress responses, supporting homeostasis by keeping physiological systems in equilibrium, and enhancing endurance to help the body recover from exertion and fatigue.
-
-Unlike stimulants that provide short-term boosts which can lead to crashes, adaptogens work long term by nourishing the adrenal system and keeping energy levels steady and sustainable.
-
-Common adaptogens include herbs such as ashwagandha, rhodiola, as well as functional fungi like reishi, lion’s mane, and cordyceps.
-
-#### Ashwagandha:
-
-**The Ancient Stress-Reliever and Nervous System Supporter**
-
-Ashwagandha (Withania somnifera) is a powerful Ayurvedic herb known for its ability to reduce stress, enhance cognition, and support physical recovery. Used for thousands of years in Indian medicine, it is classified as a Rasayana, which means it rejuvenates and restores vitality.
-
-#### What Studies Have Explored
-
-> Evidence note: ashwagandha has been tested in a number of small, short trials with mixed results. Findings are promising for stress and sleep but not conclusive, and it is not suitable for everyone (for example in pregnancy or with thyroid conditions). Speak to your GP before starting.
-
-- Ashwagandha exerts profound effects on the endocrine and nervous systems, making it one of the best adaptogens for stress management.
-- It regulates cortisol levels by lowering excess cortisol, which promotes calmness and resilience.
-- It also helps balance thyroid function by supporting hormone production, aiding those with hypothyroidism or sluggish metabolism.
-- In addition, ashwagandha acts as a potent antioxidant to reduce inflammation, support cell regeneration, and promote longevity.
-
-#### Physical Benefits
-
-- Athletes and physically active individuals often use ashwagandha for recovery and endurance.
-- It can improve strength and muscle mass, support cardiovascular function through healthy blood pressure and circulation
-- Boost libido and reproductive health, with studies showing improvements in fertility markers for both men and women.
-
-#### Mental Benefits
-
-- Ashwagandha also enhances cognitive function and emotional stability.
-- It reduces anxiety and depression, acting as a natural alternative to pharmaceutical interventions while improving focus and memory.
-- It supports neural regeneration and synaptic plasticity and promotes better sleep, assisting those who struggle with insomnia and restless sleep patterns.
-
-#### Medicinal Mushrooms:
-
-**Fungal Adaptogens for Immune Strength and Cognitive Clarity**
-
-Medicinal mushrooms are functional fungi with adaptogenic properties that support stress resilience, immune health, and brain function. Different species target specific physiological functions. For example:
-
-- Reishi: Supports stress reduction, enhances sleep, and boosts the immune system.
-- Lion’s Mane: Improves cognitive function, supports nerve regeneration, and increases focus.
-- Cordyceps: Enhances energy, stamina, and lung capacity.
-- Chaga: Provides antioxidant benefits and cellular protection.
-- Turkey Tail: Supports gut health with immune-boosting polysaccharides.
-
-#### Reishi
-
-Often called the "mushroom of immortality" because of its long history in traditional medicine as a stress reducer and overall wellness booster.
-
-It contains compounds such as triterpenoids and polysaccharides that help modulate the immune system, reducing inflammation and promoting healthier sleep patterns. By influencing the body's stress response, reishi can help lower anxiety levels and foster a sense of calm, which contributes to better sleep quality and a more resilient immune system.
-
-#### Lion’s Mane
-
-Celebrated for its positive effects on brain health. This mushroom contains compounds like hericenones and erinacines, which encourage the synthesis of nerve growth factor (NGF). NGF is essential for the maintenance, growth, and repair of nerve cells, which in turn enhances focus, supports memory, and may even help slow down cognitive decline. Regular use of Lion’s Mane is associated with improved concentration and mental clarity, making it a popular choice among those looking to boost cognitive function naturally.
-
-#### Cordyceps
-
-Known for its ability to boost physical energy and endurance. It works by increasing the production of adenosine triphosphate (ATP), the primary energy carrier in cells, and enhancing oxygen uptake during exercise. This dual-action helps improve stamina and performance, making cordyceps a valuable supplement for athletes or anyone looking to increase their energy levels and support better recovery after physical exertion.
-
-#### Chaga
-
-Rich in antioxidants, including melanin, superoxide dismutase, and various polyphenols, which help protect cells from oxidative stress and damage caused by free radicals. This antioxidant powerhouse plays a significant role in reducing inflammation throughout the body and supporting overall cellular health. By mitigating oxidative stress, Chaga can contribute to a slower aging process and support the body's natural detoxification efforts.
-
-#### Turkey Tail
-
-Known for its vibrant, colorful appearance, contains immune-boosting compounds such as polysaccharide-K (PSK) and polysaccharide-peptide (PSP). These compounds help modulate the immune response and support a healthy gut microbiome, which is crucial for immune function. Turkey Tail is also recognized for its potential to improve the balance of beneficial bacteria in the digestive system, leading to better overall gut health and a stronger immune response.
-
-Each of these mushrooms offers a unique set of benefits, and incorporating them into your wellness routine—whether through supplements, powders, or teas—can help you address multiple aspects of health, from cognitive clarity and energy levels to immune balance and stress relief.
-
-By integrating these adaptogens into your daily routine—whether through a morning mushroom-infused coffee or an evening ashwagandha tea—you create a foundation for long-term wellness, sustained energy, and mental clarity. I tend to take ashwaganda at night if I am stressed or need a good night sleep. I use mushroom powder in my daily morning protein coffee to set me up for a great day!
-
 # Added Sugar
 
 #### The Sweet Problem Hiding in Plain Sight
@@ -490,25 +407,82 @@ We don't need to understand every mechanism to appreciate the value of nature. A
 
 # Creatine
 
-#### Enhancing Mental Clarity and Physical Performance Through ATP
+*3 min read*
 
-Creatine has long been celebrated in the world of strength training and athletic performance, and research is now looking beyond muscle building.
+Creatine is best known for its role in strength training and athletic performance, but its importance in the body goes beyond muscle. It is a naturally occurring compound involved in cellular energy production, helping tissues meet their energy demands.
 
-> Evidence note: creatine has strong evidence for improving strength and high-intensity performance. Evidence for effects on memory, mood and the brain is emerging and still limited. At the heart of these benefits is its critical role in the production of adenosine triphosphate (ATP), the primary energy currency of our cells.
+While research into creatine and physical performance is extensive, scientists are increasingly exploring its potential role in brain function, healthy ageing and neurological health. Some findings are well established, while others are still emerging.
 
-#### Understanding ATP and Creatine's Role
+## What Does the Science Clearly Show?
 
-ATP is the molecule that powers nearly every cellular activity. Whether it's muscle contraction during intense exercise or supporting the firing of neurons in the brain, ATP provides the necessary energy to keep these systems operating effectively. When we engage in high-intensity activities—such as sprinting or heavy lifting—our muscles rapidly deplete their stored ATP. This is where creatine steps in.
+The strongest evidence for creatine relates to physical performance, particularly during short, intense bursts of activity.
 
-Stored in the muscles as phosphocreatine, creatine donates a phosphate group to adenosine diphosphate (ADP), rapidly regenerating ATP. This process is essential not only for prolonged physical exertion but also for maintaining peak mental performance during tasks that demand high cognitive effort.
+Creatine is stored predominantly in skeletal muscle, where it helps support rapid energy production. Research has consistently demonstrated several effects:
 
-**Mental Benefits: Cognitive Function and Neuroprotection**
+- **Strength and power:** Creatine supports performance during high-intensity activities such as weightlifting, sprinting and repeated explosive movements.
+- **Muscle development:** Research shows that creatine, alongside resistance training, can increase gains in strength and lean body mass compared with training alone.
+- **Exercise capacity:** It can help maintain performance across repeated bouts of intense exercise, allowing muscles to sustain effort.
+- **Age-related muscle function:** Studies in older adults suggest creatine combined with resistance exercise can improve strength and lean mass, potentially supporting mobility and physical function.
 
-While creatine's role in physical performance is well-documented, its impact on brain health is equally compelling. Neurons in the brain also rely on ATP for optimal function. With a high-energy demand, especially during tasks that require memory, reasoning, and quick decision-making, the brain benefits from the additional ATP provided by creatine supplementation. Studies have shown that creatine can help improve short-term memory and cognitive processing, particularly in situations where the brain is operating under stressful conditions or facing fatigue.
+These are among the most thoroughly researched effects of creatine, supported by a substantial body of clinical evidence.
 
-Moreover, creatine’s role in supporting energy metabolism may offer neuroprotective benefits. By helping maintain ATP levels in brain cells, creatine can potentially mitigate the effects of neurodegenerative processes, making it a promising supplement for long-term brain health. This energy boost can result in sharper focus, enhanced mood, and improved cognitive resilience in both everyday activities and during periods of intense mental strain.
+## What Is Exciting About the Emerging Research?
 
-Creatine’s dual impact on physical strength and mental clarity underscores its value as a holistic supplement. By enhancing ATP regeneration, it not only powers your muscles during intense workouts but also supports the dynamic energy needs of your brain. This efficient energy metabolism makes creatine a key ally for both athletes and anyone seeking to enhance their mental performance and resilience.
+The brain also contains creatine and has significant energy demands. This has prompted researchers to investigate whether creatine's role in cellular energy metabolism could have wider implications for cognitive and neurological health.
+
+### Cognitive Function and Memory
+
+Some studies suggest creatine may influence aspects of memory and cognitive performance. Findings have been particularly interesting in people with lower dietary creatine intake, such as vegetarians, and in situations involving sleep deprivation or mental fatigue.
+
+However, results are not consistent across all studies. It is not yet established that creatine improves everyday concentration, focus or memory in healthy adults generally.
+
+### Brain Health and Ageing
+
+Researchers are investigating whether creatine's involvement in cellular energy production could help maintain normal brain function as we age.
+
+Because brain cells rely heavily on energy to communicate and carry out their functions, maintaining effective energy metabolism is an important area of study. There is interest in whether creatine could have implications for age-related cognitive decline and neurological conditions.
+
+However, this research is still developing. There is currently insufficient evidence to conclude that creatine prevents or treats dementia, Parkinson's disease or other neurological disorders.
+
+### Mood and Mental Wellbeing
+
+Creatine has also attracted interest in research exploring depression and mental health. Some small clinical studies have investigated its potential role alongside conventional treatment, with early findings suggesting possible benefits.
+
+However, this is a developing area, and the evidence is limited. Creatine is not an established treatment for depression or other mental health conditions.
+
+## The Science Deep Dive: Creatine, ATP and Cellular Energy
+
+To understand why creatine is attracting interest across different areas of health, it helps to look at its role in energy production.
+
+Almost every process in the body relies on a molecule called adenosine triphosphate (ATP). Often described as the cell's energy currency, ATP provides the energy needed for muscle contraction, nerve signalling, cellular repair and many other essential functions.
+
+When a cell uses energy, ATP loses one of its phosphate groups and becomes adenosine diphosphate (ADP). The cell must then regenerate ATP to continue functioning.
+
+This is where creatine becomes important.
+
+Inside cells, creatine can be converted into phosphocreatine, which acts as a readily available energy reserve. Phosphocreatine donates its phosphate group to ADP, helping rapidly regenerate ATP when energy demand increases.
+
+This process is particularly important in tissues with high or fluctuating energy requirements, such as skeletal muscle and the brain.
+
+It helps explain why creatine has such a well-established role in high-intensity physical performance, while also providing a biological reason for researchers to investigate its potential effects on cognition and brain health.
+
+However, understanding how a biological mechanism works is not the same as demonstrating a clinical benefit. The potential wider applications of creatine remain an active area of research.
+
+## Important Disclaimer
+
+**This article is for general educational purposes only. It is not medical advice and should not be used to diagnose, treat or prevent any health condition.**
+
+Although creatine has been extensively studied, research findings do not mean that supplementation is necessary or suitable for everyone. Evidence for potential cognitive, neurological and mental health benefits remains limited.
+
+Anyone considering a supplement, particularly those with an existing medical condition or taking medication, should discuss this with a qualified healthcare professional. Never stop, reduce or change prescribed medication based on information in this article.
+
+## The Bigger Picture
+
+Creatine offers an interesting example of how a compound involved in a fundamental biological process can have effects across different tissues.
+
+Its role in muscle energy and physical performance is well established. Its potential contribution to brain function and healthy ageing is more exploratory, but provides some fascinating questions for future research.
+
+As scientists learn more about cellular energy metabolism, creatine may continue to offer valuable insights into the relationship between energy, physical performance and wider human health.
 
 # Cultured Foods
 
@@ -1132,7 +1106,6 @@ _Disclaimer: This article is for educational purposes only and should not be con
 
 #### Understanding everyday chemical exposures
 
-> Evidence note: the main concern is chemicals such as BPA and phthalates migrating from plastic into food, which increases with heat, fatty foods and scratched or old containers. Regulators set limits on these chemicals; the strongest evidence of harm comes from animal and population studies, and the long-term effects at everyday levels in people are still being researched. Simple steps such as not microwaving food in plastic reduce exposure at little cost.
 
 We are exposed to thousands of chemicals through the food we eat, the water we drink, the products we use and the environment around us. While not every chemical exposure is harmful, the growing number of substances we encounter daily raises important questions about their potential effects on long-term health.
 
@@ -1254,6 +1227,8 @@ Small changes, repeated consistently, can help us create a healthier environment
 
 **Sometimes, protecting our health starts with simply questioning the things we have come to regard as normal.**
 
+
+> Evidence note: the main concern is chemicals such as BPA and phthalates migrating from plastic into food, which increases with heat, fatty foods and scratched or old containers. Regulators set limits on these chemicals; the strongest evidence of harm comes from animal and population studies, and the long-term effects at everyday levels in people are still being researched. Simple steps such as not microwaving food in plastic reduce exposure at little cost.
 # Food Additives and Gut Health
 
 #### Looking beyond calories to understand what we are feeding our microbiome
@@ -1978,105 +1953,144 @@ This article is intended for educational purposes only and should not be conside
 
 # Mental Wellbeing
 
-Mental resilience and clarity come from an intentional combination of breathwork, nutrition, and lifestyle habits that support the brain and nervous system. My daily practices help me cultivate focus, reduce stress, and maintain emotional balance. Here’s how I prioritise mental well-being every day.
+*Our mental wellbeing is closely connected to our physical health. Discover how everyday habits — from quality sleep and nourishing food to movement, daylight and human connection — can support a healthier mind and body.*
 
-#### The Art of Doing Nothing
+## Mental Wellbeing Starts With the Whole Body
 
-> "Il dolce far niente"
+When we think about mental wellbeing, we often focus on our thoughts, emotions and mindset. But our brains don't operate independently from the rest of the body. They are constantly responding to signals from our nervous system, hormones, immune system, gut and surrounding environment.
 
-When was the last time you genuinely did nothing? Not watched something, listened to something, scrolled through your phone or filled the silence with some other form of stimulation, but simply sat and allowed your mind to wander. We have become so accustomed to constant entertainment and information that doing nothing can feel strangely uncomfortable. Yet those quiet moments give us something that constant stimulation cannot: space to think, reflect, daydream and simply be.
+Sleep, nutrition, movement, daylight and relationships all play a part in how we feel, think and respond to stress.
 
-Doing nothing isn't wasted time, nor does every moment need to be productive. Sometimes stepping away from the noise allows our minds to process what has happened, make connections and come up with ideas we didn't know we were looking for. So perhaps we should practise doing nothing a little more often. Sit with a cup of tea, look out of the window, take a walk without your phone or simply allow yourself to be bored. You might be surprised by what happens when you stop giving your mind something to do.
+There is no single supplement, breathing technique or wellness routine that can replace these foundations. Sometimes, supporting mental wellbeing means returning to the basics and giving our bodies what they need to function well.
 
-#### Creatine & Omega-3
+## The Foundations of Mental Wellbeing
 
-**Fuel for Cognitive Function, Brain Health, and Mental Resilience**
+### 1. Prioritise Quality Sleep
 
-Creatine and omega-3 fatty acids are involved in processes relevant to brain and cellular function. Researchers are investigating whether supplementation may benefit certain groups, but evidence for routine cognitive or mood benefits in healthy adults is mixed. A balanced diet remains the foundation.
+Sleep is one of the most important foundations of mental and physical health. During sleep, the brain processes information, consolidates memories and regulates emotional responses. Poor or insufficient sleep can affect concentration, mood, motivation and our ability to manage stress.
 
-#### Creatine and the Brain
+**What could help?**
+- Aim for a consistent sleep and wake time.
+- Get natural daylight during the morning.
+- Reduce bright light and screen use towards bedtime.
+- Keep your bedroom cool, dark and comfortable.
+- Be mindful of caffeine and alcohol, which can disrupt sleep.
 
-Often associated with athletic performance, creatine also plays a role in brain energy metabolism. The brain requires vast amounts of ATP, and creatine supports ATP production. Evidence for effects on mental endurance and cognition is emerging and still limited.
+Good sleep isn't simply about the number of hours spent in bed. Quality, consistency and how refreshed you feel also matter.
 
-#### Omega-3: Essential Fatty Acids for Brain and Emotional Health
+### 2. Disconnect From Devices and Make Space for Stillness
 
-Evidence: good for heart health markers such as triglycerides; mixed for mood and cognition in healthy adults.
+We are constantly exposed to information, notifications and stimulation. Even when we're relaxing, we may be scrolling, watching or listening to something.
 
-Omega-3 fatty acids are important components of cell membranes, including in the brain, and are involved in signalling pathways related to inflammation. Research has explored possible links with mood and cognitive health, but supplementation has not been shown to reliably improve neurotransmitter function or treat mood disorders.
+When was the last time you genuinely did nothing?
 
-#### Probiotics & Fermented Foods
+The Italian expression *il dolce far niente* translates as the sweetness of doing nothing. It captures the value of allowing ourselves to pause without feeling the need to be productive.
 
-**Gut-Brain Connection and Emotional Well-being**
+Quiet moments can give us space to reflect, daydream and process experiences. Taking a walk without your phone, sitting with a cup of tea or simply looking out of the window can offer a welcome break from constant stimulation.
 
-The gut and brain communicate through neural, immune, hormonal and metabolic pathways. Gut microbes can produce or modify compounds involved in these processes, although their precise role in human mental wellbeing is still being established.
+It isn't about avoiding technology altogether, but creating a healthier relationship with it.
 
-I supplement with probiotics and regularly consume fermented foods to nourish my gut microbiome. Here are some key staples:
+### 3. Nourish Your Brain With Good Food
 
-- **Kimchi & Sauerkraut** – Fermented vegetables that add variety to the diet; their effects on mental wellbeing are still being investigated.
-- **Kefir & Yogurt** – Live-culture foods that add variety to the diet, although eating them has not been shown to reduce anxiety or depression.
-- **Kombucha** – A fermented tea I enjoy; its composition varies between products and there is not enough evidence to say it improves mental clarity.
-I enjoy including these foods as part of a varied diet, without treating them as a proven route to emotional stability or sharper thinking.
+The brain is an energy-demanding organ, relying on a steady supply of nutrients to support its structure and function. A varied diet containing vegetables, fruit, whole grains, quality protein, healthy fats, nuts and seeds provides many of the nutrients involved in brain health.
 
-#### Cold Showers
+Omega-3 fatty acids are particularly interesting because they contribute to the structure of brain cell membranes and are involved in cell signalling. Oily fish, such as salmon, sardines and mackerel, are useful dietary sources.
 
-**Harnessing Discomfort for Mental Resilience and Focus**
+You can explore this in more detail in our article on [Omega-3 and its role in health](https://wellnous.lovable.app/articles/omega-3).
 
-Cold exposure isn't just beneficial for physical recovery—it’s an incredible tool for sharpening mental resilience.
+Rather than focusing on individual superfoods or supplements, the overall quality and variety of your diet are a good place to start.
 
-Taking cold showers or immersing in cold water stimulates:
+### 4. Look After Your Gut
 
-- **Noradrenaline Release** – Cold exposure can raise noradrenaline, which may contribute to the alertness many people report; responses vary and longer-term effects are still being studied.
-- **Controlled Discomfort Training**– Strengthens my ability to remain calm under stress, making challenges in daily life feel more manageable.
-- **Circulation Response** – Cold exposure temporarily changes blood flow, heart rate and blood pressure; this does not establish lasting improvements in circulation or cognitive function.
-By consistently exposing myself to cold, I train my nervous system to handle discomfort with greater ease. This daily practice fosters resilience, discipline, and a heightened mental edge.
+The gut and brain are in constant communication through what is known as the gut-brain axis. This involves neural pathways, immune signals, hormones and chemicals produced or modified by gut microbes.
 
-#### Sleep
+The gut microbiome — the community of microorganisms living in our digestive system — is an increasingly interesting area of mental health research.
 
-**Quality sleep is the cornerstone of mental well-being.**
+Eating a varied, fibre-rich diet can help support a diverse gut microbiome. Fermented foods such as live-culture yoghurt, kefir, kimchi and sauerkraut can also add variety.
 
-By prioritising sleep hygiene and supporting relaxation, I ensure my brain gets the restoration it needs for peak performance.
+These foods are not treatments for anxiety or low mood, but they can form part of a dietary pattern that supports general health.
 
-Some strategies include:
+### 5. Get Outside and Enjoy Natural Daylight
 
-• Morning sunlight exposure kickstarts your circadian rhythm and regulates melatonin production.
+Light does much more than help us see. Natural daylight helps regulate our circadian rhythm — the internal body clock that influences sleep, hormones, alertness and other biological processes.
 
-• Sunset exposure reinforces your sleep-wake cycle and aids relaxation.
+Getting outside during the day, particularly in the morning, helps provide a strong timing signal to the body. It can also encourage movement and give us a break from indoor environments.
 
-• Dimming evening light supports natural melatonin release.
+Sunlight also enables the skin to produce vitamin D, which plays important roles in bone health, muscle function and immune regulation. Vitamin D receptors are found in the brain, and researchers are investigating possible links between vitamin D status and mental health.
 
-• Herbal remedies like chamomile help ease stress and enhance sleep.
+However, evidence that vitamin D supplements improve mood in people who already have adequate levels remains mixed. Correcting a deficiency is important for health, but taking more is not necessarily better.
 
-• Magnesium and L-theanine promote physical and mental relaxation.
+Enjoy daylight sensibly, without seeking excessive sun exposure or allowing your skin to burn.
 
-• A consistent bedtime routine strengthens your body’s natural rhythms.
+### 6. Move Your Body
 
-• Avoiding caffeine and alcohol near bedtime prevents sleep disturbances.
+Exercise is one of the most well-established ways to support both physical and mental wellbeing.
 
-#### Breathing
+Movement can influence mood, sleep, stress regulation and brain function. Physical activity is also associated with better cognitive health over time.
 
-**Physiological Sigh and Cyclic Hyperventilation for Nervous System**
+It doesn't need to mean intense training. Walking, cycling, swimming, strength training, yoga or dancing all offer ways to move.
 
-Breathwork is one practical way to influence mental clarity, emotional balance, and stress resilience. I use two specific techniques:
+The most useful activity is often the one you enjoy and can maintain. A combination of cardiovascular movement, strength work and activities that challenge balance and coordination can support different aspects of health.
 
-- **Physiological sigh** – A double inhale followed by a longer exhale. Slow, controlled breathing can influence arousal and may help some people feel calmer, although responses vary.
-- **Cyclic hyperventilation** – Rounds of faster breathing followed by breath holds. This changes carbon dioxide levels rather than improving oxygen delivery, and can cause dizziness or fainting, so never practise it in water, while driving or anywhere losing consciousness would be dangerous.
-These techniques allow me to shift my mental state in moments, whether preparing for a deep work session or calming my mind before sleep.
+### 7. Make Time for Human Connection
 
-#### Walking Barefoot
+Mental wellbeing isn't just an individual pursuit. Our relationships and sense of belonging are important parts of health.
 
-**Grounding for Stress Reduction and Mental Clarity**
+Spending time with friends, family and community can provide emotional support, shared experiences and a sense of purpose. Even small interactions — a conversation with a neighbour, meeting a friend for a walk or sharing a meal — can help us feel more connected.
 
-Barefoot walking isn’t just a physical practice—I find it a deeply grounding experience. Walking on safe natural surfaces gives rich sensory feedback and gentle movement; I enjoy it, but claims that contact with the earth reduces inflammation or stress hormones need stronger clinical evidence. Whether I walk barefoot outdoors or stand on natural surfaces, this practice keeps me centred and connected.
+In a world where so much communication happens through screens, making time for face-to-face connection can be especially valuable.
 
-#### Adaptogens
+## Deep Dive: The Science Behind Mental Wellbeing
 
-**Stress Management and Mental Clarity**
+The foundations above may seem simple, but they influence some of the body's most important biological systems.
 
-Ashwagandha is one of the herbs marketed as an adaptogen and studied for possible effects on stress. Small studies suggest it may help perceived stress in some people, but evidence varies by preparation and it has not been shown to balance hormones. Supplements can also interact with medicines.
+### The Gut-Brain Connection
 
-Meanwhile, certain mushroom compounds are being investigated for possible effects on inflammation and nerve signalling. Much of this research is preliminary, and it is not yet possible to say that mushroom supplements improve neurogenesis or emotional stability in people.
+The gut communicates with the brain through several interconnected pathways. The vagus nerve provides a direct neural link, while immune signals and microbial metabolites also contribute to communication between the two.
 
-Incorporating these into my routine—whether through teas, extracts, or whole-food supplements—is a personal choice rather than an established foundation for brain function or emotional stability.
+Gut bacteria can produce substances such as short-chain fatty acids from dietary fibre. These compounds are involved in gut health, immune regulation and metabolic signalling.
+
+Researchers are exploring how changes in the microbiome may relate to stress, mood and neurological function. The field is promising, but it is still developing: we don't yet know whether specific foods or probiotic supplements can reliably improve mental health.
+
+### Omega-3 and Brain Cell Function
+
+The omega-3 fatty acid DHA is an important structural component of brain cell membranes. EPA and DHA are also involved in signalling pathways associated with inflammation and cell function.
+
+Research has investigated omega-3 supplementation in relation to mood, cognition and brain health. Some findings are encouraging in particular groups, but results vary depending on the population, dose and type of omega-3 used.
+
+Eating oily fish regularly can help provide these essential fats. Supplementation may be worth exploring in some circumstances, but it isn't a universal solution for mental wellbeing.
+
+### Sleep, Stress and the Nervous System
+
+The nervous system continually balances alertness and recovery. The sympathetic nervous system helps us respond to demands, while parasympathetic activity supports rest and recovery.
+
+Sleep, breathing practices and physical activity can all influence this balance. Chronic sleep disruption and prolonged stress can make emotional regulation more difficult, while restorative routines may help us recover.
+
+Slow breathing, for example, can influence heart rate variability (HRV), the natural variation in time between heartbeats. This is one reason breathing exercises are being studied for their potential role in stress management.
+
+## What About Natural Supplements?
+
+Once the foundations of good sleep, nutrition, movement and daily routines are in place, there may be some natural supplements worth exploring.
+
+Nutrients such as omega-3 and vitamin D, for example, may be relevant where dietary intake is low or a deficiency exists. Other compounds, including certain probiotics and herbal preparations, are being researched for their potential effects on stress, mood and cognitive health.
+
+The evidence varies considerably, and a supplement that may help one person isn't necessarily appropriate or beneficial for another. More isn't always better, and natural doesn't automatically mean safe.
+
+The best approach is to understand what you're taking, why you're taking it and whether there is good evidence to support its use.
+
+## Bringing It All Together
+
+Mental wellbeing isn't built through one perfect routine or a collection of supplements. It develops through the interaction of many everyday factors: how we sleep, what we eat, how often we move, the light we experience, the time we spend away from screens and the relationships we maintain.
+
+The science of the gut-brain axis, omega-3 and the nervous system offers fascinating insights into how the body and brain work together. But these areas should complement, rather than distract from, the foundations.
+
+Perhaps the most useful place to start is also the simplest: get outside, move regularly, eat well, protect your sleep, make time for people you care about and allow yourself moments to do nothing.
+
+Sometimes, going back to basics is one of the most meaningful ways to look after your mind.
+
+## Important Note
+
+This article is intended for general educational purposes and is not a substitute for individual medical advice, diagnosis or treatment. Mental health concerns deserve appropriate support from a qualified healthcare professional. Always consult your doctor or pharmacist before starting a new supplement, particularly if you have an existing health condition or take medication. Never stop, reduce or change prescribed medication without first discussing it with your doctor.
 
 # Mitochondrial Health
 
@@ -2493,112 +2507,98 @@ Rather than searching for a single cure or miracle supplement, I believe the mos
 
 **Ultimately, protecting our mitochondria means protecting the energy systems that allow our cells – and therefore our bodies – to function, recover and thrive.**
 
-# Nac
-
-N-acetylcysteine, better known as NAC, is a form of the amino acid cysteine. It has been used in medicine for decades as a treatment for paracetamol overdose and as a mucolytic to help clear thick respiratory secretions. Increasingly, however, NAC is being recognised for its wider role in antioxidant defence, respiratory health and cellular resilience.
-
-### Supporting the body’s master antioxidant
-
-One of NAC’s most important roles is supplying cysteine for the production of glutathione, one of the body’s principal intracellular antioxidants. Glutathione helps neutralise reactive oxygen species, protect cellular structures and maintain the delicate balance between oxidation and reduction within the body.
-
-NAC also possesses a sulphur-containing thiol group, written chemically as –SH. This allows it to participate directly in redox reactions and helps explain both its antioxidant and mucus-thinning properties. Rather than acting as a simple standalone antioxidant, NAC supports the body’s own antioxidant network by restoring the building blocks needed to make glutathione.
-
-### Why NAC can help with thick mucus
-
-Respiratory mucus contains large proteins called mucins, which are linked together by disulphide bonds. These molecular bridges contribute to the thickness and elasticity of mucus.
-
-The free thiol group in NAC can disrupt or rearrange these disulphide bonds. This makes mucus less thick and sticky, allowing it to be cleared more easily through coughing and the normal movement of tiny hair-like structures called cilia. This may be particularly useful when a cold or respiratory infection produces a congested, productive cough.
-
-It is important to clarify that disulphide bonds are not themselves antioxidants. NAC’s antioxidant action comes from its redox-active thiol group and its ability to replenish glutathione, while its interaction with disulphide bonds explains its mucolytic action.
-
-### A different approach during cold and flu season
-
-NAC is not a cure for colds or influenza, and the evidence for routinely using it to prevent uncomplicated seasonal infections remains limited. Its potential value lies in supporting the environment in which recovery takes place.
-
-Unlike medicines that simply lower temperature, reduce pain or constrict nasal blood vessels, NAC works primarily by supporting antioxidant capacity and helping the respiratory system clear secretions. It may therefore be particularly relevant when thick mucus, chest congestion or a productive cough are prominent symptoms.
-
-This does not make NAC a direct replacement for paracetamol or a decongestant. These medicines perform different jobs. NAC offers a more supportive role by working with mucus clearance rather than simply masking discomfort.
-
-### Is NAC safe?
-
-Oral NAC generally has a favourable safety profile. Reviews of respiratory studies have found NAC to be well tolerated across a range of doses, although taking more does not necessarily produce a greater benefit.
-
-Anyone with asthma, a history of stomach ulcers or a bleeding disorder should seek individual advice before taking NAC. It may also interact with certain medicines, including nitrate treatments used for angina. Advice from a pharmacist or clinician is sensible during pregnancy or breastfeeding, before giving NAC to a child, or when taking regular medication.
-
-### Conclusion
-
-NAC is more than a conventional antioxidant supplement. By supplying cysteine for glutathione production and using its thiol group to interact with disulphide bonds in mucus, it supports two important processes at once: cellular antioxidant defence and respiratory clearance.
-
-The strongest evidence supports its established mucolytic use and its role in specific respiratory conditions. Its benefits for general health is best regarded as a potentially useful support rather than a cure-all. Used appropriately, NAC offers a practical example of supporting the body’s own protective systems instead of merely silencing symptoms.
-
-- Calverley P, Rogliani P, Papi A. _Safety of N-acetylcysteine at high doses in chronic respiratory diseases: a review._ Drug Safety. 2021;44:273–290. [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC7892733/), [link.springer.com](https://link.springer.com/article/10.1007/s40264-020-01026-y)
-
-## References
-
-- Barne M, et al.N-acetylcysteine: evidence-based consensus document on the therapeutic advantages in respiratory diseases.Frontiers in Medicine. 2026;13:1810363.[frontiersin.org],[pmc.ncbi.nlm.nih.gov]Mokra D, et al.Advances in the use of N-acetylcysteine in chronic respiratory diseases.Antioxidants. 2023;12(9):1713.[mdpi.com]Calverley P, Rogliani P, Papi A.Safety of N-acetylcysteine at high doses in chronic respiratory diseases: a review.Drug Safety. 2021;44:273–290.[pmc.ncbi.nlm.nih.gov],[link.springer.com]
-- Barne M, et al.N-acetylcysteine: evidence-based consensus document on the therapeutic advantages in respiratory diseases.Frontiers in Medicine. 2026;13:1810363.[frontiersin.org],[pmc.ncbi.nlm.nih.gov]
-- Mokra D, et al.Advances in the use of N-acetylcysteine in chronic respiratory diseases.Antioxidants. 2023;12(9):1713.[mdpi.com]
-- Calverley P, Rogliani P, Papi A.Safety of N-acetylcysteine at high doses in chronic respiratory diseases: a review.Drug Safety. 2021;44:273–290.[pmc.ncbi.nlm.nih.gov],[link.springer.com]
-- Barne M, et al. _N-acetylcysteine: evidence-based consensus document on the therapeutic advantages in respiratory diseases._ Frontiers in Medicine. 2026;13:1810363. [frontiersin.org](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1810363/full), [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13180745/)
-- Mokra D, et al. _Advances in the use of N-acetylcysteine in chronic respiratory diseases._ Antioxidants. 2023;12(9):1713. [mdpi.com](https://www.mdpi.com/2076-3921/12/9/1713)
-
 # Omega 3
 
-#### Essential Fatty Acids for Brain and Emotional Health
+*3 min read*
 
-Omega-3 fatty acids have long been recognised for their profound impact on human health, influencing everything from cardiovascular function to brain performance.
+Omega-3 fatty acids are essential nutrients that play an important role in the health of the brain, heart and wider body. They contribute to the structure of our cells and help regulate processes involved in inflammation, circulation and normal nervous system function.
 
-Unlike many other nutrients, omega-3s play both a structural and functional role, making them critical for physiological resilience, cognitive health, and emotional balance.
+Despite their importance, many people don't get enough omega-3 through their diet. Understanding the different types, how they work and where to find them can help us make more informed choices about supporting long-term health.
 
-Research has even explored their effectiveness compared to pharmaceutical antidepressants like Prozac (fluoxetine) in treating depression—suggesting that omega-3 supplementation might provide a natural alternative or complement to traditional mental health treatments.
+## Understanding the Different Types of Omega-3
 
-**Health Benefits – Supporting Long-Term Well-Being**
+There are three main types of omega-3 fatty acids:
 
-Omega-3s, primarily EPA (eicosapentaenoic acid) and DHA (docosahexaenoic acid), are essential for maintaining core body functions. The body cannot synthesise them adequately, meaning they must come from dietary sources such as fatty fish (salmon, mackerel, sardines), flaxseeds, chia seeds, and algae-based supplements.
+- **EPA (eicosapentaenoic acid):** involved in cell signalling and the regulation of inflammatory processes.
+- **DHA (docosahexaenoic acid):** an important structural component of cell membranes, particularly in the brain and retina.
+- **ALA (alpha-linolenic acid):** found mainly in plant foods. It is essential in the diet, although the body converts only small amounts into EPA and DHA.
 
-Key Health Benefits:
+EPA and DHA are found primarily in oily fish and marine sources, while ALA is found in foods such as flaxseeds, chia seeds and walnuts.
 
-- **Heart Health**: Omega-3s lower triglycerides, reduce blood pressure, and improve vascular function.
-- **Anti-Inflammatory Effects**: They help regulate inflammation, which plays a role in autoimmune diseases, arthritis, and chronic pain conditions.
-- **Joint and Muscle Recovery:** Athletes and those with inflammatory disorders report less stiffness and soreness when supplementing omega-3s.
-- **Immune Support:** Omega-3s strengthen immune function and help regulate the balance between pro-inflammatory and anti-inflammatory pathways.
-**Physiological Benefits – Omega-3’s Role in Cellular and Neural Health**
+## Health Benefits: Supporting the Body
 
-Every cell in the body relies on omega-3s for optimal function, particularly those within the nervous system. DHA, in particular, is highly concentrated in the brain and retina, influencing cellular signalling, nerve conduction, and synaptic plasticity.
+Omega-3s contribute to several important physiological processes:
 
-#### How Omega-3s Work at the Physiological Level:
+- **Heart health:** EPA and DHA can help lower blood triglyceride levels, particularly at higher doses. Their effects on wider cardiovascular health vary depending on the individual and the preparation used.
+- **Inflammation:** They help regulate the production of signalling molecules involved in the body's inflammatory response and its natural resolution.
+- **Brain and nervous system:** DHA is highly concentrated in the brain and supports the structure and normal function of nerve cell membranes.
+- **Eye health:** DHA is an important component of the retina and contributes to normal visual function.
+- **Joint health:** Some studies suggest omega-3 supplementation may modestly improve joint discomfort and stiffness, particularly in people with rheumatoid arthritis, although results vary.
 
-- **Cell Membrane Integrity**: Omega-3s integrate into cell membranes, improving fluidity and function, ensuring efficient communication between cells.
-- **Neuroprotection & Synaptic Growth:** DHA enhances neuronal structure, facilitating memory formation and cognitive processing.
-- **Regulating Neurotransmitters**: Omega-3s influence neurotransmitter function—particularly dopamine and serotonin, both essential for mood regulation.
-- **Reducing Neuroinflammation:** Chronic inflammation is implicated in neurodegenerative diseases, and omega-3s help lower markers of brain inflammation linked to conditions such as Alzheimer’s.
-In essence, omega-3s help the brain stay young, sharp, and adaptable—a crucial factor in preventing cognitive decline and maintaining mental acuity throughout life.
+## Omega-3: Supporting the Body's Natural Inflammatory Response
 
-**Mental Health Benefits – Omega-3 as a Natural Antidepressant**
+Inflammation is a natural and essential part of the body's defence and repair systems. It helps us respond to injury, infection and physical stress. Problems can arise when inflammatory activity becomes excessive or persists for too long.
 
-#### Omega-3 vs. Prozac: A Fascinating Comparison
+EPA and DHA play an interesting role here. Rather than simply switching inflammation off, they help regulate the body's response and support the processes involved in bringing it towards resolution.
 
-In a groundbreaking study published in the Archives of General Psychiatry, researchers compared omega-3 fatty acid supplementation to Prozac (fluoxetine) in patients with major depressive disorder (MDD).
+They do this in several ways:
 
-The findings were striking:
+- **Regulating inflammatory signals:** EPA and DHA influence the production of signalling molecules called eicosanoids, which help coordinate inflammatory responses.
+- **Supporting inflammation resolution:** They are used to produce specialised compounds called resolvins, protectins and maresins. These help coordinate the body's natural processes for resolving inflammation.
+- **Influencing cell membranes:** By becoming incorporated into cell membranes, omega-3s can change how cells respond to inflammatory signals.
+- **Supporting immune regulation:** They help regulate aspects of immune cell activity and the balance of inflammatory responses.
 
-- Patients receiving high-dose omega-3 (EPA) showed significant reductions in depression symptoms, comparable to those taking Prozac.
-- When omega-3 and Prozac were combined, the therapeutic effects were even greater than Prozac alone.
-- Unlike Prozac, omega-3 supplementation had minimal side effects, making it a promising adjunct treatment.
+This is particularly interesting because persistent, low-grade inflammation is being investigated in relation to a range of long-term health conditions.
 
-#### Mental Health Mechanisms:
+Clinical research has found benefits in certain areas, including reduced triglyceride levels and modest improvements in symptoms associated with rheumatoid arthritis. Some studies have also found reductions in inflammatory markers, although results are mixed and depend on the population and dose studied.
 
-- Serotonin Regulation: Omega-3s enhance serotonin receptor function, improving mood stability.
-- Lowering Inflammation: Depression has been linked to systemic inflammation, and omega-3s work as natural anti-inflammatory agents.
-- Reducing Anxiety Symptoms: EPA supplementation decreases stress hormone levels, promoting emotional balance.
-While more research is needed, these findings suggest that omega-3 supplementation could serve as a natural, complementary treatment for mood disorders, offering relief without the side effects of pharmaceutical interventions.
+Omega-3 is therefore better understood as an inflammation-modulating nutrient than a general-purpose anti-inflammatory treatment.
 
-### Best Sources
-- Fatty fish (salmon, mackerel, sardines)
-- Chia seeds and flaxseeds (ALA, which can convert to EPA/DHA in small amounts)
-- Algae-based supplements (ideal for plant-based diets)
-- A good quality supplement
-Always consult a healthcare professional before making significant dietary changes, especially when using high-dose omega-3s for mood-related benefits.
+## How Omega-3s Work at a Cellular Level
+
+Omega-3s do more than provide energy. They become incorporated into the membranes surrounding our cells, helping maintain the structure and flexibility needed for cells to function and communicate.
+
+DHA is particularly important in the nervous system, where it contributes to the membranes of brain cells and supports normal neural function. EPA and DHA also influence the production of specialised molecules involved in regulating inflammation.
+
+These processes help explain why omega-3s are considered important for maintaining healthy tissues and supporting normal cellular activity throughout the body.
+
+However, getting enough omega-3 to support normal function does not mean that taking additional supplements will necessarily provide extra benefits if dietary intake is already adequate.
+
+## Best Dietary Sources
+
+Oily fish is one of the richest dietary sources of EPA and DHA. Useful options include:
+
+- Salmon
+- Mackerel
+- Sardines
+- Herring
+- Anchovies
+
+Plant foods such as flaxseeds, chia seeds and walnuts provide ALA. Although the body can convert some ALA into EPA and DHA, this conversion is limited.
+
+For those who don't eat fish, algae-based supplements can provide a direct source of EPA and DHA.
+
+A varied, balanced diet is generally a good starting point. Whether supplementation is worthwhile depends on dietary intake, individual needs and health circumstances.
+
+## Should You Consider a Supplement?
+
+Omega-3 supplements can be useful for people who don't regularly eat oily fish or have a specific clinical reason to increase their intake. However, more is not necessarily better, and different products can vary considerably in their EPA and DHA content.
+
+High-dose omega-3 preparations are sometimes used under medical supervision to manage elevated triglycerides. These are different from ordinary over-the-counter fish oil supplements.
+
+**Always speak with a doctor or pharmacist before starting a new supplement**, particularly if you take medication, have an existing health condition or are considering higher doses. Omega-3 supplements can interact with some medicines, including anticoagulants, and may increase bleeding risk in certain circumstances.
+
+## Important Disclaimer
+
+**This article is intended for general educational purposes only. It is not medical advice and should not be used to diagnose, treat or prevent any health condition.**
+
+Nutritional supplements are not a substitute for medical care or prescribed medication. Never stop, reduce or change prescribed treatment based on information in this article. Always discuss changes to medication or treatment with your healthcare professional.
+
+The fact that a supplement is natural does not automatically make it safe or suitable for everyone.
+
+## The Takeaway
+
+Omega-3 fatty acids are essential building blocks for the body, supporting
 
 # Physical Wellbeing
 
@@ -3444,90 +3444,6 @@ If sleep difficulties are persistent or affecting daily life, it is worth seekin
 - [L-theanine and sleep: A systematic review and meta-analysis (2025)](https://pubmed.ncbi.nlm.nih.gov/40056718/)
 - [The effect of caffeine on subsequent sleep: A systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/36870101/)
 
-# Supplements %26 Adaptogens
-
-## Supplements I use, and what the evidence says
-
-> These are supplements I personally take — not endorsements or medical advice. Evidence strength varies widely between them, so speak to your GP or pharmacist before starting anything new.
-
-#### Creatine Supplementation
-
-Fuelling Strength, Brain Function, and Energy
-
-Evidence: strong for strength and high-intensity performance; emerging and limited for the brain.
-
-Creatine is often associated with athletic performance. It supports ATP energy production and recovery, and early research is exploring possible effects on cognition and age-related cognitive decline.
-
-I take this daily and feel it makes me feel more energised.
-
-#### Collagen & Hyaluronic Acid
-
-Supporting Skin, Joint, and Connective Tissue Health
-
-Evidence: some small studies suggest benefits for skin hydration and joint comfort; results are modest and many studies are industry-funded.
-
-Collagen and hyaluronic acid are key structural parts of skin, joints and connective tissues.
-
-Did you know there was an entire new body organ discovered, called the Interstitium? These are a series of collagen supported passageways throughout your body to transport nutrients and cells. Collagen is also a main component of Skin, Joints and your thoracic artery.
-
-We can’t make the components of collagen or hyaloronic acid, so consuming them is key. As we largely do not eat organ meant any more, it is hard to obtain these compounds. Some small studies suggest supplements may help skin and joints, though the evidence is still limited.
-
-I obtain these compounds through bone broths, collagen and hyaluronic acid supplements, and foods rich in amino acids that support natural collagen production.
-
-#### NAC
-
-Strengthening Cellular Health with a Potent Antioxidant
-
-Evidence: well established as a medicine (mucolytic and for paracetamol overdose); evidence as an everyday wellness supplement is limited.
-
-N-acetyl cysteine (NAC) plays a role in detoxification, respiratory health, and immune function.
-
-This powerful antioxidant supports glutathione production, combats oxidative stress, and enhances overall cellular protection, making it part of my wellness routine when I am feeling rundown.
-
-I take these supplements during flu season and if I feel the start of a cold.
-
-It is also an effective mucolytic, so possibly a gentler addition to your cold and flu cabinet than typical decongestants like Sudafed.
-
-#### Omega-3
-
-Essential Fatty Acids for Brain and Emotional Health
-
-Evidence: good for heart health markers such as triglycerides; mixed for mood and cognition in healthy adults.
-
-Omega-3 fatty acids are important for brain development, cognitive function, and emotional regulation.
-
-#### Ashwagandha
-
-Evidence: small, short trials with mixed results, most promising for stress and sleep.
-
-Ashwagandha (\*Withania somnifera\*) is one of the most researched adaptogens, thought to help the body manage stress by regulating cortisol, the primary stress hormone.
-
-\- Modulates the hypothalamic-pituitary-adrenal (HPA) axis, supporting balanced cortisol levels.
-
-\- Enhances GABAergic activity, helping calm the nervous system.
-
-\- May help with chronic stress and fatigue in some people.
-
-#### Medicinal Mushrooms
-
-Certain mushroom compounds are being investigated for possible effects on inflammation and nerve signalling. Much of this research is preliminary, mainly from laboratory and animal studies:
-
-· **Lion’s Mane** – Stimulates nerve growth factor (NGF), promoting cognitive clarity, memory retention, and overall brain health.
-
-· **Reishi** – Known as the "mushroom of immortality," reishi supports the immune system, reduces stress, and enhances sleep quality by calming the nervous system.
-
-· **Cordyceps** – Increases energy production and oxygen utilization, making it beneficial for mental endurance and stress resilience.
-
-· **Chaga** – A powerful antioxidant that protects against oxidative stress, helping to reduce mental fatigue and support long-term brain health.
-
-#### Magnesium & L-Theanine
-
-Quality sleep is the cornerstone of mental well-being.
-
-I optimise my rest with magnesium, which aids in muscle relaxation and nervous system recovery, and L-theanine, an amino acid that promotes calmness without sedation.
-
-By prioritising sleep hygiene and supporting relaxation, I ensure my brain gets the restoration it needs for peak performance.
-
 # Wellnous Kombucha
 
 ## Traditionally Brewed. Unpasteurised. Full of Life.
@@ -4355,10 +4271,7 @@ The practice can also feel meditative. Following the rhythm of the rope encourag
 
 Movement practitioner **Lawrence van Lingen** explores this idea through his approach to movement, emphasising relaxed, fluid patterns that begin around the body's centre and connect the hips, spine and limbs.
 
-You can explore his approach here:
-- [Lawrence van Lingen – Flow Rope](https://lawrencevanlingen.com/pages/flow-rope)
-- [Feel Better, Live More podcast](https://pod.wave.co/podcast/feel-better-live-more-with-dr-rangan-chatterjee/from-stiffness-to-stillness-how-to-reset-your-body-soothe-your-mind-and-reclaim--a6c72ce7)
-- [Relaxed Running podcast](https://podcasts.apple.com/us/podcast/236-lawrence-van-lingen-creating-movement-patterns/id1481743845?i=1000660386989)
+You can explore flow rope on YouTube, where there are many beginner demonstrations to follow.
 
 **How to explore it:** Begin with a lightweight rope and simple movements, such as a relaxed figure-eight pattern. Focus on smooth, comfortable movement rather than speed or complexity. Allow the hips and torso to move naturally, without forcing rotation.
 
