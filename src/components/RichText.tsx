@@ -2,6 +2,7 @@ import { Link } from "@tanstack/react-router";
 import { articles } from "@/data/articles";
 
 function internalSlug(url: string) {
+  if (url.startsWith("/articles/")) return articles.find((a) => a.slug === url.slice(10))?.slug ?? url.slice(10);
   if (!url.startsWith("https://wellnous.godaddysites.com/")) return undefined;
   const path = decodeURIComponent(url.split("/").at(-1) ?? "").toLowerCase();
   const aliases: Record<string, string> = { "what-is-a-scoby": "cultured-foods", "feeding-your-body": "feeding-your-body", "supplements-&-adaptogens": "supplements-and-adaptogens" };

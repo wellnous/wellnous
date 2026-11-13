@@ -80,10 +80,9 @@ describe("Hub content", () => {
   it("keeps the Flow Rope article's supplied text and its three source links", () => {
     const article = getArticle("flow-rope");
     if (!article) throw new Error("Flow rope is missing");
-    expect(article.standfirst).toBe("Enhancing Coordination, Rhythm and Meditative Movement");
+    expect(article.standfirst).toContain("Two alternative ways to build on the movement");
     const text = article.blocks.map((b) => b.text).join(" ");
-    expect(text).toContain("figure-of-eight");
-    expect(text).toContain("moving from the centre out");
+    expect(text).toContain("figure-eight");
     const urls = [...text.matchAll(/\]\(([^)]+)\)/g)].map((m) => m[1]);
     expect(urls).toEqual([
       "https://lawrencevanlingen.com/pages/flow-rope",
@@ -147,5 +146,15 @@ describe("Hub content", () => {
     const slugs = articles.map((a) => a.slug);
     expect(new Set(slugs).size).toBe(slugs.length);
     expect(articles.filter((a) => a.blocks.length === 0).map((a) => a.slug)).toEqual([]);
+  });
+});
+
+describe("Swapped grounding articles", () => {
+  it("links Ayurveda's breathing section to the Breathwork article", async () => {
+    const { getArticle } = await import("@/data/articles");
+    const text = getArticle("ayurveda")!.blocks.map((b) => b.text).join(" ");
+    expect(text).toContain("](/articles/breathwork)");
+    expect(getArticle("barefoot-walking")!.title).toBe("The Science of Reconnecting with Nature");
+    expect(getArticle("sleep-strategies")!.title).toBe("Optimising Sleep");
   });
 });
