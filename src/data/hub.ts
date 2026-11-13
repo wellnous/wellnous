@@ -25,8 +25,6 @@ export const pillars: Pillar[] = [
       { name: "Rest & Resilience", slugs: ["sleep-strategies", "deliberate-cold-exposure"] },
       { name: "Grounding", slugs: ["breathwork", "ayurveda", "barefoot-walking", "flow-rope", "sleep-strategies"] },
     ] },
-      { name: "Deep Dives", slugs: ["creatine", "omega-3", "nac"] },
-    ] },
 ];
 
 export type QuickWin = { label: string; slug: string };
