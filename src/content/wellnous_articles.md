@@ -1521,73 +1521,155 @@ Most importantly, we should never sacrifice proven sun protection because of con
 
 # Infra Red Exposure
 
-## Infrared Light, Mitochondria and Metabolic Health
+#### From natural sunlight to red-light therapy, discover how infrared interacts with our cells, why mitochondria are at the centre of the research, and what this could mean for our health.
 
-I've become increasingly interested in something that is all around us but that we rarely think about — light.
+Light is about much more than helping us see. Different wavelengths of light interact with the body in different ways, influencing everything from our body clock to processes taking place deep within our cells.
 
-Light isn't simply something that allows us to see. Different wavelengths interact with our biology in very different ways, and one of the most interesting is red and near-infrared light, particularly its relationship with the mitochondria.
+One part of the light spectrum attracting growing interest is infrared. Found naturally in sunlight and produced by sources such as fire, infrared is best known for the warmth we feel when it reaches our skin. But researchers are increasingly interested in how certain wavelengths of infrared and near-infrared light may influence cellular activity, particularly within our mitochondria.
 
-> Evidence note: red and near-infrared light (photobiomodulation) has some clinical evidence for specific uses such as wound healing and certain types of pain. Wider claims about energy, metabolism and longevity are based largely on laboratory and small human studies, so results are not guaranteed.
+So, what is infrared, why is it attracting attention, and could it have a role in supporting our health?
 
-Infrared has always been part of our natural environment. It is abundant in sunlight and is also produced by fire and traditional incandescent bulbs. Our ancestors would have been exposed to it naturally throughout the day, particularly during the lower sun of morning and evening.
+## The basics: what is infrared?
 
-## Why the mitochondria matter
+Infrared is a form of electromagnetic radiation that sits just beyond the red end of the visible light spectrum. We cannot see it, but we often experience it as warmth.
 
-Almost everything our bodies do ultimately depends on energy. Movement, brain function, hormone production, immune function, tissue repair, maintaining body temperature and even the basic processes that keep a cell alive all require energy. The mitochondria sit at the centre of this process. They convert the food we eat and oxygen we breathe into ATP, the energy currency used by our cells.
+Sunlight is a natural source of infrared, alongside visible light and ultraviolet radiation. Fire, heated objects and traditional incandescent light bulbs also produce infrared.
 
-They are also involved in controlling oxidative stress, cellular signalling, inflammation, calcium regulation and whether damaged cells survive or are removed. This means that healthy mitochondria are fundamental to metabolic health and to the normal function of almost every tissue in the body.
+Infrared covers a range of wavelengths, generally grouped into near, mid and far infrared. These different wavelengths interact with the body in different ways. Near-infrared light is particularly interesting to researchers because it can penetrate further into biological tissue than visible red light.
 
-When mitochondrial function is impaired, the consequences can extend far beyond energy levels. Mitochondrial dysfunction is associated with ageing and a wide range of metabolic and chronic diseases, ranging from diabetes to most cancers, which is why maintaining mitochondrial health has become such an important area of research.
+This is also why red and near-infrared light are used in a treatment approach known as photobiomodulation (PBM), sometimes called red-light therapy. Rather than simply warming the body, these treatments use specific wavelengths of light to influence biological processes.
 
-## Where infrared comes in
+## Have we changed our relationship with light?
 
-This is where infrared becomes particularly interesting.
+Our modern indoor environment is very different from the one in which humans evolved.
 
-Research into photobiomodulation suggests that red and near-infrared wavelengths can interact with mitochondrial chromophores such as cytochrome c oxidase, an important component of the electron transport chain.
+We spend much of our time inside, surrounded by screens, LEDs and artificial lighting. Many modern LEDs produce very little infrared compared with natural sunlight or traditional incandescent bulbs.
 
-This interaction may influence electron transport, mitochondrial membrane potential and ATP production, while also affecting nitric oxide and reactive oxygen species. These changes can act as signals that influence cellular repair, inflammation and antioxidant defence.
+Incandescent bulbs produce a broad spectrum of light, including substantial infrared, because their filaments become very hot. Fire is another familiar source of infrared.
 
-In other words, light can interact with the machinery responsible for producing cellular energy.
+This doesn't mean modern lighting is automatically harmful, but it does highlight how different our everyday light environment has become.
 
-If the mitochondria are central to our metabolic health, and particular wavelengths of light can influence mitochondrial function, it makes sense that regular exposure to these wavelengths could have effects that extend well beyond the skin.
+Natural daylight provides a broad spectrum of light and plays an important role in regulating our circadian rhythm — our internal body clock. This influences sleep, hormone rhythms and many aspects of metabolism.
 
-This is one of the reasons I find infrared so fascinating.
+Getting outside during the day is therefore a simple way to reconnect with an important part of our natural light environment.
 
-## Infrared as part of our natural environment
+## Why is infrared attracting so much interest?
 
-There is also something particularly interesting about _when_ we are exposed to infrared naturally.
+The excitement around infrared comes partly from its relationship with our cells and, in particular, our mitochondria.
 
-The spectrum of sunlight changes throughout the day. When the sun is low in the morning and evening, the relative proportion of longer wavelengths, including infrared, is greater.
+Mitochondria are often described as the powerhouses of the cell because they help produce ATP, the energy currency that powers many of the body's processes. They also play important roles in cellular communication, repair and responses to stress.
 
-There is evidence that early exposure to near-infrared may also have a protective or photopreconditioningeffect, helping cells cope with the oxidative stress associated with subsequent UV exposure. Experimental research has shown that near-infrared exposure can induce cellular defences against later UV stress.
+Researchers are exploring whether certain wavelengths of red and near-infrared light can influence mitochondrial activity and support the processes involved in maintaining healthy cells.
 
-It raises an interesting possibility: perhaps the natural sequence of light throughout the day is not accidental. Morning light provides a broad spectrum containing infrared before the stronger midday UV exposure, while evening light once again shifts towards the longer wavelengths.
+This has led to interest in a range of potential applications, including:
 
-Our biology evolved within this environment.
+- **Cellular energy:** influencing mitochondrial activity and the production of ATP.
+- **Skin health:** supporting wound healing, skin repair and collagen-related processes.
+- **Recovery and repair:** exploring effects on inflammation, pain and tissue recovery.
+- **Brain health:** investigating whether light can influence cellular activity and function in the nervous system.
+- **Metabolic health:** exploring possible effects on the cellular processes involved in energy regulation.
 
-## A very different modern light environment
+These areas are not all at the same stage of research, but they help explain why infrared and photobiomodulation have become such active areas of scientific interest.
 
-Today, our relationship with light is very different.
+## How can we experience infrared?
 
-We spend much of our lives indoors, surrounded by LEDs, screens and artificial lighting. We can wake up under artificial light, spend the entire day under it and then sit in front of a bright screen until the moment we go to bed.
+Sunlight is one of the most accessible natural sources of infrared. Spending time outdoors during the day exposes us to a broad spectrum of light, including visible light and infrared.
 
-Modern artificial lighting can create a very different spectral environment from natural daylight, fire and incandescent light. Traditional incandescent bulbs, for example, produce a broad, warm spectrum with substantial infrared because the filament becomes extremely hot. Fire is another natural source of infrared.
+Morning and evening daylight can also be useful ways to build a consistent daily light routine. As the sun changes position, the balance of wavelengths reaching us changes too. Getting outside regularly supports our body's relationship with natural light and its daily rhythms.
 
-It is interesting that both of these familiar light sources are rich in the longer wavelengths that are largely absent from many modern artificial environments.
+**A note on sun safety:** Enjoy natural daylight without seeking intense sun exposure. Avoid prolonged exposure when UV levels are high, protect your skin with shade, clothing and sunscreen as appropriate, and take care not to get sunburnt. Never look directly at the sun. Infrared exposure is not a reason to increase UV exposure, and it does not replace established sun protection.
 
-## Why this could matter for metabolic health
+Infrared saunas and heat lamps provide another form of exposure, primarily through warmth. Red and near-infrared light devices are different: they are designed to deliver more specific wavelengths used in photobiomodulation research.
 
-If mitochondria are fundamental to how our cells produce energy and regulate themselves, then anything capable of positively influencing mitochondrial function becomes interesting from a metabolic perspective.
+If using a red or near-infrared device, it is worth checking the wavelength, output and recommended exposure time. Devices vary considerably, and following the manufacturer's instructions, including any eye-protection guidance, is important.
 
-Rather than thinking about infrared as simply something that makes us feel warm, we can think of red and near-infrared light as a biological signal that may influence one of the most fundamental systems in the body — the mitochondria.
+## Learn more: what is happening inside our cells?
 
-And because mitochondria are present in almost every cell and are involved in energy production, metabolism, signalling and repair, the implications of supporting mitochondrial function could potentially extend across many aspects of health.
+### 1. Mitochondria and cellular energy
 
-Perhaps this is why our natural environment has always contained so much infrared.
+Mitochondria are essential to how our bodies produce and use energy. Through a process called oxidative phosphorylation, they help convert energy from food into ATP.
 
-We didn't evolve under LED lighting. We evolved under the sun, around fires and in darkness at night. Light is part of our environment, and our cells have evolved to respond to it.
+But their role goes beyond energy production. Mitochondria also help regulate calcium levels, cellular signalling and the body's responses to oxidative stress.
 
-Infrared light can also pass through clothing., so one of the easiest ways to get more infrared exposure, is to go for a morning (or evening) walk. This also aligns with the many other benefits from this practice.
+Because these functions are so central to cell health, researchers are interested in whether light could influence mitochondrial activity and, in turn, support processes involved in repair and healthy ageing.
+
+### 2. How does red and near-infrared light interact with mitochondria?
+
+One of the leading explanations involves an enzyme in the mitochondrial energy-producing system called cytochrome c oxidase.
+
+This enzyme plays an important role in the electron transport chain, which helps generate ATP. Laboratory research suggests that certain wavelengths of red and near-infrared light can interact with this enzyme.
+
+Light exposure may influence how efficiently the system works, as well as the availability of nitric oxide and the production of reactive oxygen species. Although these molecules are often discussed in the context of stress, they also act as important signals within cells.
+
+This is one proposed explanation for how photobiomodulation may influence cellular energy, signalling and repair.
+
+The response depends on factors such as wavelength, intensity and exposure time. More light is not necessarily better, and different protocols can produce different effects.
+
+### 3. What does the clinical research show?
+
+Photobiomodulation is being investigated across a growing range of health applications. Research has explored its use in wound healing, pain management, skin health, hair growth and some neurological and musculoskeletal conditions.
+
+There is encouraging clinical evidence for certain specific applications. For example, research and expert consensus support its potential use in some types of peripheral neuropathy, wound healing and androgenetic hair loss.
+
+Other areas, including recovery, cognitive function and wider metabolic health, are still being explored. The results are interesting, but more research is needed to understand which treatments work best, for whom, and under what conditions.
+
+### 4. Infrared in our natural environment
+
+Infrared is a normal part of the sunlight spectrum, and our bodies are exposed to it whenever we spend time outdoors.
+
+Researchers are also investigating whether near-infrared exposure can influence how skin responds to subsequent environmental stress. This includes an area of research sometimes described as photopreconditioning.
+
+It is an interesting area, but it should not be confused with sun protection. Infrared exposure has not been shown to replace sunscreen, shade or other measures that protect against ultraviolet radiation.
+
+### 5. Modern lighting and our daily rhythms
+
+Our modern lighting environment is not simply a question of how much infrared we receive. The timing, intensity and spectrum of light all matter.
+
+Daylight provides a strong signal to the circadian system, helping the body distinguish day from night. Indoor lighting and screens can provide a different pattern of exposure, particularly when we spend much of the day indoors and use bright screens in the evening.
+
+Getting natural daylight during the day and keeping evenings less brightly lit can help support a healthy sleep-wake rhythm. This is a practical benefit of reconnecting with natural light, quite apart from the emerging research into infrared.
+
+### 6. Could infrared influence metabolic health?
+
+Mitochondria are closely connected to metabolism because they help cells use energy. This has led researchers to explore whether photobiomodulation might influence metabolic processes.
+
+There are promising mechanisms and early findings, but we do not yet have strong evidence that infrared exposure improves whole-body metabolism, prevents metabolic disease or extends lifespan.
+
+It is an exciting area for future research, particularly as we learn more about the relationship between light, mitochondria and cellular health.
+
+## What is established, and what is still emerging?
+
+Infrared and photobiomodulation research is developing quickly. It is useful to separate the areas where clinical evidence is encouraging from the broader possibilities that scientists are still investigating.
+
+**Where there is encouraging clinical support:**
+- Certain wound-healing applications.
+- Some types of pain and peripheral neuropathy.
+- Androgenetic hair loss.
+- Selected outcomes involving fatigue and physical function.
+
+**Where the research is promising but still developing:**
+- Improving mitochondrial function and cellular energy in otherwise healthy people.
+- Wider benefits for whole-body metabolism.
+- Brain health, cognition and age-related decline.
+- Disease prevention and longevity.
+- Additional health benefits from specific patterns of natural infrared exposure, such as morning or evening sunlight.
+
+The evidence varies considerably between applications, and the findings from targeted red-light treatments cannot automatically be applied to every source of infrared.
+
+## The bigger picture
+
+Light is more than something we see. It is part of the environment our biology evolved alongside, and researchers are only beginning to understand the many ways it may interact with our cells.
+
+Infrared is particularly interesting because of its potential relationship with mitochondria, cellular energy and repair. While some applications of photobiomodulation already have encouraging clinical evidence, the wider possibilities for metabolic health and healthy ageing remain areas of active research.
+
+In the meantime, getting outside, enjoying natural daylight safely and building a healthier relationship with light throughout the day are simple ways to reconnect with an important part of our natural environment.
+
+## Further reading
+
+- Maghfour et al. (2025), *Photobiomodulation: A systematic review and consensus recommendations*: https://pubmed.ncbi.nlm.nih.gov/40253006/
+- 2025 umbrella review of photobiomodulation clinical trials: https://pmc.ncbi.nlm.nih.gov/articles/PMC12326686/
+- *Infrared and Skin: Friend or Foe?*: https://pmc.ncbi.nlm.nih.gov/articles/PMC4745411/
+- 2023 review, *Infrared radiation and human skin*: https://pubmed.ncbi.nlm.nih.gov/37431693/
 
 # Intermittent Fasting
 
@@ -3914,14 +3996,90 @@ You don't need to detox from dopamine. Perhaps you simply need to give your brai
 
 # Breathwork
 
-#### Physiological Sigh and Cyclic Hyperventilation for Nervous System
+#### From ancient breathing traditions to modern neuroscience, discover how different breathing techniques can influence stress, energy, mood and the nervous system.
 
-Breathwork is one practical way to influence mental clarity, emotional balance, and stress resilience. I use two specific techniques:
+Breathing is something we do around 20,000 times a day, mostly without thinking. Yet it is one of the few functions of the body that operates automatically while also being under our conscious control.
 
-- **Physiological sigh** – A double inhale followed by a longer exhale. Slow, controlled breathing can influence arousal and may help some people feel calmer, although responses vary.
-- **Cyclic hyperventilation** – Rounds of faster breathing followed by breath holds. This changes carbon dioxide levels rather than improving oxygen delivery, and can cause dizziness or fainting, so never practise it in water, while driving or anywhere losing consciousness would be dangerous.
+For thousands of years, traditions including Ayurveda, yoga, meditation and religious practices have used the breath to influence the mind and body. Today, science is beginning to explain why changing the way we breathe can have such a noticeable effect on how we feel.
 
-These techniques allow me to shift my mental state in moments, whether preparing for a deep work session or calming my mind before sleep.
+Breathing is closely connected to the autonomic nervous system, which helps regulate functions such as heart rate, blood pressure and digestion. It also influences heart rate variability (HRV) — the natural variation in time between individual heartbeats. HRV is affected by many factors, including sleep, fitness, stress and recovery, and is often used as one indicator of how the body is adapting to demands.
+
+One reason breathing is so interesting is that it provides a direct route into this system. Slow, steady breathing can synchronise changes in breathing and heart rate, often increasing HRV in the moment and supporting the body's relaxation response. Regular practice may also help with emotional regulation and recovering from stress. The wider health benefits are still being researched, but the connection between breathing, the nervous system and cardiovascular regulation is an exciting area of study.
+
+Different breathing patterns can produce different responses. Some help us relax; others deliberately stimulate the body and increase alertness. Here are four techniques you could explore.
+
+## 4 Breathing Techniques
+
+### 1. The Physiological Sigh
+
+A simple technique for calming the body, the physiological sigh involves taking two consecutive inhales through the nose — the second a shorter top-up breath — followed by a long, slow exhale through the mouth.
+
+The double inhale helps reinflate tiny air sacs in the lungs, while the longer exhale encourages a calmer breathing rhythm. It can be a useful way to settle yourself when feeling stressed or overwhelmed.
+
+**Try it:** Repeat for one to five minutes, keeping the breaths comfortable rather than forcing them.
+
+### 2. Slow or Coherent Breathing
+
+This involves breathing slowly and steadily, often at around five to six breaths per minute. It can help coordinate breathing with the natural fluctuations in heart rate, supporting relaxation and emotional regulation.
+
+**Try it:** Breathe in gently for five seconds and out for five seconds. Continue for around five minutes, adjusting the pace to remain comfortable.
+
+### 3. Box Breathing
+
+Often used by athletes and in high-pressure environments, box breathing provides a simple structure for bringing attention back to the breath.
+
+It involves four equal stages: inhale, hold, exhale and hold again.
+
+**Try it:** Inhale for four seconds, hold for four, exhale for four, then hold for four. Repeat for a few minutes. Shorten the counts if you feel uncomfortable; there is no need to force the breath holds.
+
+### 4. Cyclic Hyperventilation
+
+This more stimulating approach involves repeated rounds of deeper, faster breathing followed by a period of breath retention. It is used in some breathwork practices, including methods popularised by Wim Hof.
+
+Unlike slower techniques, this deliberately activates the body's stress response. It can produce a temporary feeling of energy or alertness, sometimes accompanied by tingling or light-headedness.
+
+**Try it with caution:** This is an intense technique, not a necessary part of everyday breathwork. Practise only in a safe, seated or lying position, never in or near water, while driving, or anywhere that fainting could cause injury. Avoid it if you have relevant health conditions unless you've discussed it with a healthcare professional.
+
+## Which technique could you choose?
+
+- **To settle stress:** Physiological sigh
+- **For calm and relaxation:** Slow or coherent breathing
+- **For focus and composure:** Box breathing
+- **For a stimulating experience:** Cyclic hyperventilation
+
+## The Science Behind Breathwork
+
+Breathing affects the autonomic nervous system, which has two broadly opposing branches: the sympathetic system, associated with alertness and the stress response, and the parasympathetic system, associated with rest and recovery.
+
+The vagus nerve is an important part of this connection. During a slow exhale, activity through the vagus nerve can help slow the heart rate. This contributes to respiratory sinus arrhythmia — the natural rise and fall in heart rate as we breathe in and out. Slow, rhythmic breathing can amplify this pattern and increase HRV during practice.
+
+**Why the physiological sigh works**
+
+There are two interesting parts to its physiology:
+
+- **The lungs:** The second inhale helps reinflate alveoli — tiny air sacs where oxygen and carbon dioxide are exchanged. This can help improve the distribution of air through the lungs.
+- **Blood chemistry:** Breathing out removes carbon dioxide. Because carbon dioxide contributes to the formation of carbonic acid in the blood, changes in breathing can produce small, temporary shifts in blood pH. The longer exhale also supports the calming effects associated with slower breathing.
+
+A 2023 study found that brief daily breathing practices improved mood and reduced physiological arousal. Cyclic sighing, in particular, produced encouraging improvements in positive mood and reductions in breathing rate.
+
+**What happens during cyclic hyperventilation?**
+
+Rapid, deep breathing removes more carbon dioxide than the body produces. This lowers blood CO₂ levels, temporarily raising blood pH — a state known as respiratory alkalosis. It can also constrict blood vessels in the brain, contributing to sensations such as dizziness and tingling.
+
+Research into the Wim Hof Method has found that intensive breathing practices can produce a marked increase in adrenaline. One well-known study also observed changes in inflammatory responses during an immune challenge. However, participants combined breathing with meditation and cold exposure, so the effects cannot be attributed to breathing alone. The study did not find a significant rise in cortisol during the breathing exercise.
+
+## A Note on Safety
+
+Gentle breathing exercises are generally accessible, but intensive hyperventilation and breath-holding practices carry additional risks. They can cause dizziness, fainting and loss of consciousness. Never practise them in water, while driving, standing, at height or anywhere a loss of consciousness could be dangerous. People who are pregnant or have epilepsy, cardiovascular or cerebrovascular conditions, or significant respiratory problems should seek medical advice before trying intensive techniques. Stop if you experience chest pain, severe dizziness or feel faint.
+
+Breathwork is not a replacement for medical treatment, but it can be a useful way to build awareness of the body's responses and experiment with simple tools for managing stress and energy.
+
+## Further Reading
+
+- [Balban et al. (2023) – Brief structured respiration practices enhance mood and reduce physiological arousal](https://pubmed.ncbi.nlm.nih.gov/36630953/)
+- [Russo et al. (2017) – The physiological effects of slow breathing in the healthy human](https://publications.ersnet.org/content/breathe/13/4/298.full)
+- [Kox et al. (2014) – Voluntary activation of the sympathetic nervous system and attenuation of the innate immune response](https://pubmed.ncbi.nlm.nih.gov/24799686/)
+- [Fincham et al. (2023) – High ventilation breathwork practices: an overview](https://pubmed.ncbi.nlm.nih.gov/37923236/)
 
 # Flow Rope
 
@@ -3976,6 +4134,16 @@ Start with positions and movements that feel comfortable, using a stable support
 The key is variety rather than holding one position for too long. Alternating between sitting, squatting, kneeling, standing and walking helps prevent prolonged periods of inactivity while keeping the body accustomed to moving naturally.
 
 Sometimes, improving our movement doesn't require more complicated exercise. It simply means rediscovering the natural movements our bodies were designed to perform – and maintaining the strength and mobility to keep doing them throughout life.
+
+## A Note on Safety
+
+Floor sitting and ground transitions should be approached gradually and adapted to your current mobility:
+
+- **Protect your joints:** If you have knee, hip, ankle or lower-back problems, or have had a joint replacement, avoid forcing deep squats or cross-legged positions, and seek advice from a physiotherapist or healthcare professional.
+- **Raise your hips:** Sitting on a firm cushion, bolster or yoga block can make floor sitting more comfortable and reduce strain on the lower back and hips.
+- **Support your transitions:** Use sturdy furniture, such as a solid chair or sofa, for support when getting down to or up from the floor until you feel stable and confident.
+- **Rise gradually:** Stand up slowly to reduce the risk of dizziness or light-headedness.
+- **Never push through pain:** A gentle stretch is normal, but sharp joint pain, tingling or numbness is a signal to stop.
 
 # The Power of Compound Movement
 
