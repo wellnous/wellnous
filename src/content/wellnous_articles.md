@@ -1529,6 +1529,15 @@ One part of the light spectrum attracting growing interest is infrared. Found na
 
 So, what is infrared, why is it attracting attention, and could it have a role in supporting our health?
 
+## Key points
+
+- Infrared is the part of sunlight we feel as warmth but cannot see, and near-infrared penetrates further into tissue than visible red light.
+- Red and near-infrared light are used in an approach known as photobiomodulation (PBM), which may influence cellular activity, particularly within our mitochondria.
+- Clinical interest is strongest for specific applications such as some wound-healing, pain and hair-loss outcomes, while wider metabolic and brain benefits are still being researched.
+- Sunlight, fire and incandescent bulbs are natural sources of infrared, whereas many modern LEDs produce very little.
+- Getting natural daylight during the day supports our body clock — a practical benefit quite apart from the emerging research.
+- Sun safety still applies: infrared is not a reason to seek more UV exposure.
+
 ## The basics: what is infrared?
 
 Infrared is a form of electromagnetic radiation that sits just beyond the red end of the visible light spectrum. We cannot see it, but we often experience it as warmth.
@@ -4137,8 +4146,9 @@ Sometimes, improving our movement doesn't require more complicated exercise. It 
 
 ## A Note on Safety
 
-Floor sitting and ground transitions should be approached gradually and adapted to your current mobility:
+The most important rule is simple: **don't do anything that could put yourself at risk.** Floor sitting, getting down to the ground and getting back up should feel manageable, not painful or frightening. Work at a pace that suits your body today, and stop if anything hurts.
 
+- **If getting down or up is difficult for you right now, work with a health care professional.** Your GP, a physiotherapist or another appropriately qualified professional can look at what is limiting you and suggest safe, progressive ways to build strength, balance and mobility.
 - **Protect your joints:** If you have knee, hip, ankle or lower-back problems, or have had a joint replacement, avoid forcing deep squats or cross-legged positions, and seek advice from a physiotherapist or healthcare professional.
 - **Raise your hips:** Sitting on a firm cushion, bolster or yoga block can make floor sitting more comfortable and reduce strain on the lower back and hips.
 - **Support your transitions:** Use sturdy furniture, such as a solid chair or sofa, for support when getting down to or up from the floor until you feel stable and confident.
