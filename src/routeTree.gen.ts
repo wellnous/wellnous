@@ -16,7 +16,6 @@ import { Route as KombuchaRouteImport } from './routes/kombucha'
 import { Route as MindRouteImport } from './routes/mind'
 import { Route as NutritionRouteImport } from './routes/nutrition'
 import { Route as PhysicalRouteImport } from './routes/physical'
-import { Route as SupplementsRouteImport } from './routes/supplements'
 import { Route as TopicsRouteImport } from './routes/topics'
 import { Route as ArticlesSlugRouteImport } from './routes/articles.$slug'
 import { Route as BlogSlugRouteImport } from './routes/blog_.$slug'
@@ -56,11 +55,6 @@ const PhysicalRoute = PhysicalRouteImport.update({
   path: '/physical',
   getParentRoute: () => rootRouteImport,
 } as any)
-const SupplementsRoute = SupplementsRouteImport.update({
-  id: '/supplements',
-  path: '/supplements',
-  getParentRoute: () => rootRouteImport,
-} as any)
 const TopicsRoute = TopicsRouteImport.update({
   id: '/topics',
   path: '/topics',
@@ -85,7 +79,6 @@ export interface FileRoutesByFullPath {
   '/mind': typeof MindRoute
   '/nutrition': typeof NutritionRoute
   '/physical': typeof PhysicalRoute
-  '/supplements': typeof SupplementsRoute
   '/topics': typeof TopicsRoute
   '/articles/$slug': typeof ArticlesSlugRoute
   '/blog/$slug': typeof BlogSlugRoute
@@ -98,7 +91,6 @@ export interface FileRoutesByTo {
   '/mind': typeof MindRoute
   '/nutrition': typeof NutritionRoute
   '/physical': typeof PhysicalRoute
-  '/supplements': typeof SupplementsRoute
   '/topics': typeof TopicsRoute
   '/articles/$slug': typeof ArticlesSlugRoute
   '/blog/$slug': typeof BlogSlugRoute
@@ -112,7 +104,6 @@ export interface FileRoutesById {
   '/mind': typeof MindRoute
   '/nutrition': typeof NutritionRoute
   '/physical': typeof PhysicalRoute
-  '/supplements': typeof SupplementsRoute
   '/topics': typeof TopicsRoute
   '/articles/$slug': typeof ArticlesSlugRoute
   '/blog_/$slug': typeof BlogSlugRoute
@@ -127,7 +118,6 @@ export interface FileRouteTypes {
     | '/mind'
     | '/nutrition'
     | '/physical'
-    | '/supplements'
     | '/topics'
     | '/articles/$slug'
     | '/blog/$slug'
@@ -140,7 +130,6 @@ export interface FileRouteTypes {
     | '/mind'
     | '/nutrition'
     | '/physical'
-    | '/supplements'
     | '/topics'
     | '/articles/$slug'
     | '/blog/$slug'
@@ -153,7 +142,6 @@ export interface FileRouteTypes {
     | '/mind'
     | '/nutrition'
     | '/physical'
-    | '/supplements'
     | '/topics'
     | '/articles/$slug'
     | '/blog_/$slug'
@@ -167,7 +155,6 @@ export interface RootRouteChildren {
   MindRoute: typeof MindRoute
   NutritionRoute: typeof NutritionRoute
   PhysicalRoute: typeof PhysicalRoute
-  SupplementsRoute: typeof SupplementsRoute
   TopicsRoute: typeof TopicsRoute
   ArticlesSlugRoute: typeof ArticlesSlugRoute
   BlogSlugRoute: typeof BlogSlugRoute
@@ -224,13 +211,6 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof PhysicalRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/supplements': {
-      id: '/supplements'
-      path: '/supplements'
-      fullPath: '/supplements'
-      preLoaderRoute: typeof SupplementsRouteImport
-      parentRoute: typeof rootRouteImport
-    }
     '/topics': {
       id: '/topics'
       path: '/topics'
@@ -263,7 +243,6 @@ const rootRouteChildren: RootRouteChildren = {
   MindRoute: MindRoute,
   NutritionRoute: NutritionRoute,
   PhysicalRoute: PhysicalRoute,
-  SupplementsRoute: SupplementsRoute,
   TopicsRoute: TopicsRoute,
   ArticlesSlugRoute: ArticlesSlugRoute,
   BlogSlugRoute: BlogSlugRoute,

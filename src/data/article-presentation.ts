@@ -1,7 +1,7 @@
 import type { Article, Block } from "@/data/articles";
 
 export const recipeSlugs = ["milk-kefir", "water-kefir", "fermented-vegetables", "probiotic-yogurts", "kimchi", "kombucha"];
-export const editorialSlugs = ["ayurveda", "reducing-our-toxic-burden", "food-additives-and-gut-health", "the-air-we-breathe", "skincare-cosmetics-and-sunscreen", "mental-wellbeing", "sleep-strategies", "physical-wellbeing", "deliberate-cold-exposure", "intermittent-fasting", "polyphenols", "protein", "cultured-foods", "the-art-of-doing-nothing", "breathwork", "flow-rope", "sitting-on-the-floor", "infra-red-exposure"];
+export const editorialSlugs = ["ayurveda", "reducing-our-toxic-burden", "food-additives-and-gut-health", "the-air-we-breathe", "skincare-cosmetics-and-sunscreen", "mental-wellbeing", "sleep-strategies", "physical-wellbeing", "deliberate-cold-exposure", "intermittent-fasting", "polyphenols", "protein", "cultured-foods", "the-art-of-doing-nothing", "breathwork", "flow-rope", "sitting-on-the-floor", "infra-red-exposure", "omega-3", "creatine"];
 
 const recommendations: Record<string, string[]> = {
   "cultured-foods": ["probiotics", "milk-kefir", "water-kefir", "fermented-vegetables"],
@@ -15,7 +15,7 @@ const recommendations: Record<string, string[]> = {
   "protein": ["creatine", "feeding-your-body", "intermittent-fasting"],
   "polyphenols": ["fibre", "resistant-starch", "probiotics", "feeding-your-body"],
   "intermittent-fasting": ["protein", "sleep-strategies", "feeding-your-body", "mitochondrial-health"],
-  "mental-wellbeing": ["sleep-strategies", "adaptogens", "barefoot-walking", "deliberate-cold-exposure"],
+  "mental-wellbeing": ["sleep-strategies", "omega-3", "barefoot-walking", "deliberate-cold-exposure"],
   "sleep-strategies": ["mental-wellbeing", "infra-red-exposure", "mitochondrial-health", "physical-wellbeing"],
   "the-art-of-doing-nothing": ["mental-wellbeing", "breathwork", "sleep-strategies", "barefoot-walking"],
   "breathwork": ["mental-wellbeing", "the-art-of-doing-nothing", "deliberate-cold-exposure", "sleep-strategies"],

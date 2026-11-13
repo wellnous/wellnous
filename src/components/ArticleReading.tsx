@@ -14,8 +14,8 @@ const LABELLED = /^\*\*(.+?):\*\*\s*(.+)$/;
 const PANEL = /^\*\*(.+):\*\*$/;
 const SAFETY = /^\*\*(A note on [a-z ]*safety):\*\*\s*(.+)$/i;
 const BOLD_ONLY = /^\*\*([^*]+?)\*\*$/;
-const FANCY = ["infra-red-exposure", "sleep-strategies", "ayurveda", "flow-rope", "barefoot-walking"];
-const BOXED_H3 = ["ayurveda", "sleep-strategies", "barefoot-walking", "flow-rope"];
+const FANCY = ["mental-wellbeing", "food-additives-and-gut-health", "omega-3", "creatine", "infra-red-exposure", "sleep-strategies", "ayurveda", "flow-rope", "barefoot-walking"];
+const BOXED_H3 = ["mental-wellbeing", "creatine", "ayurveda", "sleep-strategies", "barefoot-walking", "flow-rope"];
 const BARE_URL = /(https?:\/\/\S+)$/;
 
 type Group = { type: "p" | "quote" | "list" | "steps"; items: string[] };
@@ -129,6 +129,7 @@ function Paragraphs({ blocks, fancy = false }: { blocks: Block[]; fancy?: boolea
 
     if (g.type === "list") { out.push(<ul key={i} className="list-disc space-y-2 pl-5 marker:text-primary">{g.items.map((t, j) => <li key={j}><Rich text={t} /></li>)}</ul>); continue; }
     if (g.type === "steps") { out.push(<ol key={i} className="recipe-steps">{g.items.map((t, j) => <li key={j}><Rich text={t} /></li>)}</ol>); continue; }
+    if (g.type === "quote" && /^Evidence note:/i.test(text)) { out.push(<aside key={i} className="rounded-xl border bg-muted/40 px-4 py-3 text-sm leading-relaxed text-muted-foreground"><span className="font-semibold text-foreground">Evidence note: </span><Rich text={text.replace(/^Evidence note:\s*/i, "")} /></aside>); continue; }
     if (g.type === "quote") { out.push(<blockquote key={i} className="border-l-4 border-amber py-2 pl-5 font-display text-2xl font-semibold text-primary"><Rich text={g.items[0] ?? ""} /></blockquote>); continue; }
 
     const safety = SAFETY.exec(text);

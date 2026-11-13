@@ -77,25 +77,17 @@ describe("Hub content", () => {
     expect(relatedSlugs(article!, [])).toEqual(["physical-wellbeing", "barefoot-walking", "flow-rope"]);
   });
 
-  it("keeps the Flow Rope article's supplied text and its three source links", () => {
-    const article = getArticle("flow-rope");
-    if (!article) throw new Error("Flow rope is missing");
-    expect(article.standfirst).toContain("Two alternative ways to build on the movement");
-    const text = article.blocks.map((b) => b.text).join(" ");
-    expect(text).toContain("figure-eight");
-    const urls = [...text.matchAll(/\]\(([^)]+)\)/g)].map((m) => m[1]);
-    expect(urls).toEqual([
-      "https://lawrencevanlingen.com/pages/flow-rope",
-      "https://pod.wave.co/podcast/feel-better-live-more-with-dr-rangan-chatterjee/from-stiffness-to-stillness-how-to-reset-your-body-soothe-your-mind-and-reclaim--a6c72ce7",
-      "https://podcasts.apple.com/us/podcast/236-lawrence-van-lingen-creating-movement-patterns/id1481743845?i=1000660386989",
-    ]);
-    expect(text).not.toMatch(/\*\*[^*]+\*\*\s*\*\*/);
+  it("drops the Supplements section and files creatine and omega-3 under Nutrition", () => {
+    expect(pillars.map((p) => p.slug)).not.toContain("supplements");
+    const tray = pillars.find((p) => p.slug === "nutrition")?.trays.find((t) => t.name === "Supplements");
+    expect(tray?.slugs).toEqual(["creatine", "omega-3"]);
+    for (const s of ["nac", "supplements-and-adaptogens", "adaptogens"]) expect(getArticle(s)).toBeUndefined();
   });
 
-  it("words the first Start Here supplement card as just Supplements", () => {
-    const tray = pillars.find((p) => p.slug === "supplements")?.trays.find((t) => t.name === "Start Here");
-    expect(tray?.slugs[0]).toBe("supplements-and-adaptogens");
-    expect(getArticle("supplements-and-adaptogens")?.title).toBe("Supplements");
+  it("points flow rope readers to YouTube instead of external links", () => {
+    const text = getArticle("flow-rope")!.blocks.map((b) => b.text).join(" ");
+    expect(text).toContain("flow rope on YouTube");
+    expect(text).not.toContain("](http");
   });
 
   it("links every quick win to a real article", () => {
