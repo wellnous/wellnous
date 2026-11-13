@@ -20,7 +20,7 @@ const BARE_URL = /(https?:\/\/\S+)$/;
 
 type Group = { type: "p" | "quote" | "list" | "steps"; items: string[] };
 
-function Paragraphs({ blocks, fancy = false }: { blocks: Block[]; fancy?: boolean }) {
+function Paragraphs({ blocks, fancy = false, habits = false }: { blocks: Block[]; fancy?: boolean; habits?: boolean }) {
   const groups: Group[] = [];
   for (const block of blocks) {
     const type = block.type === "li" ? "list" : block.type === "step" ? "steps" : block.type === "quote" ? "quote" : "p";
@@ -127,6 +127,7 @@ function Paragraphs({ blocks, fancy = false }: { blocks: Block[]; fancy?: boolea
       continue;
     }
 
+    if (habits && g.type === "list") { out.push(<ul key={i} className="grid gap-3 sm:grid-cols-2">{g.items.map((t, j) => <li key={j} className="flex items-start gap-3 rounded-xl border border-primary/20 bg-secondary/40 p-4 text-[0.95rem] leading-relaxed shadow-soft"><span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-amber/20 font-display text-sm font-semibold text-amber-deep">{j + 1}</span><span><Rich text={t} /></span></li>)}</ul>); continue; }
     if (g.type === "list") { out.push(<ul key={i} className="list-disc space-y-2 pl-5 marker:text-primary">{g.items.map((t, j) => <li key={j}><Rich text={t} /></li>)}</ul>); continue; }
     if (g.type === "steps") { out.push(<ol key={i} className="recipe-steps">{g.items.map((t, j) => <li key={j}><Rich text={t} /></li>)}</ol>); continue; }
     if (g.type === "quote" && /^Evidence note:/i.test(text)) { out.push(<aside key={i} className="rounded-xl border bg-muted/40 px-4 py-3 text-sm leading-relaxed text-muted-foreground"><span className="font-semibold text-foreground">Evidence note: </span><Rich text={text.replace(/^Evidence note:\s*/i, "")} /></aside>); continue; }
@@ -200,7 +201,7 @@ export function ArticleReading({ article }: { article: Article }) {
           </h2>}
           <div className="space-y-4">
             {ingredients ? <ul className="grid list-disc gap-x-8 gap-y-2 pl-5 marker:text-primary sm:grid-cols-2">{section.blocks.map((b, j) => <li key={j}><Rich text={b.text} /></li>)}</ul>
-              : <Paragraphs blocks={section.blocks} fancy={fancy} />}
+              : <Paragraphs blocks={section.blocks} fancy={fancy} habits={article.slug === "polyphenols" && /how to eat more/i.test(section.title)} />}
           </div>
           {link && <Link to="/articles/$slug" params={{ slug: link }} className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-primary">Keep reading: {section.title} <span aria-hidden="true">→</span></Link>}
         </section>;
