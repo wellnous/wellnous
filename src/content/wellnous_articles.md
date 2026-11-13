@@ -437,45 +437,145 @@ Otherwise, there are many online stores offering these starters. ETSY or Amazon 
 
 # Deliberate Cold Exposure
 
-I love deliberate cold exposure, particularly through cold showers. I find it offers a range of fascinating physiological effects that extend beyond simply feeling refreshed. When you subject your body to cold water, a cascade of biological processes kicks in, priming your system for improved performance both mentally and physically.
+*From ice baths to cold showers, we explore the science behind cold exposure, its potential effects on stress resilience and what the evidence really tells us.*
 
-> Evidence note: research on cold exposure is mostly small, short-term studies. It reliably triggers a stress response and many people feel more alert afterwards, but longer-term effects on immunity, metabolism or mood are not yet established. Cold water carries real risks for people with heart conditions — check with your GP first.
+Cold showers, ice baths and wild swimming have become increasingly popular. Celebrities, athletes and wellness influencers often describe cold exposure as a way to boost energy, improve mood, strengthen the immune system and build mental resilience.
 
-Taking cold showers or immersing in cold water may stimulate:
+But how much of this is supported by science? Are the benefits as impressive as the headlines suggest, and do we need to plunge into icy water to experience them?
 
-- **Noradrenaline Release** – Cold exposure can raise noradrenaline, which may contribute to the alertness many people report; responses vary and longer-term effects are still being studied.
+One of the most interesting questions is whether deliberately experiencing a manageable physical challenge can help us change the way we respond to stress.
 
-- **Controlled Discomfort** **Training** – Strengthens my ability to remain calm under stress, making challenges in daily life feel more manageable.
+## The practical guide: Exploring cold exposure
 
-- **Circulation Response** – Cold exposure temporarily changes blood flow, heart rate and blood pressure; this does not establish lasting improvements in circulation or cognitive function.
+### Why deliberately expose ourselves to cold?
 
-Here is more detail:
+Cold is a physical stressor. When we encounter it, the body responds automatically: breathing changes, heart rate and blood pressure can rise, and stress hormones are released to help us respond.
 
-#### Physiological Responses to Cold Exposure
+With repeated exposure, we may become more accustomed to that initial discomfort. This has led researchers to explore whether cold exposure could help us practise managing stress, rather than immediately avoiding it.
 
-When cold water hits your skin, it immediately activates the sympathetic nervous system. This response leads to the rapid release of hormones like adrenaline (epinephrine) and norepinephrine. These hormones make you feel more alert and focused, as they increase blood flow to critical organs and enhance overall metabolic activity. Unlike many stressors that trigger a rise in cortisol—the hormone often associated with chronic stress—cold exposure appears uniquely to stimulate adrenaline without a significant cortisol response. This distinct hormonal profile may help reduce the negative impacts of stress while simultaneously boosting mental clarity.
+There are also studies investigating possible effects on alertness, mood, brown fat and energy use. However, evidence for lasting health benefits is still developing.
 
-#### Impact on Brown Fat and Metabolic Function
+### What might the benefits be?
 
-Cold exposure also plays a key role in brown adipose tissue (BAT) activation. Brown fat is a special type of fat that burns calories to generate heat, unlike white fat, which stores energy. When exposed to cold, the body releases a protein called uncoupling protein-1 (UCP-1) in brown fat cells. This protein helps convert energy into heat, thereby elevating your metabolism. Over time, repeated cold exposure can even promote the "browning" of white fat, meaning parts of it become more metabolically active, supporting overall energy balance and potentially aiding in weight management.
+Research is exploring several possible effects:
 
-#### Cellular Energy and Mitochondrial Adaptations
+- **Stress response:** Repeated, manageable exposure may help us become more accustomed to the body's initial response to cold.
+- **Alertness and mood:** Cold exposure triggers the release of noradrenaline and other signalling chemicals involved in alertness. Some people report feeling more awake and energised afterwards.
+- **Heat production:** Cold activates brown fat, a type of tissue that helps the body produce heat by using energy.
+- **Metabolism:** Researchers are investigating how cold exposure affects energy use and metabolism, but meaningful long-term benefits in humans have not been established.
 
-At the cellular level, cold exposure acts as a hormetic stressor—meaning a small, controlled amount of stress that encourages the body to adapt beneficially. The increased adrenaline promotes ATP regeneration, ensuring your cells have a ready supply of energy for repair and regeneration. This process not only facilitates rapid muscle contractions during physical performance but also supports the maintenance of brain cell function. Additionally, there is evidence that regular cold exposure can encourage mitochondrial biogenesis—the process of creating new mitochondria in cells—which further enhances energy production and overall cellular resilience.
+It is important to distinguish between what happens immediately when we get cold and what might happen to our health over time.
 
-#### Improving Circulation and Reducing Inflammation
+### How can you explore cold exposure?
 
-The immediate effect of cold water on your blood vessels is vasoconstriction, where the small vessels near your skin narrow. This helps to conserve heat and redirect blood flow to vital organs. Once you warm up again, your body experiences reactive hyperemia—a boost in blood flow that can help clear out metabolic waste and improve nutrient delivery. This improved circulation may contribute to reduced inflammation at a systemic level. The controlled nature of cold exposure means it serves as a stressor that builds resilience without triggering the inflammatory, cortisol-driven responses typical of other stressors.
+If you're curious about the potential benefits of cold exposure, a good place to start is simply by making your shower a little cooler.
 
-#### Recommended Exposure and Practical Application
+You could try finishing your usual shower with 15–30 seconds of cooler water, focusing on keeping your breathing steady rather than holding your breath. If you find it comfortable, you can gradually increase the time.
 
-Experts often recommend that the cumulative duration of cold exposure be around 13 minutes per week to experience these physiological effects. Whether you choose to spread these minutes across daily quick cold showers or opt for one or two longer sessions, the goal is to maintain a consistent, gradual approach. Starting with shorter durations allows your body to adapt slowly, minimizing any initial shock and maximizing long-term adaptation.
+There is no scientifically established ideal temperature or duration for improving stress resilience. The aim is to experience a manageable level of cold, not to push yourself to the limit.
 
-By consistently exposing myself to cold, I train my nervous system to handle discomfort with greater ease. This daily practice fosters resilience, discipline, and a heightened mental edge.
+Cold showers have also been studied much less than cold-water immersion, so we should not assume they produce the same effects.
 
-For a decent overview, please listen to Andrew Huberman’s podcast on this topic.
+### What about ice baths and cold-water swimming?
 
-[https://www.hubermanlab.com/episode/using-deliberate-cold-exposure-for-health-and-performance](https://www.hubermanlab.com/episode/using-deliberate-cold-exposure-for-health-and-performance)
+Ice baths and cold-water swimming are other ways people practise cold exposure, but there is limited evidence that these more intense approaches offer additional health benefits.
+
+They also carry greater risks. Sudden immersion can trigger a cold-shock response, causing involuntary gasping, rapid breathing and a sharp increase in heart rate and blood pressure. This can be particularly dangerous in open water.
+
+For most people who want to explore the potential benefits of cold exposure, a cooler shower is a simpler and more controllable option. There is no established need to progress to more extreme forms of cold exposure.
+
+### Does cold water help after exercise?
+
+You may have heard that an ice bath or cold-water immersion after a workout can help reduce soreness and speed up recovery.
+
+There is some evidence that cold-water immersion can reduce perceived muscle soreness after strenuous exercise. However, feeling less sore doesn't necessarily mean your muscles have recovered or adapted better.
+
+In fact, research suggests that regularly using cold-water immersion immediately after resistance training may blunt some of the adaptations that help muscles grow and become stronger.
+
+If your goal is to build muscle through weight training, routinely taking an ice bath straight after your session may work against some of the progress you're trying to achieve.
+
+The evidence is still developing, but it highlights an important distinction: **reducing soreness and supporting long-term training adaptations are not always the same thing.**
+
+This research relates to cold-water immersion, not simply finishing a shower with cooler water.
+
+[Read the 2024 systematic review on cold-water immersion and muscle growth](https://pmc.ncbi.nlm.nih.gov/articles/PMC11235606/).
+
+### A note on safety
+
+Cold exposure is not suitable for everyone. Even cold showers may be uncomfortable or unsafe for some people, while immersion in cold water places greater demands on the body.
+
+- If you have a heart condition, high blood pressure, an abnormal heart rhythm or a condition affecting circulation or temperature regulation, seek medical advice before trying cold exposure.
+- Never jump or dive into cold water.
+- Never go cold-water swimming alone.
+- Stop if you feel faint, dizzy, confused, numb or unwell.
+
+The aim is not to see how much cold you can tolerate. More intense exposure does not necessarily mean greater benefit.
+
+*This article is for general information and is not a substitute for medical advice.*
+
+---
+
+## Learn more: What does the science say?
+
+### 1. What happens to the body when we get cold?
+
+Cold exposure activates the sympathetic nervous system — our natural fight-or-flight response. Heart rate, blood pressure and breathing can increase, while the body releases stress hormones called catecholamines, including adrenaline and noradrenaline.
+
+Noradrenaline helps regulate alertness and body temperature. Cold exposure has also been linked to changes in dopamine, a chemical involved in motivation and mood. However, claims about lasting increases in brain dopamine need more research.
+
+These are well-recognised short-term responses. What they mean for long-term health is less clear.
+
+### 2. Can cold exposure help us become more resilient to stress?
+
+Repeated exposure to manageable cold may help the body become more accustomed to the initial stress response. Over time, some people experience less discomfort and a calmer response to the same cold stimulus.
+
+This is sometimes described as *stress inoculation*: practising a controlled challenge may help us feel more capable of handling discomfort.
+
+But there is an important distinction. Becoming accustomed to cold does not necessarily mean becoming more resilient to everyday psychological stress. That wider benefit remains uncertain.
+
+A 2025 systematic review of cold-water immersion studies found a reduction in perceived stress 12 hours after exposure, but not immediately or at most other time points. A 2026 review also concluded that the evidence for improvements in mood, stress and wellbeing remains uncertain. The studies varied considerably, and many had significant limitations.
+
+So, while the idea is interesting, cold exposure should not be presented as a proven way to improve mental health or manage chronic stress.
+
+### 3. Brown fat, mitochondria and heat production
+
+The body uses several ways to stay warm. One involves brown adipose tissue, or *brown fat*, which produces heat by burning energy. Its cells contain mitochondria, which help convert stored energy into heat through a protein called UCP1.
+
+Research by Susanna Søberg and colleagues has explored how repeated cold exposure affects brown fat and heat production. A small 2021 study found differences in experienced winter swimmers compared with controls. However, participants also used saunas, so the effects cannot be attributed to cold exposure alone.
+
+This research is interesting, but it does not establish that cold exposure leads to meaningful weight loss or improved mitochondrial health.
+
+Søberg has also discussed the idea of allowing the body to rewarm naturally after cold exposure. This is an interesting part of her approach, but it should not be mistaken for a proven method of gaining additional health benefits.
+
+### 4. Do women and men respond differently?
+
+Body composition, hormones and circulation can all influence how someone responds to cold.
+
+Exercise physiologist Dr Stacy Sims has raised questions about whether women respond differently to intense cold exposure, and whether protocols developed largely around male participants are appropriate for everyone. In a conversation on the Huberman Lab podcast, she discusses how factors such as circulation and vasoconstriction may affect women's responses.
+
+These are important questions, but there is not yet enough comparative research to establish universal differences or specific protocols for women and men. Individual responses matter, and extreme cold is not necessary to explore the effects of cold exposure.
+
+### 5. What can we conclude?
+
+Cold exposure clearly triggers a range of short-term physiological responses. There is also promising research into stress adaptation, brown fat and heat production.
+
+But evidence for lasting improvements in mood, stress resilience, metabolism or overall health is still limited. Many studies are small, use different protocols and include relatively few women. Much of the research focuses on cold-water immersion rather than everyday cold showers.
+
+Andrew Huberman's *Protocols: An Operating Manual for the Human Body* brings together research and practical suggestions for deliberate cold exposure, including its potential effects on alertness and stress responses. It is a useful example of how these findings are being translated into wellness advice, but an expert's suggested protocol is not the same as an established medical recommendation.
+
+The most balanced conclusion is that cold exposure can be an optional way to practise tolerating physical discomfort. It should not be treated as a proven health intervention, a treatment for stress or a test of willpower.
+
+**Perhaps the real value is not in how cold we can get, or how long we can endure it, but in learning to meet a manageable challenge with a little more calm and control.**
+
+## Further reading
+
+- Cain et al. (2025), *Effects of cold-water immersion on health and wellbeing: A systematic review and meta-analysis*. [Read the study](https://pubmed.ncbi.nlm.nih.gov/39879231/)
+- Søberg et al. (2021), *Altered brown fat thermoregulation and enhanced cold-induced thermogenesis in young, healthy, winter-swimming men*. [Read the study](https://doi.org/10.1016/j.xcrm.2021.100408)
+- Piñero et al. (2024), *Throwing cold water on muscle growth: A systematic review with meta-analysis*. [Read the study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11235606/)
+- Dr Stacy Sims, [Female-Specific Exercise, Nutrition for Health, Performance & Longevity](https://www.hubermanlab.com/episode/dr-stacy-sims-female-specific-exercise-nutrition-for-health-performance-longevity), Huberman Lab.
+- Huberman, A., *Protocols: An Operating Manual for the Human Body*.
+- 2026 systematic review of cold-water exposure and psychological outcomes. [Read the study](https://pubmed.ncbi.nlm.nih.gov/42819812/)
+- Berjisian et al. (2026), *Strategic Application of Post-exercise Cold-Water Immersion to Enhance Performance Recovery and Adaptation*. [Read the review](https://pubmed.ncbi.nlm.nih.gov/42816732/)
 
 # Feeding Your Body
 

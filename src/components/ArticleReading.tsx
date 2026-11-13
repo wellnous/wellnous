@@ -38,7 +38,7 @@ export function ArticleReading({ article }: { article: Article }) {
         const scoby = article.slug === "cultured-foods" && /what is a scoby/i.test(section.title);
         const takeaway = /takeaway|bringing it all together/i.test(section.title);
         const sources = article.slug === "polyphenols" && /richest sources|how to eat more/i.test(section.title);
-        const practical = article.slug === "deliberate-cold-exposure" && /recommended exposure/i.test(section.title);
+        const practical = article.slug === "deliberate-cold-exposure" && /a note on safety/i.test(section.title);
         const link = article.slug === "cultured-foods" ? foodLinks[section.title] : undefined;
         const ingredients = recipe && section.mode === "ingredients";
         const deepDive = article.slug === "physical-wellbeing" && /deep dive/i.test(section.title);
