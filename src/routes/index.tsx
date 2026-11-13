@@ -2,21 +2,21 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { pillars, quickWins } from "@/data/hub";
 import { SiteHeader, SiteFooter, TrayRow, Chip } from "@/components/HubUI";
 import logo from "@/assets/wellnous_logo.png.asset.json";
-import { Leaf, Activity, Pill, Brain, Zap, ArrowRight } from "lucide-react";
+import { Leaf, Activity, Brain, Zap, ArrowRight } from "lucide-react";
 
 export const Route = createFileRoute("/")({
   head: () => ({ meta: [
     { title: "Wellnous — Health & Wellness Knowledge Hub" },
     { property: "og:type", content: "website" },
     { name: "twitter:card", content: "summary" },
-    { name: "description", content: "Bridging health science and everyday life — practical, science-informed approaches to nutrition, movement and supplements." },
+    { name: "description", content: "Bridging health science and everyday life — practical, science-informed approaches to nutrition, movement and mental health." },
     { property: "og:title", content: "Wellnous — Health & Wellness Knowledge Hub" },
-    { property: "og:description", content: "Bridging the gap between health, science and everyday life — practical, science-informed approaches to nutrition, movement and supplements." },
+    { property: "og:description", content: "Bridging the gap between health, science and everyday life — practical, science-informed approaches to nutrition, movement and mental health." },
   ]}),
   component: Index,
 });
 
-const icons = { nutrition: Leaf, physical: Activity, mind: Brain, supplements: Pill };
+const icons = { nutrition: Leaf, physical: Activity, mind: Brain };
 
 function Index() {
   return (
