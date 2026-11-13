@@ -34,6 +34,19 @@ function Paragraphs({ blocks, fancy = false, habits = false }: { blocks: Block[]
     const g = groups[i]!;
     const text = g.items[0] ?? "";
 
+    // "**The science deep dive**" and the paragraphs after it sit in a skippable box.
+    if (g.type === "p" && /^\*\*The science deep dive\*\*$/i.test(text)) {
+      const body: string[] = [];
+      let k = i + 1;
+      while (groups[k]?.type === "p" && !BOLD_ONLY.test(groups[k]!.items[0] ?? "")) { body.push(groups[k]!.items[0] ?? ""); k++; }
+      out.push(<aside key={i} aria-label="The science deep dive" className="rounded-2xl border border-primary/25 bg-secondary/40 p-5 sm:p-6">
+        <p className="flex items-center gap-2 text-[11px] font-semibold uppercase tracking-widest text-primary"><BookOpen aria-hidden="true" className="h-4 w-4" />The science deep dive <span className="font-normal normal-case tracking-normal text-muted-foreground">· optional reading</span></p>
+        <div className="mt-3 space-y-3 text-[0.95rem] leading-relaxed">{body.map((t, m) => <p key={m}><Rich text={t} /></p>)}</div>
+      </aside>);
+      i = k - 1;
+      continue;
+    }
+
     // "**Label:**" paragraph followed by a list becomes a side-by-side panel.
     if (fancy && g.type === "p") {
       const panel = PANEL.exec(text);
