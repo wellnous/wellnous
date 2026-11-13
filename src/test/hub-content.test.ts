@@ -9,12 +9,12 @@ import { blogPosts } from "@/data/blog";
 // breaks a card. Every slug referenced by the hub must resolve to a real article.
 describe("Hub content", () => {
   it("places probiotics first in the cultured-foods tray", () => {
-    const tray = pillars.find((p) => p.slug === "nutrition")?.trays.find((t) => t.name === "Gut & Cultured Foods");
+    const tray = pillars.find((p) => p.slug === "nutrition")?.trays.find((t) => t.name === "Cultured Foods");
     expect(tray?.slugs[0]).toBe("probiotics");
   });
 
   it("orders the fermented foods as milk kefir, kombucha, kimchi, vegetables, water kefir and yogurts", () => {
-    const tray = pillars.find((p) => p.slug === "nutrition")?.trays.find((t) => t.name === "Gut & Cultured Foods");
+    const tray = pillars.find((p) => p.slug === "nutrition")?.trays.find((t) => t.name === "Cultured Foods");
     expect(tray?.slugs.slice(2)).toEqual(["milk-kefir", "kombucha", "kimchi", "fermented-vegetables", "water-kefir", "probiotic-yogurts"]);
   });
 
@@ -116,7 +116,7 @@ describe("Hub content", () => {
   it("keeps the cultured-foods tray on the individual fermented foods", () => {
     const tray = pillars
       .find((p) => p.slug === "nutrition")!
-      .trays.find((t) => t.name === "Gut & Cultured Foods")!;
+      .trays.find((t) => t.name === "Cultured Foods")!;
 
     expect(tray.slugs).toEqual(
       expect.arrayContaining([
@@ -148,5 +148,13 @@ describe("Swapped grounding articles", () => {
     expect(text).toContain("](/articles/breathwork)");
     expect(getArticle("barefoot-walking")!.title).toBe("The Science of Reconnecting with Nature");
     expect(getArticle("sleep-strategies")!.title).toBe("Optimising Sleep");
+  });
+});
+
+describe("nutrition tray order", () => {
+  it("puts Supplements last, after Cultured Foods", () => {
+    const names = pillars.find((p) => p.slug === "nutrition")!.trays.map((t) => t.name);
+    expect(names.at(-1)).toBe("Supplements");
+    expect(names.at(-2)).toBe("Cultured Foods");
   });
 });
