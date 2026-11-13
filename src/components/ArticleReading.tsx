@@ -1,4 +1,6 @@
 import { Link } from "@tanstack/react-router";
+import { BookOpen, CheckCircle2, ListChecks } from "lucide-react";
+import type { ReactElement } from "react";
 import type { Article, Block } from "@/data/articles";
 import { readingSections, recipeSlugs } from "@/data/article-presentation";
 import { Rich } from "@/components/RichText";
@@ -6,29 +8,114 @@ import { Rich } from "@/components/RichText";
 const anchor = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
 const foodLinks: Record<string, string> = { "Probiotics": "probiotics", "Milk Kefir": "milk-kefir", "Kombucha": "kombucha", "Water Kefir": "water-kefir", "Pro-biotic Yogurts": "probiotic-yogurts", "Cultured Vegetables": "fermented-vegetables", "Kimchi": "kimchi" };
 
-function Paragraphs({ blocks }: { blocks: Block[] }) {
-  const groups: { type: "p" | "quote" | "list" | "steps"; items: string[] }[] = [];
+// Presentation patterns used by the "fancier" editorial articles (currently the
+// infrared deep dive). Each one is opt-in per article so nothing else re-styles.
+const LABELLED = /^\*\*(.+?):\*\*\s*(.+)$/;
+const PANEL = /^\*\*(.+):\*\*$/;
+const SAFETY = /^\*\*(A note on [a-z ]*safety):\*\*\s*(.+)$/i;
+const BARE_URL = /(https?:\/\/\S+)$/;
+
+type Group = { type: "p" | "quote" | "list" | "steps"; items: string[] };
+
+function Paragraphs({ blocks, fancy = false }: { blocks: Block[]; fancy?: boolean }) {
+  const groups: Group[] = [];
   for (const block of blocks) {
     const type = block.type === "li" ? "list" : block.type === "step" ? "steps" : block.type === "quote" ? "quote" : "p";
     const last = groups.at(-1);
     if ((type === "list" || type === "steps") && last?.type === type) last.items.push(block.text);
     else groups.push({ type, items: [block.text] });
   }
-  return <>{groups.map((g, i) => {
-    if (g.type === "list") return <ul key={i} className="list-disc space-y-2 pl-5 marker:text-primary">{g.items.map((text, j) => <li key={j}><Rich text={text} /></li>)}</ul>;
-    if (g.type === "steps") return <ol key={i} className="recipe-steps">{g.items.map((text, j) => <li key={j}><Rich text={text} /></li>)}</ol>;
-    if (g.type === "quote") return <blockquote key={i} className="border-l-4 border-amber py-2 pl-5 font-display text-2xl font-semibold text-primary"><Rich text={g.items[0] ?? ""} /></blockquote>;
+
+  const out: ReactElement[] = [];
+  for (let i = 0; i < groups.length; i++) {
+    const g = groups[i]!;
     const text = g.items[0] ?? "";
-    if (/^\*\*Try it/.test(text)) return <p key={i} className="rounded-md border-l-4 border-amber bg-background/80 px-4 py-3 text-sm"><Rich text={text} /></p>;
-    return <p key={i}><Rich text={text} /></p>;
-  })}</>;
+
+    // "**Label:**" paragraph followed by a list becomes a side-by-side panel.
+    if (fancy && g.type === "p") {
+      const panel = PANEL.exec(text);
+      const next = groups[i + 1];
+      if (panel && next && next.type === "list") {
+        const panels = [{ label: panel[1] ?? "", items: next.items }];
+        let k = i + 2;
+        for (;;) {
+          const p = groups[k];
+          const q = groups[k + 1];
+          const m = p && p.type === "p" ? PANEL.exec(p.items[0] ?? "") : null;
+          if (!m || !q || q.type !== "list") break;
+          panels.push({ label: m[1] ?? "", items: q.items });
+          k += 2;
+        }
+        out.push(<div key={i} className="grid gap-4 md:grid-cols-2">{panels.map((p, j) => (
+          <div key={j} className={`rounded-2xl border p-5 ${j === 0 ? "border-primary/25 bg-primary/5" : "border-amber/45 bg-amber/10"}`}>
+            <p className={`text-[11px] font-semibold uppercase tracking-widest ${j === 0 ? "text-primary" : "text-amber-deep"}`}>{p.label}</p>
+            <ul className="mt-3 space-y-2 text-[0.95rem] leading-relaxed">
+              {p.items.map((t, m) => <li key={m} className="flex gap-2.5"><span className={`mt-2 h-1.5 w-1.5 shrink-0 rounded-full ${j === 0 ? "bg-primary" : "bg-amber"}`} /><span><Rich text={t} /></span></li>)}
+            </ul>
+          </div>
+        ))}</div>);
+        i = k - 1;
+        continue;
+      }
+    }
+
+    // A list of "**Label:** detail" items becomes a grid of small cards.
+    if (fancy && g.type === "list" && g.items.length >= 3 && g.items.every((t) => LABELLED.test(t))) {
+      out.push(<div key={i} className="grid gap-3 sm:grid-cols-2">{g.items.map((t, j) => {
+        const m = LABELLED.exec(t);
+        return <div key={j} className="rounded-xl border bg-card p-4 shadow-soft">
+          <div className="font-display text-[15px] font-semibold text-primary">{m?.[1] ?? ""}</div>
+          <p className="mt-1 text-[0.92rem] leading-relaxed text-foreground/85"><Rich text={m?.[2] ?? ""} /></p>
+        </div>;
+      })}</div>);
+      continue;
+    }
+
+    // A list of bare citation links becomes a stack of readable reference rows.
+    if (fancy && g.type === "list" && g.items.every((t) => BARE_URL.test(t))) {
+      out.push(<ul key={i} className="space-y-3">{g.items.map((t, j) => {
+        const m = BARE_URL.exec(t);
+        const url = m?.[1] ?? "";
+        const label = t.slice(0, m?.index ?? t.length).replace(/[:\s]+$/, "") || url;
+        return <li key={j} className="rounded-xl border bg-background px-4 py-3 text-[0.92rem] leading-relaxed">
+          <span className="block"><Rich text={label} /></span>
+          <a href={url} target="_blank" rel="noopener noreferrer" className="mt-1.5 inline-block text-sm font-semibold text-primary">Read the paper <span aria-hidden="true">→</span></a>
+        </li>;
+      })}</ul>);
+      continue;
+    }
+
+    // Any other list in a fancy article reads as ticked key points.
+    if (fancy && g.type === "list") {
+      out.push(<ul key={i} className="grid gap-2.5 sm:grid-cols-2">{g.items.map((t, j) => <li key={j} className="flex gap-2.5 text-[0.95rem] leading-relaxed"><CheckCircle2 aria-hidden="true" className="mt-1 h-4 w-4 shrink-0 text-primary" /><span><Rich text={t} /></span></li>)}</ul>);
+      continue;
+    }
+
+    if (g.type === "list") { out.push(<ul key={i} className="list-disc space-y-2 pl-5 marker:text-primary">{g.items.map((t, j) => <li key={j}><Rich text={t} /></li>)}</ul>); continue; }
+    if (g.type === "steps") { out.push(<ol key={i} className="recipe-steps">{g.items.map((t, j) => <li key={j}><Rich text={t} /></li>)}</ol>); continue; }
+    if (g.type === "quote") { out.push(<blockquote key={i} className="border-l-4 border-amber py-2 pl-5 font-display text-2xl font-semibold text-primary"><Rich text={g.items[0] ?? ""} /></blockquote>); continue; }
+
+    const safety = SAFETY.exec(text);
+    if (safety) {
+      out.push(<div key={i} className="rounded-xl border-l-4 border-amber bg-amber/10 p-5">
+        <p className="text-[11px] font-semibold uppercase tracking-widest text-amber-deep">{safety[1]}</p>
+        <p className="mt-1.5 text-[0.95rem] leading-relaxed text-foreground/90"><Rich text={safety[2] ?? ""} /></p>
+      </div>);
+      continue;
+    }
+
+    if (/^\*\*Try it/.test(text)) { out.push(<p key={i} className="rounded-md border-l-4 border-amber bg-background/80 px-4 py-3 text-sm"><Rich text={text} /></p>); continue; }
+    out.push(<p key={i}><Rich text={text} /></p>);
+  }
+  return <>{out}</>;
 }
 
 export function ArticleReading({ article }: { article: Article }) {
   const hasLead = article.blocks[0]?.type === "h" && article.blocks[0]?.text === article.standfirst;
   const sections = readingSections(hasLead ? article.blocks.slice(1) : article.blocks);
   const recipe = recipeSlugs.includes(article.slug);
-  const headings = sections.filter((s) => s.title);
+  const fancy = article.slug === "infra-red-exposure";
+  const headings = sections.filter((s) => s.title && (!fancy || s.level === 2));
   return <>
     {hasLead && <p className="mt-6 border-l-4 border-amber pl-5 font-display text-xl leading-relaxed text-foreground/80"><Rich text={article.standfirst} /></p>}
     {headings.length > 2 && <nav aria-label="In this article" className="mt-8 border-y py-4">
@@ -37,20 +124,20 @@ export function ArticleReading({ article }: { article: Article }) {
     </nav>}
     <div className={`mt-8 space-y-8 text-base leading-relaxed text-foreground/85 ${article.slug.startsWith("blog-") ? "blog-reading" : ""}`}>
       {sections.map((section, i) => {
-        const breath = article.slug === "breathwork" && /^\d\.\s/.test(section.title);
-        if (breath) {
+        const boxed = (article.slug === "breathwork" || fancy) && /^\d\.\s/.test(section.title);
+        if (boxed) {
           if (i > 0 && /^\d\.\s/.test(sections[i - 1]?.title ?? "")) return null;
           const group: typeof sections = [];
           for (let k = i; k < sections.length && /^\d\.\s/.test(sections[k]?.title ?? ""); k++) group.push(sections[k]!);
           return <div key={i} className="grid gap-5 md:grid-cols-2">{group.map((b, j) => {
             const [, num, name] = /^(\d)\.\s+(.*)$/.exec(b.title) ?? [];
-            const intense = j === 3;
+            const intense = article.slug === "breathwork" && j === 3;
             return <section key={j} id={anchor(b.title)} className={`scroll-mt-28 flex flex-col rounded-2xl border p-6 shadow-sm ${intense ? "border-amber/60 bg-amber/10" : "border-primary/20 bg-secondary/40"}`}>
               <div className="mb-4 flex items-center gap-3">
                 <span className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-full font-display text-lg font-semibold ${intense ? "bg-amber text-amber-foreground" : "bg-primary text-primary-foreground"}`}>{num}</span>
                 <h2 className="font-display text-xl font-semibold leading-snug text-foreground">{name}</h2>
               </div>
-              <div className="space-y-4 text-[0.95rem]"><Paragraphs blocks={b.blocks} /></div>
+              <div className="space-y-4 text-[0.95rem]"><Paragraphs blocks={b.blocks} fancy={fancy} /></div>
             </section>;
           })}</div>;
         }
@@ -61,11 +148,19 @@ export function ArticleReading({ article }: { article: Article }) {
         const link = article.slug === "cultured-foods" ? foodLinks[section.title] : undefined;
         const ingredients = recipe && section.mode === "ingredients";
         const deepDive = article.slug === "physical-wellbeing" && /deep dive/i.test(section.title);
-        return <section key={i} id={anchor(section.title)} className={`scroll-mt-28 ${deepDive ? "border-y-2 border-primary bg-secondary/30 py-7 px-5 sm:px-7" : scoby ? "rounded-lg border bg-secondary/35 p-5 sm:p-8" : takeaway ? "border-y-2 border-primary bg-secondary/30 py-8" : sources ? "border-l-4 border-amber pl-5 sm:pl-7" : practical ? "rounded-lg border bg-secondary/40 p-6" : ingredients ? "border-y border-primary/30 bg-secondary/25 py-6" : section.title ? "border-t pt-7" : ""}`}>
-          {section.title && <h2 className={`mb-4 font-display font-semibold leading-snug text-foreground ${section.title === "It's Muscle Loss." ? "text-3xl" : takeaway ? "text-3xl text-primary" : "text-xl"}`}>{section.title}</h2>}
+        const keyPoints = fancy && /^key points$/i.test(section.title);
+        const emerging = fancy && /what is established/i.test(section.title);
+        const closing = fancy && /^the bigger picture$/i.test(section.title);
+        const reading = fancy && /^further reading$/i.test(section.title);
+        return <section key={i} id={anchor(section.title)} className={`scroll-mt-28 ${deepDive ? "border-y-2 border-primary bg-secondary/30 py-7 px-5 sm:px-7" : scoby ? "rounded-lg border bg-secondary/35 p-5 sm:p-8" : takeaway ? "border-y-2 border-primary bg-secondary/30 py-8" : sources ? "border-l-4 border-amber pl-5 sm:pl-7" : keyPoints ? "rounded-2xl border border-primary/25 bg-secondary/40 p-6 sm:p-8" : emerging ? "rounded-2xl border bg-card p-6 sm:p-8" : closing ? "rounded-2xl border-l-4 border-primary bg-secondary/35 p-6 sm:p-8" : reading ? "rounded-2xl border bg-muted p-6 sm:p-8" : practical ? "rounded-lg border bg-secondary/40 p-6" : ingredients ? "border-y border-primary/30 bg-secondary/25 py-6" : section.title ? "border-t pt-7" : ""}`}>
+          {section.title && <h2 className={`mb-4 font-display font-semibold leading-snug text-foreground ${section.title === "It's Muscle Loss." ? "text-3xl" : takeaway ? "text-3xl text-primary" : keyPoints || reading ? "flex items-center gap-2 text-xl text-primary" : "text-xl"}`}>
+            {keyPoints && <ListChecks aria-hidden="true" className="h-5 w-5 shrink-0 text-primary" />}
+            {reading && <BookOpen aria-hidden="true" className="h-5 w-5 shrink-0 text-primary" />}
+            {section.title}
+          </h2>}
           <div className="space-y-4">
             {ingredients ? <ul className="grid list-disc gap-x-8 gap-y-2 pl-5 marker:text-primary sm:grid-cols-2">{section.blocks.map((b, j) => <li key={j}><Rich text={b.text} /></li>)}</ul>
-              : <Paragraphs blocks={section.blocks} />}
+              : <Paragraphs blocks={section.blocks} fancy={fancy} />}
           </div>
           {link && <Link to="/articles/$slug" params={{ slug: link }} className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-primary">Keep reading: {section.title} <span aria-hidden="true">→</span></Link>}
         </section>;
