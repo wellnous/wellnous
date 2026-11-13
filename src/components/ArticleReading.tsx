@@ -78,8 +78,8 @@ function Paragraphs({ blocks, fancy = false }: { blocks: Block[]; fancy?: boolea
         const url = m?.[1] ?? "";
         const label = t.slice(0, m?.index ?? t.length).replace(/[:\s]+$/, "") || url;
         return <li key={j} className="rounded-xl border bg-background px-4 py-3 text-[0.92rem] leading-relaxed">
-          <Rich text={label} />
-          <a href={url} target="_blank" rel="noopener noreferrer" className="mt-1 inline-block text-sm font-semibold text-primary">Read the paper <span aria-hidden="true">→</span></a>
+          <span className="block"><Rich text={label} /></span>
+          <a href={url} target="_blank" rel="noopener noreferrer" className="mt-1.5 inline-block text-sm font-semibold text-primary">Read the paper <span aria-hidden="true">→</span></a>
         </li>;
       })}</ul>);
       continue;

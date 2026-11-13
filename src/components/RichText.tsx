@@ -10,7 +10,7 @@ function internalSlug(url: string) {
 
 // Emphasis-wrapped links have to be matched before plain emphasis, otherwise
 // `**[label](url)**` splits into a bold token plus a bare link token.
-const TOKEN = /(\*\*\[[^\]]+\]\([^)]+\)\*\*|\*\[[^\]]+\]\([^)]+\)\*|_\[[^\]]+\]\([^)]+\)_|\*\*[^*]+\*\*|\[[^\]]+\]\([^)]+\)|_[^_]+_)/g;
+const TOKEN = /(\*\*\[[^\]]+\]\([^)]+\)\*\*|\*\[[^\]]+\]\([^)]+\)\*|_\[[^\]]+\]\([^)]+\)_|\*\*[^*]+\*\*|\[[^\]]+\]\([^)]+\)|\*[^*]+\*|_[^_]+_)/g;
 const LINK = /^\[([^\]]+)\]\(([^)]+)\)$/;
 
 function unwrap(bit: string): { wrap: "bold" | "italic" | null; inner: string } {
