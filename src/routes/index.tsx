@@ -73,7 +73,7 @@ function Index() {
                 key={q.label}
                 to="/articles/$slug"
                 params={{ slug: q.slug }}
-                hash={q.hash}
+                {...(q.hash ? { hash: q.hash } : {})}
                 className="rounded-full border border-primary-foreground/25 bg-primary-foreground/15 px-4 py-2 text-sm transition-colors hover:bg-primary-foreground/30 hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-foreground/70"
               >
                 {q.label}
