@@ -1,7 +1,7 @@
 import type { Article, Block } from "@/data/articles";
 
 export const recipeSlugs = ["milk-kefir", "water-kefir", "fermented-vegetables", "probiotic-yogurts", "kimchi", "kombucha"];
-export const editorialSlugs = ["ayurveda", "reducing-our-toxic-burden", "food-additives-and-gut-health", "the-air-we-breathe", "skincare-cosmetics-and-sunscreen", "mental-wellbeing", "sleep-strategies", "physical-wellbeing", "deliberate-cold-exposure", "intermittent-fasting", "polyphenols", "protein", "cultured-foods", "the-art-of-doing-nothing", "breathwork", "flow-rope", "sitting-on-the-floor"];
+export const editorialSlugs = ["ayurveda", "reducing-our-toxic-burden", "food-additives-and-gut-health", "the-air-we-breathe", "skincare-cosmetics-and-sunscreen", "mental-wellbeing", "sleep-strategies", "physical-wellbeing", "deliberate-cold-exposure", "intermittent-fasting", "polyphenols", "protein", "cultured-foods", "the-art-of-doing-nothing", "breathwork", "flow-rope", "sitting-on-the-floor", "infra-red-exposure"];
 
 const recommendations: Record<string, string[]> = {
   "cultured-foods": ["probiotics", "milk-kefir", "water-kefir", "fermented-vegetables"],

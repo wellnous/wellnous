@@ -18,7 +18,9 @@ function Paragraphs({ blocks }: { blocks: Block[] }) {
     if (g.type === "list") return <ul key={i} className="list-disc space-y-2 pl-5 marker:text-primary">{g.items.map((text, j) => <li key={j}><Rich text={text} /></li>)}</ul>;
     if (g.type === "steps") return <ol key={i} className="recipe-steps">{g.items.map((text, j) => <li key={j}><Rich text={text} /></li>)}</ol>;
     if (g.type === "quote") return <blockquote key={i} className="border-l-4 border-amber py-2 pl-5 font-display text-2xl font-semibold text-primary"><Rich text={g.items[0] ?? ""} /></blockquote>;
-    return <p key={i}><Rich text={g.items[0] ?? ""} /></p>;
+    const text = g.items[0] ?? "";
+    if (/^\*\*Try it/.test(text)) return <p key={i} className="rounded-md border-l-4 border-amber bg-background/80 px-4 py-3 text-sm"><Rich text={text} /></p>;
+    return <p key={i}><Rich text={text} /></p>;
   })}</>;
 }
 
@@ -35,10 +37,27 @@ export function ArticleReading({ article }: { article: Article }) {
     </nav>}
     <div className={`mt-8 space-y-8 text-base leading-relaxed text-foreground/85 ${article.slug.startsWith("blog-") ? "blog-reading" : ""}`}>
       {sections.map((section, i) => {
+        const breath = article.slug === "breathwork" && /^\d\.\s/.test(section.title);
+        if (breath) {
+          if (i > 0 && /^\d\.\s/.test(sections[i - 1]?.title ?? "")) return null;
+          const group: typeof sections = [];
+          for (let k = i; k < sections.length && /^\d\.\s/.test(sections[k]?.title ?? ""); k++) group.push(sections[k]!);
+          return <div key={i} className="grid gap-5 md:grid-cols-2">{group.map((b, j) => {
+            const [, num, name] = /^(\d)\.\s+(.*)$/.exec(b.title) ?? [];
+            const intense = j === 3;
+            return <section key={j} id={anchor(b.title)} className={`scroll-mt-28 flex flex-col rounded-2xl border p-6 shadow-sm ${intense ? "border-amber/60 bg-amber/10" : "border-primary/20 bg-secondary/40"}`}>
+              <div className="mb-4 flex items-center gap-3">
+                <span className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-full font-display text-lg font-semibold ${intense ? "bg-amber text-amber-foreground" : "bg-primary text-primary-foreground"}`}>{num}</span>
+                <h2 className="font-display text-xl font-semibold leading-snug text-foreground">{name}</h2>
+              </div>
+              <div className="space-y-4 text-[0.95rem]"><Paragraphs blocks={b.blocks} /></div>
+            </section>;
+          })}</div>;
+        }
         const scoby = article.slug === "cultured-foods" && /what is a scoby/i.test(section.title);
         const takeaway = /takeaway|bringing it all together/i.test(section.title);
         const sources = article.slug === "polyphenols" && /richest sources|how to eat more/i.test(section.title);
-        const practical = article.slug === "deliberate-cold-exposure" && /a note on safety/i.test(section.title);
+        const practical = /a note on safety/i.test(section.title);
         const link = article.slug === "cultured-foods" ? foodLinks[section.title] : undefined;
         const ingredients = recipe && section.mode === "ingredients";
         const deepDive = article.slug === "physical-wellbeing" && /deep dive/i.test(section.title);
