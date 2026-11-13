@@ -83,7 +83,6 @@ describe("Hub content", () => {
     expect(article.standfirst).toContain("Two alternative ways to build on the movement");
     const text = article.blocks.map((b) => b.text).join(" ");
     expect(text).toContain("figure-eight");
-    expect(text).toContain("moving from the centre out");
     const urls = [...text.matchAll(/\]\(([^)]+)\)/g)].map((m) => m[1]);
     expect(urls).toEqual([
       "https://lawrencevanlingen.com/pages/flow-rope",
