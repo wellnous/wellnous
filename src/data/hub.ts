@@ -27,16 +27,16 @@ export const pillars: Pillar[] = [
     ] },
 ];
 
-export type QuickWin = { label: string; slug: string };
+export type QuickWin = { label: string; slug: string; hash?: string };
 
 export const quickWins: QuickWin[] = [
-  { label: "Morning sun exposure", slug: "sleep-strategies" },
-  { label: "Eat real foods", slug: "feeding-your-body" },
-  { label: "Move more", slug: "physical-wellbeing" },
-  { label: "Walk after meals", slug: "added-sugar" },
-  { label: "Protein at breakfast to stay fuller for longer", slug: "protein" },
-  { label: "Finish eating 2–3 hours before bed to aid sleep", slug: "intermittent-fasting" },
-  { label: "Consume a fermented food", slug: "cultured-foods" },
-  { label: "Breathe deeply for 2 min", slug: "breathwork" },
-  { label: "Don't heat food in plastic containers", slug: "reducing-our-toxic-burden" },
+  { label: "Morning sun exposure", slug: "sleep-strategies", hash: "morning-light-setting-the-body-clock" },
+  { label: "Eat real foods", slug: "feeding-your-body", hash: "whole-foods-first" },
+  { label: "Move more", slug: "physical-wellbeing", hash: "building-up-safely-from-where-you-are" },
+  { label: "Walk after meals", slug: "added-sugar", hash: "the-takeaway" },
+  { label: "Protein at breakfast to stay fuller for longer", slug: "protein", hash: "what-s-proven-protein-and-muscle-health" },
+  { label: "Finish eating 2–3 hours before bed to aid sleep", slug: "intermittent-fasting", hash: "3-your-body-clock-why-eating-earlier-may-matter" },
+  { label: "Consume a fermented food", slug: "cultured-foods", hash: "milk-kefir" },
+  { label: "Breathe deeply for 2 min", slug: "breathwork", hash: "1-the-physiological-sigh" },
+  { label: "Don't heat food in plastic containers", slug: "reducing-our-toxic-burden", hash: "4-how-i-reduce-everyday-exposure" },
 ];
