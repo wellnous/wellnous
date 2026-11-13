@@ -79,6 +79,12 @@ function parseSection(title: string, lines: string[]): Article {
       refs.push((b ? b[1] ?? "" : line).trim());
       continue;
     }
+    // An opening italic line is the author's standfirst.
+    const lead = /^\*([^*]+)\*$/.exec(line);
+    if (lead && blocks.length === 0) {
+      blocks.push({ type: "h", level: 4, text: (lead[1] ?? "").trim() });
+      continue;
+    }
     if (line.startsWith(">")) {
       blocks.push({ type: "quote", text: line.replace(/^>\s*/, "").trim() });
       continue;
