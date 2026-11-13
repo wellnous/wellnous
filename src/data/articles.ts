@@ -42,6 +42,8 @@ const cleanTitle = (s: string) =>
 const displayTitle = (title: string) => title === "Physical Wellbeing"
   ? "The Foundations of Physical Movement: Muscle, Metabolism and Healthspan"
   : title === "Deliberate Cold Exposure" ? "Is Cold Exposure Worth the Hype?"
+  : title === "Infra Red Exposure" ? "The Potential Benefits of Infrared Light"
+  : title === "Breathwork" ? "Breathwork: How Breathing Can Change Your State"
   : cleanTitle(title);
 
 const BULLET = /^[-*•]\s+(.*)$/;
