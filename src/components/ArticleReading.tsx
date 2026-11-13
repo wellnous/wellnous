@@ -13,6 +13,9 @@ const foodLinks: Record<string, string> = { "Probiotics": "probiotics", "Milk Ke
 const LABELLED = /^\*\*(.+?):\*\*\s*(.+)$/;
 const PANEL = /^\*\*(.+):\*\*$/;
 const SAFETY = /^\*\*(A note on [a-z ]*safety):\*\*\s*(.+)$/i;
+const BOLD_ONLY = /^\*\*([^*]+?)\*\*$/;
+const FANCY = ["infra-red-exposure", "sleep-strategies", "ayurveda", "flow-rope", "barefoot-walking"];
+const BOXED_H3 = ["ayurveda", "sleep-strategies", "barefoot-walking", "flow-rope"];
 const BARE_URL = /(https?:\/\/\S+)$/;
 
 type Group = { type: "p" | "quote" | "list" | "steps"; items: string[] };
@@ -57,6 +60,39 @@ function Paragraphs({ blocks, fancy = false }: { blocks: Block[]; fancy?: boolea
         i = k - 1;
         continue;
       }
+    }
+
+    // Runs of "**Title**" followed by paragraphs become a grid of topic cards.
+    if (fancy && g.type === "p" && BOLD_ONLY.test(text) && !PANEL.test(text)) {
+      const cards: { title: string; body: string[] }[] = [];
+      let k = i;
+      while (groups[k]?.type === "p" && BOLD_ONLY.test(groups[k]!.items[0] ?? "") && !PANEL.test(groups[k]!.items[0] ?? "")) {
+        const card = { title: BOLD_ONLY.exec(groups[k]!.items[0] ?? "")?.[1] ?? "", body: [] as string[] };
+        k++;
+        while (groups[k]?.type === "p" && !BOLD_ONLY.test(groups[k]!.items[0] ?? "") && !LABELLED.test(groups[k]!.items[0] ?? "")) { card.body.push(groups[k]!.items[0] ?? ""); k++; }
+        if (!card.body.length) break;
+        cards.push(card);
+      }
+      if (cards.length >= 2) {
+        out.push(<div key={i} className="grid gap-4 sm:grid-cols-2">{cards.map((c, j) => (
+          <div key={j} className={`rounded-2xl border border-primary/20 bg-secondary/40 p-5 ${cards.length % 2 === 1 && j === cards.length - 1 ? "sm:col-span-2" : ""}`}>
+            <p className="font-display text-lg font-semibold text-primary">{c.title}</p>
+            <div className="mt-2 space-y-3 text-[0.95rem] leading-relaxed">{c.body.map((t, m) => <p key={m}><Rich text={t} /></p>)}</div>
+          </div>
+        ))}</div>);
+        i = k - 1;
+        continue;
+      }
+    }
+
+    // "**Why it matters:** …" style lead-ins read as labelled strips.
+    if (fancy && g.type === "p" && LABELLED.test(text) && !SAFETY.test(text) && !/^\*\*Try it/.test(text)) {
+      const m = LABELLED.exec(text);
+      out.push(<div key={i} className="rounded-xl border-l-4 border-primary bg-background/70 px-4 py-3">
+        <p className="text-[11px] font-semibold uppercase tracking-widest text-primary">{m?.[1]}</p>
+        <p className="mt-1 text-[0.95rem] leading-relaxed"><Rich text={m?.[2] ?? ""} /></p>
+      </div>);
+      continue;
     }
 
     // A list of "**Label:** detail" items becomes a grid of small cards.
@@ -114,7 +150,8 @@ export function ArticleReading({ article }: { article: Article }) {
   const hasLead = article.blocks[0]?.type === "h" && article.blocks[0]?.text === article.standfirst;
   const sections = readingSections(hasLead ? article.blocks.slice(1) : article.blocks);
   const recipe = recipeSlugs.includes(article.slug);
-  const fancy = article.slug === "infra-red-exposure";
+  const fancy = FANCY.includes(article.slug);
+  const isBox = (s?: { title: string; level: number }) => !!s && (/^\d\.\s/.test(s.title) || (BOXED_H3.includes(article.slug) && s.level === 3));
   const headings = sections.filter((s) => s.title && (!fancy || s.level === 2));
   return <>
     {hasLead && <p className="mt-6 border-l-4 border-amber pl-5 font-display text-xl leading-relaxed text-foreground/80"><Rich text={article.standfirst} /></p>}
@@ -124,17 +161,17 @@ export function ArticleReading({ article }: { article: Article }) {
     </nav>}
     <div className={`mt-8 space-y-8 text-base leading-relaxed text-foreground/85 ${article.slug.startsWith("blog-") ? "blog-reading" : ""}`}>
       {sections.map((section, i) => {
-        const boxed = (article.slug === "breathwork" || fancy) && /^\d\.\s/.test(section.title);
+        const boxed = (article.slug === "breathwork" || fancy) && isBox(section);
         if (boxed) {
-          if (i > 0 && /^\d\.\s/.test(sections[i - 1]?.title ?? "")) return null;
+          if (i > 0 && isBox(sections[i - 1])) return null;
           const group: typeof sections = [];
-          for (let k = i; k < sections.length && /^\d\.\s/.test(sections[k]?.title ?? ""); k++) group.push(sections[k]!);
+          for (let k = i; k < sections.length && isBox(sections[k]); k++) group.push(sections[k]!);
           return <div key={i} className="grid gap-5 md:grid-cols-2">{group.map((b, j) => {
-            const [, num, name] = /^(\d)\.\s+(.*)$/.exec(b.title) ?? [];
+            const [, num, name] = /^(\d)\.\s+(.*)$/.exec(b.title) ?? [, "", b.title];
             const intense = article.slug === "breathwork" && j === 3;
             return <section key={j} id={anchor(b.title)} className={`scroll-mt-28 flex flex-col rounded-2xl border p-6 shadow-sm ${intense ? "border-amber/60 bg-amber/10" : "border-primary/20 bg-secondary/40"}`}>
               <div className="mb-4 flex items-center gap-3">
-                <span className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-full font-display text-lg font-semibold ${intense ? "bg-amber text-amber-foreground" : "bg-primary text-primary-foreground"}`}>{num}</span>
+                {num && <span className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-full font-display text-lg font-semibold ${intense ? "bg-amber text-amber-foreground" : "bg-primary text-primary-foreground"}`}>{num}</span>}
                 <h2 className="font-display text-xl font-semibold leading-snug text-foreground">{name}</h2>
               </div>
               <div className="space-y-4 text-[0.95rem]"><Paragraphs blocks={b.blocks} fancy={fancy} /></div>
@@ -152,7 +189,9 @@ export function ArticleReading({ article }: { article: Article }) {
         const emerging = fancy && /what is established/i.test(section.title);
         const closing = fancy && /^the bigger picture$/i.test(section.title);
         const reading = fancy && /^further reading$/i.test(section.title);
-        return <section key={i} id={anchor(section.title)} className={`scroll-mt-28 ${deepDive ? "border-y-2 border-primary bg-secondary/30 py-7 px-5 sm:px-7" : scoby ? "rounded-lg border bg-secondary/35 p-5 sm:p-8" : takeaway ? "border-y-2 border-primary bg-secondary/30 py-8" : sources ? "border-l-4 border-amber pl-5 sm:pl-7" : keyPoints ? "rounded-2xl border border-primary/25 bg-secondary/40 p-6 sm:p-8" : emerging ? "rounded-2xl border bg-card p-6 sm:p-8" : closing ? "rounded-2xl border-l-4 border-primary bg-secondary/35 p-6 sm:p-8" : reading ? "rounded-2xl border bg-muted p-6 sm:p-8" : practical ? "rounded-lg border bg-secondary/40 p-6" : ingredients ? "border-y border-primary/30 bg-secondary/25 py-6" : section.title ? "border-t pt-7" : ""}`}>
+        const deepDive2 = fancy && /^deep dive/i.test(section.title);
+        const safetyBox = fancy && /^a note on safety$/i.test(section.title);
+        return <section key={i} id={anchor(section.title)} className={`scroll-mt-28 ${deepDive || deepDive2 ? "border-y-2 border-primary bg-secondary/30 py-7 px-5 sm:px-7" : safetyBox ? "rounded-2xl border-l-4 border-amber bg-amber/10 p-6 sm:p-8" : deepDive ? "border-y-2 border-primary bg-secondary/30 py-7 px-5 sm:px-7" : scoby ? "rounded-lg border bg-secondary/35 p-5 sm:p-8" : takeaway ? "border-y-2 border-primary bg-secondary/30 py-8" : sources ? "border-l-4 border-amber pl-5 sm:pl-7" : keyPoints ? "rounded-2xl border border-primary/25 bg-secondary/40 p-6 sm:p-8" : emerging ? "rounded-2xl border bg-card p-6 sm:p-8" : closing ? "rounded-2xl border-l-4 border-primary bg-secondary/35 p-6 sm:p-8" : reading ? "rounded-2xl border bg-muted p-6 sm:p-8" : practical ? "rounded-lg border bg-secondary/40 p-6" : ingredients ? "border-y border-primary/30 bg-secondary/25 py-6" : section.title ? "border-t pt-7" : ""}`}>
           {section.title && <h2 className={`mb-4 font-display font-semibold leading-snug text-foreground ${section.title === "It's Muscle Loss." ? "text-3xl" : takeaway ? "text-3xl text-primary" : keyPoints || reading ? "flex items-center gap-2 text-xl text-primary" : "text-xl"}`}>
             {keyPoints && <ListChecks aria-hidden="true" className="h-5 w-5 shrink-0 text-primary" />}
             {reading && <BookOpen aria-hidden="true" className="h-5 w-5 shrink-0 text-primary" />}
