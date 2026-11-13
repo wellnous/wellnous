@@ -1,11 +1,12 @@
 export type Tray = { name: string; slugs: string[] };
-export type Pillar = { slug: "nutrition" | "physical" | "mind" | "supplements"; title: string; tagline: string; intro: string; trays: Tray[] };
+export type Pillar = { slug: "nutrition" | "physical" | "mind"; title: string; tagline: string; intro: string; trays: Tray[] };
 
 export const pillars: Pillar[] = [
   { slug: "nutrition", title: "Everyday Nutrition", tagline: "Feed your body, simply.",
     intro: "Explore the science on sugar, fibre, protein, the gut and everyday chemical exposures.",
     trays: [
       { name: "Foundations", slugs: ["feeding-your-body", "added-sugar", "protein", "intermittent-fasting"] },
+      { name: "Supplements", slugs: ["creatine", "omega-3"] },
       { name: "Fibre & Plant Power", slugs: ["fibre", "resistant-starch", "polyphenols"] },
       { name: "Gut & Cultured Foods", slugs: ["probiotics", "cultured-foods", "milk-kefir", "kombucha", "kimchi", "fermented-vegetables", "water-kefir", "probiotic-yogurts"] },
     ] },
@@ -24,10 +25,6 @@ export const pillars: Pillar[] = [
       { name: "Rest & Resilience", slugs: ["sleep-strategies", "deliberate-cold-exposure"] },
       { name: "Grounding", slugs: ["breathwork", "ayurveda", "barefoot-walking", "flow-rope", "sleep-strategies"] },
     ] },
-  { slug: "supplements", title: "Supplements", tagline: "Fill gaps, not cabinets.",
-    intro: "Deep dive into the supplements and adaptogens worth knowing about.",
-    trays: [
-      { name: "Start Here", slugs: ["supplements-and-adaptogens", "adaptogens"] },
       { name: "Deep Dives", slugs: ["creatine", "omega-3", "nac"] },
     ] },
 ];

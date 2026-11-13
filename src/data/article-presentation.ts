@@ -15,7 +15,7 @@ const recommendations: Record<string, string[]> = {
   "protein": ["creatine", "feeding-your-body", "intermittent-fasting"],
   "polyphenols": ["fibre", "resistant-starch", "probiotics", "feeding-your-body"],
   "intermittent-fasting": ["protein", "sleep-strategies", "feeding-your-body", "mitochondrial-health"],
-  "mental-wellbeing": ["sleep-strategies", "adaptogens", "barefoot-walking", "deliberate-cold-exposure"],
+  "mental-wellbeing": ["sleep-strategies", "omega-3", "barefoot-walking", "deliberate-cold-exposure"],
   "sleep-strategies": ["mental-wellbeing", "infra-red-exposure", "mitochondrial-health", "physical-wellbeing"],
   "the-art-of-doing-nothing": ["mental-wellbeing", "breathwork", "sleep-strategies", "barefoot-walking"],
   "breathwork": ["mental-wellbeing", "the-art-of-doing-nothing", "deliberate-cold-exposure", "sleep-strategies"],
