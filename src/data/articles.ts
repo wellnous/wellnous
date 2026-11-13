@@ -41,6 +41,7 @@ const cleanTitle = (s: string) =>
 // Retain the existing URL so saved links and every movement card stay valid.
 const displayTitle = (title: string) => title === "Physical Wellbeing"
   ? "The Foundations of Physical Movement: Muscle, Metabolism and Healthspan"
+  : title === "Deliberate Cold Exposure" ? "Is Cold Exposure Worth the Hype?"
   : cleanTitle(title);
 
 const BULLET = /^[-*•]\s+(.*)$/;
