@@ -49,7 +49,7 @@ function Paragraphs({ blocks, fancy = false }: { blocks: Block[]; fancy?: boolea
           panels.push({ label: m[1] ?? "", items: q.items });
           k += 2;
         }
-        out.push(<div key={i} className="grid gap-4 md:grid-cols-2">{panels.map((p, j) => (
+        out.push(<div key={i} className={`grid gap-4 ${panels.length > 1 ? "md:grid-cols-2" : ""}`}>{panels.map((p, j) => (
           <div key={j} className={`rounded-2xl border p-5 ${j === 0 ? "border-primary/25 bg-primary/5" : "border-amber/45 bg-amber/10"}`}>
             <p className={`text-[11px] font-semibold uppercase tracking-widest ${j === 0 ? "text-primary" : "text-amber-deep"}`}>{p.label}</p>
             <ul className="mt-3 space-y-2 text-[0.95rem] leading-relaxed">
