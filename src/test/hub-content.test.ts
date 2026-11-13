@@ -72,6 +72,7 @@ describe("Hub content", () => {
     expect(article?.blocks.filter((b) => b.type === "h" && b.level === 2).map((b) => b.text)).toEqual([
       "The Importance of Getting Down – and Getting Back Up",
       "A Simple Habit Worth Developing",
+      "A Note on Safety",
     ]);
     expect(relatedSlugs(article!, [])).toEqual(["physical-wellbeing", "barefoot-walking", "flow-rope"]);
   });

@@ -47,7 +47,7 @@ export function ArticleReading({ article }: { article: Article }) {
             const intense = j === 3;
             return <section key={j} id={anchor(b.title)} className={`scroll-mt-28 flex flex-col rounded-2xl border p-6 shadow-sm ${intense ? "border-amber/60 bg-amber/10" : "border-primary/20 bg-secondary/40"}`}>
               <div className="mb-4 flex items-center gap-3">
-                <span className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-full font-display text-lg font-semibold ${intense ? "bg-amber text-foreground" : "bg-primary text-primary-foreground"}`}>{num}</span>
+                <span className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-full font-display text-lg font-semibold ${intense ? "bg-amber text-amber-foreground" : "bg-primary text-primary-foreground"}`}>{num}</span>
                 <h2 className="font-display text-xl font-semibold leading-snug text-foreground">{name}</h2>
               </div>
               <div className="space-y-4 text-[0.95rem]"><Paragraphs blocks={b.blocks} /></div>
