@@ -32,8 +32,8 @@ export type QuickWin = { label: string; slug: string; hash?: string };
 export const quickWins: QuickWin[] = [
   { label: "Morning sun exposure", slug: "sleep-strategies", hash: "morning-light-setting-the-body-clock" },
   { label: "Eat real foods", slug: "feeding-your-body", hash: "whole-foods-first" },
-  { label: "Move more", slug: "physical-wellbeing", hash: "building-up-safely-from-where-you-are" },
-  { label: "Walk after meals", slug: "added-sugar", hash: "the-takeaway" },
+  { label: "Move more", slug: "physical-wellbeing", hash: "healthspan-over-lifespan" },
+  { label: "Walk after meals", slug: "physical-wellbeing", hash: "deep-dive-muscle-as-a-glucose-sink" },
   { label: "Protein at breakfast to stay fuller for longer", slug: "protein", hash: "what-s-proven-protein-and-muscle-health" },
   { label: "Finish eating 2–3 hours before bed to aid sleep", slug: "intermittent-fasting", hash: "3-your-body-clock-why-eating-earlier-may-matter" },
   { label: "Consume a fermented food", slug: "cultured-foods", hash: "milk-kefir" },

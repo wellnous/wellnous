@@ -461,76 +461,109 @@ As scientists learn more about cellular energy metabolism, creatine may continue
 
 # Cultured Foods
 
-#### Probiotics
+Cultured foods are foods and drinks that have been transformed through fermentation by beneficial bacteria and yeasts. This age-old process not only helps preserve food but also creates new flavours, textures and nutritional properties.
 
-The beneficial bacteria that support our health are known as probiotics. These microscopic allies play a vital role in our well-being by:
+Fermented foods are a wonderful way to introduce a diverse range of microorganisms into our diet and support a healthy, balanced gut microbiome.
 
-- Producing essential vitamins and anti-inflammatory compounds
-- Protecting our gut from harmful infections
-- Supporting our mood and mental health
-- Powering up our immune system—70% of which resides in the gut
+## Potential health benefits
 
-#### Milk Kefir
+Cultured foods can offer a range of potential health benefits, including:
 
-**Kefir is arguably the most powerful probiotic food you can make at home, and one of the simplest.**
+- **Supporting gut health:** Introducing beneficial microorganisms that may help maintain a healthy balance within our gut microbiome.
+- **Supporting digestion:** Fermentation helps break down certain sugars and compounds, which can make some foods easier to digest.
+- **Supporting immunity:** Our gut microbiome plays an important role in the normal functioning of our immune system.
+- **Producing beneficial compounds:** Fermentation creates organic acids, enzymes, vitamins and other bioactive compounds that contribute to the nutritional properties of food.
+- **Supporting overall wellbeing:** Emerging research suggests that the gut microbiome may influence inflammation, metabolic health and even communication between the gut and brain.
 
-Milk kefir is a traditional fermented food made by adding kefir grains, a living community of beneficial bacteria and yeasts, to milk. Over 24 hours, these microorganisms consume much of the milk's lactose and transform it into a tangy, yoghurt-like drink packed with probiotics, organic acids, bioactive peptides and other health-promoting compounds.
+Different fermented foods contain different microorganisms, so including a variety in your diet is a great way to support microbial diversity.
 
-#### Kombucha
+## Examples of cultured foods
 
-Kombucha is a lightly sparkling fermented tea that has been enjoyed for centuries and is one of the easiest fermented foods to make at home.
+There are lots of delicious ways to incorporate cultured foods into everyday life. Some of my favourites include:
 
-Beyond its taste, kombucha offers a unique combination of probiotics, postbiotics and tea polyphenols. Fermentation not only introduces beneficial microbes but also creates a wide range of bioactive compounds that may help support gut health, microbial diversity and overall wellbeing. Kombucha is a simple and enjoyable way to incorporate more fermented foods into your diet, helping to reconnect your microbiome with the living foods that have become increasingly absent from modern lifestyles.
+**Milk Kefir**
 
-#### Water Kefir
+A tangy, yoghurt-like fermented milk drink made using kefir grains. Rich in diverse live cultures and a great way to introduce fermented dairy into your diet.
 
-Water kefir is a refreshing, naturally fermented drink that offers many of the same microbiome-supporting benefits as milk kefir, but without the dairy. In fact, it was my latest fermentation obsession. I love kombucha, but I wanted a caffeine-free alternative for the evenings. Made using translucent water kefir grains, a living culture of bacteria and yeasts, water kefir transforms simple sugar water into a lightly sparkling drink containing a diverse range of beneficial microorganisms. Depending on the grains and fermentation conditions, water kefir can contain dozens of probiotic strains, making it a fantastic option for anyone looking to support their gut health, particularly those following a vegan or dairy-free lifestyle.
+**Kombucha**
 
-#### Pro-biotic Yogurts
+A lightly sparkling fermented tea made using a culture of bacteria and yeast. It contains fermentation-derived compounds and tea polyphenols.
 
-Traditional yogurt is one of the world's oldest fermented foods, transforming milk into a nutrient-rich food that's often easier to digest than milk itself. During fermentation, beneficial bacteria consume lactose, produce lactic acid and create compounds that contribute to yogurt's flavour, texture and health benefits. Alongside providing protein, calcium and other nutrients, yogurt can be a valuable source of live microbes that help support a healthy gut microbiome.
+**Water Kefir**
 
-Inspired by Dr. William Davis's _Super Gut_ and the work of Cultured Food Life, these probiotic "yogurts" take the concept a step further. Rather than relying solely on traditional yogurt cultures, they use specific probiotic strains such as **L. reuteri**, **L. casei** and **L. gasseri**, fermented for up to 36 hours to achieve exceptionally high concentrations of beneficial bacteria.
+A naturally fermented, dairy-free and caffeine-free alternative to kombucha. Made using water kefir grains, it produces a refreshing, lightly sparkling drink.
 
-#### Cultured Vegetables
+**Probiotic Yogurts**
 
-Traditional fermentation have unique flavours, textured and nutritional profiles.
+Traditional yoghurt provides beneficial live cultures, protein and calcium. You can also make specialised probiotic yoghurts using selected bacterial strains to introduce different microbes into your diet.
 
-Classic Lacto-fermentation uses the lactic-acid bacteria naturally on the surface of the vegetables to convert the starches and sugars of the vegetables into lactic acid. This is a natural preservative that inhibits the growth of harmful bacteria.
+**Cultured Vegetables**
 
-This acid makes it too acidic for harmful bacteria to survive but allows the beneficial, probiotic lactic-acid loving bacteria to thrive.
+Vegetables such as carrots, cucumbers and cabbage can be fermented through a process called lacto-fermentation. This creates naturally tangy, crunchy foods containing beneficial lactic acid bacteria.
 
-This also starts to break down the foods, making the vegetables easier to digest. This also releases and converts compounds into a whole host of beneficial vitamins, enzymes and bioactive chemicals such as vitamin C. Far more than the original starting vegetable.
+**Kimchi**
 
-#### Kimchi
+A traditional Korean fermented vegetable dish, usually made with cabbage, radish, garlic, ginger and chilli. It's packed with flavour, fibre and a variety of nutrients, as well as beneficial live cultures.
 
-Kimchi is well known for it's probiotic content. As indicated in previous sections, these probiotics have a range of health benefits including helping your immune system, improving your mental health as well as helping your digestion and reducing inflammation. It's various methods and ingredients as well as traditional methods of fermentation results in a very unami, spicy, weirdly addictive flavour and crunchy texture. As Kimchi usually includes far more vegetables than other fermented products, it should contain a wide range of vitamins, such as A, B, C, and K, and minerals like calcium, iron, phosphorus, and selenium. There is also a high amount of fibre in Kimchi which will support your microbiome. More importantly, is delicious!
+## What is a SCOBY?
 
-## What is a SCOBY
+You may come across the term SCOBY when exploring home fermentation. It stands for *Symbiotic Culture of Bacteria and Yeast* and describes a community of microorganisms that work together to ferment food and drinks.
 
-**SCOBY stands for Symbiotic Culture of Bacteria and Yeast**
+Kefir grains and kombucha cultures are both examples of these living microbial communities, although they look quite different.
 
-It basically means a wonderful collection of different probiotics and yeast that work together symbiotically.
+## Where can you get started?
 
-**KEFIR**
+The wonderful thing about cultured foods is that many are incredibly easy to make at home. Once you have your starter cultures or grains, you can often reuse them again and again to create fresh batches.
 
-The Water and Milk Kefir Grains are a **SCOBY** that reside in a polysaccharide and protein matrix together. They replicate in the water or milk and digest the food into beneficial chemicals.
+There are lots of online communities dedicated to home fermentation, where people regularly share or sell starter cultures.
 
-**KOMBUCHA**
+I regularly use the **Fermenting Friends UK** Facebook group, where members often offer kefir grains and kombucha cultures.
 
-The Kombucha **SCOBY** is often mistaken. When you make Kombucha, you get a pellicle form, usually at the top of the fermentation liquid. This is a by-product of the fermentation and is a gelatinous disc of cellulose. The actual SCOBY is the bacteria and yeasts that live within the fluid. .
+Facebook Marketplace is another good place to look, or you can find starter cultures through online shops such as Etsy and Amazon.
 
-The Pellicle can protect the fluid from contamination from the the surface, it does contain a large number of the probiotics, but is not essential for brewing. A new pellicle will form after each brew.
+A good-quality, plain, unpasteurised kombucha can also be used as a starter for brewing your own kombucha.
 
-**So where can you get them?**
+## What does the science tell us?
 
-There are a number of groups on social media where individuals offer these Grains and SCOBYs for free. It's a beautiful community of fermenting lovers. I regularly use "Fermenting Friends UK" on Facebook.
+Interest in fermented foods has grown considerably in recent years, and we're beginning to see some exciting research into how they may influence our gut microbiome and overall health.
 
-Facebook marketplace is also great place to start.
+### The importance of microbiome diversity
 
-A store bought, non-pasteurized, PLAIN kombucha can also be used as a starter SCOBY.
+Our gut is home to trillions of microorganisms, including bacteria, fungi and other microbes. Together, they form what we call our gut microbiome, and they play an important role in our overall health.
 
-Otherwise, there are many online stores offering these starters. ETSY or Amazon are great!
+One of the key indicators researchers look at when studying gut health is microbial diversity – essentially, the variety of different microorganisms living in our digestive system.
+
+Generally, greater microbial diversity is associated with a healthier and more resilient gut ecosystem. Different microorganisms perform different jobs, helping to break down food, produce beneficial compounds, support our immune system and maintain the delicate balance within our digestive tract.
+
+Research organisations such as ZOE have helped bring this subject into the spotlight, highlighting the relationship between the microbes living in our gut, the foods we eat and our wider health.
+
+Importantly, diversity isn't the only measure of a healthy microbiome. The types of microorganisms present and the functions they perform matter too. Nevertheless, encouraging a varied and well-functioning gut microbiome is an important part of supporting our overall wellbeing.
+
+### The Stanford fermented-food study
+
+One of the most interesting studies was conducted by researchers at Stanford University and published in the journal *Cell* in 2021.
+
+The researchers compared two dietary approaches in 36 healthy adults over 17 weeks. One group followed a high-fibre diet, while the other increased their intake of fermented foods such as yoghurt, kefir and fermented vegetables.
+
+The results were fascinating. Those eating more fermented foods experienced an increase in gut microbial diversity, alongside reductions in several inflammatory markers.
+
+Interestingly, the high-fibre group did not experience the same increase in microbial diversity, although fibre did produce other beneficial changes in the gut, including an increase in the microbiome's capacity to break down carbohydrates.
+
+This suggests that fermented foods and fibre may support our gut health in different, complementary ways. Ideally, we want plenty of both!
+
+### What other research tells us
+
+Other research is equally encouraging:
+
+- **Digestive health:** A 2025 systematic review and meta-analysis of 25 studies, involving more than 4,300 participants, found potential benefits of fermented foods for bowel regularity, stool consistency and digestive comfort.
+- **Fermented dairy:** A substantial body of research supports the benefits of yoghurt and fermented milk products. These foods provide beneficial live cultures, and traditional yoghurt cultures have been shown to help people digest lactose more easily.
+- **Probiotic strains:** Researchers are also investigating specific bacterial strains, including *Lactobacillus reuteri*, for their potential effects on digestive health, immune function and other aspects of wellbeing. This is an area that has attracted considerable interest, particularly through the work of Dr William Davis and his book *Super Gut*, which explores making specialised probiotic yoghurts at home.
+
+It's worth remembering that not all fermented foods are the same, and benefits can vary depending on the microorganisms involved, the food itself and how it is prepared. Not every fermented food is necessarily a probiotic, and research into many of the claimed benefits is still developing.
+
+What is becoming increasingly clear is that fermented foods are a valuable addition to a varied diet. Alongside fibre-rich vegetables, fruits, legumes and wholegrains, they offer another way to nourish our gut microbiome and support our overall health.
+
+For me, incorporating a variety of traditionally fermented foods into everyday eating is a simple, delicious and enjoyable way to support gut health.
 
 # Deliberate Cold Exposure
 

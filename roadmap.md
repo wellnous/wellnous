@@ -22,3 +22,7 @@
 - [x] Replace Physical Wellbeing with a cautious movement, muscle and healthspan foundation article
 - [x] Add consistent closing safety disclaimers across Physical Protocols articles
 - [x] Verify reading, navigation and mobile layout without publishing
+- [x] Remove Kombucha tab from header navigation
+- [x] Retarget quick wins: Move more → Healthspan Over Lifespan; Walk after meals → glucose-sink deep dive
+- [x] Swap Cultured Foods article for new version
+- [ ] Publish all changes
