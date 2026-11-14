@@ -25,4 +25,4 @@
 - [x] Remove Kombucha tab from header navigation
 - [x] Retarget quick wins: Move more → Healthspan Over Lifespan; Walk after meals → glucose-sink deep dive
 - [x] Swap Cultured Foods article for new version
-- [ ] Publish all changes
+- [ ] Publish all changes — waiting on your go-ahead (publish was declined)
