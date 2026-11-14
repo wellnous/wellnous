@@ -16,6 +16,9 @@ const SAFETY = /^\*\*(A note on [a-z ]*safety):\*\*\s*(.+)$/i;
 const BOLD_ONLY = /^\*\*([^*]+?)\*\*$/;
 const FANCY = ["mental-wellbeing", "food-additives-and-gut-health", "omega-3", "creatine", "infra-red-exposure", "sleep-strategies", "ayurveda", "flow-rope", "barefoot-walking", "cultured-foods"];
 const BOXED_H3 = ["mental-wellbeing", "creatine", "ayurveda", "sleep-strategies", "barefoot-walking", "flow-rope"];
+// Articles whose level-3 sections are self-contained methods: each one, plus the
+// sub-headings under it, reads as a single recipe box rather than separate strips.
+const METHOD_H3 = ["fermented-vegetables"];
 const BARE_URL = /(https?:\/\/\S+)$/;
 
 type Group = { type: "p" | "quote" | "list" | "steps"; items: string[] };
@@ -166,8 +169,9 @@ export function ArticleReading({ article }: { article: Article }) {
   const sections = readingSections(hasLead ? article.blocks.slice(1) : article.blocks);
   const recipe = recipeSlugs.includes(article.slug);
   const fancy = FANCY.includes(article.slug);
+  const method = METHOD_H3.includes(article.slug);
   const isBox = (s?: { title: string; level: number }) => !!s && (/^\d\.\s/.test(s.title) || (BOXED_H3.includes(article.slug) && s.level === 3));
-  const headings = sections.filter((s) => s.title && (!fancy || s.level === 2));
+  const headings = method ? sections.filter((s) => s.level === 3) : sections.filter((s) => s.title && (!fancy || s.level === 2));
   return <>
     {hasLead && <p className="mt-6 border-l-4 border-amber pl-5 font-display text-xl leading-relaxed text-foreground/80"><Rich text={article.standfirst} /></p>}
     {headings.length > 2 && <nav aria-label="In this article" className="mt-8 border-y py-4">
@@ -176,6 +180,30 @@ export function ArticleReading({ article }: { article: Article }) {
     </nav>}
     <div className={`mt-8 space-y-8 text-base leading-relaxed text-foreground/85 ${article.slug.startsWith("blog-") ? "blog-reading" : ""}`}>
       {sections.map((section, i) => {
+        // Each level-3 method becomes one self-contained box: its own title, its
+        // own "what you'll need" / "what to do" blocks, and nothing leaking out.
+        if (method && section.level === 3) {
+          const prev = sections[i - 1];
+          if (prev && prev.level > 3) return null;
+          const group: typeof sections = [];
+          for (let k = i; k < sections.length && (k === i || (sections[k]?.level ?? 0) > 3); k++) group.push(sections[k]!);
+          const ordinal = sections.slice(0, i).filter((s) => s.level === 3).length + 1;
+          return <section key={i} id={anchor(section.title)} className="scroll-mt-28 rounded-2xl border border-primary/25 bg-secondary/30 p-6 sm:p-8">
+            <div className="flex items-center gap-3">
+              <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-primary font-display text-base font-semibold text-primary-foreground">{ordinal}</span>
+              <h2 className="font-display text-2xl font-semibold leading-snug text-primary">{section.title}</h2>
+            </div>
+            <div className="mt-4 space-y-5">
+              <div className="space-y-3 text-[0.95rem] leading-relaxed"><Paragraphs blocks={section.blocks} /></div>
+              {group.slice(1).map((s, j) => <div key={j} className="space-y-2">
+                {s.title && <p className="text-[11px] font-semibold uppercase tracking-widest text-amber-deep">{s.title}</p>}
+                {s.mode === "ingredients"
+                  ? <ul className="grid list-disc gap-x-8 gap-y-2 pl-5 marker:text-primary sm:grid-cols-2">{s.blocks.map((b, m) => <li key={m}><Rich text={b.text} /></li>)}</ul>
+                  : <div className="space-y-3 text-[0.95rem] leading-relaxed"><Paragraphs blocks={s.blocks} /></div>}
+              </div>)}
+            </div>
+          </section>;
+        }
         const boxed = (article.slug === "breathwork" || fancy) && isBox(section);
         if (boxed) {
           if (i > 0 && isBox(sections[i - 1])) return null;

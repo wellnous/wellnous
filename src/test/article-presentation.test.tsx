@@ -49,4 +49,22 @@ describe("Kombucha presentation", () => {
     expect(screen.getByText(/don't do anything that could put yourself at risk/)).toBeInTheDocument();
     expect(screen.getByText(/work with a health care professional/)).toBeInTheDocument();
   });
+
+  // The veggie page is three methods, not one long recipe: each must read as its
+  // own box, with its own steps, and the old "ferment anything" opener must stay gone.
+  it("presents cultured vegetables as three separate method boxes", () => {
+    const article = getArticle("fermented-vegetables");
+    if (!article) throw new Error("Fermented Vegetables is missing");
+
+    const { container } = render(<ArticleBody article={article} />);
+
+    for (const title of ["Fermented Garlic Honey", "Fermenting With Just Salt (Simple Sauerkraut)", "Fermenting Using Whey (Mixed Summer Vegetables)"]) {
+      expect(screen.getByRole("heading", { name: title })).toBeInTheDocument();
+    }
+    // 7 garlic-honey steps + 9 salt steps + 4 whey steps, each inside its own box.
+    expect(container.querySelectorAll("ol.recipe-steps")).toHaveLength(3);
+    expect(container.querySelectorAll("ol.recipe-steps li")).toHaveLength(20);
+    expect(screen.getByText("1 shredded corguette")).toBeInTheDocument();
+    expect(screen.queryByText(/basically ferment anything/)).toBeNull();
+  });
 });

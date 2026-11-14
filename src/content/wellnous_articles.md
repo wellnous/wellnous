@@ -3349,11 +3349,11 @@ If it seems daunting, please drop me a message and we can arrange a call to go t
 
 # Fermented Vegetables
 
-#### PICKLES ANYONE?
+#### Pickles, Preserves and Probiotics
 
-You can basically ferment anything!
+For as long as people have been growing food, they have been looking for ways to keep it. Fermentation is one of the oldest and most reliable answers: rather than cooking or drying the harvest, we give the microbes already living on the vegetable the right conditions and let them get to work.
 
-Traditional fermentation have unique flavours, textured and nutritional profiles.
+Traditional fermentation gives foods unique flavours, textures and nutritional profiles.
 
 The fungus _Rhizopus, for example_ ferments soybeans into tempeh
 
@@ -3369,9 +3369,9 @@ This also starts to break down the foods, making the vegetables easier to digest
 
 ## How to ferment your veggies
 
-#### GARLIC HONEY
+### Fermented Garlic Honey
 
-This is based off the recipe from [https://www.growforagecookferment.com/fermented-honey-garlic/](https://www.growforagecookferment.com/fermented-honey-garlic/%C2%A0)
+This is based off the recipe from [https://www.growforagecookferment.com/fermented-honey-garlic/](https://www.growforagecookferment.com/fermented-honey-garlic/)
 
 Both Honey and Garlic are powerhouses for immune system boosting. Garlic and Honey are full of prebiotics and polyphenols that are hugely beneficial to your gut microbiome and therefore your overall immunity.
 
@@ -3387,13 +3387,13 @@ Fermenting them both together is a wonderful way to give yourself a boost when y
 6. Every few days tighten the lid and turn the jar, coating the garlic in honey, as the garlic will tend to float
 7. Store in a cool place
 
-#### FERMENTING WITH JUST SALT
+### Fermenting With Just Salt (Simple Sauerkraut)
 
 Using just salt. The salt keeps the harmful pathogens at bay while allowing the probiotics to do their thing.
 
 There are many recipes out there for common fermenting foods.
 
-I love Fermented Cabbage a.k.a. **Saurkraut**
+I love Fermented Cabbage a.k.a. **Sauerkraut**
 
 I find the BBC recipe to be just great. [https://www.bbcgoodfood.com/recipes/simple-sauerkraut](https://www.bbcgoodfood.com/recipes/simple-sauerkraut)
 
@@ -3408,9 +3408,10 @@ I find the BBC recipe to be just great. [https://www.bbcgoodfood.com/recipes/sim
 7. Cover the bowl/jar
 8. Leave to ferment for around 2-6 weeks.
 9. Keep an eye on the ferment and remove any scum build up.
+
 Salt can be used for almost all vegetables, in a similar way. Alter the ferment time depending on how soft the veggies are.
 
-#### FERMENTING USING WHEY
+### Fermenting Using Whey (Mixed Summer Vegetables)
 
 I'm hoping you've ventured onto my Kefir pages - one of my favourite fermented foods.
 
@@ -3424,9 +3425,9 @@ Add around 2Tbsp of Whey to a 1L jar of vegetables and add the rest as filtered 
 
 You can add a little salt to keep the vegetables crunchy.
 
-#### WHAT YOU'LL NEED:
-
 I use this method for my mixed vegetable ferments.
+
+#### WHAT YOU'LL NEED:
 
 - 1 shredded corguette
 - 1 shredded carrot
@@ -3446,7 +3447,6 @@ I use this method for my mixed vegetable ferments.
 2. Add all your ingredients
 3. Cover with filtered water
 4. Leave for 1 week at room temperature then move to the refrigerator.
-
 # Probiotic Yogurts
 
 #### Taking Fermented Foods to the Next Level
