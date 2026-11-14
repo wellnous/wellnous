@@ -184,9 +184,9 @@ export function ArticleReading({ article }: { article: Article }) {
         // own "what you'll need" / "what to do" blocks, and nothing leaking out.
         if (method && section.level === 3) {
           const prev = sections[i - 1];
-          if (prev && prev.level >= 3) return null;
+          if (prev && prev.level > 3) return null;
           const group: typeof sections = [];
-          for (let k = i; k < sections.length && (sections[k]?.level ?? 0) >= 3; k++) group.push(sections[k]!);
+          for (let k = i; k < sections.length && (k === i || (sections[k]?.level ?? 0) > 3); k++) group.push(sections[k]!);
           const ordinal = sections.slice(0, i).filter((s) => s.level === 3).length + 1;
           return <section key={i} id={anchor(section.title)} className="scroll-mt-28 rounded-2xl border border-primary/25 bg-secondary/30 p-6 sm:p-8">
             <div className="flex items-center gap-3">
