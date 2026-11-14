@@ -14,7 +14,7 @@ const LABELLED = /^\*\*(.+?):\*\*\s*(.+)$/;
 const PANEL = /^\*\*(.+):\*\*$/;
 const SAFETY = /^\*\*(A note on [a-z ]*safety):\*\*\s*(.+)$/i;
 const BOLD_ONLY = /^\*\*([^*]+?)\*\*$/;
-const FANCY = ["mental-wellbeing", "food-additives-and-gut-health", "omega-3", "creatine", "infra-red-exposure", "sleep-strategies", "ayurveda", "flow-rope", "barefoot-walking"];
+const FANCY = ["mental-wellbeing", "food-additives-and-gut-health", "omega-3", "creatine", "infra-red-exposure", "sleep-strategies", "ayurveda", "flow-rope", "barefoot-walking", "cultured-foods"];
 const BOXED_H3 = ["mental-wellbeing", "creatine", "ayurveda", "sleep-strategies", "barefoot-walking", "flow-rope"];
 const BARE_URL = /(https?:\/\/\S+)$/;
 
@@ -88,7 +88,7 @@ function Paragraphs({ blocks, fancy = false, habits = false }: { blocks: Block[]
       }
       if (cards.length >= 2) {
         out.push(<div key={i} className="grid gap-4 sm:grid-cols-2">{cards.map((c, j) => (
-          <div key={j} className={`rounded-2xl border border-primary/20 bg-secondary/40 p-5 ${cards.length % 2 === 1 && j === cards.length - 1 ? "sm:col-span-2" : ""}`}>
+          <div key={j} id={anchor(c.title)} className={`scroll-mt-24 rounded-2xl border border-primary/20 bg-secondary/40 p-5 ${cards.length % 2 === 1 && j === cards.length - 1 ? "sm:col-span-2" : ""}`}>
             <p className="font-display text-lg font-semibold text-primary">{c.title}</p>
             <div className="mt-2 space-y-3 text-[0.95rem] leading-relaxed">{c.body.map((t, m) => <p key={m}><Rich text={t} /></p>)}</div>
           </div>
