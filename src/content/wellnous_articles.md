@@ -3449,88 +3449,113 @@ I use this method for my mixed vegetable ferments.
 4. Leave for 1 week at room temperature then move to the refrigerator.
 # Probiotic Yogurts
 
-#### Taking Fermented Foods to the Next Level
+Not all yoghurt is created equal. And that lovely-looking pot with *probiotic* splashed across the label? It might not be quite the gut-friendly superstar you think it is.
 
-Traditional yogurt is one of the world's oldest fermented foods, transforming milk into a nutrient-rich food that's often easier to digest than milk itself. During fermentation, beneficial bacteria consume lactose, produce lactic acid and create compounds that contribute to yogurt's flavour, texture and health benefits. Alongside providing protein, calcium and other nutrients, yogurt can be a valuable source of live microbes that help support a healthy gut microbiome.
+Yoghurt can be a wonderfully nutritious food, providing protein, calcium and beneficial live bacteria. But here's the catch: **the yoghurt you choose really matters.**
 
-Making your own yogurt is surprisingly simple. All you need is milk, a starter culture and gentle warmth. By holding milk at around 40-45°C for several hours, the bacteria multiply and ferment the milk into thick, tangy yogurt. Homemade yogurt is often fresher, less processed and more cost-effective than many shop-bought varieties, while allowing you to control the ingredients and avoid added sugars.
+Some are little more than milk and live cultures. Others come with a surprisingly long list of added ingredients. So let's take a closer look at what's actually in the pot.
 
-Inspired by Dr. William Davis's _Super Gut_ and the work of Cultured Food Life, these probiotic "yogurts" take the concept a step further. Rather than relying solely on traditional yogurt cultures, they use specific probiotic strains such as **L. reuteri**, **L. casei** and **L. gasseri**, fermented for up to 36 hours to achieve exceptionally high concentrations of beneficial bacteria.
+## First things first: what makes a proper yoghurt?
 
-Each strain has attracted interest for different reasons. **L. reuteri** has been studied for its potential role in supporting gut health, immune function and even the gut-brain axis. **L. casei** is one of the most researched probiotic species and is often associated with digestive and immune health. **L. gasseri** has gained attention for its possible effects on metabolic health, appetite regulation and body composition. While research is ongoing and no single strain is a magic bullet, it's fascinating to see how different microbes can influence health in different ways.
+Traditional yoghurt starts with milk and two particular bacteria: *Streptococcus thermophilus* and *Lactobacillus bulgaricus*.
 
-What makes these yogurts particularly interesting is that you're not only consuming live microbes, but also the beneficial compounds they produce during fermentation. Alongside a fibre-rich, microbiome-friendly diet, they've become a regular part of my wellness routine.
+These little workers ferment the milk, producing lactic acid. That's what gives yoghurt its familiar tang and thick texture.
 
-The key is sourcing the correct probiotic strain and using a yogurt maker capable of maintaining a precise temperature for extended periods. Once you've made a successful batch, a small amount can be used to culture future batches, making this a surprisingly affordable way to enjoy probiotic-rich fermented foods at home.
+That's yoghurt in its simplest form. Milk, cultures and a little fermentation magic!
 
-For the creamiest results, I use organic full-fat UHT milk, organic double cream and potato starch as a fermentation substrate. The result is a thick, tangy, delicious fermented food that delivers far more than taste alone. For anyone interested in supporting their microbiome, it's a fascinating experiment and a natural progression from making traditional homemade yogurt.
+But turn over some supermarket pots and you'll find a rather different story. Added sugar, sweeteners, flavourings, starches, gums and thickeners can all make an appearance.
 
-## How to make the yogurt
+These ingredients don't automatically mean a product isn't yoghurt, but they do make it worth asking: **what else am I actually eating?**
 
-#### My Method and Basic Overview
+My preference is a plain, natural yoghurt with a short ingredient list. Ideally, just milk and live yoghurt cultures. You can add your own fresh fruit, berries, nuts or a little honey if you fancy something sweeter.
 
-If it seems daunting, please drop me a message and we can arrange a call to go through it. If you live local, I can share my starters with you.
+And don't be fooled by the word *natural* or *probiotic* on the front of a packet. The ingredient list tells you much more.
 
-#### What You’ll Need
+One other thing to check: some yoghurts are heat-treated after fermentation. This can kill the live cultures, so don't assume every yoghurt contains living bacteria.
 
-- Yogurt Maker (with variable temperature option)
-- The specific probiotic strain (usually in tablet form or previous batch)
-- 1L Full fat, organic, UK milk
-- 1 small tub of organic double cream
-- 2 TBSP Organic Potato Starch
+<text>**A little word about children's yoghurts…**</text>
 
-#### What to do
+Those colourful little pots and pouches are often marketed as healthy snacks for children. But take a look at the ingredients and you may find added sugar, fruit concentrates, flavourings, starches, gums and other additives.
 
-1. Wash everything thoroughly and disinfect with hot water.
-2. Add your potato starch and probiotic strain along to the yogurt maker container
-3. Add some of your UHT milk and swish around to mix it all together.
-4. Add the rest of the milk and cream
-5. Set the yogurt maker for the set time and temperature
-6. Your yogurt is ready to consume as soon as its finished; I prefer cooling it down first in the refrigerator.
+Many of these products are highly processed and fall into the ultra-processed food (UPF) category. They can be a far cry from a simple yoghurt.
 
-## More on the specific strains...
+Don't assume that because it's made for children, it's automatically a healthy choice. A plain natural yoghurt with some fresh fruit added is often a much simpler option.
 
-#### L. reuteri
+## What's so good about yoghurt anyway?
 
-The strain most people use for yogurt making is L. reuteri DSM 17938, often alongside L. reuteri ATCC PTA 6475, which are found in BioGaia Gastrus tablets. These are the strains Dr. Davis discusses in Super Gut. BioGaia's L. reuteri strains are among the most extensively studied probiotic strains available.
+Yoghurt has a lot going for it:
 
-Potential benefits studied:
+- **It's nutritious.** It can provide protein, calcium, phosphorus and B vitamins.
+- **It may be easier to digest than milk.** Live yoghurt cultures help break down lactose, which is why some people who struggle with milk find yoghurt easier to tolerate.
+- **It can provide live bacteria.** Depending on the product and cultures used, these may help support digestion and the gut microbiome.
 
-Gut health and microbiome support
+And that last point is where things get particularly interesting.
 
-Immune function
+Your gut is home to a huge community of microorganisms. It's not simply about having lots of bacteria, but having a varied community that can carry out lots of different jobs.
 
-Gut barrier integrity
+Some research suggests fermented foods may help support this diversity. It's one reason I think they're worth making room for in the diet.
 
-Gut-brain axis interactions
+## Kefir: yoghurt's more adventurous cousin
 
-#### L. casei
+If you've tried kefir, you'll know it's usually thinner, tangier and sometimes a little fizzy compared with yoghurt.
 
-When people refer to L. casei, the best-known researched strain is Lacticaseibacillus paracasei Shirota (formerly Lactobacillus casei Shirota), the probiotic found in Yakult. It is one of the most researched probiotic strains worldwide.
+But the difference isn't just the texture.
 
-Potential benefits studied:
+Traditional milk kefir is made using kefir grains. These aren't grains in the usual sense – they're little clusters of bacteria and yeasts living together in a rather clever partnership.
 
-Digestive health
+They ferment the milk and create a varied mix of microorganisms and fermentation products.
 
-Immune support
+You'll find plenty of kefir drinks in supermarkets now. Some are made using selected starter cultures rather than traditional kefir grains. They can still be fermented foods, but they aren't necessarily the same as traditional grain-fermented kefir.
 
-Reduced risk of antibiotic-associated diarrhoea
+If you want to try the traditional version, look for kefir made with real grains – or have a go at making your own.
 
-Improved bowel regularity
+## Yakult and Actimel: what's the attraction?
 
-#### L. gasseri
+Those little bottles have become familiar sights in supermarket fridges. They're convenient, easy to drink and marketed around their added bacteria.
 
-Several strains exist, but one of the most studied is L. gasseri BNR17, originally isolated from human breast milk and now available in specialist probiotic supplements.
+Yakult contains a particular strain known as *L. casei* Shirota. Actimel also uses selected bacterial cultures, including its own proprietary strains.
 
-Potential benefits studied:
+The important thing here is that probiotic effects are often **strain-specific**. One strain may have been studied for a particular benefit, but that doesn't mean every member of the same bacterial species does the same thing.
 
-Gut health
+These drinks can be a convenient way to consume particular cultures. But check the label, too. Some versions contain quite a bit of added sugar, and they're not a substitute for a varied diet rich in fibre and different plant foods.
 
-Metabolic health
+## The rise of specialist probiotic yoghurts
 
-Visceral fat and weight management
+There's another side to all this: yoghurts made with particular bacterial strains, chosen for their potential effects rather than simply for taste or texture.
 
-Blood sugar regulation support
+Dr William Davis brought a lot of attention to this idea in his book *Super Gut*. He explores the use of specific bacteria, including *L. reuteri*, in homemade fermented yoghurt.
+
+It's an interesting area because different bacteria can have very different effects. Researchers are looking at strains that may influence the gut lining, immune activity and even communication between the gut and other parts of the body.
+
+But there's an important distinction. A study showing that a particular strain has an effect doesn't automatically mean that eating any yoghurt containing that species will give you the same result. The strain, amount, fermentation process and final number of live bacteria all matter.
+
+So, specialist yoghurts are an exciting area to explore – just be wary of big health claims that go further than the evidence.
+
+And one bacterium that's attracting plenty of attention is *L. reuteri*. It's interesting enough to deserve a closer look of its own.
+
+---
+
+## What does the research say?
+
+**Fermented foods and the gut microbiome**
+
+A Stanford study published in *Cell* in 2021 compared a diet rich in fermented foods with a high-fibre diet in 36 healthy adults. The fermented-food group increased the diversity of their gut microbiome and showed reductions in several inflammatory markers.
+
+It's an interesting finding, although it was a relatively small study and doesn't mean fermented foods are a cure-all – or that fibre is any less important.
+
+**Yoghurt and lactose digestion**
+
+There is good evidence that live yoghurt cultures help people with lactose maldigestion digest lactose. This is one reason yoghurt may be better tolerated than milk by some people.
+
+**Why the bacterial strain matters**
+
+Probiotic research is increasingly focused on individual strains rather than treating all bacteria of one species as interchangeable. A result for one strain cannot automatically be applied to another.
+
+### Further reading
+
+- Wastyk HC et al. (2021). *Gut-microbiota-targeted diets modulate human immune status.* Cell. [Read the study](https://doi.org/10.1016/j.cell.2021.06.019).
+- EFSA. Scientific opinion on live yoghurt cultures and improved lactose digestion. [Read the assessment](https://www.efsa.europa.eu/).
+- Yakult UK. [Yakult Original – ingredients and cultures](https://www.yakult.co.uk/products/yakult-original/).
 
 # Kimchi
 
@@ -4072,3 +4097,441 @@ For those interested in studying movement mechanics, strength principles, and fe
 ## Health & Safety Disclaimer
 
 *The information in this article is provided solely for educational and informational purposes and does not constitute medical, physiotherapy, or personal fitness advice. Exercise inherently involves a risk of injury. Before starting any new exercise programme – particularly one involving resistance training, free weights, or dynamic movements – consult your GP or an appropriately qualified healthcare or exercise professional to ensure it is safe and appropriate for your individual medical history and physical condition.*
+
+# Childrens Nutrition
+
+Walk through the supermarket and you'll find shelves of food designed specifically for children. Brightly coloured cereals, yoghurt pouches, snack bars and fruit-flavoured treats all promise to support growing bodies.
+
+Many carry claims about added vitamins, calcium, fibre or real fruit. But how much do these claims tell us about the overall quality of the food?
+
+A product can contain added nutrients and still be highly processed or high in sugar. With so much choice and clever marketing, it's not always easy to tell what we're really buying.
+
+So, what should parents know about ultra-processed foods, and why does it matter during childhood?
+
+## How much ultra-processed food are children eating?
+
+The figures are quite startling.
+
+A UK study published in 2024 found that ultra-processed foods (UPFs) provided **46.9% of calories at 21 months**, rising to **59.4% by age seven**.
+
+That's almost six in every ten calories coming from UPFs in the seven-year-olds studied.
+
+Common examples included yoghurts, breakfast cereals and breads, as well as sweet cereals and puddings. Children with higher UPF intakes also tended to consume more free sugars and sodium.
+
+These figures come from a particular UK cohort, rather than a survey of every child in the country, but they show just how early highly processed foods can become a major part of children's diets.
+
+## What exactly are ultra-processed foods?
+
+Not all processing is bad. Freezing vegetables, pasteurising milk and making yoghurt are all forms of food processing, and can be part of a healthy diet.
+
+Ultra-processed foods are different. The NOVA classification describes them as industrial formulations often made with refined ingredients and additives such as flavourings, colours, emulsifiers and sweeteners.
+
+Examples can include fizzy drinks, confectionery, many packaged snacks, some breakfast cereals and instant meals.
+
+Importantly, not all UPFs have the same nutritional value, and the presence of an additive doesn't automatically mean a food is harmful. The classification looks at how food is made, not simply whether it is healthy or unhealthy.
+
+But when these products make up such a large part of children's diets, it's worth asking what they are replacing.
+
+## Why childhood nutrition matters
+
+Childhood is a period of rapid growth and development. Food provides the energy and building blocks needed for growing bodies, developing brains and healthy digestion.
+
+A varied diet helps provide protein, healthy fats, fibre and the many vitamins and minerals children need. Fruit, vegetables, pulses, wholegrains, eggs, fish, meat and dairy foods all have a part to play.
+
+A diet dominated by highly processed products can leave less room for this variety.
+
+Researchers are also investigating how dietary patterns influence the gut microbiome – the community of microorganisms living in our digestive system. Different plant foods provide fibres that help nourish gut bacteria, which is another reason to encourage variety.
+
+## What is the research showing about children's wellbeing?
+
+Research into UPFs is increasingly looking beyond weight and dental health.
+
+A Canadian study published in 2026 followed more than 2,000 children, examining their diets at age three and their emotional and behavioural development at age five.
+
+UPFs provided around **45.5% of the children's energy intake**. Higher consumption was associated with more emotional and behavioural difficulties, including symptoms relating to anxiety, withdrawal and hyperactivity.
+
+The researchers also modelled replacing 10% of energy from UPFs with minimally processed foods. This was associated with better behavioural and emotional outcomes.
+
+The study cannot prove that UPFs caused these difficulties. However, it adds to growing research exploring how early dietary patterns may influence children's health and development.
+
+Other studies have linked higher UPF consumption with poorer metabolic health, including concerns around excess weight and blood sugar regulation. This is an evolving area of research, but one that deserves attention.
+
+## The influence of food marketing
+
+Children's food is big business. Cartoon characters, bright packaging, brand partnerships and carefully worded health claims all help sell products.
+
+A cereal can be fortified with vitamins and still contain plenty of sugar. A fruit-flavoured snack may sound wholesome while containing very little actual fruit.
+
+The scale of advertising is striking. A 2026 UK parliamentary report found that around **£196 million** was spent advertising sweets, chocolate and crisps between August 2024 and July 2025, compared with just **£19 million** for fruit and vegetables.
+
+That's more than ten times as much spent promoting these less healthy foods.
+
+Parents are making choices in an environment where heavily marketed products are highly visible and often designed for convenience. The responsibility shouldn't rest entirely on families to navigate this. Food companies have considerable influence over what children see, request and come to regard as normal food.
+
+## Making sense of children's food labels
+
+One simple habit is to look beyond the front of the packet.
+
+Check the ingredients and sugar content, and don't be distracted by claims about added vitamins or minerals. They don't tell the whole story.
+
+It's also worth paying attention to products specifically marketed for children. A children's version isn't automatically healthier than the adult equivalent. Some contain surprisingly high amounts of sugar, so comparing labels can be revealing.
+
+For example, plain natural yoghurt may contain little more than milk and live cultures, while a children's yoghurt can include added sugar, flavourings and fruit preparations. Check the label rather than assuming the children's version is the better choice.
+
+## Returning to simple, nourishing foods
+
+Children don't need elaborate products with cartoon characters and impressive health claims. A varied diet built around familiar foods is a good foundation.
+
+Think of simple options such as:
+
+- Eggs, fish, chicken, meat, beans and lentils.
+
+- A variety of fresh, frozen or tinned fruit and vegetables.
+
+- Oats, wholegrains and other fibre-rich foods.
+
+- Plain natural yoghurt and traditional kefir.
+
+- Healthy fats from foods such as olive oil, avocado and oily fish.
+
+Plain yoghurt with berries or mashed banana, porridge with fruit, scrambled eggs or homemade soup can all be useful alternatives to heavily marketed snacks.
+
+The aim isn't to make every meal perfect, or to turn food into another source of parental pressure. It's simply to make nourishing everyday foods a familiar part of family life.
+
+**A note on supplements:** This article is about food choices, not a recommendation to give children additional vitamins, minerals or other supplements. Children's needs vary with age, diet and individual circumstances. Follow relevant public health guidance and seek advice from a GP, health visitor or other qualified healthcare professional if you're unsure.
+
+## A balanced approach
+
+This isn't about eliminating every packaged food or expecting families to prepare everything from scratch. Convenience has its place, and occasional treats are part of normal family life.
+
+What matters is the overall pattern of eating: whether children are getting a good variety of foods, and whether highly processed products are taking up so much space that more nourishing options are being pushed aside.
+
+Being aware of food marketing and learning to read labels can help parents make more informed choices.
+
+Sometimes, the simplest foods are still the best place to start.
+
+## Research and further reading
+
+**Conway et al. (2024).** *Ultra-processed food intake in toddlerhood and mid-childhood in the UK: cross sectional and longitudinal perspectives.* European Journal of Nutrition.\
+
+[https://doi.org/10.1007/s00394-024-03496-7](https://doi.org/10.1007/s00394-024-03496-7)
+
+**Kavanagh et al. (2026).** *Ultraprocessed Food Consumption and Behavioral Outcomes in Canadian Children.* JAMA Network Open.\
+
+[https://doi.org/10.1001/jamanetworkopen.2026.0434](https://doi.org/10.1001/jamanetworkopen.2026.0434)
+
+**UK House of Commons Health and Social Care Committee (2026).** *Food and Weight Management: Fixing the food environment.*\
+
+[https://publications.parliament.uk/pa/cm5902/cmselect/cmhealth/223/report.html](https://publications.parliament.uk/pa/cm5902/cmselect/cmhealth/223/report.html)
+
+# L Reuteri
+
+Could one tiny bacterium influence our gut, our hormones and even the way we connect with other people?
+
+It might sound far-fetched, but researchers are discovering some fascinating things about *Limosilactobacillus reuteri*, better known as *L. reuteri*.
+
+This bacterium has been found in human breast milk, is now rarely detected in many industrialised populations, and is being studied for its surprising links with oxytocin and serotonin.
+
+So what's so special about this little microbe?
+
+## Where have all the L. reuteri bacteria gone?
+
+*L. reuteri* is a bacterium found in humans and many other mammals. It has been isolated from human breast milk, suggesting it may be part of the microbial community shared between mother and baby.
+
+Yet researchers have found that it is now rarely detected, or present at very low levels, in some modern industrialised populations.
+
+Why? We don't know for certain. Changes in diet, antibiotic exposure, lifestyle and the wider environment may all have played a part. It's an intriguing reminder that the microbial world inside us is not necessarily the same as it was for previous generations.
+
+## The oxytocin connection
+
+This is where the story gets particularly interesting.
+
+Oxytocin is often called the *love hormone* because of its role in bonding, trust and social connection. It also has wider functions in the body, including effects on digestion, stress responses and tissue repair.
+
+Research has suggested that *L. reuteri* may influence oxytocin signalling.
+
+A 2023 study found that *L. reuteri* stimulated oxytocin release from human intestinal tissue and laboratory-grown human gut models. The researchers identified a pathway involving secretin, a gut hormone that helped trigger the release.
+
+Other research, particularly in animal models, has linked *L. reuteri* with social behaviour and wound healing.
+
+This doesn't mean taking a probiotic will automatically make us feel more connected or improve our relationships. But it does reveal a fascinating possible link between our gut microbes and the hormones involved in how we function and interact.
+
+## And then there's serotonin…
+
+Serotonin is another important chemical messenger, often associated with mood and emotional wellbeing.
+
+Around 90% of the body's serotonin is produced in the gut. It's important to remember, though, that serotonin made in the gut does not simply travel into the brain. The two systems are connected in more complex ways.
+
+A 2025 laboratory study found that *L. reuteri* influenced the release of serotonin and other hormones from intestinal cell models. The researchers studied particular strains and their effects on gut hormone signalling.
+
+We're still at an early stage of understanding what this means for human health, but it adds another interesting piece to the gut-brain puzzle.
+
+## Can we bring L. reuteri back?
+
+The microbiologist and author Dr William Davis has helped bring attention to *L. reuteri*, particularly through his book *Super Gut*. He explores ways of making fermented yoghurt using selected bacterial strains, including particular strains of *L. reuteri*.
+
+These preparations are not the same as ordinary yoghurt, and the results depend on the strain, preparation and fermentation conditions. Research on one strain doesn't automatically apply to every product labelled *L. reuteri*.
+
+It's an area of growing interest, but it's important to distinguish promising early research from proven health benefits.
+
+## Small bacterium, big questions
+
+The more we learn about the gut microbiome, the more we appreciate that these tiny organisms do much more than help digest food.
+
+*L. reuteri* is a particularly fascinating example. From its presence in human breast milk to its emerging links with oxytocin and serotonin, it raises some remarkable questions about the relationship between our microbes, our hormones and our wider wellbeing.
+
+We're only just scratching the surface of what lives inside us – and what it might be doing.
+
+## Research and references
+
+**Sinkiewicz, G. & Ljunggren, L. (2008).** *Occurrence of Lactobacillus reuteri in human breast milk.* Microbial Ecology in Health and Disease, 20(3), 122–126.
+
+https://doi.org/10.1080/08910600802341007
+
+**Danhof, H.A. et al. (2023).** *Microbial stimulation of oxytocin release from the intestinal epithelium via secretin signaling.* Gut Microbes, 15(2).
+
+https://doi.org/10.1080/19490976.2023.2256043
+
+**Di Rienzi, S.C. et al. (2025).** *Limosilactobacillus reuteri promotes the expression and secretion of enteroendocrine- and enterocyte-derived hormones.* FASEB Journal, 39(6), e70408.
+
+https://doi.org/10.1096/fj.202401669R
+
+**Walter, J. et al. (2020).** *Metagenomic analysis reveals distinct patterns of gut lactobacillus prevalence, abundance, and geographical variation in health and disease.* Gut Microbes.
+
+https://doi.org/10.1080/19490976.2020.1822729
+
+**Zheng, J. et al. (2023).** *A phylogenomic analysis of Limosilactobacillus reuteri reveals ancient and stable evolutionary relationships with rodents and birds and zoonotic transmission to humans.* BMC Biology.
+
+https://doi.org/10.1186/s12915-023-01541-1
+
+# Gut Brain Connection
+
+We tend to think of the brain as the body's control centre. But there's another system quietly sending it messages all day long: your gut.
+
+That familiar feeling of butterflies before a big event, or a churning stomach when you're stressed, is no coincidence. Your digestive system and brain are in constant conversation, sharing information that can influence digestion, appetite, stress responses and even mood.
+
+Scientists call this communication network the **gut–brain axis**. And research increasingly suggests that gut health and mental wellbeing are closely connected.
+
+## Your gut has a mind of its own
+
+Your gut contains an extensive network of nerve cells called the **enteric nervous system (ENS)**. Sometimes described as the body's "second brain", it contains around 100–200 million neurons.
+
+These nerve cells coordinate digestion, controlling the movement of food and the release of digestive secretions. The ENS can manage much of this work independently, but it also communicates constantly with the brain and spinal cord.
+
+## A two-way conversation
+
+The gut–brain connection works in both directions.
+
+One important communication route is the **vagus nerve**, which carries signals between the brain and digestive system. But it's not the only route. Messages also travel through other nerves, hormones, immune-system signals and chemicals produced by gut microbes.
+
+This means the brain can influence digestion, while activity in the gut can send signals that affect how the brain responds.
+
+## Why stress affects your stomach
+
+Have you ever lost your appetite before an important event, felt nauseous with nerves or experienced digestive discomfort during a stressful period?
+
+When the brain detects stress, it activates systems that prepare the body to respond. These changes can affect gut movement, digestive secretions and how sensitive the gut feels. Stress can also influence the gut lining, immune activity and the balance of microbes living there.
+
+For some people, this means a faster-moving digestive system; for others, it can mean slower digestion, bloating or discomfort.
+
+The communication works the other way, too. Signals travelling from the gut can influence brain areas involved in emotion and stress responses.
+
+## Gut health and mental health: what does the evidence show?
+
+The connection is more than a theory. Research has found striking associations between digestive conditions and mental health.
+
+People with irritable bowel syndrome (IBS), for example, experience anxiety and depressive symptoms more often than those without the condition. Researchers are also finding differences in gut bacteria among people with depression, anxiety and other psychiatric conditions.
+
+These findings don't prove that gut problems cause mental health conditions. The relationship may work both ways: mental health can affect digestion, appetite and gut function, while signals from the gut may influence the brain.
+
+But the growing body of research suggests that **gut health may be one influence on mental wellbeing**, and an important part of the wider picture.
+
+## Your gut microbes are part of the conversation
+
+Your gut is home to a vast community of bacteria and other microorganisms, collectively known as the **gut microbiome**.
+
+These microbes help break down parts of food we can't digest ourselves, interact with the immune system and produce substances that influence the gut and wider body.
+
+One important group is **short-chain fatty acids**, produced when gut bacteria ferment certain types of dietary fibre. Butyrate is one example. It provides energy for cells lining the colon and helps support the gut's protective barrier. Short-chain fatty acids also influence immune activity.
+
+Scientists are exploring how these microbial products and other gut-derived signals may affect the brain through nerve, hormonal and immune pathways.
+
+## What about serotonin – the 'happy chemical'?
+
+Serotonin is a chemical messenger involved in mood, sleep, appetite and digestion. Around 90% of the body's serotonin is found in the gut, where it helps regulate digestive activity.
+
+But gut-produced serotonin doesn't simply travel into the brain. The brain makes and regulates its own serotonin, and serotonin circulating in the body cannot readily cross the blood–brain barrier.
+
+So, while gut serotonin is important, producing more of it in the gut doesn't automatically increase serotonin in the brain. The relationship is more complex, involving several chemical and nerve signalling pathways.
+
+## The gut, inflammation and mental wellbeing
+
+The gut is closely connected to the immune system. Its lining acts as a protective barrier, while gut microbes and immune cells help maintain a healthy balance.
+
+When this system is disrupted, immune signalling and inflammation can change. Research increasingly suggests that inflammation may play a role in mental health. Studies have found links between inflammatory activity and conditions such as depression, highlighting a possible connection between the gut, immune system and brain.
+
+Scientists are now exploring how changes in gut health and immune activity may influence brain function and mental wellbeing.
+
+## Why the gut–brain connection matters
+
+The gut and brain are part of an interconnected network, constantly exchanging information through nerves, hormones, immune signals and microbial activity.
+
+This helps explain why stress can affect digestion, why gut health is receiving growing attention in mental health research, and why scientists are increasingly interested in the microbiome.
+
+**The conversation between gut and brain is happening all the time. Understanding it is helping us build a broader picture of health – one that recognises just how connected the body really is.**
+
+---
+
+## The science: research worth knowing
+
+**IBS and mental health**
+
+A 2019 systematic review found that around 39% of people with IBS experienced anxiety symptoms and 29% experienced depressive symptoms. People with IBS had approximately three times the odds of experiencing these symptoms compared with those without the condition.
+
+*Reference:* Systematic review and meta-analysis of the prevalence of anxiety and depression in patients with irritable bowel syndrome (2019). https://pubmed.ncbi.nlm.nih.gov/31157418/
+
+**Gut bacteria and psychiatric conditions**
+
+A 2021 review and meta-analysis of 59 studies found recurring differences in gut bacteria among people with depression, bipolar disorder, schizophrenia and anxiety. Some bacteria associated with producing butyrate were less abundant across several conditions.
+
+*Reference:* Nikolova VL, et al. (2021). Perturbations in gut microbiota composition in psychiatric disorders: a review and meta-analysis. *JAMA Psychiatry*, 78(12). https://doi.org/10.1001/jamapsychiatry.2021.2573
+
+**Can gut bacteria influence depression?**
+
+In an animal study, researchers transferred gut bacteria from people with depression into mice raised without their own gut microbes. Some of the mice developed depression-like behaviours, suggesting that gut microbes may influence processes involved in mood and behaviour.
+
+Human research is now exploring this further through faecal microbiota transplantation (FMT), sometimes called a stool transplant. Early trials are investigating whether transferring gut microbes can influence depression symptoms. This remains experimental and is not an established treatment.
+
+*References:*
+
+- Zheng P, et al. (2016). Gut microbiome remodeling induces depressive-like behaviors through a pathway mediated by the host's metabolism. *Molecular Psychiatry*. https://pubmed.ncbi.nlm.nih.gov/27067014/
+
+- Green JE, et al. (2023). Feasibility, acceptability, and safety of faecal microbiota transplantation in the treatment of major depressive disorder: a pilot randomised controlled trial. *Canadian Journal of Psychiatry*, 68(5), 315–326. https://doi.org/10.1177/07067437221150508
+
+## Further reading
+
+- Sharkey KA, Mawe GM. (2023). The enteric nervous system. *Physiological Reviews*, 103(2), 1487–1564. https://doi.org/10.1152/physrev.00018.2022
+
+- Leigh SJ, et al. (2023). *Journal of Physiology*, 601, 4491–4538. https://doi.org/10.1113/JP281951
+
+- Cryan JF, et al. (2019). The microbiota-gut-brain axis. *Physiological Reviews*, 99(4), 1877–2013. https://doi.org/10.1152/physrev.00018.2018
+
+As well as rhis one...
+
+# Eating for a Healthy Mind
+
+Food supports the brain in two important ways:
+
+1. **Directly, through energy and nutrients.** The brain needs a constant supply of energy to function, along with nutrients that help build and maintain brain cells, support chemical messengers and regulate processes involved in mood, memory and concentration.
+
+2. **Indirectly, through the gut microbiome.** The food we eat helps shape the community of microbes living in our gut. These microbes produce substances that support the gut lining, influence immune activity and communicate with the brain through the gut–brain axis.
+
+Both pathways matter. What we eat helps fuel the brain itself, while also supporting the wider systems that influence brain health and mental wellbeing.
+
+## Why a whole-food diet is a good place to start
+
+A varied, whole-food diet provides a broad range of nutrients and natural plant compounds, without relying heavily on highly processed foods. Vegetables, fruit, beans, lentils, nuts, seeds, fish and eggs all bring something different to the table.
+
+Eating a variety of these foods helps provide the protein, healthy fats, vitamins and minerals the brain needs, as well as the fibre and plant compounds that support gut health.
+
+Rather than looking for one special food or nutrient, it's the overall pattern — and the variety within it — that matters.
+
+## Your gut microbes need feeding too
+
+Your gut is home to trillions of microorganisms, including bacteria, fungi and other microbes. Together, they form the gut microbiome — a living community that helps with digestion, produces useful substances and interacts with the immune system.
+
+And, just like us, these microbes need food.
+
+Many beneficial gut bacteria thrive on the fibres and plant compounds found in beans, lentils, chickpeas, peas, vegetables, fruit, nuts and seeds. Different microbes use different types of fibre and plant compounds, so eating a wide variety of plant foods helps support a diverse microbiome.
+
+When gut bacteria break down these fibres, they produce substances called short-chain fatty acids, including butyrate. These help nourish the cells lining the gut, support the gut barrier and influence immune activity. Other microbial products can also affect metabolism and send signals through pathways involved in communication between the gut and brain.
+
+### What happens when the balance is disrupted?
+
+The microbiome is influenced by many things, including diet, medication, illness, stress, sleep and our environment. When its composition or activity becomes disrupted — often described as *dysbiosis* — some beneficial microbes may become less abundant, while other organisms or microbial activities become more dominant.
+
+This can change the substances microbes produce, affect the gut barrier and influence the way the immune system responds. In some circumstances, it may contribute to increased inflammation and altered signalling between the gut and brain.
+
+Researchers have found differences in gut microbiome composition in people with conditions such as depression and anxiety. Some studies have identified changes in bacteria involved in producing short-chain fatty acids and other potentially important compounds.
+
+We don't yet know whether these microbial changes contribute to mental health conditions, result from them, or reflect other influences such as diet, medication and stress. The relationship is likely to work in several directions.
+
+It's an important area of research because it helps us understand how food, gut microbes, the immune system and the brain may be connected.
+
+## Foods that support brain health
+
+Some foods are particularly interesting because they provide nutrients and natural compounds involved in brain function.
+
+**Oily fish**
+
+Salmon, sardines, mackerel, trout and herring provide omega-3 fats, particularly EPA and DHA. DHA is an important structural component of brain cell membranes, while EPA is involved in signalling and inflammatory processes.
+
+**Nuts and seeds**
+
+Walnuts, flaxseeds and chia seeds provide plant-based omega-3 fat called ALA. The body can convert some ALA into EPA and DHA, although this conversion is limited. Nuts and seeds also provide fibre, minerals, vitamin E and other plant compounds.
+
+**Berries and colourful fruit**
+
+Blueberries, strawberries, raspberries and other colourful fruits contain polyphenols, including anthocyanins. These plant compounds are being studied for their potential effects on blood vessel function, inflammation and brain-cell signalling. Fruit also provides fibre and a range of vitamins.
+
+**Leafy greens and other vegetables**
+
+Spinach, kale, broccoli and other green vegetables provide folate, vitamin K and carotenoids, alongside fibre and other plant compounds. Eating a variety of vegetables gives us access to their different nutritional qualities.
+
+**Eggs**
+
+Eggs provide choline, which the body uses to make acetylcholine, a chemical messenger involved in memory and muscle control. They also contain vitamin B12 and high-quality protein.
+
+**Olive oil, tea and cocoa**
+
+Extra virgin olive oil contains monounsaturated fats and polyphenols. Tea provides flavonoids, while cocoa contains flavanols that have been studied for their effects on blood flow and vascular health.
+
+## The Mediterranean and MIND diets
+
+The Mediterranean and MIND diets are two eating patterns that have attracted interest in research into mental wellbeing and brain health. Both emphasise a variety of plant foods, healthy fats and minimally processed ingredients.
+
+You can read more about the [Mediterranean diet](https://www.bhf.org.uk/informationsupport/heart-matters-magazine/nutrition/mediterranean-diet) and the [MIND diet](https://www.health.harvard.edu/blog/what-is-the-mind-diet-2019031316195).
+
+## Does processed food matter?
+
+Not all processed foods are the same. Frozen vegetables, tinned beans and plain yoghurt are processed, but can be nutritious and convenient.
+
+Ultra-processed foods are a different category. Many are formulated to be convenient, highly palatable and easy to overeat. Diets high in these foods can leave less room for a varied range of nourishing, fibre-rich foods.
+
+Studies have found associations between higher ultra-processed food intake and poorer mental health, including depression and anxiety. But this doesn't mean every processed food is harmful, or that these studies prove one causes the other.
+
+## Food is part of the bigger picture
+
+Nutrition is one of several foundations of brain health and mental wellbeing, alongside sleep, physical activity, relationships, stress and our wider life circumstances.
+
+A varied, whole-food diet helps provide the energy and nutrients the brain needs, while supporting the gut microbiome and the many systems that influence our health. It's not about individual superfoods or getting every meal right, but the benefits that can build from the way we eat over time.
+
+---
+
+## The Science: What does the research tell us?
+
+### Dietary patterns and depression
+
+A 2019 systematic review and meta-analysis found that people who followed healthier dietary patterns tended to have a lower risk of depressive outcomes. The findings show an association rather than proof that diet prevents depression.
+
+Lassale C et al. (2019). *Healthy dietary indices and risk of depressive outcomes: a systematic review and meta-analysis of observational studies.* Molecular Psychiatry. https://doi.org/10.1038/s41380-018-0237-8
+
+### Can changing diet improve depression?
+
+The SMILES trial, published in 2017, explored whether improving diet could help people experiencing major depression. Participants receiving dietary support were encouraged to follow a modified Mediterranean-style diet, with more vegetables, fruit, legumes, nuts, fish and olive oil, and fewer highly processed foods.
+
+After 12 weeks, 32.3% of people in the dietary support group experienced remission from depression, compared with 8% in the social-support control group. It was a relatively small trial, but an important finding: improving diet may be a useful addition to mental health care for some people, rather than a replacement for established treatment.
+
+Jacka FN et al. (2017). *A randomised controlled trial of dietary improvement for adults with major depression (the SMILES trial).* BMC Medicine. https://doi.org/10.1186/s12916-017-0791-y
+
+### Ultra-processed foods and mental health
+
+A 2022 systematic review and meta-analysis found that higher ultra-processed food intake was associated with a greater risk of depressive and anxiety symptoms. However, most of the available studies were observational, so they cannot establish that ultra-processed foods directly cause mental health problems.
+
+Lane MM et al. (2022). *Ultra-processed food consumption and mental health: a systematic review and meta-analysis.* https://doi.org/10.1080/1028415X.2022.2110188
+
+### The MIND diet and cognitive health
+
+Observational research has linked closer adherence to the MIND diet with a lower risk of cognitive decline. However, a large three-year randomised trial published in 2023 did not find a statistically significant difference in cognitive decline between people following the MIND diet and those in the control group. Research is ongoing.
+
+Barnes LL et al. (2023). *Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons.* New England Journal of Medicine. https://doi.org/10.1056/NEJMoa2302368
