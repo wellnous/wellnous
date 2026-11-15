@@ -15,7 +15,7 @@ describe("Hub content", () => {
 
   it("orders the fermented foods as milk kefir, kombucha, kimchi, vegetables, water kefir and yogurts", () => {
     const tray = pillars.find((p) => p.slug === "nutrition")?.trays.find((t) => t.name === "Cultured Foods");
-    expect(tray?.slugs.slice(2)).toEqual(["milk-kefir", "kombucha", "kimchi", "fermented-vegetables", "water-kefir", "probiotic-yogurts"]);
+    expect(tray?.slugs.slice(2, 8)).toEqual(["milk-kefir", "kombucha", "kimchi", "fermented-vegetables", "water-kefir", "probiotic-yogurts"]);
   });
 
   it("keeps each recipe method as ordered source steps", () => {
@@ -36,7 +36,8 @@ describe("Hub content", () => {
   });
 
   it("retains all 21 original blog posts separately from reference articles", () => {
-    expect(blogPosts).toHaveLength(21);
+    expect(blogPosts).toHaveLength(22);
+    expect(blogPosts[0]?.title).toBe("Children's Food: Are We Being Sold a Healthy Illusion?");
     expect(blogPosts.every((p) => p.article.blocks.length > 0 && (!p.sourceUrl || p.sourceUrl.startsWith("https://wellnous.godaddysites.com/blog/f/")))).toBe(true);
   });
   it("files Ayurveda under Mental Health and keeps Ayurveda and toxins out of Nutrition", () => {
