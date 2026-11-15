@@ -3351,7 +3351,7 @@ If it seems daunting, please drop me a message and we can arrange a call to go t
 
 #### Pickles, Preserves and Probiotics
 
-For as long as people have been growing food, they have been looking for ways to keep it. Fermentation is one of the oldest and most reliable answers: rather than cooking or drying the harvest, we give the microbes already living on the vegetable the right conditions and let them get to work.
+Fermentation is one of humanity's oldest and most effective ways of preserving food. By creating the right environment, naturally occurring lactic-acid bacteria convert the starches and sugars in vegetables into lactic acid. This gentle acidification prevents harmful microbes from taking hold while allowing beneficial, probiotic bacteria to flourish—enhancing digestibility and unlocking bioactive compounds like vitamin C along the way.
 
 Traditional fermentation gives foods unique flavours, textures and nutritional profiles.
 
