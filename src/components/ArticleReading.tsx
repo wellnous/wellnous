@@ -14,7 +14,7 @@ const LABELLED = /^\*\*(.+?):\*\*\s*(.+)$/;
 const PANEL = /^\*\*(.+):\*\*$/;
 const SAFETY = /^\*\*(A note on [a-z ]*safety):\*\*\s*(.+)$/i;
 const BOLD_ONLY = /^\*\*([^*]+?)\*\*$/;
-const FANCY = ["mental-wellbeing", "food-additives-and-gut-health", "omega-3", "creatine", "infra-red-exposure", "sleep-strategies", "ayurveda", "flow-rope", "barefoot-walking", "cultured-foods"];
+const FANCY = ["mental-wellbeing", "food-additives-and-gut-health", "omega-3", "creatine", "infra-red-exposure", "sleep-strategies", "ayurveda", "flow-rope", "barefoot-walking", "cultured-foods", "probiotic-yogurts", "childrens-nutrition", "l-reuteri", "gut-brain-connection", "eating-for-a-healthy-mind"];
 const BOXED_H3 = ["mental-wellbeing", "creatine", "ayurveda", "sleep-strategies", "barefoot-walking", "flow-rope"];
 // Articles whose level-3 sections are self-contained methods: each one, plus the
 // sub-headings under it, reads as a single recipe box rather than separate strips.
@@ -182,9 +182,8 @@ export function ArticleReading({ article }: { article: Article }) {
       {sections.map((section, i) => {
         // Each level-3 method becomes one self-contained box: its own title, its
         // own "what you'll need" / "what to do" blocks, and nothing leaking out.
+        if (method && section.level > 3 && sections.slice(0, i).some((s) => s.level === 3)) return null;
         if (method && section.level === 3) {
-          const prev = sections[i - 1];
-          if (prev && prev.level > 3) return null;
           const group: typeof sections = [];
           for (let k = i; k < sections.length && (k === i || (sections[k]?.level ?? 0) > 3); k++) group.push(sections[k]!);
           const ordinal = sections.slice(0, i).filter((s) => s.level === 3).length + 1;

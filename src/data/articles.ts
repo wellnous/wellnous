@@ -55,6 +55,11 @@ const displayTitle = (title: string) => title === "Physical Wellbeing"
   : title === "Ayurveda" ? "Exploring the Wisdom of Ayurveda"
   : title === "Flow Rope" ? "Exploring Movement: Backward Walking and Flow Rope"
   : title === "Barefoot Walking" ? "The Science of Reconnecting with Nature"
+  : title === "Probiotic Yogurts" ? "Probiotic Yoghurt: Are You Getting the Good Stuff?"
+  : title === "Childrens Nutrition" ? "Children's Nutrition: Ultra-Processed Foods and What They Mean for Growing Bodies"
+  : title === "L Reuteri" ? "L. reuteri: The Tiny Bacterium With a Big Story"
+  : title === "Gut Brain Connection" ? "The Gut–Brain Connection: How Your Gut Influences Mental Health"
+  : title === "Eating for a Healthy Mind" ? "Eating for a Healthy Mind: How Nutrition Supports Brain Health and Mental Wellbeing"
   : cleanTitle(title);
 
 const BULLET = /^[-*•]\s+(.*)$/;
