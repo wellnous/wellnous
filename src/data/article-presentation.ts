@@ -1,7 +1,7 @@
 import type { Article, Block } from "@/data/articles";
 
-export const recipeSlugs = ["milk-kefir", "water-kefir", "fermented-vegetables", "probiotic-yogurts", "kimchi", "kombucha"];
-export const editorialSlugs = ["ayurveda", "reducing-our-toxic-burden", "food-additives-and-gut-health", "the-air-we-breathe", "skincare-cosmetics-and-sunscreen", "mental-wellbeing", "sleep-strategies", "physical-wellbeing", "deliberate-cold-exposure", "intermittent-fasting", "polyphenols", "protein", "cultured-foods", "the-art-of-doing-nothing", "breathwork", "flow-rope", "sitting-on-the-floor", "infra-red-exposure", "omega-3", "creatine"];
+export const recipeSlugs = ["milk-kefir", "water-kefir", "fermented-vegetables", "kimchi", "kombucha"];
+export const editorialSlugs = ["ayurveda", "reducing-our-toxic-burden", "food-additives-and-gut-health", "the-air-we-breathe", "skincare-cosmetics-and-sunscreen", "mental-wellbeing", "sleep-strategies", "physical-wellbeing", "deliberate-cold-exposure", "intermittent-fasting", "polyphenols", "protein", "cultured-foods", "the-art-of-doing-nothing", "breathwork", "flow-rope", "sitting-on-the-floor", "infra-red-exposure", "omega-3", "creatine", "probiotic-yogurts", "childrens-nutrition", "l-reuteri", "gut-brain-connection", "eating-for-a-healthy-mind"];
 
 const recommendations: Record<string, string[]> = {
   "cultured-foods": ["probiotics", "milk-kefir", "water-kefir", "fermented-vegetables"],
@@ -9,7 +9,11 @@ const recommendations: Record<string, string[]> = {
   "milk-kefir": ["water-kefir", "probiotic-yogurts", "fermented-vegetables", "cultured-foods"],
   "water-kefir": ["milk-kefir", "kombucha", "probiotics", "cultured-foods"],
   "fermented-vegetables": ["kimchi", "milk-kefir", "probiotics", "cultured-foods"],
-  "probiotic-yogurts": ["probiotics", "milk-kefir", "water-kefir", "cultured-foods"],
+  "probiotic-yogurts": ["l-reuteri", "milk-kefir", "childrens-nutrition", "cultured-foods"],
+  "l-reuteri": ["probiotic-yogurts", "gut-brain-connection", "cultured-foods", "milk-kefir"],
+  "childrens-nutrition": ["food-additives-and-gut-health", "added-sugar", "probiotic-yogurts", "feeding-your-body"],
+  "gut-brain-connection": ["eating-for-a-healthy-mind", "cultured-foods", "fibre", "mental-wellbeing"],
+  "eating-for-a-healthy-mind": ["gut-brain-connection", "omega-3", "polyphenols", "mental-wellbeing"],
   "kimchi": ["fermented-vegetables", "probiotic-yogurts", "probiotics", "cultured-foods"],
   "kombucha": ["water-kefir", "polyphenols", "probiotics", "cultured-foods"],
   "protein": ["creatine", "feeding-your-body", "intermittent-fasting"],

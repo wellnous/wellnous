@@ -14,7 +14,7 @@ const LABELLED = /^\*\*(.+?):\*\*\s*(.+)$/;
 const PANEL = /^\*\*(.+):\*\*$/;
 const SAFETY = /^\*\*(A note on [a-z ]*safety):\*\*\s*(.+)$/i;
 const BOLD_ONLY = /^\*\*([^*]+?)\*\*$/;
-const FANCY = ["mental-wellbeing", "food-additives-and-gut-health", "omega-3", "creatine", "infra-red-exposure", "sleep-strategies", "ayurveda", "flow-rope", "barefoot-walking", "cultured-foods"];
+const FANCY = ["mental-wellbeing", "food-additives-and-gut-health", "omega-3", "creatine", "infra-red-exposure", "sleep-strategies", "ayurveda", "flow-rope", "barefoot-walking", "cultured-foods", "probiotic-yogurts", "childrens-nutrition", "l-reuteri", "gut-brain-connection", "eating-for-a-healthy-mind"];
 const BOXED_H3 = ["mental-wellbeing", "creatine", "ayurveda", "sleep-strategies", "barefoot-walking", "flow-rope"];
 // Articles whose level-3 sections are self-contained methods: each one, plus the
 // sub-headings under it, reads as a single recipe box rather than separate strips.
