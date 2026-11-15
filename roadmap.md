@@ -25,4 +25,6 @@
 - [x] Remove Kombucha tab from header navigation
 - [x] Retarget quick wins: Move more → Healthspan Over Lifespan; Walk after meals → glucose-sink deep dive
 - [x] Swap Cultured Foods article for new version
+- [x] Cultured Vegetables three method boxes and new opening
+- [x] Add Probiotic Yoghurt swap, L. reuteri, Children's Nutrition, Gut–Brain Connection, Eating for a Healthy Mind, and Children's Food blog post (not published)
 - [ ] Publish all changes — waiting on your go-ahead (publish was declined)
