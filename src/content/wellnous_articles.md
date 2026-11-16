@@ -4741,3 +4741,97 @@ Frozen vegetables and berries are useful additions too, particularly when fresh 
 A little seasonal inspiration can go a long way. A warming bowl of soup, a tray of roasted vegetables or a hearty lentil casserole can turn simple ingredients into something both comforting and nourishing.
 
 > Winter is not a season for eating less variety – it's an opportunity to enjoy a different kind of goodness.
+
+# Essentials to Keep in Your Kitchen
+
+*Everyday ingredients for flavour, nourishment and wellbeing*
+
+Some of the most useful things in a kitchen aren't expensive health foods or supplements. They're simple ingredients that have been valued for generations – fresh ginger, golden turmeric, fragrant garlic, soothing chamomile and a good selection of herbs and spices.
+
+Many contain naturally occurring plant compounds, including polyphenols, which contribute to their colour, flavour and aroma. Alongside the fibre, vitamins and minerals found in plant foods, these compounds add to the variety of nourishment we get from our diet and help support a healthy gut microbiome.
+
+Here are some of my kitchen essentials – ingredients worth keeping close at hand.
+
+## Keep fresh
+
+### Ginger – for a comforting cup
+
+Ginger has a long history of use for nausea and digestive discomfort. Its warming flavour also makes it a favourite when you're feeling under the weather.
+
+**How to use it:** Slice fresh ginger into hot water with lemon and honey for a warming drink, or grate it into soups, stir-fries and curries.
+
+### Garlic – a little goes a long way
+
+When crushed or chopped, garlic releases sulphur-containing compounds, including allicin. It has a long history in traditional cooking and is particularly interesting for its potential heart-health benefits.
+
+**How to use it:** Crush or chop and leave for a few minutes before cooking. Add to soups, dressings, sauces and roasted vegetables.
+
+### Lemons and fresh herbs – a burst of freshness
+
+Lemons provide vitamin C and plant compounds, while herbs such as parsley, rosemary, thyme and mint bring their own variety of aromatic compounds and polyphenols.
+
+**How to use them:** Add lemon juice to dressings and drinks, and use fresh herbs generously in salads, soups and savoury dishes.
+
+## Keep dried
+
+### Turmeric – the golden spice
+
+Turmeric contains curcumin, a plant compound studied for its antioxidant and anti-inflammatory properties. It has been a treasured ingredient in Indian cooking and traditional wellness practices for centuries.
+
+**How to use it:** Add to curries, soups and roasted vegetables. It works particularly well with black pepper and a little olive oil.
+
+### Cinnamon – naturally warming
+
+Cinnamon contains polyphenols and brings a gentle sweetness to food without needing extra sugar. It is a lovely addition to both sweet and savoury cooking.
+
+**How to use it:** Sprinkle over porridge, yoghurt or stewed fruit. Ceylon cinnamon is a good choice for frequent use.
+
+### Chamomile – time to unwind
+
+Chamomile tea has traditionally been enjoyed as a calming evening drink. Its flowers contain plant compounds, including apigenin, which has attracted interest for its potential relaxing properties.
+
+**How to use it:** Steep dried flowers or a tea bag in hot water for around five minutes. Enjoy as part of a relaxing evening routine.
+
+## Keep in the cupboard
+
+### Extra virgin olive oil – a Mediterranean favourite
+
+Rich in monounsaturated fats and natural polyphenols, olive oil is a wonderful everyday ingredient. Using it in place of fats higher in saturated fat can help support healthy cholesterol levels.
+
+**How to use it:** Drizzle over vegetables, use in salad dressings or add to soups and dips.
+
+### Walnuts – a handful of goodness
+
+Walnuts provide plant-based omega-3 fats, fibre, vitamin E and polyphenols, making them a particularly nourishing addition to everyday meals.
+
+**How to use them:** Enjoy a small handful as a snack, or sprinkle over porridge, salads and yoghurt.
+
+### Beans, lentils and chickpeas – feed your gut
+
+Pulses are packed with fibre, plant protein and minerals. Their fibre is especially valuable because gut bacteria use it to produce substances that help nourish the gut lining.
+
+**How to use them:** Keep a few tins in the cupboard for quick soups, salads, curries and stews.
+
+### Green tea – a cup of plant goodness
+
+Green tea is rich in catechins, a group of polyphenols with antioxidant properties. It has been enjoyed for centuries, particularly in East Asia, and makes a refreshing alternative to coffee.
+
+**How to use it:** Brew in water that has cooled slightly after boiling to avoid a bitter taste. Enjoy plain or with a slice of lemon.
+
+### Fermented vegetables – a little help for your gut
+
+Sauerkraut and kimchi are traditional fermented foods that add flavour and variety to meals. Depending on how they are made and stored, they can provide live microorganisms and fermentation products that are of interest for gut health.
+
+**How to use them:** Add a small serving to salads, sandwiches or savoury bowls. Choose unpasteurised versions if you want a product containing live cultures.
+
+## The goodness of the whole food
+
+You may notice that research often focuses on individual compounds, such as curcumin in turmeric or catechins in green tea. These are interesting to study, but I prefer to focus on the whole food.
+
+Why? Because nature rarely provides just one useful ingredient. A walnut, a berry or a spice contains a combination of plant compounds, fibre and other nutrients. These components may interact in ways we are still learning about.
+
+Eating a variety of whole, minimally processed foods also gives our gut microbes a broader range of fibres and plant compounds to work with. This is one reason variety matters so much.
+
+You don't need every ingredient on this list, or a cupboard full of expensive products. Choose the foods you enjoy and use them regularly. Often, the simplest ingredients are a lovely place to start when it comes to nourishing ourselves.
+
+**A note on health benefits:** Many of the ingredients mentioned have long been valued in traditional diets and are widely regarded as beneficial to health. While some of their properties are supported by scientific research, not all traditional uses or claimed benefits have been firmly established. Think of them as nourishing additions to a varied diet, rather than remedies or treatments.
