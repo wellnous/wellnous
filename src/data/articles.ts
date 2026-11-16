@@ -59,6 +59,7 @@ const displayTitle = (title: string) => title === "Physical Wellbeing"
   : title === "Childrens Nutrition" ? "Children's Nutrition: Ultra-Processed Foods and What They Mean for Growing Bodies"
   : title === "L Reuteri" ? "L. reuteri: The Tiny Bacterium With a Big Story"
   : title === "Gut Brain Connection" ? "The Gut–Brain Connection: How Your Gut Influences Mental Health"
+  : title === "What Your Great Grandma Knew" ? "What Your Great-Grandma Knew"
   : title === "Eating for a Healthy Mind" ? "Eating for a Healthy Mind: How Nutrition Supports Brain Health and Mental Wellbeing"
   : cleanTitle(title);
 

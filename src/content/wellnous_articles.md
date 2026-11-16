@@ -4535,3 +4535,209 @@ Lane MM et al. (2022). *Ultra-processed food consumption and mental health: a sy
 Observational research has linked closer adherence to the MIND diet with a lower risk of cognitive decline. However, a large three-year randomised trial published in 2023 did not find a statistically significant difference in cognitive decline between people following the MIND diet and those in the control group. Research is ongoing.
 
 Barnes LL et al. (2023). *Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons.* New England Journal of Medicine. https://doi.org/10.1056/NEJMoa2302368
+
+# What Your Great Grandma Knew
+
+*Old-fashioned wisdom, forgotten ingredients and the science behind everyday remedies*
+
+“Eat your greens.” “An apple a day keeps the doctor away.” “Carrots help you see in the dark.”
+
+Most of us grew up hearing these familiar bits of advice. They were delivered at the dinner table, in the kitchen or as we were hurried out into the garden – often without much explanation.
+
+But was Grandma actually on to something?
+
+As it turns out, quite often she was. Long before we talked about antioxidants, gut health, polyphenols and the microbiome, traditional diets made good use of seasonal vegetables, wild plants, homemade soups and simple ingredients. Some old-fashioned remedies have a sound basis in science, while others are more folklore than fact.
+
+Let's take a look at some familiar favourites, forgotten foods and everyday wisdom that may deserve a place in modern life.
+
+## Eat your greens!
+
+It was probably one of the most repeated instructions at the dinner table, and Grandma had a point. Green vegetables such as kale, cabbage, spinach, broccoli and watercress provide a valuable mix of vitamins, minerals, fibre and plant compounds.
+
+Different greens offer different benefits, so variety is worthwhile. Their fibre also helps nourish the gut microbiome, supporting the community of microbes living in our digestive system.
+
+**The takeaway:** Don't just eat your greens – enjoy a variety of them. Fresh, frozen and seasonal vegetables all count.
+
+## An apple a day
+
+There may not be much truth in the idea that an apple will keep the doctor away, but apples are certainly a useful everyday food. They provide fibre, particularly pectin, a soluble fibre found in the flesh, as well as polyphenols that are especially concentrated in the skin.
+
+Pectin is fermented by gut bacteria, while apple polyphenols also interact with the gut microbiome. Researchers are exploring how these plant compounds influence different bacterial communities, including Akkermansia muciniphila, a bacterium associated with gut health. The science is still developing, but it's another good reason to enjoy the whole fruit rather than just its juice.
+
+**The takeaway:** Eat the skin as well as the flesh, and enjoy apples as part of a varied diet.
+
+## Carrots really are good for your eyes
+
+“Eat your carrots – they're good for your eyesight!” This familiar advice has a genuine scientific basis. Carrots are rich in beta-carotene, the orange plant pigment that our bodies can convert into vitamin A.
+
+Vitamin A is essential for normal vision, particularly in low light, and helps maintain the health of the eyes. A deficiency can cause night blindness, although eating extra carrots won't give you superhuman night vision!
+
+**The takeaway:** Carrots are a simple, affordable way to add beta-carotene to your diet. Cooking them with a little olive oil can help the body absorb this fat-soluble nutrient.
+
+## A bowl of porridge to start the day
+
+There is a reason porridge has been a breakfast staple for generations. Oats are rich in a soluble fibre called beta-glucan, which helps lower LDL (“bad”) cholesterol by reducing its absorption in the gut.
+
+Oats also provide slow-digesting carbohydrates and fibre, helping make breakfast more satisfying. Their beta-glucan can be fermented by gut bacteria, producing substances that support gut health.
+
+**The takeaway:** A simple bowl of porridge is a nourishing start to the day. Add berries, chopped apple, nuts or seeds for extra fibre and variety.
+
+## The goodness of blackcurrants
+
+A familiar fruit in British gardens, blackcurrants have a lot going for them. They're particularly rich in vitamin C and contain deeply coloured plant compounds called anthocyanins, which give them their dark purple colour.
+
+Vitamin C supports normal immune function and helps protect cells from oxidative damage. Anthocyanins are part of a wider family of plant compounds being studied for their potential health benefits.
+
+**The takeaway:** Enjoy blackcurrants fresh when in season, or frozen throughout the year. They're lovely in porridge, smoothies and homemade fruit compotes.
+
+## Chicken soup – comfort in a bowl
+
+When someone was poorly, a bowl of homemade chicken soup was often one of the first things Grandma reached for. And while it won't cure a cold, there are good reasons why it remains such a comforting choice.
+
+A traditional chicken soup combines fluid, protein and vegetables in an easy-to-eat meal. Slow cooking chicken bones and connective tissue can release gelatin, formed from collagen, into the broth. The vegetables add fibre and nutrients, while the warmth and steam can temporarily help ease a stuffy nose. The fluid is useful too, particularly when we're not feeling like eating or drinking much.
+
+Perhaps some of its magic is simply that it's warm, nourishing and made with care.
+
+**The takeaway:** Make a big pot with chicken, carrots, celery, leeks, onion and parsley. Add pearl barley or pulses for extra fibre and substance.
+
+## Nettles – the sting with a silver lining
+
+Once a familiar feature of country kitchens, nettles were gathered in spring and used in soups, teas and vegetable dishes. They may be a nuisance in the garden, but young nettle leaves are surprisingly nutritious.
+
+They provide minerals including calcium and iron, as well as vitamin C and a range of plant compounds. Cooking or drying removes the sting, making them suitable for use in food.
+
+**The takeaway:** Nettle soup is a traditional way to enjoy this seasonal plant. Only gather nettles where you can identify them confidently and know they haven't been sprayed or contaminated.
+
+## Dandelion and burdock – more than a fizzy drink
+
+Many people know dandelion and burdock as a traditional British soft drink, but both plants have a much longer history in herbal traditions.
+
+Dandelion leaves can be eaten as a slightly bitter green, while the roasted root has traditionally been used as a coffee substitute. Burdock root is eaten as a vegetable in some cuisines and contains inulin, a type of fermentable fibre that gut bacteria can use.
+
+Both plants have been used in traditional preparations for digestion and general wellbeing, although many of the medicinal claims surrounding them haven't been established by good clinical research.
+
+**The takeaway:** These plants have an interesting place in food history, but it's best to enjoy them as foods rather than rely on them as remedies.
+
+## Rosehips – nature's little vitamin C store
+
+Gathered from wild rose bushes, rosehips were traditionally made into syrups, jellies and teas. They're naturally rich in vitamin C, which supports the immune system and helps the body make collagen.
+
+During the Second World War, when citrus fruit was in short supply, rosehips became particularly important. Schoolchildren, Scouts, Guides and members of the Women's Institutes helped collect them so they could be made into vitamin C-rich syrup. It's a lovely example of making use of what the British countryside had to offer.
+
+**The takeaway:** Rosehip syrup is a lovely traditional ingredient, but shop-bought versions can contain plenty of added sugar. Enjoy it in moderation.
+
+## Honey and lemon – a comforting classic
+
+A mug of warm water with honey and lemon is a familiar home remedy for coughs and sore throats. Honey has some evidence behind it: research suggests it can help soothe a cough, particularly at night.
+
+The warm drink also provides fluid and can feel soothing when we're under the weather. Lemon adds flavour and a little vitamin C, although it isn't a cure for infection.
+
+**The takeaway:** Try warm water with a spoonful of honey and a squeeze of lemon. Never give honey to a baby under 12 months.
+
+## Get outside, even when it's cold!
+
+“Wrap up warm and get some fresh air.” It's advice many of us heard as children, and there's plenty to be said for it.
+
+Cold weather doesn't cause colds – respiratory viruses do. But getting outside, even in winter, gives us daylight, fresh air and an opportunity to move. Natural daylight helps regulate our body clock, supporting our sleep-wake rhythm, while walking benefits circulation, fitness and mood.
+
+We don't need sunshine or warm temperatures to enjoy these benefits. Even a short walk on a grey winter's day can be worthwhile. Just dress appropriately and take care in icy or very cold conditions.
+
+**The takeaway:** Put on your coat, get outside and enjoy a little daylight. You don't need to wait for a sunny day.
+
+## So, was Grandma right?
+
+Not always, of course. Some traditional remedies are based more on folklore than science, and not every old-fashioned cure deserves a comeback. But many of the everyday foods and habits passed down through generations have genuine value.
+
+Eating a variety of vegetables and fruit, enjoying simple home-cooked meals, making use of seasonal ingredients and getting outside regularly are all sensible foundations for good health.
+
+Perhaps the biggest lesson is that wellbeing doesn't always need to be complicated. Sometimes the simplest advice, passed down through generations, is still worth listening to.
+
+# A Taste of a British Winter
+
+*Eating well with the seasonal foods on our doorstep*
+
+When the days grow shorter and the weather turns colder, our food naturally begins to change. Salads and summer berries make way for warming soups, roasted vegetables and hearty, comforting meals.
+
+Britain has a wonderful range of produce available through the winter months. From earthy root vegetables and leafy greens to stored apples, pears, mushrooms and nuts, there's plenty of goodness to enjoy.
+
+Eating seasonally is a lovely way to reconnect with the natural food calendar, make the most of local produce and discover just how much variety a winter kitchen can offer.
+
+## Root vegetables – winter's natural store cupboard
+
+Carrots, parsnips, swede, turnips, beetroot and celeriac are the backbone of a traditional British winter kitchen. They store well, are often affordable and can be used in countless ways.
+
+Their colours offer clues to the different plant compounds they contain. Carrots provide beta-carotene, beetroot contains betalains, and many root vegetables contribute useful fibre and minerals.
+
+Roasting brings out their natural sweetness, while adding them to soups, stews and casseroles makes a little go a long way.
+
+**Try this:** Roast a tray of mixed roots with olive oil, garlic, thyme and black pepper. Make extra to add to lunches or blend into a warming soup.
+
+## Winter greens – more than just Brussels sprouts
+
+Kale, cabbage, Savoy cabbage, Brussels sprouts, cauliflower and watercress are all familiar features of the British winter season.
+
+These vegetables provide fibre, vitamin C, folate and other nutrients, alongside a variety of naturally occurring plant compounds. Cabbage and Brussels sprouts belong to the brassica family, which is particularly interesting to researchers because of its distinctive sulphur-containing compounds.
+
+Don't feel you have to boil them into submission, either. Lightly steaming, roasting or stir-frying can bring out their flavour and texture.
+
+**Try this:** Shred Savoy cabbage with leeks and garlic, then gently sauté until tender. Add toasted nuts or seeds for crunch.
+
+## Leeks – a humble winter favourite
+
+Leeks are one of the most useful ingredients to keep in the kitchen through the colder months. Their gentle, savoury flavour works beautifully in soups, stews, pies and vegetable dishes.
+
+Like onions and garlic, leeks belong to the allium family. They provide fibre and naturally occurring plant compounds, including compounds that give alliums their characteristic flavour.
+
+**Try this:** Combine leeks with potatoes, white beans and vegetable stock for a simple, satisfying soup. Add fresh parsley before serving.
+
+## Apples and pears – fruit that keeps
+
+Winter isn't without its fruit. British apples and pears can be stored after harvesting, meaning they remain available well beyond their picking season.
+
+Both provide fibre and polyphenols, and apples are particularly well known for their pectin content. Keeping the skin on, where practical, helps make the most of their fibre and plant compounds.
+
+**Try this:** Stew chopped apples and pears with cinnamon and a splash of water. Serve with porridge, natural yoghurt or a handful of toasted walnuts.
+
+## Pulses – small ingredients with a lot to offer
+
+Dried and tinned beans, lentils and chickpeas are year-round store-cupboard essentials, but they are particularly useful in winter cooking.
+
+They provide a combination of plant protein, fibre, minerals and slowly digested carbohydrates. Their fibre also gives gut bacteria plenty to work with, making pulses a valuable addition to a varied diet.
+
+They're inexpensive, filling and wonderfully versatile – ideal for soups, casseroles, curries and warming one-pot meals.
+
+**Try this:** Add a tin of butter beans or chickpeas to a vegetable stew, or make a hearty lentil soup with carrots, onions and herbs.
+
+## Mushrooms – little packages of goodness
+
+Mushrooms bring a wonderful savoury flavour to winter meals and are particularly useful in soups, risottos, casseroles and pies.
+
+They provide fibre, B vitamins and minerals, and some varieties contain beta-glucans and other interesting compounds. Mushrooms exposed to ultraviolet light can also provide vitamin D, although the amount varies considerably between products.
+
+**Try this:** Add sliced mushrooms to a warming barley broth, or cook them slowly with garlic, thyme and a little olive oil to serve on toast.
+
+## Chestnuts and nuts – winter's natural store cupboard
+
+Chestnuts have a long association with colder weather, whether roasted over a fire or added to festive dishes. Unlike most nuts, they are relatively low in fat and contain more carbohydrate, fibre and some useful minerals.
+
+Walnuts and hazelnuts offer something different. They provide unsaturated fats, fibre and a range of plant compounds. Walnuts are also a source of the plant omega-3 fat ALA.
+
+**Try this:** Scatter chopped walnuts over roasted vegetables, add chestnuts to a vegetable stuffing, or enjoy a small handful of nuts as a snack.
+
+## Frozen berries – summer goodness in the freezer
+
+Fresh berries may be less seasonal in Britain during winter, but that doesn't mean we need to miss out. Frozen berries are often picked when ripe and frozen soon afterwards, helping to preserve much of their nutritional value.
+
+Blueberries, raspberries, blackberries and blackcurrants provide fibre and colourful polyphenols, including anthocyanins. These plant compounds are of particular interest for their antioxidant properties.
+
+**Try this:** Add a handful of frozen berries to porridge, warm them gently into a fruit compote or stir them through natural yoghurt.
+
+## Making the most of a British winter
+
+Winter offers plenty of opportunity to enjoy nourishing, seasonal foods. Root vegetables, hearty greens, leeks, mushrooms, apples, pears and nuts all have a place in a traditional British winter kitchen.
+
+Frozen vegetables and berries are useful additions too, particularly when fresh seasonal choices are limited. Often frozen soon after harvesting, they retain much of their nutritional value. Tinned beans, lentils and vegetables are also handy store-cupboard staples, making it easy to add fibre and variety to everyday meals.
+
+A little seasonal inspiration can go a long way. A warming bowl of soup, a tray of roasted vegetables or a hearty lentil casserole can turn simple ingredients into something both comforting and nourishing.
+
+> Winter is not a season for eating less variety – it's an opportunity to enjoy a different kind of goodness.

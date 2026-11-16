@@ -14,10 +14,13 @@ const LABELLED = /^\*\*(.+?):\*\*\s*(.+)$/;
 const PANEL = /^\*\*(.+):\*\*$/;
 const SAFETY = /^\*\*(A note on [a-z ]*safety):\*\*\s*(.+)$/i;
 const BOLD_ONLY = /^\*\*([^*]+?)\*\*$/;
-const FANCY = ["mental-wellbeing", "food-additives-and-gut-health", "omega-3", "creatine", "infra-red-exposure", "sleep-strategies", "ayurveda", "flow-rope", "barefoot-walking", "cultured-foods", "probiotic-yogurts", "childrens-nutrition", "l-reuteri", "gut-brain-connection", "eating-for-a-healthy-mind"];
+const FANCY = ["mental-wellbeing", "food-additives-and-gut-health", "omega-3", "creatine", "infra-red-exposure", "sleep-strategies", "ayurveda", "flow-rope", "barefoot-walking", "cultured-foods", "probiotic-yogurts", "childrens-nutrition", "l-reuteri", "gut-brain-connection", "eating-for-a-healthy-mind", "what-your-great-grandma-knew", "a-taste-of-a-british-winter"];
 const BOXED_H3 = ["mental-wellbeing", "creatine", "ayurveda", "sleep-strategies", "barefoot-walking", "flow-rope"];
 // Articles whose level-3 sections are self-contained methods: each one, plus the
 // sub-headings under it, reads as a single recipe box rather than separate strips.
+// Articles whose level-2 topics each sit in their own card, two side by side.
+const CARD_H2 = ["what-your-great-grandma-knew", "a-taste-of-a-british-winter"];
+const CARD_SKIP = /^(So, was Grandma right|Making the most of)/;
 const METHOD_H3 = ["fermented-vegetables"];
 const BARE_URL = /(https?:\/\/\S+)$/;
 
@@ -170,7 +173,7 @@ export function ArticleReading({ article }: { article: Article }) {
   const recipe = recipeSlugs.includes(article.slug);
   const fancy = FANCY.includes(article.slug);
   const method = METHOD_H3.includes(article.slug);
-  const isBox = (s?: { title: string; level: number }) => !!s && (/^\d\.\s/.test(s.title) || (BOXED_H3.includes(article.slug) && s.level === 3));
+  const isBox = (s?: { title: string; level: number }) => !!s && (/^\d\.\s/.test(s.title) || (BOXED_H3.includes(article.slug) && s.level === 3) || (CARD_H2.includes(article.slug) && s.level === 2 && !!s.title && !CARD_SKIP.test(s.title)));
   const headings = method ? sections.filter((s) => s.level === 3) : sections.filter((s) => s.title && (!fancy || s.level === 2));
   return <>
     {hasLead && <p className="mt-6 border-l-4 border-amber pl-5 font-display text-xl leading-relaxed text-foreground/80"><Rich text={article.standfirst} /></p>}
