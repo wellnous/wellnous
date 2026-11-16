@@ -6,7 +6,6 @@ export const pillars: Pillar[] = [
     intro: "Explore the science on sugar, fibre, protein, the gut and everyday chemical exposures.",
     trays: [
       { name: "Foundations", slugs: ["feeding-your-body", "added-sugar", "protein", "intermittent-fasting", "childrens-nutrition", "eating-for-a-healthy-mind"] },
-      { name: "Seasonal & Traditional", slugs: ["what-your-great-grandma-knew", "a-taste-of-a-british-winter"] },
       { name: "Fibre & Plant Power", slugs: ["fibre", "resistant-starch", "polyphenols"] },
       { name: "Cultured Foods", slugs: ["probiotics", "cultured-foods", "milk-kefir", "kombucha", "kimchi", "fermented-vegetables", "water-kefir", "probiotic-yogurts", "l-reuteri", "gut-brain-connection"] },
       { name: "Supplements", slugs: ["creatine", "omega-3"] },
