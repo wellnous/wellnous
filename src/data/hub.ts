@@ -8,6 +8,7 @@ export const pillars: Pillar[] = [
       { name: "Foundations", slugs: ["feeding-your-body", "added-sugar", "protein", "intermittent-fasting", "childrens-nutrition", "eating-for-a-healthy-mind"] },
       { name: "Fibre & Plant Power", slugs: ["fibre", "resistant-starch", "polyphenols"] },
       { name: "Cultured Foods", slugs: ["probiotics", "cultured-foods", "milk-kefir", "kombucha", "kimchi", "fermented-vegetables", "water-kefir", "probiotic-yogurts", "l-reuteri", "gut-brain-connection"] },
+      { name: "Seasonal & Traditional", slugs: ["what-your-great-grandma-knew", "a-taste-of-a-british-winter"] },
       { name: "Supplements", slugs: ["creatine", "omega-3"] },
     ] },
   { slug: "physical", title: "Physical Protocols", tagline: "Move, recover, recharge.",
