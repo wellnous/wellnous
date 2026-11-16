@@ -153,9 +153,8 @@ describe("Swapped grounding articles", () => {
 });
 
 describe("nutrition tray order", () => {
-  it("puts Supplements last, after Cultured Foods", () => {
+  it("puts Supplements last with Seasonal & Traditional directly under Cultured Foods", () => {
     const names = pillars.find((p) => p.slug === "nutrition")!.trays.map((t) => t.name);
-    expect(names.at(-1)).toBe("Supplements");
-    expect(names.at(-2)).toBe("Cultured Foods");
+    expect(names).toEqual(["Foundations", "Fibre & Plant Power", "Cultured Foods", "Seasonal & Traditional", "Supplements"]);
   });
 });
