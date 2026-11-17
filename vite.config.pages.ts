@@ -2,6 +2,10 @@
 import { defineConfig } from "@lovable.dev/vite-tanstack-config";
 
 export default defineConfig({
+  vite: {
+    base: "/wellnous/",
+  },
+
   tanstackStart: {
     spa: {
       enabled: true,
@@ -11,6 +15,5 @@ export default defineConfig({
     },
   },
 
-  // Disable the server deployment for the static GitHub Pages build.
   nitro: false,
 });
