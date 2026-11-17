@@ -2,7 +2,6 @@ import { Link } from "@tanstack/react-router";
 import type { Tray } from "@/data/hub";
 import { getArticle, type Article } from "@/data/articles";
 import { Clock, BookOpen } from "lucide-react";
-import logo from "@/assets/wellnous_logo.png.asset.json";
 
 function Brand({ size = "h-9" }: { size?: string }) {
   return (
