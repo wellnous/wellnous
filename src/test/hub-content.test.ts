@@ -164,6 +164,13 @@ describe("Hub content", () => {
     );
   });
 
+  // Card previews and search descriptions are rendered as plain text, so markdown
+  // emphasis markers must never survive into an excerpt.
+  it("keeps markdown markers out of every card preview line", () => {
+    const marked = articles.filter((a) => /[*_]/.test(a.excerpt)).map((a) => a.slug);
+    expect(marked).toEqual([]);
+  });
+
   it("keeps every article with body content and a unique slug", () => {
     expect(articles.length).toBeGreaterThan(25);
 

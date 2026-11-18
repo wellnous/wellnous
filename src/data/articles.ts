@@ -67,6 +67,16 @@ const BULLET = /^[-*•]\s+(.*)$/;
 const HEADING = /^(#{2,4})\s+(.*)$/;
 const isRef = (l: string) => /et al|\[[a-z0-9.-]+\.[a-z]{2,}\]/i.test(l);
 
+// Card previews, search descriptions and page metadata are rendered as plain
+// text, so the archive's inline markdown has to come off before an excerpt is cut.
+const plainText = (s: string) =>
+  s
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, "$1")
+    .replace(/\*\*([^*]+)\*\*/g, "$1")
+    .replace(/\*([^*]+)\*/g, "$1")
+    .replace(/_([^_]+)_/g, "$1")
+    .trim();
+
 function parseSection(title: string, lines: string[]): Article {
   const blocks: Block[] = [];
   const refs: string[] = [];
@@ -116,7 +126,7 @@ function parseSection(title: string, lines: string[]): Article {
   }
 
   const words = blocks.reduce((a, b) => a + b.text.split(/\s+/).length, 0);
-  const firstP = blocks.find((b) => b.type === "p")?.text ?? "";
+  const firstP = plainText(blocks.find((b) => b.type === "p")?.text ?? "");
   const firstH4 = blocks.find((b) => b.type === "h" && b.level === 4)?.text ?? "";
   const firstHeadingIndex = blocks.findIndex((b) => b.type === "h" && b.level === 4);
   const excerpt = firstP.length > 170 ? firstP.slice(0, 167).replace(/\s+\S*$/, "") + "…" : firstP;
