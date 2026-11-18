@@ -14,7 +14,7 @@ const LABELLED = /^\*\*(.+?):\*\*\s*(.+)$/;
 const PANEL = /^\*\*(.+):\*\*$/;
 const SAFETY = /^\*\*(A note on [a-z ]*safety):\*\*\s*(.+)$/i;
 const BOLD_ONLY = /^\*\*([^*]+?)\*\*$/;
-const FANCY = ["mental-wellbeing", "food-additives-and-gut-health", "omega-3", "creatine", "infra-red-exposure", "sleep-strategies", "ayurveda", "flow-rope", "barefoot-walking", "cultured-foods", "probiotic-yogurts", "childrens-nutrition", "l-reuteri", "gut-brain-connection", "eating-for-a-healthy-mind", "what-your-great-grandma-knew", "a-taste-of-a-british-winter", "essentials-to-keep-in-your-kitchen"];
+const FANCY = ["mental-wellbeing", "food-additives-and-gut-health", "omega-3", "creatine", "infra-red-exposure", "sleep-strategies", "ayurveda", "flow-rope", "barefoot-walking", "cultured-foods", "probiotic-yogurts", "childrens-nutrition", "l-reuteri", "gut-brain-connection", "eating-for-a-healthy-mind", "what-your-great-grandma-knew", "a-taste-of-a-british-winter", "essentials-to-keep-in-your-kitchen", "prebiotics-probiotics-and-postbiotics"];
 const BOXED_H3 = ["mental-wellbeing", "creatine", "ayurveda", "sleep-strategies", "barefoot-walking", "flow-rope", "essentials-to-keep-in-your-kitchen"];
 // Articles whose level-3 sections are self-contained methods: each one, plus the
 // sub-headings under it, reads as a single recipe box rather than separate strips.
@@ -22,6 +22,11 @@ const BOXED_H3 = ["mental-wellbeing", "creatine", "ayurveda", "sleep-strategies"
 const CARD_H2 = ["what-your-great-grandma-knew", "a-taste-of-a-british-winter"];
 const CARD_SKIP = /^(So, was Grandma right|Making the most of)/;
 const METHOD_H3 = ["fermented-vegetables"];
+// Articles whose numbered sections are long-form prose: the leading number must
+// not trigger the side-by-side numbered boxes used by the breathwork protocols.
+const NUMBERED_PROSE = ["prebiotics-probiotics-and-postbiotics"];
+// Articles whose level-3 headings read as sub-headings under a numbered section.
+const SUBHEAD_H3 = ["prebiotics-probiotics-and-postbiotics"];
 const BARE_URL = /(https?:\/\/\S+)$/;
 
 type Group = { type: "p" | "quote" | "list" | "steps"; items: string[] };
@@ -173,7 +178,7 @@ export function ArticleReading({ article }: { article: Article }) {
   const recipe = recipeSlugs.includes(article.slug);
   const fancy = FANCY.includes(article.slug);
   const method = METHOD_H3.includes(article.slug);
-  const isBox = (s?: { title: string; level: number }) => !!s && (/^\d\.\s/.test(s.title) || (BOXED_H3.includes(article.slug) && s.level === 3) || (CARD_H2.includes(article.slug) && s.level === 2 && !!s.title && !CARD_SKIP.test(s.title)));
+  const isBox = (s?: { title: string; level: number }) => !!s && !NUMBERED_PROSE.includes(article.slug) && (/^\d\.\s/.test(s.title) || (BOXED_H3.includes(article.slug) && s.level === 3) || (CARD_H2.includes(article.slug) && s.level === 2 && !!s.title && !CARD_SKIP.test(s.title)));
   const headings = method ? sections.filter((s) => s.level === 3) : sections.filter((s) => s.title && (!fancy || s.level === 2));
   return <>
     {hasLead && <p className="mt-6 border-l-4 border-amber pl-5 font-display text-xl leading-relaxed text-foreground/80"><Rich text={article.standfirst} /></p>}
@@ -207,6 +212,7 @@ export function ArticleReading({ article }: { article: Article }) {
           </section>;
         }
         const boxed = (article.slug === "breathwork" || fancy) && isBox(section);
+        const subhead = SUBHEAD_H3.includes(article.slug) && section.level === 3;
         if (boxed) {
           if (i > 0 && isBox(sections[i - 1])) return null;
           const group: typeof sections = [];
@@ -236,10 +242,11 @@ export function ArticleReading({ article }: { article: Article }) {
         const reading = fancy && /^further reading$/i.test(section.title);
         const deepDive2 = fancy && /^deep dive/i.test(section.title);
         const safetyBox = fancy && /^a note on safety$/i.test(section.title);
-        return <section key={i} id={anchor(section.title)} className={`scroll-mt-28 ${deepDive || deepDive2 ? "border-y-2 border-primary bg-secondary/30 py-7 px-5 sm:px-7" : safetyBox ? "rounded-2xl border-l-4 border-amber bg-amber/10 p-6 sm:p-8" : deepDive ? "border-y-2 border-primary bg-secondary/30 py-7 px-5 sm:px-7" : scoby ? "rounded-lg border bg-secondary/35 p-5 sm:p-8" : takeaway ? "border-y-2 border-primary bg-secondary/30 py-8" : sources ? "border-l-4 border-amber pl-5 sm:pl-7" : keyPoints ? "rounded-2xl border border-primary/25 bg-secondary/40 p-6 sm:p-8" : emerging ? "rounded-2xl border bg-card p-6 sm:p-8" : closing ? "rounded-2xl border-l-4 border-primary bg-secondary/35 p-6 sm:p-8" : reading ? "rounded-2xl border bg-muted p-6 sm:p-8" : practical ? "rounded-lg border bg-secondary/40 p-6" : ingredients ? "border-y border-primary/30 bg-secondary/25 py-6" : section.title ? "border-t pt-7" : ""}`}>
-          {section.title && <h2 className={`mb-4 font-display font-semibold leading-snug text-foreground ${section.title === "It's Muscle Loss." ? "text-3xl" : takeaway ? "text-3xl text-primary" : keyPoints || reading ? "flex items-center gap-2 text-xl text-primary" : "text-xl"}`}>
+        return <section key={i} id={anchor(section.title)} className={`scroll-mt-28 ${subhead ? "-mt-4" : deepDive || deepDive2 ? "border-y-2 border-primary bg-secondary/30 py-7 px-5 sm:px-7" : safetyBox ? "rounded-2xl border-l-4 border-amber bg-amber/10 p-6 sm:p-8" : deepDive ? "border-y-2 border-primary bg-secondary/30 py-7 px-5 sm:px-7" : scoby ? "rounded-lg border bg-secondary/35 p-5 sm:p-8" : takeaway ? "border-y-2 border-primary bg-secondary/30 py-8" : sources ? "border-l-4 border-amber pl-5 sm:pl-7" : keyPoints ? "rounded-2xl border border-primary/25 bg-secondary/40 p-6 sm:p-8" : emerging ? "rounded-2xl border bg-card p-6 sm:p-8" : closing ? "rounded-2xl border-l-4 border-primary bg-secondary/35 p-6 sm:p-8" : reading ? "rounded-2xl border bg-muted p-6 sm:p-8" : practical ? "rounded-lg border bg-secondary/40 p-6" : ingredients ? "border-y border-primary/30 bg-secondary/25 py-6" : section.title ? "border-t pt-7" : ""}`}>
+          {section.title && <h2 className={`mb-4 font-display font-semibold leading-snug text-foreground ${subhead ? "text-lg text-primary" : section.title === "It's Muscle Loss." ? "text-3xl" : takeaway ? "text-3xl text-primary" : keyPoints || reading ? "flex items-center gap-2 text-xl text-primary" : "text-xl"}`}>
             {keyPoints && <ListChecks aria-hidden="true" className="h-5 w-5 shrink-0 text-primary" />}
             {reading && <BookOpen aria-hidden="true" className="h-5 w-5 shrink-0 text-primary" />}
+            {subhead && <span aria-hidden="true" className="mr-2 inline-block h-[1.05em] w-1 translate-y-[3px] rounded-full bg-amber align-baseline" />}
             {section.title}
           </h2>}
           <div className="space-y-4">

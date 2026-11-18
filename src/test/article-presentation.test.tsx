@@ -67,4 +67,28 @@ describe("Kombucha presentation", () => {
     expect(screen.getByText("1 shredded corguette")).toBeInTheDocument();
     expect(screen.queryByText(/basically ferment anything/)).toBeNull();
   });
+
+  // The microbiome overview is reference reading, not a recipe: its numbered
+  // sections must stay full-width prose, with the three definitions as cards.
+  it("presents the microbiome overview as definition cards, prose sections and pull quotes", () => {
+    const article = getArticle("prebiotics-probiotics-and-postbiotics");
+    if (!article) throw new Error("The microbiome article is missing");
+
+    const { container } = render(<ArticleBody article={article} />);
+
+    for (const definition of ["Prebiotics – the nourishment", "Probiotics – the living microorganisms", "Postbiotics – beneficial microbial preparations"]) {
+      expect(screen.getByText(definition)).toBeInTheDocument();
+    }
+    for (const heading of ["1. Prebiotics: feeding the ecosystem", "2. Probiotics: introducing beneficial microbes", "3. Postbiotics and the hidden chemistry of the microbiome", "4. Supporting your microbiome through food"]) {
+      expect(screen.getByRole("heading", { name: heading })).toBeInTheDocument();
+    }
+    // Sub-headings beneath section 3 stay readable rather than becoming boxes.
+    for (const sub of ["The best known: butyrate", "An emerging discovery: urolithin A", "Beyond what we know"]) {
+      expect(screen.getByRole("heading", { name: sub })).toBeInTheDocument();
+    }
+    expect(screen.getByRole("heading", { name: "The Wellnous Takeaway" })).toBeInTheDocument();
+    // The two emphasis lines read as pull quotes, and nothing is boxed two-up.
+    expect(container.querySelectorAll("blockquote")).toHaveLength(2);
+    expect(container.querySelectorAll(".md\\:grid-cols-2")).toHaveLength(0);
+  });
 });

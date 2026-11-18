@@ -27,4 +27,5 @@
 - [x] Swap Cultured Foods article for new version
 - [x] Cultured Vegetables three method boxes and new opening
 - [x] Add Probiotic Yoghurt swap, L. reuteri, Children's Nutrition, Gut–Brain Connection, Eating for a Healthy Mind, and Children's Food blog post (not published)
+- [x] Add Prebiotics, Probiotics and Postbiotics to the Cultured Foods row (not published)
 - [ ] Publish all changes — waiting on your go-ahead (publish was declined)

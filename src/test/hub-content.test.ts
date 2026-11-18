@@ -15,7 +15,38 @@ describe("Hub content", () => {
 
   it("orders the fermented foods as milk kefir, kombucha, kimchi, vegetables, water kefir and yogurts", () => {
     const tray = pillars.find((p) => p.slug === "nutrition")?.trays.find((t) => t.name === "Cultured Foods");
-    expect(tray?.slugs.slice(2, 8)).toEqual(["milk-kefir", "kombucha", "kimchi", "fermented-vegetables", "water-kefir", "probiotic-yogurts"]);
+    expect(tray?.slugs.slice(3, 9)).toEqual(["milk-kefir", "kombucha", "kimchi", "fermented-vegetables", "water-kefir", "probiotic-yogurts"]);
+  });
+
+  // The pre/pro/postbiotics piece is the row's overview, so it must sit with the
+  // other two overviews and keep its six sections, lists and both pull quotes.
+  it("files the microbiome overview in the cultured-foods row with its text intact", () => {
+    const tray = pillars.find((p) => p.slug === "nutrition")?.trays.find((t) => t.name === "Cultured Foods");
+    expect(tray?.slugs.slice(0, 3)).toEqual(["probiotics", "prebiotics-probiotics-and-postbiotics", "cultured-foods"]);
+
+    const article = getArticle("prebiotics-probiotics-and-postbiotics");
+    if (!article) throw new Error("The microbiome article is missing");
+    expect(article.title).toBe("Prebiotics, Probiotics and Postbiotics");
+    expect(article.standfirst).toBe("The fascinating relationship between what we eat, our gut microbes and the substances they produce");
+    expect(article.blocks.filter((b) => b.type === "h" && b.level === 2).map((b) => b.text)).toEqual([
+      "Understanding the difference",
+      "1. Prebiotics: feeding the ecosystem",
+      "2. Probiotics: introducing beneficial microbes",
+      "3. Postbiotics and the hidden chemistry of the microbiome",
+      "4. Supporting your microbiome through food",
+      "The Wellnous Takeaway",
+    ]);
+
+    const text = [...article.blocks.map((b) => b.text), ...article.refs].join(" ");
+    for (const line of [
+      "The best-known microbial compounds are not necessarily the most important.",
+      "We may not yet understand everything our microbes do for us.",
+      "Extracellular vesicles",
+      "30 different plant foods each week",
+      "cooked-and-cooled potatoes",
+    ]) expect(text).toContain(line);
+
+    expect(relatedSlugs(article, [])).toEqual(["probiotics", "resistant-starch", "polyphenols", "mitochondrial-health"]);
   });
 
   it("keeps each recipe method as ordered source steps", () => {
